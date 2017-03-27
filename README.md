@@ -1,4 +1,4 @@
-# VulgateGlaire
+# Vulgate Glaire
 Une version TEI XML de la traduction française de la Vulgate (Bible latine) par l'Abbé Glaire (†1879).
 
 J'ai converti cette Bible en espérant que son texte soit utile aux médiévistes traduisant en Français des textes 
