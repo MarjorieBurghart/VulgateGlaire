@@ -1,0 +1,1077 @@
+<!DOCTYPE definition [
+<!ENTITY rsquo "&#8217;">
+<!ENTITY eacute "é">
+<!ENTITY euml "ë">
+<!ENTITY acirc "â">
+<!ENTITY ecirc "ê">
+<!ENTITY agrave "à">
+<!ENTITY egrave "è">
+<!ENTITY ucirc "û">
+<!ENTITY ugrave "ù">
+<!ENTITY icirc "î">
+<!ENTITY ccedil "ç">
+<!ENTITY iuml "ï">
+<!ENTITY oelig "œ">
+<!ENTITY ocirc "ô">
+<!ENTITY uuml "ü">
+<!ENTITY Eacute "É">
+<!ENTITY nbsp "&#160;">
+
+]>
+
+<div xmlns="http://www.tei-c.org/ns/1.0" type="book" xml:id="VULGFR_1Cor">
+    <div type="chapter" n="1">
+        <ab n="1">Paul, appel&eacute; &agrave; &ecirc;tre ap&ocirc;tre de J&eacute;sus-Christ
+            par la volont&eacute; de Dieu, et Sosth&egrave;ne notre fr&egrave;re, </ab>
+        <ab n="2">&agrave; l'Eglise de Dieu qui est &agrave; Corinthe, &agrave; ceux qui ont
+            &eacute;t&eacute; sanctifi&eacute;s dans le Christ J&eacute;sus, appel&eacute;s saints,
+            et &agrave; tous ceux qui invoquent le nom de Notre Seigneur J&eacute;sus-Christ, en
+            quelque lieu qu'ils soient et que nous soyons nous-m&ecirc;mes. </ab>
+        <ab n="3">Que la gr&acirc;ce et la paix vous soient donn&eacute;es par Dieu notre
+            P&egrave;re et par le Seigneur J&eacute;sus-Christ. </ab>
+        <ab n="4">Je rends gr&acirc;ces continuellement &agrave; mon Dieu pour vous, &agrave;
+            cause de la gr&acirc;ce de Dieu, qui vous a &eacute;t&eacute; donn&eacute;e dans le
+            Christ J&eacute;sus ; </ab>
+        <ab n="5">car en lui vous &ecirc;tes devenus riches en toutes choses, en toute parole et
+            en toute science, </ab>
+        <ab n="6">le t&eacute;moignage du Christ ayant &eacute;t&eacute; ainsi confirm&eacute;
+            parmi vous, </ab>
+        <ab n="7">de sorte qu'il ne vous manque aucune gr&acirc;ce, &agrave; vous qui attendez
+            la manifestation de Notre Seigneur J&eacute;sus-Christ, </ab>
+        <ab n="8">lequel vous affermira encore jusqu'&agrave; la fin, pour que vous soyez
+            irr&eacute;prochables au jour de l'av&egrave;nement de J&eacute;sus-Christ Notre
+            Seigneur. </ab>
+        <ab n="9">Il est fid&egrave;le le Dieu par lequel vous avez &eacute;t&eacute;
+            appel&eacute;s &agrave; la soci&eacute;t&eacute; de son Fils, J&eacute;sus-Christ Notre
+            Seigneur. </ab>
+        <ab n="10">Or je vous exhorte, mes fr&egrave;res, par le nom de Notre-Seigneur
+            J&eacute;sus-Christ, &agrave; tenir tous un m&ecirc;me langage, et &agrave; n'avoir
+            point de schismes parmi vous, mais &agrave; &ecirc;tre tous bien unis dans un m&ecirc;me
+            esprit et dans un m&ecirc;me sentiment. </ab>
+        <ab n="11">Car j'ai &eacute;t&eacute; inform&eacute; &agrave; votre sujet, mes
+            fr&egrave;res, par ceux de la maison de Chlo&eacute;, qu'il y a des contestations parmi
+            vous. </ab>
+        <ab n="12">Je veux dire que chacun de vous parle ainsi : Moi je suis &agrave; Paul ; et
+            moi, &agrave; Apollo ; et moi, &agrave; C&eacute;phas ; et moi, au Christ. </ab>
+        <ab n="13">Le Christ est-il divis&eacute; ? Est-ce que Paul a &eacute;t&eacute;
+            crucifi&eacute; pour vous ? ou avez-vous &eacute;t&eacute; baptis&eacute;s au nom de
+            Paul ? </ab>
+        <ab n="14">Je rends gr&acirc;ces &agrave; Dieu de ce que je n'ai baptis&eacute; aucun de
+            vous, except&eacute; Crispus et Ca&iuml;us ; </ab>
+        <ab n="15">afin que personne ne dise que vous avez &eacute;t&eacute; baptis&eacute;s en
+            mon nom. </ab>
+        <ab n="16">J'ai encore baptis&eacute; la famille de St&eacute;phanas ; au reste, je ne
+            sais pas si j'en ai baptis&eacute; quelque autre. </ab>
+        <ab n="17">En effet, le Christ ne m'a pas envoy&eacute; pour baptiser, mais pour
+            pr&ecirc;cher l'Evangile : non point avec la sagesse de la parole, afin que la croix du
+            Christ ne soit pas rendue vaine. </ab>
+        <ab n="18">Car la parole de la croix est une folie pour ceux qui p&eacute;rissent ; mais
+            pour ceux qui sont sauv&eacute;s, c'est-&agrave;-dire pour nous, elle est la puissance
+            (vertu) de Dieu. </ab>
+        <ab n="19">Aussi est-il &eacute;crit : Je d&eacute;truirai la sagesse des sages, et je
+            r&eacute;prouverai la prudence des prudents. </ab>
+        <ab n="20">O&ugrave; est le sage ? o&ugrave; est le scribe ? o&ugrave; est le disputeur
+            de ce si&egrave;cle ? Dieu n'a-t-il pas frapp&eacute; de folie la sagesse de ce monde ? </ab>
+        <ab n="21">Car parce que le monde, avec sa sagesse, n'a pas connu Dieu dans la sagesse
+            de Dieu, il a plu &agrave; Dieu de sauver les croyants par la folie de la
+            pr&eacute;dication. </ab>
+        <ab n="22">En effet, les Juifs demandent des miracles, et les Grecs cherchent la sagesse
+            ; </ab>
+        <ab n="23">mais nous, nous pr&ecirc;chons le Christ crucifi&eacute;, (vrai) scandale
+            pour les Juifs, et folie pour les pa&iuml;ens (gentils), </ab>
+        <ab n="24">mais pour ceux qui sont appel&eacute;s, soit Juifs, soit Grecs, le Christ
+            puissance (vertu) de Dieu et sagesse de Dieu. </ab>
+        <ab n="25">Car ce qui est folie en Dieu est plus sage que les hommes, et ce qui est
+            faiblesse en Dieu est plus fort que les hommes. </ab>
+        <ab n="26">Voyez, mes fr&egrave;res, quels sont parmi vous ceux qui ont
+            &eacute;t&eacute; appel&eacute;s : il n'y a ni beaucoup de sages selon la chair, ni
+            beaucoup de puissants, ni beaucoup de nobles (grands). </ab>
+        <ab n="27">Mais Dieu a choisi les choses folles du monde, pour confondre les sages ; et
+            Dieu a choisi les choses faibles du monde, pour confondre les forts ; </ab>
+        <ab n="28">et Dieu a choisi les choses viles du monde et les choses m&eacute;prisables,
+            et celles qui ne sont rien, pour d&eacute;truire celles qui sont, </ab>
+        <ab n="29">afin que nulle chair ne se glorifie devant lui. </ab>
+        <ab n="30">C'est par lui que vous &ecirc;tes dans le Christ J&eacute;sus, qui est devenu
+            pour nous, de la part de Dieu, sagesse, justice, sanctification et r&eacute;demption ; </ab>
+        <ab n="31">afin que, selon qu'il est &eacute;crit, celui qui se glorifie se glorifie
+            dans le Seigneur.</ab>
+    </div>
+    <div type="chapter" n="2">
+        <ab n="1">Pour moi, fr&egrave;res, lorsque je suis venu &agrave; vous, je ne suis pas
+            venu vous annoncer le t&eacute;moignage du Christ avec la sublimit&eacute; du discours
+            ou de la sagesse. </ab>
+        <ab n="2">Car je n'ai pas jug&eacute; savoir autre chose parmi vous que
+            J&eacute;sus-Christ, et J&eacute;sus-Christ crucifi&eacute;. </ab>
+        <ab n="3">Et c'est dans un &eacute;tat de faiblesse, de crainte et d'un grand
+            tremblement que j'ai &eacute;t&eacute; parmi vous ; </ab>
+        <ab n="4">et mon langage et ma pr&eacute;dication ne consistent pas dans les discours
+            persuasifs de la sagesse humaine, mais dans une manifestation d'esprit et de puissance
+            (vertu), </ab>
+        <ab n="5">afin que votre foi ne soit pas &eacute;tablie sur la sagesse des hommes, mais
+            sur la puissance (vertu) de Dieu. </ab>
+        <ab n="6">Cependant nous pr&ecirc;chons la sagesse parmi les parfaits, non la sagesse de
+            ce si&egrave;cle, ni des princes de ce si&egrave;cle qui vont &ecirc;tre d&eacute;truits
+            ; </ab>
+        <ab n="7">mais nous pr&ecirc;chons la sagesse de Dieu, qui est un myst&egrave;re, cette
+            sagesse cach&eacute;e que Dieu avait pr&eacute;destin&eacute;e avant tous les
+            si&egrave;cles pour notre gloire ; </ab>
+        <ab n="8">que nul des princes de ce si&egrave;cle n'a connue ; car, s'ils l'eussent
+            connue, ils n'auraient pas (jamais) crucifi&eacute; le Seigneur de gloire. </ab>
+        <ab n="9">Mais, comme il est &eacute;crit : Ce que l'&oelig;il n'a pas vu, ce que
+            l'oreille n'a point entendu, et ce qui n'est pas mont&eacute; au c&oelig;ur de l'homme,
+            ce que Dieu a pr&eacute;par&eacute; pour ceux qui l'aiment, </ab>
+        <ab n="10">c'est &agrave; nous que Dieu l'a r&eacute;v&eacute;l&eacute; par son Esprit ;
+            car l'Esprit sonde toutes choses, m&ecirc;me les profondeurs de Dieu. </ab>
+        <ab n="11">Car qui des hommes sait ce qui est dans l'homme, sinon l'esprit de l'homme,
+            qui est en lui ? Ainsi, ce qui est en Dieu, personne ne le conna&icirc;t, si ce n'est
+            l'Esprit de Dieu. </ab>
+        <ab n="12">Or nous, nous n'avons pas re&ccedil;u l'esprit du monde, mais l'Esprit qui
+            vient de Dieu, afin que nous connaissions les choses qui nous ont &eacute;t&eacute;
+            donn&eacute;es par Dieu ; </ab>
+        <ab n="13">et nous en parlons, non avec les (doctes) discours qu'enseigne la sagesse
+            humaine, mais avec ceux qu'enseigne l'Esprit, traitant spirituellement des choses
+            spirituelles. </ab>
+        <ab n="14">Or l'homme animal ne per&ccedil;oit pas les choses qui sont de l'Esprit de
+            Dieu ; car elles sont une folie pour lui, et il ne peut les comprendre, parce que c'est
+            spirituellement qu'on en juge. </ab>
+        <ab n="15">Mais l'homme spirituel juge de tout, et n'est lui-m&ecirc;me jug&eacute; par
+            personne. </ab>
+        <ab n="16">Car qui a connu la pens&eacute;e du Seigneur pour pouvoir l'instruire ? Mais
+            nous, nous avons la pens&eacute;e du Christ.</ab>
+    </div>
+    <div type="chapter" n="3">
+        <ab n="1">Aussi, mes fr&egrave;res, je n'ai pu vous parler comme &agrave; des hommes
+            spirituels, mais comme &agrave; des hommes charnels ; comme &agrave; de petits enfants
+            dans le Christ, </ab>
+        <ab n="2">je vous ai donn&eacute; du lait &agrave; boire, non de la nourriture solide,
+            car vous ne pouviez pas encore la supporter ; et &agrave; pr&eacute;sent m&ecirc;me vous
+            ne le pouvez pas, parce que vous &ecirc;tes encore charnels. </ab>
+        <ab n="3">En effet, puisqu'il y a parmi vous de la jalousie et des disputes,
+            n'&ecirc;tes-vous pas charnels, et ne vous conduisez-vous pas &agrave; la mani&egrave;re
+            des hommes ? </ab>
+        <ab n="4">Car puisque l'un dit : Moi, je suis &agrave; Paul ; et l'autre : Moi, &agrave;
+            Apollo ; n'&ecirc;tes-vous pas des hommes ? Qu'est-ce donc qu'Apollo ? et qu'est-ce que
+            Paul ? </ab>
+        <ab n="5">Des serviteurs de celui en qui vous avez cru, et chacun selon le don qu'il a
+            re&ccedil;u du Seigneur. </ab>
+        <ab n="6">Moi j'ai plant&eacute;, Apollo a arros&eacute; : mais c'est Dieu qui a
+            donn&eacute; la croissance. </ab>
+        <ab n="7">Ainsi ce n'est pas celui qui plante qui est quelque chose, ni celui qui arrose
+            ; mais Dieu, qui donne la croissance. </ab>
+        <ab n="8">Celui donc qui plante et celui qui arrose ne sont qu'une m&ecirc;me chose ;
+            mais chacun recevra sa propre r&eacute;compense, selon son travail. </ab>
+        <ab n="9">Car nous sommes les coop&eacute;rateurs de Dieu ; vous &ecirc;tes le champ de
+            Dieu, vous &ecirc;tes l'&eacute;difice de Dieu. </ab>
+        <ab n="10">Selon la gr&acirc;ce de Dieu qui m'a &eacute;t&eacute; donn&eacute;e, j'ai
+            pos&eacute; le fondement comme un sage architecte, et un autre b&acirc;tit dessus. Mais
+            que chacun prenne garde &agrave; la mani&egrave;re dont il b&acirc;tit dessus. </ab>
+        <ab n="11">Car personne ne peut poser d'autre fondement que celui qui a
+            &eacute;t&eacute; pos&eacute;, lequel est le Christ J&eacute;sus. </ab>
+        <ab n="12">Si quelqu'un b&acirc;tit sur ce fondement avec de l'or, de l'argent, des
+            pierres pr&eacute;cieuses, du bois, du foin, de la paille (chaume), </ab>
+        <ab n="13">l'&oelig;uvre de chacun sera manifest&eacute;e ; car le jour du Seigneur la
+            fera conna&icirc;tre, parce qu'elle se r&eacute;v&eacute;lera dans le feu, et que le feu
+            prouvera ce que vaut l'&oelig;uvre de chacun. </ab>
+        <ab n="14">Si l'&oelig;uvre b&acirc;tie par quelqu'un sur le fondement subsiste, il
+            recevra une r&eacute;compense. </ab>
+        <ab n="15">Si l'&oelig;uvre de quelqu'un est br&ucirc;l&eacute;e, il en subira la perte
+            ; cependant il sera lui-m&ecirc;me sauv&eacute;, mais comme &agrave; travers le feu. </ab>
+        <ab n="16">Ne savez-vous pas que vous &ecirc;tes le temple de Dieu, et que l'Esprit de
+            Dieu habite en vous ? </ab>
+        <ab n="17">Si donc quelqu'un profane le temple de Dieu, Dieu le d&eacute;truira ; car le
+            temple de Dieu est saint, et vous &ecirc;tes ce temple. </ab>
+        <ab n="18">Que personne ne se fasse illusion ; si quelqu'un d'entre vous pense
+            &ecirc;tre sage selon ce si&egrave;cle, qu'il devienne fou pour &ecirc;tre sage ; </ab>
+        <ab n="19">car la sagesse de ce monde est une folie devant Dieu. Aussi est-il
+            &eacute;crit : Je surprendrai (enlacerai) les sages dans leur propre ruse. </ab>
+        <ab n="20">Et encore : Le Seigneur conna&icirc;t les pens&eacute;es des sages ; il sait
+            qu'elles sont vaines. </ab>
+        <ab n="21">Que personne ne mette donc sa gloire dans les hommes. </ab>
+        <ab n="22">Car tout est &agrave; vous ; soit Paul, soit Apollo, soit C&eacute;phas, soit
+            le monde, soit la vie, soit la mort, soit les choses pr&eacute;sentes, soit les choses
+            futures. Tout est &agrave; vous ; </ab>
+        <ab n="23">et vous &ecirc;tes au Christ, et le Christ est &agrave; Dieu.</ab>
+    </div>
+    <div type="chapter" n="4">
+        <ab n="1">Que les hommes nous regardent comme les ministres du Christ et les
+            dispensateurs des myst&egrave;res de Dieu. </ab>
+        <ab n="2">Or ce qu'on demande des dispensateurs, c'est qu'ils soient trouv&eacute;s
+            fid&egrave;les. </ab>
+        <ab n="3">Pour moi, je me mets fort peu en peine d'&ecirc;tre jug&eacute; par vous, ou
+            par un tribunal humain ; mais je ne me juge pas non plus moi-m&ecirc;me. </ab>
+        <ab n="4">Car ma conscience ne me reproche rien, mais je ne suis pas justifi&eacute;
+            pour cela ; celui qui me juge, c'est le Seigneur. </ab>
+        <ab n="5">C'est pourquoi ne jugez point avant le temps, jusqu'&agrave; ce que vienne le
+            Seigneur, qui mettra en lumi&egrave;re les choses cach&eacute;es dans les
+            t&eacute;n&egrave;bres, et qui manifestera les desseins des c&oelig;urs ; et alors
+            chacun recevra de Dieu la louange qui lui sera due. </ab>
+        <ab n="6">Au reste, mes fr&egrave;res, si j'ai fait l'application de ces choses &agrave;
+            moi et &agrave; Apollo, c'est &agrave; cause de vous, afin que vous appreniez par notre
+            exemple &agrave; ne pas aller au-del&agrave; de ce qui est &eacute;crit, et que nul ne
+            s'enfle d'orgueil en faveur de l'un contre l'autre. </ab>
+        <ab n="7">Car qui est-ce qui te distingue ? Qu'as-tu que tu n'aies re&ccedil;u ? et si
+            tu l'as re&ccedil;u, pourquoi te glorifies-tu, comme si tu ne l'avais pas re&ccedil;u ? </ab>
+        <ab n="8">D&eacute;j&agrave; vous &ecirc;tes rassasi&eacute;s, d&eacute;j&agrave; vous
+            &ecirc;tes devenus riches : vous r&eacute;gnez sans nous, et puissiez-vous
+            r&eacute;gner, en effet, afin que nous aussi nous r&eacute;gnions avec vous ! </ab>
+        <ab n="9">Car il me semble que Dieu nous traite, nous les Ap&ocirc;tres, comme les
+            derniers des hommes, comme des condamn&eacute;s &agrave; mort, puisque nous sommes
+            donn&eacute;s en spectacle au monde, et aux anges, et aux hommes. </ab>
+        <ab n="10">Nous, nous sommes fous &agrave; cause du Christ, mais vous, vous &ecirc;tes
+            sages dans le Christ ; nous sommes faibles, et vous &ecirc;tes forts ; vous &ecirc;tes
+            honor&eacute;s, et nous sommes m&eacute;pris&eacute;s. </ab>
+        <ab n="11">Jusqu'&agrave; cette heure nous souffrons la faim, la soif, la nudit&eacute;
+            ; on nous frappe au visage, nous n'avons pas de demeure stable ; </ab>
+        <ab n="12">nous nous fatiguons &agrave; travailler de nos mains ; on nous maudit, et
+            nous b&eacute;nissons ; on nous pers&eacute;cute, et nous le supportons ; </ab>
+        <ab n="13">on nous blasph&egrave;me, et nous prions ; nous sommes devenus comme les
+            ordures du monde, comme les balayures de tous jusqu'&agrave; pr&eacute;sent. </ab>
+        <ab n="14">Ce n'est pas pour vous faire honte que je vous &eacute;cris cela, mais je
+            vous avertis comme mes enfants bien-aim&eacute;s. </ab>
+        <ab n="15">Car eussiez-vous dix mille ma&icirc;tres dans le Christ, vous n'avez
+            cependant pas plusieurs p&egrave;res, puisque c'est moi qui vous ai engendr&eacute;s en
+            J&eacute;sus-Christ par l'Evangile. </ab>
+        <ab n="16">Je vous en conjure donc, soyez mes imitateurs, comme je le suis
+            moi-m&ecirc;me du Christ. </ab>
+        <ab n="17">C'est pour cela que je vous ai envoy&eacute; Timoth&eacute;e, qui est mon
+            fils tr&egrave;s cher et fid&egrave;le dans le Seigneur ; il vous rappellera quelles
+            sont mes voies en J&eacute;sus-Christ, selon ce que j'enseigne partout dans toutes les
+            Eglises. </ab>
+        <ab n="18">Quelques-uns se sont enfl&eacute;s d'orgueil, comme si je ne devais pas
+            (plus) aller chez vous. </ab>
+        <ab n="19">Mais j'irai bient&ocirc;t chez vous, si le Seigneur le veut, et je
+            conna&icirc;trai, non quelles sont les paroles de ceux qui se sont enfl&eacute;s, mais
+            quelle est leur puissance (vertu). </ab>
+        <ab n="20">Car le royaume de Dieu ne consiste pas en paroles, mais en puissance (vertu). </ab>
+        <ab n="21">Que voulez-vous ? Que j'aille &agrave; vous avec la verge, ou avec
+            charit&eacute; et dans un esprit de douceur ?</ab>
+    </div>
+    <div type="chapter" n="5">
+        <ab n="1">On entend dire partout qu'il y a de l'impudicit&eacute; parmi vous, et une
+            impudicit&eacute; telle qu'il n'en existe pas m&ecirc;me chez les pa&iuml;ens (gentils),
+            au point que l'un d'entre vous a la femme de son p&egrave;re. </ab>
+        <ab n="2">Et vous &ecirc;tes enfl&eacute;s d'orgueil, et vous n'avez pas
+            &eacute;t&eacute; plut&ocirc;t dans le deuil (les pleurs), afin que celui qui a commis
+            cette action f&ucirc;t &ocirc;t&eacute; du milieu de vous ! </ab>
+        <ab n="3">Pour moi, absent de corps, mais pr&eacute;sent d'esprit, j'ai
+            d&eacute;j&agrave; jug&eacute; comme si j'&eacute;tais pr&eacute;sent celui qui a fait
+            un tel acte. </ab>
+        <ab n="4">Au nom de Notre Seigneur J&eacute;sus-Christ, vous et mon esprit &eacute;tant
+            assembl&eacute;s, par la puissance de Notre Seigneur J&eacute;sus, </ab>
+        <ab n="5">qu'un tel homme soit livr&eacute; &agrave; Satan, pour la destruction de la
+            chair, afin que l'esprit soit sauv&eacute; au jour de Notre Seigneur
+            J&eacute;sus-Christ. </ab>
+        <ab n="6">C'est bien &agrave; tort que vous vous glorifiez. Ne savez-vous pas qu'un peu
+            de levain corrompt toute la p&acirc;te ? </ab>
+        <ab n="7">Purifiez-vous (donc) du vieux levain, afin que vous soyez une p&acirc;te
+            nouvelle, comme vous &ecirc;tes des pains sans levain. Car le Christ, notre p&acirc;que
+            (agneau pascal), a &eacute;t&eacute; immol&eacute;. </ab>
+        <ab n="8">C&eacute;l&eacute;brons donc la f&ecirc;te, non avec du vieux levain, ni avec
+            un levain de malice et de m&eacute;chancet&eacute;, mais avec les pains sans levain de
+            la sinc&eacute;rit&eacute; et de la v&eacute;rit&eacute;. </ab>
+        <ab n="9">Je vous ai &eacute;crit dans ma lettre : Ne vous m&ecirc;lez pas avec les
+            impudiques (fornicateurs) ; </ab>
+        <ab n="10">ce que je n'entendais pas des impudiques (fornicateurs) de ce monde, non plus
+            que des avares, ou des rapaces, ou des idol&acirc;tres ; autrement vous auriez d&ucirc;
+            sortir de ce monde. </ab>
+        <ab n="11">Mais je vous ai &eacute;crit de ne pas avoir de relations avec celui qui,
+            portant le nom de fr&egrave;re, est impudique (fornicateur), ou avare, ou
+            idol&acirc;tre, ou m&eacute;disant, ou ivrogne, ou rapace ; de ne pas m&ecirc;me prendre
+            de nourriture avec un tel homme. </ab>
+        <ab n="12">En effet, qu'ai-je &agrave; juger ceux du dehors ? N'est-ce pas ceux du
+            dedans que vous jugez ? </ab>
+        <ab n="13">Quant &agrave; ceux du dehors, Dieu les jugera. Otez le m&eacute;chant d'au
+            milieu de vous.</ab>
+    </div>
+    <div type="chapter" n="6">
+        <ab n="1">Quelqu'un de vous, ayant un diff&eacute;rend avec un autre, ose l'appeler en
+            jugement devant les m&eacute;chants (infid&egrave;les), et non devant les saints ? </ab>
+        <ab n="2">Ne savez-vous pas que les saints jugeront ce monde ? Et si c'est par vous que
+            ce monde sera jug&eacute;, &ecirc;tes-vous indignes de juger les moindres choses ? </ab>
+        <ab n="3">Ne savez-vous pas que nous jugerons les anges ? Combien plus les choses de
+            cette vie ! </ab>
+        <ab n="4">Si donc vous avez des diff&eacute;rends touchant les choses de cette vie,
+            &eacute;tablissez pour les juger ceux qui sont les moins consid&eacute;r&eacute;s dans
+            l'Eglise. </ab>
+        <ab n="5">Je le dis &agrave; votre confusion. Ainsi il n'y a parmi vous pas un seul
+            homme sage qui puisse juger entre ses fr&egrave;res. (?) </ab>
+        <ab n="6">Mais un fr&egrave;re plaide contre son fr&egrave;re, et cela devant des
+            infid&egrave;les ? </ab>
+        <ab n="7">C'est d&eacute;j&agrave; chez vous une grande faute que vous ayez des
+            proc&egrave;s entre vous. Pourquoi n'acceptez-vous pas plut&ocirc;t une injustice ?
+            pourquoi ne souffrez-vous pas plut&ocirc;t une fraude ? </ab>
+        <ab n="8">Mais c'est vous qui commettez l'injustice et qui pratiquez la fraude, et cela
+            envers vos fr&egrave;res ! </ab>
+        <ab n="9">Ne savez-vous pas que les injustes ne poss&eacute;deront point le royaume de
+            Dieu ? Ne vous y trompez pas : ni les impudiques (fornicateurs), ni les idol&acirc;tres,
+            ni les adult&egrave;res, </ab>
+        <ab n="10">ni les eff&eacute;min&eacute;s, ni les inf&acirc;mes (abominables), ni les
+            voleurs, ni les avares, ni les ivrognes, ni les m&eacute;disants, ni les rapaces, ne
+            poss&eacute;deront le royaume de Dieu. </ab>
+        <ab n="11">Et cela vous l'&eacute;tiez, quelques-uns du moins ; mais vous avez
+            &eacute;t&eacute; lav&eacute;s, mais vous avez &eacute;t&eacute; sanctifi&eacute;s, mais
+            vous avez &eacute;t&eacute; justifi&eacute;s au nom de Notre Seigneur
+            J&eacute;sus-Christ, et par l'Esprit de notre Dieu. </ab>
+        <ab n="12">Tout m'est permis, mais tout n'est pas avantageux. Tout m'est permis, mais
+            moi, je ne me laisserai asservir par quoi que ce soit. </ab>
+        <ab n="13">Les aliments sont pour le ventre, et le ventre pour les aliments ; mais Dieu
+            d&eacute;truira l'un et les autres (l&rsquo;autre). Cependant le corps n'est point pour
+            l'impudicit&eacute; (la fornication), mais pour le Seigneur, et le Seigneur est pour le
+            corps. </ab>
+        <ab n="14">Or Dieu a ressuscit&eacute; le Seigneur, et il nous ressuscitera aussi par sa
+            puissance. </ab>
+        <ab n="15">Ne savez-vous pas que vos corps sont les membres du Christ ? Prenant donc les
+            membres du Christ, en ferai-je les membres d'une prostitu&eacute;e ? Loin de l&agrave; ! </ab>
+        <ab n="16">Ne savez-vous pas que celui qui s'unit &agrave; une prostitu&eacute;e devient
+            un m&ecirc;me corps (chair) avec elle ? Car, est-il dit, ils seront deux dans une seule
+            chair. </ab>
+        <ab n="17">Mais celui qui s'unit au Seigneur est un m&ecirc;me esprit avec lui. </ab>
+        <ab n="18">Fuyez l'impudicit&eacute; (la fornication). Quelque p&eacute;ch&eacute; que
+            l'homme commette, il est hors du corps ; mais celui qui commet l'impudicit&eacute; (la
+            fornication) p&egrave;che contre son propre corps. </ab>
+        <ab n="19">Ne savez-vous pas que vos membres sont le temple de l'Esprit-Saint qui est en
+            vous, que vous avez re&ccedil;u de Dieu, et que vous n'&ecirc;tes plus &agrave;
+            vous-m&ecirc;mes ? </ab>
+        <ab n="20">Car vous avez &eacute;t&eacute; achet&eacute;s &agrave; grand prix. Glorifiez
+            et portez Dieu dans votre corps.</ab>
+    </div>
+    <div type="chapter" n="7">
+        <ab n="1">Quant aux choses dont vous m'avez &eacute;crit, il est bon pour l'homme de ne
+            pas toucher de femme. </ab>
+        <ab n="2">Toutefois, pour &eacute;viter l'impudicit&eacute; (&agrave; cause de la
+            fornication), que chaque homme ait sa femme, et que chaque femme ait son mari. </ab>
+        <ab n="3">Que le mari rende &agrave; sa femme ce qu'il lui doit, et pareillement la
+            femme &agrave; son mari. </ab>
+        <ab n="4">Le corps de la femme n'est pas en sa puissance, mais en celle du mari ; de
+            m&ecirc;me, le corps du mari n'est pas en sa puissance, mais en celle de sa femme. </ab>
+        <ab n="5">Ne refusez pas d'&ecirc;tre l'un &agrave; l'autre, si ce n'est d'un commun
+            accord, et pour un temps, afin de vaquer &agrave; la pri&egrave;re ; et ensuite revenez
+            ensemble, de peur que Satan ne vous tente par votre incontinence. </ab>
+        <ab n="6">Je dis cela par concession ; je n'en fais pas un ordre. </ab>
+        <ab n="7">Car je voudrais que vous fussiez tous comme moi ; mais chacun a re&ccedil;u de
+            Dieu son don particulier, l'un d'une mani&egrave;re, et l'autre d'une autre. </ab>
+        <ab n="8">Mais je dis &agrave; ceux qui ne sont pas mari&eacute;s et aux veuves : Il
+            leur est bon de demeurer ainsi, comme moi. </ab>
+        <ab n="9">S'ils ne peuvent garder la continence, qu'ils se marient ; car il vaut mieux
+            se marier que de br&ucirc;ler. </ab>
+        <ab n="10">A ceux qui sont mari&eacute;s, j'ordonne, non pas moi, mais le Seigneur, que
+            la femme ne se s&eacute;pare pas de son mari ; </ab>
+        <ab n="11">si elle en est s&eacute;par&eacute;e, qu'elle demeure sans se marier, ou
+            qu'elle se r&eacute;concilie avec son mari ; et que le mari ne r&eacute;pudie (quitte)
+            point sa femme. </ab>
+        <ab n="12">Aux autres, ce n'est pas le Seigneur, c'est moi qui dis : Si un fr&egrave;re
+            a une femme infid&egrave;le, et qu'elle consente &agrave; habiter avec lui, qu'il ne la
+            r&eacute;pudie pas. </ab>
+        <ab n="13">Et si une femme fid&egrave;le a un mari infid&egrave;le, et qu'il consente
+            &agrave; habiter avec elle, qu'elle ne le quitte pas. </ab>
+        <ab n="14">Car le mari infid&egrave;le est sanctifi&eacute; par la femme fid&egrave;le,
+            et la femme infid&egrave;le est sanctifi&eacute;e par le mari fid&egrave;le ; autrement
+            vos enfants seraient impurs, tandis que maintenant ils sont saints. </ab>
+        <ab n="15">Mais si la partie infid&egrave;le se s&eacute;pare, qu'elle se s&eacute;pare
+            ; car le fr&egrave;re ou la soeur ne sont pas asservis en ce cas ; mais Dieu nous a
+            appel&eacute;s &agrave; la paix. </ab>
+        <ab n="16">Car que sais-tu, femme, si tu sauveras ton mari ? Et que sais-tu, mari, si tu
+            sauveras ta femme ? </ab>
+        <ab n="17">Mais que chacun se conduise selon la part que le Seigneur lui a faite, et
+            selon que Dieu l'a appel&eacute; ; et c'est ce que j'enseigne dans toutes les Eglises. </ab>
+        <ab n="18">Quelqu'un a-t-il &eacute;t&eacute; appel&eacute; &agrave; la foi &eacute;tant
+            circoncis ? qu'il ne dissimule pas sa circoncision. Quelqu'un a-t-il &eacute;t&eacute;
+            appel&eacute; &eacute;tant incirconcis ? qu'il ne se fasse pas circoncire. </ab>
+        <ab n="19">La circoncision n'est rien, et l'incirconcision n'est rien ; mais ce qui
+            importe, c'est l'observation des commandements de Dieu. </ab>
+        <ab n="20">Que chacun demeure dans l'&eacute;tat o&ugrave; il &eacute;tait lorsque Dieu
+            l'a appel&eacute;. </ab>
+        <ab n="21">As-tu &eacute;t&eacute; appel&eacute; &eacute;tant esclave ? ne t'en mets
+            point en peine ; mais quand m&ecirc;me tu pourrais devenir libre, profites-en
+            plut&ocirc;t. </ab>
+        <ab n="22">Car celui qui, &eacute;tant esclave, a &eacute;t&eacute; appel&eacute; au
+            service du Seigneur, est l'affranchi du Seigneur ; et de m&ecirc;me, celui qui a
+            &eacute;t&eacute; appel&eacute; &eacute;tant libre, est l'esclave du Christ. </ab>
+        <ab n="23">Vous avez &eacute;t&eacute; achet&eacute;s &agrave; un grand prix ; ne
+            devenez pas esclaves des hommes. </ab>
+        <ab n="24">Que chacun, mes fr&egrave;res, demeure (pers&eacute;v&egrave;re) devant Dieu
+            dans l'&eacute;tat o&ugrave; il a &eacute;t&eacute; appel&eacute;. </ab>
+        <ab n="25">Pour ce qui est des vierges, je n'ai pas de commandement du Seigneur ; mais
+            je donne un conseil, comme ayant obtenu la mis&eacute;ricorde du Seigneur, afin
+            d'&ecirc;tre fid&egrave;le. </ab>
+        <ab n="26">J'estime donc qu'il est bon, &agrave; cause de la n&eacute;cessit&eacute; du
+            temps pr&eacute;sent, qu'il est bon, dis-je, pour l'homme d'&ecirc;tre ainsi. </ab>
+        <ab n="27">Es-tu li&eacute; &agrave; une femme ? ne cherche pas &agrave; te
+            d&eacute;lier. N'es-tu point li&eacute; &agrave; une femme ? ne cherche pas de femme. </ab>
+        <ab n="28">Si pourtant tu prends une femme, tu ne p&egrave;ches pas (; et si une vierge
+            se marie, elle ne p&egrave;che pas.). Mais ces personnes &eacute;prouveront les
+            tribulations de la chair ; et je voudrais vous les &eacute;pargner (pardonne, note)). </ab>
+        <ab n="29">Voici donc, fr&egrave;res, ce que je dis : Le temps est court ; ce qui reste
+            &agrave; faire, c'est que ceux qui ont des femmes soient comme ne (n&rsquo;en)
+            poss&eacute;dant pas ; </ab>
+        <ab n="30">et ceux qui pleurent, comme ne pleurant pas ; et ceux qui se
+            r&eacute;jouissent, comme ne se r&eacute;jouissant pas ; et ceux qui ach&egrave;tent,
+            comme ne poss&eacute;dant pas ; </ab>
+        <ab n="31">et ceux qui usent de ce monde, comme n'en usant pas ; car la figure de ce
+            monde passe. </ab>
+        <ab n="32">Or je voudrais que vous fussiez sans inqui&eacute;tude. Celui qui n'est pas
+            mari&eacute; s'inqui&egrave;te des choses du Seigneur, des moyens de plaire &agrave;
+            Dieu. </ab>
+        <ab n="33">Mais celui qui est mari&eacute; s'inqui&egrave;te des choses du monde, des
+            moyens de plaire &agrave; sa femme ; et il se trouve (ainsi) partag&eacute;.</ab>
+        <ab n="34">De m&ecirc;me la femme qui n'est pas mari&eacute;e et la vierge pensent aux
+            choses du Seigneur, afin d'&ecirc;tre saintes de corps et d'esprit ; mais celle qui est
+            mari&eacute;e pense aux choses du monde, aux moyens de plaire &agrave; son mari. </ab>
+        <ab n="35">Or je vous dis cela dans votre int&eacute;r&ecirc;t, non pour vous tendre un
+            pi&egrave;ge, mais pour vous porter &agrave; ce qui est biens&eacute;ant, et qui vous
+            donnera la facilit&eacute; de prier Dieu sans emp&ecirc;chement. </ab>
+        <ab n="36">Mais si quelqu'un pense que c'est pour lui un d&eacute;shonneur que sa fille,
+            d&eacute;j&agrave; plus qu'adulte, ne soit pas mari&eacute;e, et qu'il doit la marier,
+            qu'il fasse ce qu'il voudra ; il ne p&eacute;chera point si elle se marie. </ab>
+        <ab n="37">Mais celui qui a fermement d&eacute;cid&eacute; dans son c&oelig;ur, sans
+            &ecirc;tre press&eacute; par la n&eacute;cessit&eacute;, et ayant le plein usage de sa
+            volont&eacute;, et qui a jug&eacute; dans son c&oelig;ur de conserver sa fille vierge,
+            fait une bonne &oelig;uvre. </ab>
+        <ab n="38">Ainsi celui qui marie sa fille fait bien ; et celui qui ne la marie pas fait
+            mieux. </ab>
+        <ab n="39">La femme est li&eacute;e &agrave; la loi aussi longtemps que son mari est
+            vivant ; mais si son mari meurt, elle est libre. Qu'elle se marie &agrave; qui elle
+            voudra, pourvu que ce soit selon le Seigneur. </ab>
+        <ab n="40">Cependant elle sera plus heureuse si elle demeure comme elle est, suivant mon
+            conseil ; et je pense que j'ai, moi aussi, l'Esprit de Dieu (du Seigneur).</ab>
+    </div>
+    <div type="chapter" n="8">
+        <ab n="1">Quant aux viandes sacrifi&eacute;es aux idoles, nous savons que nous avons
+            tous la science (une suffisante). La science enfle, mais la charit&eacute;
+            &eacute;difie. </ab>
+        <ab n="2">Si quelqu'un pense (se persuade) savoir quelque chose, il ne sait pas encore
+            comme il doit savoir. </ab>
+        <ab n="3">Mais si quelqu'un aime Dieu, il est connu de lui. </ab>
+        <ab n="4">Pour ce qui est donc des viandes immol&eacute;es aux idoles, nous savons
+            qu'une idole n'est rien dans le monde, et qu'il n'y a pas d'autre Dieu qu'un seul (que
+            l&rsquo;unique). </ab>
+        <ab n="5">Car quoiqu'il y ait de pr&eacute;tendus dieux, soit dans le ciel, soit sur la
+            terre, et qu'ainsi il y ait des dieux nombreux et des seigneurs nombreux, </ab>
+        <ab n="6">pour nous cependant il n'y a qu'un seul Dieu, le P&egrave;re, de qui viennent
+            toutes choses, et nous (surtout) qu'il a faits pour lui ; et un seul Seigneur,
+            J&eacute;sus-Christ, par lequel sont toutes choses, et nous aussi par lui. </ab>
+        <ab n="7">Mais la (cette) science n'est pas chez tous ; car quelques-uns, d'apr&egrave;s
+            l'id&eacute;e qu'ils se font jusqu'&agrave; pr&eacute;sent de l'idole, mangent de ces
+            viandes comme ayant &eacute;t&eacute; offertes aux idoles ; et leur conscience, qui est
+            faible, en est souill&eacute;e. </ab>
+        <ab n="8">Mais ce ne sont pas les aliments qui nous recommandent &agrave; Dieu ; car si
+            nous mangeons, nous n'aurons rien de plus ; et si nous ne mangeons pas, nous n'aurons
+            rien de moins. </ab>
+        <ab n="9">Mais prenez garde que cette libert&eacute; ne soit une occasion de chute pour
+            les faibles. </ab>
+        <ab n="10">Car si quelqu'un voit celui qui a la science assis &agrave; table dans un
+            temple consacr&eacute; aux idoles, sa conscience, qui est faible, ne le
+            d&eacute;terminera-t-elle pas &agrave; manger des viandes offertes aux idoles ? </ab>
+        <ab n="11">Et ainsi p&eacute;rira par la science ton fr&egrave;re encore faible, pour
+            qui le Christ est mort. </ab>
+        <ab n="12">Or en p&eacute;chant de la sorte contre les fr&egrave;res, et en blessant
+            leur conscience qui est faible, vous p&eacute;chez contre le Christ. </ab>
+        <ab n="13">C'est pourquoi si ce que je mange scandalise mon fr&egrave;re, je ne mangerai
+            jamais de chair, afin de ne pas scandaliser mon fr&egrave;re.</ab>
+    </div>
+    <div type="chapter" n="9">
+        <ab n="1">Ne suis-je pas libre ? Ne suis-je pas ap&ocirc;tre ? N'ai-je pas vu le Christ
+            J&eacute;sus Notre Seigneur ? N'&ecirc;tes-vous pas mon &oelig;uvre dans le Seigneur ? </ab>
+        <ab n="2">Et si pour d'autres je ne suis pas ap&ocirc;tre, je le suis au moins pour vous
+            ; car vous &ecirc;tes le sceau de mon apostolat dans le Seigneur. </ab>
+        <ab n="3">C'est l&agrave; ma d&eacute;fense aupr&egrave;s de ceux qui me reprennent (la
+            voici&nbsp;:). </ab>
+        <ab n="4">Est-ce que nous n'avons pas le droit de manger et de boire ? </ab>
+        <ab n="5">Est-ce que nous n'avons pas le droit de mener partout avec nous une femme
+            s&oelig;ur, comme font les autres Ap&ocirc;tres, et les fr&egrave;res du Seigneur, et
+            C&eacute;phas ? </ab>
+        <ab n="6">Ou bien, est-ce que moi seul, et Barnab&eacute;, nous n'avons pas le droit de
+            faire cela ? </ab>
+        <ab n="7">Qui va jamais &agrave; la guerre &agrave; ses propres d&eacute;pens ? Qui
+            plante une vigne, et n'en mange pas le fruit ? Qui m&egrave;ne pa&icirc;tre un troupeau,
+            et ne se nourrit pas du lait du troupeau ? </ab>
+        <ab n="8">Est-ce que je dis cela d'apr&egrave;s l'usage des hommes ? La loi ne le
+            dit-elle pas aussi ? </ab>
+        <ab n="9">Car il est &eacute;crit dans la loi de Mo&iuml;se : Tu ne lieras pas la bouche
+            au b&oelig;uf qui foule les grains. Dieu a-t-il souci des b&oelig;ufs ? </ab>
+        <ab n="10">N'est-ce pas r&eacute;ellement (plut&ocirc;t) pour nous qu'il dit cela ? Oui,
+            c'est pour nous que ces choses ont &eacute;t&eacute; &eacute;crites ; en effet, celui
+            qui laboure doit labourer avec esp&eacute;rance (de recueillir) ; et celui qui foule le
+            grain doit le faire avec l'esp&eacute;rance de participer aux fruits. </ab>
+        <ab n="11">Si nous avons sem&eacute; parmi vous les biens spirituels, est-ce une grande
+            chose que nous moissonnions de vos biens temporels ? </ab>
+        <ab n="12">Si d'autres usent de ce pouvoir &agrave; votre &eacute;gard, pourquoi pas
+            plut&ocirc;t nous-m&ecirc;mes ? Mais nous n'avons point us&eacute; de ce pouvoir ; au
+            contraire, nous souffrons tout, pour n'apporter aucun obstacle &agrave; l'Evangile du
+            Christ. </ab>
+        <ab n="13">Ne savez-vous pas que ceux qui font le service du temple mangent de ce qui
+            est offert dans le temple, et que ceux qui servent &agrave; l'autel ont part &agrave;
+            l'autel ? </ab>
+        <ab n="14">De m&ecirc;me, le Seigneur a aussi ordonn&eacute; &agrave; ceux qui annoncent
+            l'Evangile de vivre de l'Evangile. </ab>
+        <ab n="15">Mais moi, je n'ai us&eacute; d'aucun de ces droits. Et je n'&eacute;cris
+            point ceci afin qu'on agisse de la sorte envers moi ; car j'aimerais mieux mourir que de
+            laisser quelqu'un m'enlever ce sujet de gloire. </ab>
+        <ab n="16">Car si j'annonce l'Evangile, ce n'est pas une gloire pour moi, puisque la
+            n&eacute;cessit&eacute; m'en est impos&eacute;e ; et malheur &agrave; moi, si je
+            n'annonce pas l'Evangile ! </ab>
+        <ab n="17">Si je le fais de bon c&oelig;ur, j'ai une r&eacute;compense ; mais si je le
+            fais malgr&eacute; moi, je dispense seulement ce qui m'a &eacute;t&eacute;
+            confi&eacute;. </ab>
+        <ab n="18">Quelle est donc ma r&eacute;compense ? C'est que, pr&ecirc;chant l'Evangile,
+            je le pr&ecirc;che gratuitement, sans abuser du pouvoir que j'ai dans la
+            pr&eacute;dication de l'Evangile. </ab>
+        <ab n="19">Car bien que libre &agrave; l'&eacute;gard de tous, je me suis fait le
+            serviteur de tous, pour en gagner un plus grand nombre. </ab>
+        <ab n="20">Je me suis fait comme Juif avec les Juifs, pour gagner les Juifs ; </ab>
+        <ab n="21">avec ceux qui sont sous la loi, comme si j'eusse encore &eacute;t&eacute;
+            sous la loi (quoique je ne fusse plus sous (assujetti &agrave;) la loi), pour gagner
+            ceux qui sont sous la loi ; avec ceux qui &eacute;taient sans loi, comme si j'eusse
+            &eacute;t&eacute; sans loi (quoique je ne fusse pas sans la loi de Dieu, &eacute;tant
+            sous la loi du Christ), pour gagner ceux qui &eacute;taient sans loi. </ab>
+        <ab n="22">Je me suis rendu faible avec les faibles, pour gagner les faibles ; je me
+            suis fait tout &agrave; tous, pour les sauver tous. </ab>
+        <ab n="23">Je fais tout &agrave; cause de l&rsquo;&Eacute;vangile, afin d'en avoir ma
+            part. </ab>
+        <ab n="24">Ne savez-vous pas que ceux qui courent dans le stade (la lice, note) courent
+            tous, mais qu'un seul remporte le prix ? Courez de mani&egrave;re &agrave; le remporter. </ab>
+        <ab n="25">Or, tous ceux qui combattent dans l'ar&egrave;ne s'abstiennent de tout ; et
+            ils le font pour obtenir une couronne corruptible ; mais nous, pour une incorruptible. </ab>
+        <ab n="26">Moi donc, je cours, et non comme au hasard. Je combats, et non comme frappant
+            l'air ; </ab>
+        <ab n="27">mais je ch&acirc;tie mon corps, et je le r&eacute;duis en servitude, de peur
+            qu'apr&egrave;s avoir pr&ecirc;ch&eacute; aux autres, je ne sois moi-m&ecirc;me
+            r&eacute;prouv&eacute;.</ab>
+    </div>
+    <div type="chapter" n="10">
+        <ab n="1">Car je ne veux pas que vous ignoriez, mes fr&egrave;res, que nos p&egrave;res
+            ont tous &eacute;t&eacute; sous la nu&eacute;e, qu'ils ont tous pass&eacute; (&agrave;
+            travers) la mer, </ab>
+        <ab n="2">qu'ils ont tous &eacute;t&eacute; baptis&eacute;s en Mo&iuml;se, dans la
+            nu&eacute;e et dans la mer, </ab>
+        <ab n="3">qu'ils ont tous mang&eacute; le m&ecirc;me aliment spirituel, </ab>
+        <ab n="4">et qu'ils ont tous bu le m&ecirc;me breuvage spirituel (car ils buvaient au
+            rocher spirituel qui les suivait, et ce rocher &eacute;tait le Christ). </ab>
+        <ab n="5">Cependant la plupart d'entre eux ne furent point agr&eacute;ables &agrave;
+            Dieu, car ils tomb&egrave;rent inanim&eacute;s dans le d&eacute;sert. </ab>
+        <ab n="6">Or ces &eacute;v&egrave;nements ont eu lieu comme des figures de ce qui nous
+            concerne, afin que nous ne convoitions pas les choses mauvaises, comme ils les
+            convoit&egrave;rent. </ab>
+        <ab n="7">Ne devenez pas non plus idol&acirc;tres, comme quelques-uns d'entre eux, ainsi
+            qu'il est &eacute;crit : Le peuple s'assit pour manger et pour boire, et ils se
+            lev&egrave;rent pour se divertir. </ab>
+        <ab n="8">Ne nous livrons pas &agrave; l'impudicit&eacute; (la fornication), comme
+            quelques-uns d'entre eux s'y livr&egrave;rent, et il en tomba vingt-trois mille en un
+            seul jour. </ab>
+        <ab n="9">Ne tentons pas le Christ, comme quelques-uns d'entre eux le tent&egrave;rent,
+            et ils p&eacute;rirent par les serpents. </ab>
+        <ab n="10">Ne murmurez point, comme murmur&egrave;rent quelques-uns d'entre eux, et ils
+            p&eacute;rirent par l'exterminateur. </ab>
+        <ab n="11">Or toutes ces choses leur arrivaient en figure ; et elles ont
+            &eacute;t&eacute; &eacute;crites pour notre instruction, &agrave; nous pour qui est
+            venue la fin des si&egrave;cles (temps). </ab>
+        <ab n="12">Ainsi donc, que celui qui croit &ecirc;tre debout prenne garde de tomber. </ab>
+        <ab n="13">Qu'il ne vous survienne que des tentations humaines. Dieu est fid&egrave;le,
+            et il ne souffrira pas que vous soyez tent&eacute;s au-del&agrave; de vos forces ; mais
+            avec la tentation il vous donnera aussi le moyen d'en sortir (il vous fera tirer profit
+            de la tentation m&ecirc;me), afin que vous puissiez la supporter. </ab>
+        <ab n="14">C'est pourquoi, mes bien-aim&eacute;s, fuyez l'idol&acirc;trie. </ab>
+        <ab n="15">Je parle comme &agrave; des hommes intelligents (sages) ; jugez
+            vous-m&ecirc;mes de ce que je dis. </ab>
+        <ab n="16">Le calice de b&eacute;n&eacute;diction, que nous b&eacute;nissons, n'est-il
+            pas la communion au (communication du) sang du Christ ? et le pain que nous rompons
+            n'est-il pas la communion au corps du Seigneur ? </ab>
+        <ab n="17">Car, quoique nombreux, nous ne sommes qu'un seul pain et un seul corps, nous
+            tous qui participons &agrave; un m&ecirc;me pain. </ab>
+        <ab n="18">Voyez Isra&euml;l selon la chair : ceux qui mangent les victimes ne
+            participent-ils pas &agrave; l'autel ? </ab>
+        <ab n="19">Quoi donc ? Veux-je dire que ce qui a &eacute;t&eacute; immol&eacute; aux
+            idoles soit quelque chose, ou que l'idole soit quelque chose ? </ab>
+        <ab n="20">Non ; mais ce que les pa&iuml;ens (gentils) immolent, ils l'immolent aux
+            d&eacute;mons, et non &agrave; Dieu. Or je ne veux pas que vous soyez en
+            soci&eacute;t&eacute; avec les d&eacute;mons. Vous ne pouvez pas boire le calice du
+            Seigneur, et le calice des d&eacute;mons. </ab>
+        <ab n="21">Vous ne pouvez pas participer &agrave; la table du Seigneur, et &agrave; la
+            table des d&eacute;mons. </ab>
+        <ab n="22">Voulons-nous provoquer la jalousie du Seigneur ? Est-ce que nous sommes plus
+            forts que lui ? Tout m'est permis, mais tout n'est (ne m&rsquo;) pas avantageux. </ab>
+        <ab n="23">Tout m'est permis, mais tout n'&eacute;difie pas. </ab>
+        <ab n="24">Que personne ne cherche son propre int&eacute;r&ecirc;t, mais celui des
+            autres. </ab>
+        <ab n="25">Mangez de tout ce qui se vend au march&eacute; (&agrave; la boucherie), sans
+            vous enqu&eacute;rir de rien par scrupule de conscience. </ab>
+        <ab n="26">La terre est au Seigneur, et tout ce qu'elle contient. </ab>
+        <ab n="27">Si quelqu'un des infid&egrave;les vous invite, et que vous vouliez y aller,
+            mangez de tout ce qu'on vous servira, sans vous enqu&eacute;rir de rien par scrupule de
+            conscience. </ab>
+        <ab n="28">Mais si quelqu'un dit : Ceci a &eacute;t&eacute; immol&eacute; aux idoles ;
+            n'en mangez pas, &agrave; cause de celui qui a donn&eacute; l'avertissement, et &agrave;
+            cause de leur (par) conscience ; </ab>
+        <ab n="29">je dis la conscience, non pas la tienne, mais celle d'autrui. Car pourquoi ma
+            libert&eacute; serait-elle jug&eacute;e par la conscience d'un autre ? </ab>
+        <ab n="30">Si je mange avec action de gr&acirc;ces, pourquoi serais-je
+            bl&acirc;m&eacute; (me laisserais-je maudire) au sujet d'une chose dont je rends
+            gr&acirc;ces ? </ab>
+        <ab n="31">Soit donc que vous mangiez, soit que vous buviez, soit que vous fassiez
+            quelque autre chose, faites tout pour la gloire de Dieu. </ab>
+        <ab n="32">Ne soyez une occasion de scandale ni aux Juifs, ni aux pa&iuml;ens (gentils),
+            ni &agrave; l'&eacute;glise de Dieu ; </ab>
+        <ab n="33">comme moi-m&ecirc;me je cherche &agrave; plaire &agrave; tous en toutes
+            choses, ne cherchant pas ce qui m'est avantageux, mais ce qui l'est au plus grand
+            nombre, pour qu'ils soient sauv&eacute;s.</ab>
+    </div>
+    <div type="chapter" n="11">
+        <ab n="1">Soyez mes imitateurs, comme je le suis moi-m&ecirc;me du Christ. </ab>
+        <ab n="2">Je vous loue, fr&egrave;res, de ce que vous vous souvenez de moi en toutes
+            choses, et que vous gardez mes pr&eacute;ceptes tels que je vous les ai transmis. </ab>
+        <ab n="3">Mais je veux que vous sachiez que le Christ est le chef de tout homme, que
+            l'homme est le chef de la femme, et que Dieu est le chef du Christ. </ab>
+        <ab n="4">Tout homme qui prie, ou qui proph&eacute;tise, ayant la t&ecirc;te couverte,
+            d&eacute;shonore sa t&ecirc;te. </ab>
+        <ab n="5">Mais toute femme qui prie, ou qui proph&eacute;tise, sans avoir la t&ecirc;te
+            voil&eacute;e, d&eacute;shonore sa t&ecirc;te ; car c'est comme si elle &eacute;tait
+            ras&eacute;e. </ab>
+        <ab n="6">Car si une femme n'est pas voil&eacute;e, qu'elle se coupe les cheveux. Mais
+            s'il est honteux pour une femme d'avoir les cheveux coup&eacute;s ou ras&eacute;s,
+            qu'elle se voile la t&ecirc;te. </ab>
+        <ab n="7">L'homme ne doit pas se voiler la t&ecirc;te, parce qu'il est l'image et la
+            gloire de Dieu ; mais la femme est la gloire de l'homme. </ab>
+        <ab n="8">Car l'homme n'a pas &eacute;t&eacute; tir&eacute; de la femme, mais la femme a
+            &eacute;t&eacute; tir&eacute;e de l'homme ; </ab>
+        <ab n="9">et l'homme n'a pas &eacute;t&eacute; cr&eacute;&eacute; pour la femme, mais la
+            femme pour l'homme. </ab>
+        <ab n="10">C'est pourquoi la femme, &agrave; cause des anges, doit avoir sur sa
+            t&ecirc;te la marque de la puissance de l'homme (une puissance). </ab>
+        <ab n="11">Toutefois, l'homme n'est pas sans la femme, ni la femme sans l'homme, dans le
+            Seigneur. </ab>
+        <ab n="12">Car de m&ecirc;me que la femme a &eacute;t&eacute; tir&eacute;e de l'homme,
+            ainsi l'homme existe par la femme, et tout vient de Dieu. </ab>
+        <ab n="13">Jugez-en vous-m&ecirc;mes : est-il convenable qu'une femme prie Dieu sans
+            &ecirc;tre voil&eacute;e ? </ab>
+        <ab n="14">et la nature m&ecirc;me ne vous enseigne-t-elle pas que c'est une honte pour
+            un homme de laisser cro&icirc;tre ses cheveux, </ab>
+        <ab n="15">mais que si la femme les laisse cro&icirc;tre, c'est une gloire pour elle,
+            parce que les cheveux lui ont &eacute;t&eacute; donn&eacute;s en guise de voile ? </ab>
+        <ab n="16">Si quelqu'un se pla&icirc;t &agrave; contester, nous n'avons pas cette
+            habitude, et l'Eglise de Dieu non plus. </ab>
+        <ab n="17">Je vais vous dire maintenant une chose dont je ne vous loue pas : c'est que
+            vous vous assemblez, non pour devenir meilleurs, mais &agrave; votre pr&eacute;judice. </ab>
+        <ab n="18">Et d'abord, j'entends dire que, lorsque vous vous r&eacute;unissez en
+            assembl&eacute;e, il y a des divisions parmi vous, et je le crois en partie ; </ab>
+        <ab n="19">car il faut qu'il y ait m&ecirc;me des h&eacute;r&eacute;sies, afin que ceux
+            d'entre vous qui ont une vertu &eacute;prouv&eacute;e soient reconnus. </ab>
+        <ab n="20">Lors donc que vous vous assemblez, ce n'est plus manger la c&egrave;ne du
+            Seigneur ; </ab>
+        <ab n="21">car chacun commence par prendre son propre repas ; et ainsi l'un souffre de
+            la faim, et l'autre mange avec exc&egrave;s. </ab>
+        <ab n="22">N'avez-vous pas des maisons pour manger et pour boire ? ou
+            m&eacute;prisez-vous l'Eglise de Dieu, et faites-vous honte &agrave; ceux qui n'ont rien
+            ? Que vous dirai-je ? Vous louerai-je ? En cela (Non), je ne vous (en) loue point. </ab>
+        <ab n="23">Car j'ai appris du Seigneur ce que je vous ai moi-m&ecirc;me transmis : que
+            le Seigneur J&eacute;sus, la nuit o&ugrave; il &eacute;tait livr&eacute;, prit du pain, </ab>
+        <ab n="24">et apr&egrave;s avoir rendu gr&acirc;ces, le rompit, et dit : Prenez et
+            mangez ; ceci est mon corps, qui sera livr&eacute; pour vous ; faites ceci en
+            m&eacute;moire de moi. </ab>
+        <ab n="25">Il prit de m&ecirc;me le calice apr&egrave;s avoir soup&eacute;, en disant :
+            Ce calice est la nouvelle alliance en mon sang ; faites ceci en m&eacute;moire de moi,
+            toutes les fois que vous en boirez. </ab>
+        <ab n="26">Car toutes les fois que vous mangerez ce pain, et que vous boirez ce calice,
+            vous annoncerez la mort du Seigneur, jusqu'&agrave; ce qu'il vienne. </ab>
+        <ab n="22">C'est pourquoi quiconque mangera ce pain ou boira le calice du Seigneur
+            indignement, sera coupable envers le corps et le sang du Seigneur. </ab>
+        <ab n="28">Que l'homme s'&eacute;prouve donc lui-m&ecirc;me, et qu'ainsi il mange de ce
+            pain et boive de ce calice. </ab>
+        <ab n="29">Car celui qui mange et boit indignement, mange et boit sa condamnation, ne
+            discernant pas le corps du Seigneur. </ab>
+        <ab n="30">C'est pour cela qu'il y a parmi vous beaucoup de malades (d&rsquo;infirmes)
+            et de languissants, et que beaucoup sont morts. </ab>
+        <ab n="31">Si nous nous jugions nous-m&ecirc;mes, nous ne serions (certainement) pas
+            jug&eacute;s. </ab>
+        <ab n="32">Mais lorsque nous sommes jug&eacute;s, c'est le Seigneur qui nous
+            ch&acirc;tie, afin que nous ne soyons pas condamn&eacute;s avec ce monde. </ab>
+        <ab n="33">C'est pourquoi, mes fr&egrave;res, lorsque vous vous assemblez pour manger,
+            attendez-vous les uns les autres. </ab>
+        <ab n="34">Si quelqu'un a faim, qu'il mange chez lui, afin que vous ne vous assembliez
+            pas pour votre condamnation. Je r&eacute;glerai le reste apr&egrave;s mon
+            arriv&eacute;e.</ab>
+    </div>
+    <div type="chapter" n="12">
+        <ab n="1">Pour ce qui concerne les dons spirituels, je ne veux pas, mes fr&egrave;res,
+            que vous soyez dans l'ignorance. </ab>
+        <ab n="2">Vous savez que, lorsque vous &eacute;tiez pa&iuml;ens (gentils), vous vous
+            laissiez entra&icirc;ner vers les idoles muettes, selon qu'on vous menait. </ab>
+        <ab n="3">C'est pourquoi je vous d&eacute;clare que personne, parlant par l'Esprit de
+            Dieu, ne dit anath&egrave;me &agrave; J&eacute;sus ; et personne ne peut dire : Seigneur
+            J&eacute;sus, si ce n'est par l'Esprit-Saint. </ab>
+        <ab n="4">Sans doute, il y a diversit&eacute; de gr&acirc;ces ; mais il n'y a qu'un
+            m&ecirc;me Esprit. </ab>
+        <ab n="5">Il y a diversit&eacute; de minist&egrave;res ; mais il n'y a qu'un m&ecirc;me
+            Seigneur. </ab>
+        <ab n="6">Il y a aussi diversit&eacute; d'op&eacute;rations ; mais il n'y a qu'un
+            m&ecirc;me Dieu, qui op&egrave;re tout en tous. </ab>
+        <ab n="7">Or la manifestation de l'Esprit est donn&eacute;e &agrave; chacun pour
+            l'utilit&eacute; commune. </ab>
+        <ab n="8">En effet, &agrave; l'un est donn&eacute;e par l'Esprit une parole de sagesse ;
+            &agrave; un autre, une parole de science, selon le m&ecirc;me Esprit ; </ab>
+        <ab n="9">&agrave; un autre, la foi, par le m&ecirc;me Esprit ; &agrave; un autre, la
+            gr&acirc;ce des gu&eacute;risons, par le m&ecirc;me Esprit ; </ab>
+        <ab n="10">&agrave; un autre, le don (la vertu) d'op&eacute;rer des miracles ; &agrave;
+            un autre, la proph&eacute;tie ; &agrave; un autre, le discernement des esprits ;
+            &agrave; un autre, la diversit&eacute; des langues ; &agrave; un autre,
+            l'interpr&eacute;tation des langues (discours). </ab>
+        <ab n="11">Or c'est un seul et m&ecirc;me Esprit qui op&egrave;re toutes ces choses, les
+            distribuant &agrave; chacun comme il veut. </ab>
+        <ab n="12">Car comme le corps est un et a beaucoup de membres, et comme tous les membres
+            du corps, quoique nombreux, ne forment n&eacute;anmoins qu'un seul corps : ainsi en
+            est-il du Christ. </ab>
+        <ab n="13">En effet, nous avons tous &eacute;t&eacute; baptis&eacute;s dans un seul
+            Esprit, pour former un seul corps, soit Juifs, soit pa&iuml;ens (gentils), soit
+            esclaves, soit libres ; et nous avons tous &eacute;t&eacute; abreuv&eacute;s d'un seul
+            Esprit. </ab>
+        <ab n="14">Ainsi le corps n'est pas un seul membre, mais il est compos&eacute; de
+            beaucoup de membres. </ab>
+        <ab n="15">Si le pied disait : Puisque je ne suis pas une main, je ne suis pas du corps
+            ; est-ce que pour cela il ne serait point du corps ? </ab>
+        <ab n="16">Et si l'oreille disait : Puisque je ne suis pas un &oelig;il, je ne suis pas
+            du corps ; est-ce que pour cela elle ne serait point du corps ? </ab>
+        <ab n="17">Si tout le corps &eacute;tait &oelig;il, o&ugrave; serait l'ou&iuml;e ? s'il
+            &eacute;tait tout ou&iuml;e, o&ugrave; serait l'odorat ? </ab>
+        <ab n="18">Mais Dieu a dispos&eacute; les membres dans le corps, chacun d'eux comme il a
+            voulu. </ab>
+        <ab n="19">S'ils n'&eacute;taient tous qu'un seul membre, o&ugrave; serait le corps ? </ab>
+        <ab n="20">Mais maintenant il y a beaucoup de membres, et un seul corps. </ab>
+        <ab n="21">L'&oelig;il ne peut pas dire &agrave; la main : Je n'ai pas besoin de ton
+            aide (office) ; ni la t&ecirc;te dire aux pieds : Vous ne m'&ecirc;tes pas
+            n&eacute;cessaires. </ab>
+        <ab n="22">Mais au contraire les membres du corps qui paraissent les plus faibles sont
+            les plus n&eacute;cessaires ; </ab>
+        <ab n="23">et les membres du corps que nous regardons comme les plus vils, nous les
+            entourons d'un plus grand honneur ; et ceux qui sont honteux re&ccedil;oivent le plus de
+            respect. </ab>
+        <ab n="24">Ceux qui sont d&eacute;cents n'en ont pas besoin ; mais Dieu a dispos&eacute;
+            le corps de mani&egrave;re &agrave; donner plus d'honneur &agrave; ce qui en manquait, </ab>
+        <ab n="25">afin qu'il n'y ait pas de division dans le corps, mais que les membres aient
+            &eacute;galement un soin r&eacute;ciproque les uns des autres. </ab>
+        <ab n="26">Et si un membre souffre, tous les membres souffrent avec lui ; ou si un
+            membre est honor&eacute;, tous les membres s'en r&eacute;jouissent avec lui. </ab>
+        <ab n="27">Or vous &ecirc;tes le corps du Christ, et les membres d'un membre. </ab>
+        <ab n="28">Ainsi Dieu a &eacute;tabli dans l'Eglise premi&egrave;rement des
+            ap&ocirc;tres, secondement des proph&egrave;tes, troisi&egrave;mement des docteurs ;
+            ensuite ceux qui font des miracles ; puis ceux qui ont les dons de gu&eacute;rir, de
+            secourir, de gouverner, de parler diverses langues, d'interpr&eacute;ter les langues
+            (discours). </ab>
+        <ab n="29">Tous sont-ils ap&ocirc;tres ? tous sont-ils proph&egrave;tes ? tous sont-ils
+            docteurs ? </ab>
+        <ab n="30">tous font-ils des miracles ? tous ont-ils la gr&acirc;ce de gu&eacute;rir ?
+            tous parlent-ils diverses langues ? tous les interpr&egrave;tent-ils (elles) ? </ab>
+        <ab n="31">Aspirez aux dons les meilleurs. Mais je vais vous montrer encore une voie
+            plus excellente.</ab>
+    </div>
+    <div type="chapter" n="13">
+        <ab n="1">Quand je parlerais les langues des hommes et des anges, si je n'ai pas la
+            charit&eacute;, je suis comme un airain sonnant ou une cymbale retentissante. </ab>
+        <ab n="2">Et quand j'aurais le don de proph&eacute;tie, et que je conna&icirc;trais tous
+            les myst&egrave;res et toute la science ; et quand j'aurais toute la foi, jusqu'&agrave;
+            transporter des montagnes, si je n'ai pas la charit&eacute;, je ne suis rien. </ab>
+        <ab n="3">Et quand je distribuerais tous mes biens pour nourrir les pauvres, et quand je
+            livrerais mon corps pour &ecirc;tre br&ucirc;l&eacute;, si je n'ai pas la
+            charit&eacute;, cela ne me sert de rien. </ab>
+        <ab n="4">La charit&eacute; est patiente, elle est pleine de bont&eacute;. La
+            charit&eacute; n'est point envieuse, elle n'agit pas avec t&eacute;m&eacute;rit&eacute;,
+            elle ne s'enfle pas d'orgueil ; </ab>
+        <ab n="5">elle n'est pas ambitieuse, elle ne cherche pas ses propres
+            int&eacute;r&ecirc;ts, elle ne s'irrite pas, elle ne pense pas le mal, </ab>
+        <ab n="6">elle ne se r&eacute;jouit pas de l'injustice (l&rsquo;iniquit&eacute;), mais
+            elle se r&eacute;jouit de la v&eacute;rit&eacute; ; </ab>
+        <ab n="7">elle souffre tout, elle croit tout, elle esp&egrave;re tout, elle supporte
+            tout. </ab>
+        <ab n="8">La charit&eacute; ne finira jamais ; pas m&ecirc;me lorsque les
+            proph&eacute;ties dispara&icirc;tront, que les langues cesseront, et que la science sera
+            d&eacute;truite. </ab>
+        <ab n="9">Car nous connaissons en partie, et nous proph&eacute;tisons en partie ; </ab>
+        <ab n="10">mais quand ce qui est parfait sera venu, tout ce qui est partiel (imparfait)
+            dispara&icirc;tra. </ab>
+        <ab n="11">Quand j'&eacute;tais (petit) enfant, je parlais comme un enfant, je jugeais
+            (j&rsquo;avais les go&ucirc;ts) comme un (petit) enfant, je raisonnais comme un (petit)
+            enfant ; mais lorsque je suis devenu homme, j'ai fait dispara&icirc;tre ce qui
+            &eacute;tait de l'enfant. </ab>
+        <ab n="12">Nous voyons maintenant &agrave; travers un miroir, en &eacute;nigme ; mais
+            alors nous verrons face &agrave; face. Maintenant je connais en partie ; mais alors je
+            conna&icirc;trai comme (aussi bien que) je suis connu (moi-m&ecirc;me). </ab>
+        <ab n="13">Maintenant ces trois choses demeurent : la foi, l'esp&eacute;rance et la
+            charit&eacute; ; mais la plus grande (des trois) est la charit&eacute;.</ab>
+    </div>
+    <div type="chapter" n="14">
+        <ab n="1">Recherchez (avec ardeur) la charit&eacute;, aspirez aux dons spirituels, et
+            surtout &agrave; proph&eacute;tiser. </ab>
+        <ab n="2">En effet, celui qui parle une langue (inconnue), ne parle pas aux hommes, mais
+            &agrave; Dieu ; car personne ne l'entend, et c'est en esprit qu'il prof&egrave;re des
+            myst&egrave;res. </ab>
+        <ab n="3">Mais celui qui proph&eacute;tise parle aux hommes pour les &eacute;difier, les
+            exhorter et les consoler. </ab>
+        <ab n="4">Celui qui parle une langue s'&eacute;difie lui-m&ecirc;me ; mais celui qui
+            proph&eacute;tise &eacute;difie l'Eglise de Dieu. </ab>
+        <ab n="5">Or je veux (voudrais) que vous parliez (puissiez parler) tous les langues,
+            mais encore plus que vous proph&eacute;tisiez ; car celui qui proph&eacute;tise est plus
+            grand que celui qui parle les langues, &agrave; moins qu'il n'interpr&egrave;te, afin
+            que l'Eglise en re&ccedil;oive de l'&eacute;dification. </ab>
+        <ab n="6">Aussi, mes fr&egrave;res, si je venais &agrave; vous parlant les langues, de
+            quelle utilit&eacute; vous serais-je, &agrave; moins que je ne vous parle ou par
+            r&eacute;v&eacute;lation, ou par connaissance, ou par proph&eacute;tie, ou par doctrine
+            ? </ab>
+        <ab n="7">Si les choses inanim&eacute;es (quoique) qui rendent un son, comme la
+            fl&ucirc;te et la harpe, ne rendent pas des sons distincts, comment saura-t-on ce qui
+            est jou&eacute; sur la fl&ucirc;te ou sur la harpe ? </ab>
+        <ab n="8">En effet, si la trompette rend un son confus, qui se pr&eacute;parera au
+            combat ? </ab>
+        <ab n="9">Vous de m&ecirc;me, si par la langue vous ne donnez pas un langage distinct,
+            comment saura-t-on ce que vous dites ? Car vous parlerez en l'air. </ab>
+        <ab n="10">Il y a, en effet, tant d'esp&egrave;ces de langues dans ce monde, et il n'y
+            en a aucune qui n'ait sa signification. </ab>
+        <ab n="11">Si donc je ne connais pas le sens des paroles, je serai un barbare pour celui
+            &agrave; qui je parle, et celui qui parle sera un barbare pour moi. </ab>
+        <ab n="12">Ainsi vous-m&ecirc;mes, puisque vous d&eacute;sirez avec ardeur les dons
+            spirituels, cherchez pour l'&eacute;dification de l'Eglise &agrave; en poss&eacute;der
+            abondamment. </ab>
+        <ab n="13">C'est pourquoi, que celui qui parle une langue prie, afin de
+            l'interpr&eacute;ter. </ab>
+        <ab n="14">Car si je prie dans une langue (inconnue), mon esprit est en pri&egrave;re,
+            mais mon intelligence est sans fruit. </ab>
+        <ab n="15">Que ferai-je donc ? Je prierai par l'esprit, mais je prierai aussi avec
+            l'intelligence ; je chanterai par l'esprit (des cantiques), mais je chanterai aussi avec
+            l'intelligence. </ab>
+        <ab n="16">Autrement, si tu ne b&eacute;nis Dieu que par l'esprit, comment celui qui
+            tient la place du simple peuple r&eacute;pondra-t-il Amen &agrave; ta
+            b&eacute;n&eacute;diction, puisqu'il ne sait pas ce que tu dis ? </ab>
+        <ab n="17">Tu rends, il est vrai, une bonne action de gr&acirc;ces ; mais les autres
+            n'en sont pas &eacute;difi&eacute;s. </ab>
+        <ab n="18">Je rends gr&acirc;ces &agrave; mon Dieu de ce que je parle les langues de
+            vous tous ; </ab>
+        <ab n="19">mais j'aime mieux dire dans l'Eglise cinq paroles avec mon intelligence, pour
+            instruire aussi les autres, que dix mille paroles en une langue (inconnue). </ab>
+        <ab n="20">Mes fr&egrave;res, ne devenez pas des enfants sous le rapport du jugement
+            (par l&rsquo;intelligence), mais soyez de petits enfants pour la malice, et, pour ce qui
+            concerne le jugement (en intelligence), soyez des hommes parfaits. </ab>
+        <ab n="21">Il est &eacute;crit dans la loi : Je parlerai &agrave; ce peuple en d'autres
+            langues et avec des l&egrave;vres &eacute;trang&egrave;res, et m&ecirc;me ainsi ils ne
+            m'&eacute;couteront (m&ecirc;me) pas, dit le Seigneur. </ab>
+        <ab n="22">Par cons&eacute;quent, les langues sont un signe, non pour les
+            fid&egrave;les, mais pour les infid&egrave;les ; et les proph&eacute;ties, au contraire,
+            ne sont pas pour les infid&egrave;les, mais pour les fid&egrave;les. </ab>
+        <ab n="23">Si donc l'Eglise enti&egrave;re est r&eacute;unie dans un seul lieu, et que
+            tous parlent des langues, et qu'il entre des hommes du peuple ou des infid&egrave;les,
+            ne diront-ils pas que vous &ecirc;tes fous ? </ab>
+        <ab n="24">Mais si tous proph&eacute;tisent, et qu'il entre un infid&egrave;le ou un
+            homme du peuple, il est convaincu par tous, il est jug&eacute; par tous, </ab>
+        <ab n="25">les secrets de son c&oelig;ur sont d&eacute;voil&eacute;s ; de sorte que,
+            tombant sur sa face, il adorera Dieu, d&eacute;clarant que Dieu est vraiment parmi vous. </ab>
+        <ab n="26">Que faire donc, mes fr&egrave;res ? Si lorsque (Que quand) vous &ecirc;tes
+            assembl&eacute;s, vous avez, l'un un cantique, l'autre une instruction, l'autre une
+            r&eacute;v&eacute;lation, l'autre une langue, l'autre une interpr&eacute;tation : que
+            tout se fasse pour l'&eacute;dification. </ab>
+        <ab n="27">S'il y en a qui parlent des langues, que deux ou trois au plus parlent, et
+            l'un apr&egrave;s l'autre ; et que quelqu'un interpr&egrave;te. </ab>
+        <ab n="28">S'il n'y a pas d'interpr&egrave;te, qu'on se taise dans l'Eglise, qu'on (il)
+            parle &agrave; soi-m&ecirc;me (lui-m&ecirc;me) et &agrave; Dieu. </ab>
+        <ab n="29">Quant aux proph&egrave;tes, que deux ou trois parlent, et que les autres
+            jugent. </ab>
+        <ab n="30">Si un autre de ceux qui sont assis re&ccedil;oit une
+            r&eacute;v&eacute;lation, que le premier se taise. </ab>
+        <ab n="31">Car vous pouvez tous proph&eacute;tiser l'un apr&egrave;s l'autre, afin que
+            tous apprennent et que tous soient exhort&eacute;s. </ab>
+        <ab n="32">Les esprits des proph&egrave;tes sont soumis aux proph&egrave;tes ; </ab>
+        <ab n="33">car Dieu n'est pas un Dieu de d&eacute;sordre, mais de paix, comme je
+            l'enseigne dans toutes les Eglises des saints. </ab>
+        <ab n="34">Que les femmes se taisent dans les Eglises, car il ne leur est pas permis de
+            parler ; mais qu'elles soient soumises, comme le dit aussi la loi. </ab>
+        <ab n="35">Si elles veulent s'instruire sur quelque chose, qu'elles interrogent leurs
+            maris &agrave; la maison ; car il est honteux pour une femme de parler dans l'Eglise. </ab>
+        <ab n="36">Est-ce de vous que la parole de Dieu est sortie ? ou n'est-elle parvenue
+            qu'&agrave; vous seuls ? </ab>
+        <ab n="37">Si quelqu'un croit &ecirc;tre proph&egrave;te ou spirituel, qu'il reconnaisse
+            que les choses que je vous &eacute;cris sont des commandements du Seigneur. </ab>
+        <ab n="38">Si quelqu'un (veut) l'ignorer, il sera ignor&eacute;. </ab>
+        <ab n="39">Ainsi donc, fr&egrave;res, aspirez &agrave; proph&eacute;tiser, et
+            n'emp&ecirc;chez pas de parler des langues ; </ab>
+        <ab n="40">mais que tout se fasse d&eacute;cemment et avec ordre.</ab>
+    </div>
+    <div type="chapter" n="15">
+        <ab n="1">Maintenant je vous rappelle, fr&egrave;res, l'Evangile que je vous ai
+            pr&ecirc;ch&eacute;, que vous avez re&ccedil;u, dans lequel vous demeurez fermes, </ab>
+        <ab n="2">et par lequel vous serez sauv&eacute;s, si vous le retenez tel que je vous
+            l'ai pr&ecirc;ch&eacute; : &agrave; moins que vous n'ayez cru en vain. </ab>
+        <ab n="3">Car je vous ai transmis en premier lieu ce que j'ai moi-m&ecirc;me re&ccedil;u
+            : que le Christ est mort pour nos p&eacute;ch&eacute;s, selon les Ecritures ; </ab>
+        <ab n="4">qu'il a &eacute;t&eacute; enseveli, et qu'il est ressuscit&eacute; le
+            troisi&egrave;me jour, selon les Ecritures ; </ab>
+        <ab n="5">qu'il a &eacute;t&eacute; vu de C&eacute;phas, puis des onze ; </ab>
+        <ab n="6">qu'ensuite il a &eacute;t&eacute; vu par plus de cinq cents fr&egrave;res
+            &agrave; la fois, dont beaucoup vivent encore aujourd'hui, et dont quelques-uns sont
+            morts (endormis, note) ; </ab>
+        <ab n="7">qu'ensuite il a &eacute;t&eacute; vu de Jacques, puis de tous les
+            Ap&ocirc;tres ; </ab>
+        <ab n="8">et qu'en dernier lieu, apr&egrave;s tous, il a &eacute;t&eacute; vu de moi,
+            comme de l'avorton. </ab>
+        <ab n="9">Car je suis le moindre des Ap&ocirc;tres, et je ne suis pas digne d'&ecirc;tre
+            appel&eacute; ap&ocirc;tre, parce que j'ai pers&eacute;cut&eacute; l'Eglise de Dieu. </ab>
+        <ab n="10">Mais par la gr&acirc;ce de Dieu je suis ce que je suis, et sa gr&acirc;ce n'a
+            pas &eacute;t&eacute; st&eacute;rile en moi ; mais j'ai travaill&eacute; plus qu'eux
+            tous : non pas moi toutefois, mais la gr&acirc;ce de Dieu qui est avec moi. </ab>
+        <ab n="11">Ainsi, que ce soit moi, que ce soient eux, voil&agrave; ce que nous
+            pr&ecirc;chons, et voil&agrave; ce que vous avez cru. </ab>
+        <ab n="12">Mais si l'on pr&ecirc;che que le Christ est ressuscit&eacute; d'entre les
+            morts, comment quelques-uns disent-ils parmi vous qu'il n'y a pas de r&eacute;surrection
+            des morts ? </ab>
+        <ab n="13">S'il n'y a pas de r&eacute;surrection des morts, le Christ non plus n'est
+            point ressuscit&eacute;. </ab>
+        <ab n="14">Et si le Christ n'est point ressuscit&eacute;, notre pr&eacute;dication est
+            donc vaine, et vaine aussi est votre foi. </ab>
+        <ab n="15">Il se trouve m&ecirc;me que nous sommes de faux t&eacute;moins &agrave;
+            l'&eacute;gard de Dieu, puisque nous avons rendu ce t&eacute;moignage contre Dieu, qu'il
+            a ressuscit&eacute; le Christ, tandis qu'il ne l'a pas ressuscit&eacute;, si les morts
+            ne ressuscitent point. </ab>
+        <ab n="16">Car si les morts ne ressuscitent point, le Christ non plus n'est pas
+            ressuscit&eacute;. </ab>
+        <ab n="17">Si le Christ n'est pas ressuscit&eacute;, votre foi est vaine ; car vous
+            &ecirc;tes encore dans vos p&eacute;ch&eacute;s. </ab>
+        <ab n="18">Ceux donc aussi qui se sont endormis dans le Christ sont perdus (ont
+            p&eacute;ri). </ab>
+        <ab n="19">Si c'est pour cette vie seulement que nous esp&eacute;rons dans le Christ,
+            nous sommes les plus mis&eacute;rables (malheureux) de tous les hommes. </ab>
+        <ab n="20">Mais maintenant le Christ est (tr&egrave;s certainement) ressuscit&eacute;
+            d'entre les morts, comme pr&eacute;mices de ceux qui se sont endormis. </ab>
+        <ab n="21">En effet, par un homme est venue la mort, et par un homme la
+            r&eacute;surrection des morts. </ab>
+        <ab n="22">Et comme tous meurent en Adam, de m&ecirc;me dans le Christ tous recouvreront
+            la vie ; </ab>
+        <ab n="23">et chacun en son rang : le Christ comme pr&eacute;mices ; puis ceux qui sont
+            au Christ, qui ont cru en son av&egrave;nement. </ab>
+        <ab n="24">Ensuite viendra la fin, lorsqu'il remettra le royaume &agrave; Dieu et au
+            P&egrave;re, apr&egrave;s avoir an&eacute;anti toute principaut&eacute;, toute
+            domination et toute puissance. </ab>
+        <ab n="25">Mais il faut qu'il r&egrave;gne jusqu'&agrave; ce qu'il (que le P&egrave;re)
+            ait mis tous les ennemis sous ses pieds. </ab>
+        <ab n="26">Le dernier ennemi d&eacute;truit sera la mort ; car Dieu a mis toutes choses
+            sous ses pieds. Et quand l'Ecriture dit : </ab>
+        <ab n="27">Tout lui a &eacute;t&eacute; soumis, il est &eacute;vident qu'il faut
+            excepter (sans doute) celui qui lui a soumis toutes choses. </ab>
+        <ab n="28">Lors donc que tout lui aura &eacute;t&eacute; soumis, au Fils, alors aussi le
+            Fils lui-m&ecirc;me sera soumis &agrave; celui qui lui aura soumis toutes choses, afin
+            que Dieu soit tout en tous. </ab>
+        <ab n="29">Autrement que feront ceux qui sont baptis&eacute;s pour les morts, si les
+            morts ne ressuscitent absolument pas ? pourquoi sont-ils baptis&eacute;s pour eux ? </ab>
+        <ab n="30">Et pourquoi nous-m&ecirc;mes sommes-nous &agrave; toute heure en p&eacute;ril
+            ? </ab>
+        <ab n="31">Chaque jour je meurs, mes fr&egrave;res ; je le jure par la gloire que je
+            re&ccedil;ois de vous en J&eacute;sus-Christ Notre Seigneur. </ab>
+        <ab n="32">Si, pour parler &agrave; la mani&egrave;re des hommes, j'ai combattu &agrave;
+            Eph&egrave;se contre les b&ecirc;tes, &agrave; quoi cela me sert-il, si les morts ne
+            ressuscitent point ? Mangeons et buvons, car demain nous mourrons. </ab>
+        <ab n="33">Ne vous laissez pas s&eacute;duire : Les mauvais entretiens corrompent les
+            bonnes m&oelig;urs. </ab>
+        <ab n="34">Veillez, justes, et ne p&eacute;chez point, car quelques-uns sont dans
+            l'ignorance du vrai Dieu ; je le dis &agrave; votre honte. </ab>
+        <ab n="35">Mais quelqu'un dira: Comment les morts ressuscitent-ils, et (ou) avec quel
+            corps reviendront-ils ? </ab>
+        <ab n="36">Insens&eacute;, ce que tu s&egrave;mes ne reprend pas vie (n&rsquo;est point
+            vivifi&eacute;), s'il ne meurt auparavant. </ab>
+        <ab n="37">Et quand tu s&egrave;mes, tu ne s&egrave;mes pas le corps qui doit
+            na&icirc;tre, mais une simple graine, par exemple de froment (bl&eacute;), ou de quelque
+            autre chose. </ab>
+        <ab n="38">Puis Dieu lui donne un corps comme il lui pla&icirc;t ; et &agrave; chaque
+            semence le corps qui lui est propre. </ab>
+        <ab n="39">Toute chair n'est pas la m&ecirc;me chair ; mais autre est celle des hommes,
+            autre celle des b&ecirc;tes (brebis), autre celle des oiseaux, autre celle des poissons. </ab>
+        <ab n="40">Il y a aussi des corps c&eacute;lestes et des corps terrestres ; mais autre
+            est l'&eacute;clat (la gloire) des corps c&eacute;lestes, autre celui des corps
+            terrestres. </ab>
+        <ab n="41">Autre est l'&eacute;clat du soleil, autre l'&eacute;clat de la lune, autre
+            l'&eacute;clat des &eacute;toiles ; car une &eacute;toile diff&egrave;re en &eacute;clat
+            d'une autre &eacute;toile. </ab>
+        <ab n="42">Ainsi en est-il de la r&eacute;surrection des morts. Le corps est sem&eacute;
+            dans la corruption, il ressuscitera dans l'incorruptibilit&eacute; ; </ab>
+        <ab n="43">il est sem&eacute; dans l'ignominie, il ressuscitera dans la gloire ; il est
+            sem&eacute; dans la faiblesse, il ressuscitera dans la force ; </ab>
+        <ab n="44">il est sem&eacute; corps animal, il ressuscitera corps spirituel. (S'il y a
+            un corps animal, il y a aussi un corps spirituel,) selon qu'il est &eacute;crit : </ab>
+        <ab n="45">Le premier homme, Adam, a &eacute;t&eacute; fait &acirc;me vivante ; le
+            dernier Adam, esprit vivifiant. </ab>
+        <ab n="46">Toutefois, ce qui est spirituel n'est pas le premier ; mais d'abord existe ce
+            qui est animal, et ensuite ce qui est spirituel. </ab>
+        <ab n="47">Le premier homme, form&eacute; de la terre, est terrestre ; le second homme,
+            venu du ciel, est c&eacute;leste. </ab>
+        <ab n="48">Tel qu'est le terrestre, tels sont les terrestres ; et tel qu'est le
+            c&eacute;leste, tels sont les c&eacute;lestes. </ab>
+        <ab n="49">Comme donc nous avons port&eacute; l'image du terrestre, portons aussi
+            l'image du c&eacute;leste. </ab>
+        <ab n="50">Ce que je dis, fr&egrave;res, c'est que la chair et le sang ne peuvent
+            poss&eacute;der le royaume de Dieu, et la corruption ne poss&eacute;dera pas non plus
+            l'incorruptibilit&eacute;. </ab>
+        <ab n="51">Voici un myst&egrave;re que je vais vous dire : Nous ressusciterons tous,
+            mais nous ne serons pas tous transform&eacute;s. </ab>
+        <ab n="52">En un moment, en un clin d'&oelig;il, au son de la derni&egrave;re trompette
+            (car la trompette sonnera), les morts ressusciteront incorruptibles, et nous serons
+            transform&eacute;s. </ab>
+        <ab n="53">Car il faut que ce corps corruptible rev&ecirc;te l'incorruptibilit&eacute;,
+            et que ce corps mortel rev&ecirc;te l'immortalit&eacute;. </ab>
+        <ab n="54">Et quand ce corps mortel aura rev&ecirc;tu l'immortalit&eacute;, alors
+            s'accomplira cette parole de l'Ecriture : La mort a &eacute;t&eacute; absorb&eacute;e
+            dans la (sa) victoire. </ab>
+        <ab n="55">O&ugrave; est, &ocirc; mort, ta victoire ? o&ugrave; est, &ocirc; mort, ton
+            aiguillon ? </ab>
+        <ab n="56">Or l'aiguillon de la mort, c'est le p&eacute;ch&eacute; ; et la force du
+            p&eacute;ch&eacute;, c'est la loi. </ab>
+        <ab n="57">Mais gr&acirc;ces soient rendues &agrave; Dieu, qui nous a donn&eacute; la
+            victoire par Notre Seigneur J&eacute;sus-Christ. </ab>
+        <ab n="58">C'est pourquoi, mes fr&egrave;res bien-aim&eacute;s, soyez fermes et
+            in&eacute;branlables, travaillant toujours de plus en plus &agrave; l'&oelig;uvre du
+            Seigneur, sachant que votre travail n'est pas vain dans le Seigneur.</ab>
+    </div>
+    <div type="chapter" n="16">
+        <ab n="1">Quant aux collectes qui ont lieu pour les saints, agissez, vous aussi, comme
+            je l'ai ordonn&eacute; (r&eacute;gl&eacute;) aux Eglises de Galatie. </ab>
+        <ab n="2">Le premier jour de la semaine, que chacun de vous mette &agrave; part chez lui
+            et amasse ce qui lui plaira, afin que ce ne soit pas &agrave; mon arriv&eacute;e que les
+            collectes se fassent. </ab>
+        <ab n="3">Et lorsque je serai pr&eacute;sent, j'enverrai avec des lettres, pour porter
+            vos charit&eacute;s &agrave; J&eacute;rusalem, ceux que vous aurez approuv&eacute;s. </ab>
+        <ab n="4">Si la chose m&eacute;rite que j'y aille moi-m&ecirc;me, ils viendront avec
+            moi. </ab>
+        <ab n="5">Or j'irai chez vous lorsque j'aurai pass&eacute; par la Mac&eacute;doine ; car
+            je passerai par la Mac&eacute;doine ; </ab>
+        <ab n="6">peut-&ecirc;tre m'arr&ecirc;terai-je chez vous, ou y passerai-je m&ecirc;me
+            l'hiver, afin que vous me conduisiez partout o&ugrave; j'irai. </ab>
+        <ab n="7">Car je ne veux pas cette fois vous voir en passant, mais j'esp&egrave;re
+            demeurer quelque temps aupr&egrave;s de vous, si le Seigneur le permet. </ab>
+        <ab n="8">Je demeurerai cependant &agrave; Eph&egrave;se jusqu'&agrave; la
+            Pentec&ocirc;te ; </ab>
+        <ab n="9">car une grande porte m'y est visiblement ouverte, et les adversaires sont
+            nombreux. </ab>
+        <ab n="10">Si Timoth&eacute;e vient, veillez &agrave; ce qu'il soit sans crainte parmi
+            vous ; car il travaille &agrave; l'&oelig;uvre du Seigneur, comme moi-m&ecirc;me. </ab>
+        <ab n="11">Que personne donc ne le m&eacute;prise ; mais conduisez-le en paix, afin
+            qu'il vienne aupr&egrave;s de moi, car je l'attends avec les fr&egrave;res. </ab>
+        <ab n="12">Pour ce qui est de notre fr&egrave;re Apollo, je vous d&eacute;clare que je
+            l'ai beaucoup pri&eacute; d'aller aupr&egrave;s de vous avec les fr&egrave;res ; mais ce
+            n'&eacute;tait d&eacute;cid&eacute;ment pas sa volont&eacute; de le faire maintenant :
+            il ira lorsqu'il en aura la commodit&eacute;. </ab>
+        <ab n="13">Veillez, demeurez fermes dans la foi, agissez virilement (courageusement), et
+            fortifiez-vous ; </ab>
+        <ab n="14">que toutes vos &oelig;uvres soient faites avec amour. </ab>
+        <ab n="15">Une pri&egrave;re encore, fr&egrave;res. Vous savez que les familles (la
+            famille) de St&eacute;phanas, de Fortunat et d'Acha&iuml;que sont les pr&eacute;mices de
+            l'Acha&iuml;e, et qu'ils se sont consacr&eacute;s eux-m&ecirc;mes au service des saints
+            ; </ab>
+        <ab n="16">ayez de la d&eacute;f&eacute;rence pour de telles personnes, et (comme) pour
+            tous ceux qui agissent et travaillent avec elles. </ab>
+        <ab n="17">Je me r&eacute;jouis de la pr&eacute;sence de St&eacute;phanas, de Fortunat
+            et d'Acha&iuml;que, parce qu'ils ont suppl&eacute;&eacute; &agrave; ce que vous ne
+            pouviez faire par vous-m&ecirc;mes ; </ab>
+        <ab n="18">car ils ont consol&eacute; mon esprit et le v&ocirc;tre. Sachez donc
+            appr&eacute;cier de tels hommes. </ab>
+        <ab n="19">Les Eglises d'Asie vous saluent. Aquila et Priscille, chez qui je demeure,
+            vous saluent beaucoup dans le Seigneur, avec l'Eglise qui est dans leur maison. </ab>
+        <ab n="20">Tous les fr&egrave;res vous saluent. Saluez-vous les uns les autres par un
+            saint baiser. </ab>
+        <ab n="21">Je vous salue de ma propre main, moi Paul. </ab>
+        <ab n="22">Si quelqu'un n'aime pas Notre Seigneur J&eacute;sus-Christ, qu'il soit
+            anath&egrave;me ; Maran Atha. </ab>
+        <ab n="23">Que la gr&acirc;ce de Notre Seigneur J&eacute;sus-Christ soit avec vous. </ab>
+        <ab n="24">Mon amour est avec vous tous dans le Christ J&eacute;sus. Amen.</ab>
+    </div>
+</div>

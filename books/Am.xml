@@ -1,0 +1,469 @@
+<!DOCTYPE definition [
+<!ENTITY rsquo "&#8217;">
+<!ENTITY eacute "é">
+<!ENTITY euml "ë">
+<!ENTITY acirc "â">
+<!ENTITY ecirc "ê">
+<!ENTITY agrave "à">
+<!ENTITY egrave "è">
+<!ENTITY ucirc "û">
+<!ENTITY ugrave "ù">
+<!ENTITY icirc "î">
+<!ENTITY ccedil "ç">
+<!ENTITY iuml "ï">
+<!ENTITY oelig "œ">
+<!ENTITY ocirc "ô">
+]>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="book" xml:id="VULGFR_Amos">
+    <div type="chapter" n="1">
+        <ab n="1">Paroles d&rsquo;Amos, l&rsquo;un des bergers (pasteurs) de
+            Th&eacute;cu&eacute; ; visions qu&rsquo;il eut sur Isra&euml;l, aux jours d&rsquo;Osias,
+            roi de Juda, et aux jours de J&eacute;roboam, fils de Joas, roi d&rsquo;Isra&euml;l,
+            deux ans avant le tremblement de terre. </ab>
+        <ab n="2">Il dit : Le Seigneur rugira de Sion, de J&eacute;rusalem il fera entendre sa
+            voix ; et les p&acirc;turages les (plus) beaux (p&acirc;turages) seront en (ont
+            &eacute;t&eacute; dans le) deuil, et le sommet du Carmel sera (a &eacute;t&eacute;)
+            dess&eacute;ch&eacute;. </ab>
+        <ab n="3">Ainsi parle le Seigneur : A cause de(s) trois crimes de Damas, et m&ecirc;me
+            de(s) quatre, je ne changerai pas mon arr&ecirc;t (je ne le convertirai pas, note),
+            parce qu&rsquo;ils ont tritur&eacute; (&eacute;cras&eacute;) Galaad avec (sous) des
+            chars arm&eacute;s de fer. </ab>
+        <ab n="4">J&rsquo;enverrai le feu dans la maison d&rsquo;Aza&euml;l, et il
+            d&eacute;vorera les palais (maisons) de B&eacute;nadad. </ab>
+        <ab n="5">Je briserai les verrous de Damas, j&rsquo;exterminerai du champ de
+            l&rsquo;idole ceux qui l&rsquo;habitent, et de sa (la) maison de plaisir celui qui tient
+            le sceptre ; et le peuple de Syrie sera transport&eacute; &agrave; Cyr&egrave;ne, dit le
+            Seigneur. </ab>
+        <ab n="6">Ainsi parle le Seigneur : A cause de(s) trois crimes de Gaza, et m&ecirc;me
+            de(s) quatre, je ne changerai pas mon arr&ecirc;t (je ne le convertirai pas), parce
+            qu&rsquo;ils ont emmen&eacute; toute la population captive, pour l&rsquo;enfermer dans
+            l&rsquo;Idum&eacute;e. </ab>
+        <ab n="7">J&rsquo;enverrai le feu dans les murs de Gaza, et il d&eacute;vorera ses
+            &eacute;difices. </ab>
+        <ab n="8">J&rsquo;exterminerai d&rsquo;Azot ceux qui l&rsquo;habitent, et
+            d&rsquo;Ascalon celui qui tient le sceptre ; et je tournerai ma main contre Accaron, et
+            les restes des Philistins p&eacute;riront, dit le Seigneur Dieu. </ab>
+        <ab n="9">Ainsi parle le Seigneur : A cause de(s) trois crimes de Tyr, et m&ecirc;me
+            de(s) quatre, je ne changerai pas mon arr&ecirc;t (le convertirai pas), parce
+            qu&rsquo;ils ont enferm&eacute; toute la population captive en Idum&eacute;e, sans se
+            souvenir de l&rsquo;alliance fraternelle (faite avec leurs fr&egrave;res). </ab>
+        <ab n="10">J&rsquo;enverrai le feu dans les murs de Tyr, et il d&eacute;vorera ses
+            &eacute;difices. </ab>
+        <ab n="11">Ainsi parle le Seigneur : A cause de(s) trois crimes d&rsquo;Edom, et
+            m&ecirc;me de(s) quatre, je ne changerai pas mon arr&ecirc;t (le convertirai pas), parce
+            qu&rsquo;il a poursuivi son fr&egrave;re avec l&rsquo;&eacute;p&eacute;e, qu&rsquo;il a
+            viol&eacute; la compassion qu&rsquo;il lui devait (la mis&eacute;ricorde), qu&rsquo;il
+            n&rsquo;a pas mis de bornes &agrave; sa fureur, et qu&rsquo;il a conserv&eacute;
+            jusqu&rsquo;&agrave; la fin son indignation (le ressentiment de sa col&egrave;re). </ab>
+        <ab n="12">J&rsquo;enverrai le feu dans Th&eacute;man, et il d&eacute;vorera les
+            &eacute;difices de Bosra. </ab>
+        <ab n="13">Ainsi parle le Seigneur : A cause de(s) trois crimes des enfants
+            d&rsquo;Ammon, et m&ecirc;me de(s) quatre, je ne changerai pas mon arr&ecirc;t (le
+            convertirai pas), parce qu&rsquo;ils ont &eacute;ventr&eacute; les femmes enceintes de
+            Galaad, pour &eacute;tendre leurs limites. </ab>
+        <ab n="14">J&rsquo;allumerai le feu dans les murs de Rabba, et il d&eacute;vorera ses
+            &eacute;difices au milieu des cris, au (en un) jour du (de) combat, et dans le
+            tourbillon (parmi la tourmente), au jour de la temp&ecirc;te. </ab>
+        <ab n="15">Et Melchom ira en captivit&eacute;, lui, et ses princes avec lui, dit le
+            Seigneur. </ab>
+    </div>
+    <div type="chapter" n="2">
+        <ab n="1">Ainsi parle le Seigneur : A cause de(s) trois crimes de Moab, et m&ecirc;me de
+            quatre(s), je ne changerai pas mon arr&ecirc;t (le convertirai pas), parce qu&rsquo;il a
+            br&ucirc;l&eacute; les os du roi de l&rsquo;Idum&eacute;e (d&rsquo;Edom)
+            jusqu&rsquo;&agrave; les r&eacute;duire en cendre. </ab>
+        <ab n="2">J&rsquo;enverrai le feu dans Moab, et il d&eacute;vorera les &eacute;difices
+            de Carioth, et Moab p&eacute;rira dans le tumulte (au milieu des armes), au son de la
+            trompette. </ab>
+        <ab n="3">J&rsquo;exterminerai le juge au milieu de lui, et je ferai mourir avec lui
+            tous ses princes, dit le Seigneur. </ab>
+        <ab n="4">Ainsi parle le Seigneur : A cause de(s) trois crimes de Juda, et m&ecirc;me
+            de(s) quatre, je ne changerai pas mon arr&ecirc;t (le convertirai pas), parce
+            qu&rsquo;il a rejet&eacute; la loi du Seigneur et qu&rsquo;il n&rsquo;a pas gard&eacute;
+            ses commandements ; car leurs idoles les ont tromp&eacute;s, ces idoles apr&egrave;s
+            lesquelles leurs p&egrave;res avaient march&eacute;. </ab>
+        <ab n="5">J&rsquo;enverrai le feu dans Juda, et il d&eacute;vorera les &eacute;difices
+            de J&eacute;rusalem. </ab>
+        <ab n="6">Ainsi parle le Seigneur : A cause de(s) trois crimes d&rsquo;Isra&euml;l, et
+            m&ecirc;me de(s) quatre, je ne changerai pas mon arr&ecirc;t (le r&eacute;voquerai pas),
+            parce qu&rsquo;il a vendu le juste pour de l&rsquo;argent, et le pauvre pour des
+            chaussures. </ab>
+        <ab n="7">Ils brisent sur la poussi&egrave;re (de la terre) la t&ecirc;te des pauvres,
+            et ils violent le droit des faibles (humbles) ; le fils et le p&egrave;re vont vers la
+            m&ecirc;me (une jeune) fille, pour violer mon saint nom. </ab>
+        <ab n="8">Ils se couchent (sont couch&eacute;s) pr&egrave;s de tous les autels sur des
+            v&ecirc;tements mis en gage, et ils boivent (buvaient) dans la maison de leur Dieu le
+            vin de ceux qu&rsquo;ils ont (des) condamn&eacute;s. </ab>
+        <ab n="9">Cependant c&rsquo;est moi qui ai extermin&eacute; devant eux
+            l&rsquo;Amorrh&eacute;en, dont la hauteur &eacute;galait celle des c&egrave;dres, et qui
+            &eacute;tait fort comme le ch&ecirc;ne ; j&rsquo;ai &eacute;cras&eacute; ses fruits en
+            haut et ses racines en bas. </ab>
+        <ab n="10">C&rsquo;est moi qui vous ai fait sortir du pays d&rsquo;Egypte, et qui vous
+            ai conduits dans le d&eacute;sert pendant quarante ans, pour vous faire poss&eacute;der
+            le pays de l&rsquo;Amorrh&eacute;en. </ab>
+        <ab n="11">J&rsquo;ai suscit&eacute; parmi vos fils des proph&egrave;tes, et, parmi vos
+            jeunes gens, des nasar&eacute;ens (Nazar&eacute;ens). N&rsquo;en est-il pas ainsi,
+            enfants d&rsquo;Isra&euml;l ? dit le Seigneur. </ab>
+        <ab n="12">Et vous avez vers&eacute; (offrirez) du vin aux Nazar&eacute;ens, et aux
+            proph&egrave;tes vous avez donn&eacute; (donnerez) cet ordre : Ne proph&eacute;tisez
+            pas. </ab>
+        <ab n="13">Voici, je vous &eacute;craserai avec bruit (crierai sous vous), comme
+            &eacute;crase avec bruit un (crie le) chariot charg&eacute; de foin. </ab>
+        <ab n="14">Et l&rsquo;homme agile (rapide) ne pourra fuir, le vaillant ne saura pas
+            utiliser sa force, le h&eacute;ros (fort) ne sauvera pas sa vie, </ab>
+        <ab n="15">celui qui manie l&rsquo;arc ne r&eacute;sistera pas, celui qui a les pieds
+            l&eacute;gers n&rsquo;&eacute;chappera pas, le cavalier ne sauvera pas sa vie (son
+            &acirc;me), </ab>
+        <ab n="16">et le plus courageux d&rsquo;entre les braves s&rsquo;enfuira nu en ce
+            jour-l&agrave;, dit le Seigneur. </ab>
+    </div>
+    <div type="chapter" n="3">
+        <ab n="1">Ecoutez la parole que le Seigneur a prononc&eacute;e sur vous, enfants (fils)
+            d&rsquo;Isra&euml;l, sur toute la famille que j&rsquo;ai fait sortir du pays
+            d&rsquo;Egypte. Il dit : </ab>
+        <ab n="2">Je n&rsquo;ai connu que vous parmi toutes les familles de la terre ;
+            c&rsquo;est pourquoi je vous ch&acirc;tierai (visiterai) &agrave; cause de toutes vos
+            iniquit&eacute;s. </ab>
+        <ab n="3">Deux hommes marchent-ils ensemble, si cela ne leur convient pas ? </ab>
+        <ab n="4">Le lion (rugira-t)rugit-il dans la for&ecirc;t, s&rsquo;il n&rsquo;a
+            trouv&eacute; une proie ? Le lionceau fait-il entendre sa voix dans sa tani&egrave;re,
+            s&rsquo;il n&rsquo;a fait une capture ? </ab>
+        <ab n="5">L&rsquo;oiseau tombe-t-il &agrave; terre dans le filet, s&rsquo;il n&rsquo;y a
+            pas d&rsquo;oiseleur (qui l&rsquo;ait tendu) ? Enl&egrave;ve-t-on le pi&egrave;ge (un
+            lacs) de dessus la terre avant qu&rsquo;il ait pris quelque chose ? </ab>
+        <ab n="6">La trompette sonne-t-elle dans la ville sans que le peuple
+            s&rsquo;&eacute;pouvante ? Y aura-t-il quelque mal dans la ville sans que le Seigneur
+            l&rsquo;ait produit ? </ab>
+        <ab n="7">Car le Seigneur Dieu ne fait rien sans avoir (auparavant)
+            r&eacute;v&eacute;l&eacute; son secret &agrave; ses serviteurs les proph&egrave;tes. </ab>
+        <ab n="8">Le lion rugit(ra), qui ne craindra pas ? Le Seigneur Dieu a parl&eacute;, qui
+            ne proph&eacute;tisera pas ? </ab>
+        <ab n="9">Faites entendre ceci dans les maisons d&rsquo;Azot et dans les maisons du pays
+            d&rsquo;Egypte, et dites : Rassemblez-vous sur les montagnes de Samarie, et voyez des
+            folies nombreuses au milieu d&rsquo;elle, et ceux qui souffrent la calomnie
+            (l&rsquo;oppression, note) dans son sein. </ab>
+        <ab n="10">Ils n&rsquo;ont pas su faire ce qui &eacute;tait droit (le bien), dit le
+            Seigneur, eux qui th&eacute;saurisent l&rsquo;iniquit&eacute; et les rapines dans leurs
+            maisons. </ab>
+        <ab n="11">C&rsquo;est pourquoi ainsi parle le Seigneur Dieu : Le pays sera foul&eacute;
+            aux pieds et investi ; on t&rsquo;enl&egrave;vera ta force, et tes maisons seront
+            pill&eacute;es. </ab>
+        <ab n="12">Ainsi parle le Seigneur : Comme lorsqu&rsquo;un berger (pasteur) arrache de
+            la gueule du lion deux cuisses (jambes) ou le bout d&rsquo;une oreille, ainsi seront
+            sauv&eacute;s (des mains de l&rsquo;ennemi) les enfants d&rsquo;Isra&euml;l, qui sont
+            assis (habitent) dans Samarie, &agrave; l&rsquo;angle d&rsquo;un lit et sur des coussins
+            (un grabat) de Damas. </ab>
+        <ab n="13">Ecoutez, et d&eacute;clarez ceci dans la maison de Jacob, dit le Seigneur, le
+            Dieu des arm&eacute;es : </ab>
+        <ab n="14">Au jour o&ugrave; je commencerai &agrave; ch&acirc;tier (visiter) Isra&euml;l
+            pour ses pr&eacute;varications, je ch&acirc;tierai aussi (et) les autels de
+            B&eacute;thel ; (alors) les cornes de l&rsquo;autel seront coup&eacute;es et tomberont
+            &agrave; terre. </ab>
+        <ab n="15">Je frapperai la maison d&rsquo;hiver avec la maison d&rsquo;&eacute;t&eacute;
+            ; les maisons d&rsquo;ivoire p&eacute;riront, et une multitude de palais seront
+            d&eacute;molis, dit le Seigneur. </ab>
+    </div>
+    <div type="chapter" n="4">
+        <ab n="1">Ecoutez cette parole, vaches grasses qui &ecirc;tes sur la montagne de
+            Samarie, vous qui calomniez les faibles (indig&egrave;nes) et qui brisez les pauvres,
+            qui dites &agrave; vos ma&icirc;tres : Apportez, et nous boirons. </ab>
+        <ab n="2">Le Seigneur Dieu l&rsquo;a jur&eacute; par sa saintet&eacute;, voici, les
+            jours viendront pour vous o&ugrave; l&rsquo;on vous enl&egrave;vera avec des crocs
+            (perches), et o&ugrave; l&rsquo;on mettra ce qui restera de vous dans des
+            chaudi&egrave;res bouillantes. </ab>
+        <ab n="3">Et vous sortirez par les br&egrave;ches, l&rsquo;une en face de l&rsquo;autre,
+            et vous serez jet&eacute;es dans Armon, dit le Seigneur. </ab>
+        <ab n="4">Allez &agrave; B&eacute;thel, et agissez avec impi&eacute;t&eacute; ; allez
+            &agrave; Galgala, et multipliez les crimes (vos pr&eacute;varications) ; apportez
+            d&egrave;s le matin vos victimes, et vos d&icirc;mes tous les trois jours. </ab>
+        <ab n="5">Offrez avec du levain des sacrifices d&rsquo;actions de gr&acirc;ces,
+            proclamez et publiez des oblations volontaires, car c&rsquo;est l&agrave; ce que vous
+            voulez, enfants (fils) d&rsquo;Isra&euml;l, dit le Seigneur Dieu. </ab>
+        <ab n="6">C&rsquo;est pourquoi je vous ai envoy&eacute; l&rsquo;engourdissement des
+            dents dans toutes vos villes, et la disette du pain dans toutes vos localit&eacute;s ;
+            et vous n&rsquo;&ecirc;tes pas revenus &agrave; moi, dit le Seigneur. </ab>
+        <ab n="7">Je vous ai aussi refus&eacute; la pluie, lorsqu&rsquo;il restait encore trois
+            mois jusqu&rsquo;&agrave; la moisson ; j&rsquo;ai fait pleuvoir sur une ville, et je
+            n&rsquo;ai pas fait pleuvoir sur une autre ville ; un endroit a re&ccedil;u la pluie, et
+            un autre, sur lequel je n&rsquo;ai pas fait pleuvoir, s&rsquo;est
+            dess&eacute;ch&eacute;. </ab>
+        <ab n="8">Deux ou trois villes sont all&eacute;es vers une autre ville pour boire de
+            l&rsquo;eau, et elles n&rsquo;ont pu apaiser leur soif ; et vous n&rsquo;&ecirc;tes pas
+            revenus &agrave; moi, dit le Seigneur. </ab>
+        <ab n="9">Je vous ai frapp&eacute;s par un vent br&ucirc;lant et par la nielle ; la
+            chenille a d&eacute;vor&eacute; tous vos jardins et toutes vos vignes, vos plants
+            d&rsquo;oliviers et de figuiers ; et vous n&rsquo;&ecirc;tes pas revenus &agrave; moi,
+            dit le Seigneur. </ab>
+        <ab n="10">J&rsquo;ai envoy&eacute; contre vous la mort, comme en (sur la voie de
+            l&rsquo;) Egypte ; j&rsquo;ai frapp&eacute; vos jeunes gens par
+            l&rsquo;&eacute;p&eacute;e, et laiss&eacute; prendre (j&rsquo;ai &eacute;tendu la
+            captivit&eacute; jusque sur) vos chevaux ; j&rsquo;ai fait monter &agrave; vos narines
+            la puanteur (l&rsquo;infection) de votre camp ; et vous n&rsquo;&ecirc;tes pas revenus
+            &agrave; moi, dit le Seigneur. </ab>
+        <ab n="11">Je vous ai d&eacute;truits comme Dieu (le Seigneur) a d&eacute;truit Sodome
+            et Gomorrhe, et vous avez &eacute;t&eacute; comme un tison arrach&eacute; au feu ; et
+            vous n&rsquo;&ecirc;tes pas revenus &agrave; moi, dit le Seigneur. </ab>
+        <ab n="12">C&rsquo;est pourquoi je te traiterai ainsi, Isra&euml;l ; et, apr&egrave;s
+            que je t&rsquo;aurai trait&eacute; ainsi, pr&eacute;pare-toi &agrave; (aller &agrave;)
+            la rencontre de ton Dieu, Isra&euml;l. </ab>
+        <ab n="13">Car voici celui qui forme les montagnes et qui cr&eacute;e le vent, qui
+            annonce &agrave; l&rsquo;homme sa parole, qui produit la nu&eacute;e du matin, et qui
+            marche sur les hauteurs de la terre : Son nom est le Seigneur, le Dieu des
+            arm&eacute;es. </ab>
+    </div>
+    <div type="chapter" n="5">
+        <ab n="1">Ecoutez cette parole, cette plainte (chant lugubre) que je prononce sur vous :
+            La maison d&rsquo;Isra&euml;l est tomb&eacute;e, et elle ne pourra plus se
+            r&eacute;tablir. </ab>
+        <ab n="2">La vierge d&rsquo;Isra&euml;l a &eacute;t&eacute; renvers&eacute;e sur son
+            territoire (par terre), il n&rsquo;y a personne qui la rel&egrave;ve. </ab>
+        <ab n="3">Car ainsi parle le Seigneur Dieu : La ville, dont mille hommes sortaient,
+            n&rsquo;en conservera que cent ; et celle dont sortaient cent hommes, n&rsquo;en
+            conservera que dix, dans la maison d&rsquo;Isra&euml;l. </ab>
+        <ab n="4">Car ainsi parle le Seigneur &agrave; la maison d&rsquo;Isra&euml;l :
+            Cherchez-moi, et vous vivrez. </ab>
+        <ab n="5">Mais ne cherchez pas B&eacute;thel, n&rsquo;entrez pas dans Galgala, et (vous)
+            ne passe(re)z pas &agrave; Bersab&eacute;e, car Galgala sera emmen&eacute;e captive, et
+            B&eacute;thel deviendra inutile. </ab>
+        <ab n="6">Cherchez le Seigneur et vous vivrez, de peur qu&rsquo;il ne br&ucirc;le comme
+            un feu la maison de Joseph et qu&rsquo;il ne la d&eacute;vore, et que personne ne puisse
+            &eacute;teindre B&eacute;thel. </ab>
+        <ab n="7">C&rsquo;est vous qui changez en absinthe le jugement, et qui abandonnez la
+            justice sur la terre. </ab>
+        <ab n="8">Cherchez celui qui a cr&eacute;&eacute; l&rsquo;Arcture (Arcturus) et Orion,
+            qui transforme les t&eacute;n&egrave;bres en aurore (lumi&egrave;re du matin) et qui
+            change la nuit en jour, qui appelle les eaux de la mer et les r&eacute;pand sur la face
+            de la terre : Son nom est le Seigneur. </ab>
+        <ab n="9">Il renverse les forts en souriant, et il apporte la ruine sur les puissants. </ab>
+        <ab n="10">Ils ont ha&iuml; celui qui les reprenait &agrave; la porte, et ils ont eu en
+            abomination celui qui tenait un langage parfait (droit). </ab>
+        <ab n="11">Aussi, parce que vous avez pill&eacute; le pauvre et que vous lui avez
+            enlev&eacute; ce qu&rsquo;il avait de plus pr&eacute;cieux, vous b&acirc;tirez des
+            maisons en pierres de taille, et vous ne les habiterez pas ; vous planterez
+            d&rsquo;excellentes vignes, et vous ne boirez pas leur vin. </ab>
+        <ab n="12">Car je connais (j&rsquo;ai connu) vos crimes nombreux et vos graves
+            p&eacute;ch&eacute;s ; vous &ecirc;tes les ennemis du juste, vous recevez des dons, et
+            vous opprimez (d&eacute;primez) les pauvres &agrave; la porte. </ab>
+        <ab n="13">C&rsquo;est pourquoi le sage (l&rsquo;homme prudent) se tait(ra) en ce
+            temps-ci, car c&rsquo;est un temps mauvais. </ab>
+        <ab n="14">Cherchez le bien, et non pas le mal, afin que vous viviez ; et le Seigneur,
+            le Dieu des arm&eacute;es, sera avec vous, comme vous le dites (avez dit). </ab>
+        <ab n="15">Ha&iuml;ssez le mal et aimez le bien, et faites r&eacute;gner la justice
+            &agrave; vos portes (la porte de votre ville) ; peut-&ecirc;tre le Seigneur, le Dieu des
+            arm&eacute;es, aura-t-il piti&eacute; des restes de Joseph. </ab>
+        <ab n="16">C&rsquo;est pourquoi, ainsi parle le Seigneur, le Dieu des arm&eacute;es, le
+            dominateur : Sur toutes les places (publiques) il y aura des lamentations, et dans tous
+            les faubourgs on dira : Malheur, (!) malheur ! Ils appelleront le laboureur au deuil, et
+            aux lamentations ceux qui savent faire les plaintes fun&egrave;bres. </ab>
+        <ab n="17">Dans toutes les vignes il y aura des lamentations, parce que je passerai au
+            milieu de toi, dit le Seigneur. </ab>
+        <ab n="18">Malheur &agrave; ceux qui d&eacute;sirent le jour du Seigneur ! De quoi vous
+            servira-t-il ? Ce jour du Seigneur sera (pour vous) t&eacute;n&egrave;bres, et non
+            lumi&egrave;re. </ab>
+        <ab n="19">Comme si un homme fuyait (fuit) de devant un lion et rencontrait (rencontre)
+            un ours, puis qu&rsquo;&eacute;tant entr&eacute; (il entre) dans la maison, et appuyant
+            (appuie) sa main sur la muraille, il &eacute;tait mordu (est mordu) par un serpent. </ab>
+        <ab n="20">Est-ce que le jour du Seigneur ne sera pas t&eacute;n&egrave;bres et non
+            lumi&egrave;re ? obscurit&eacute; et non clart&eacute; (splendeur) ? </ab>
+        <ab n="21">Je hais et je (j&rsquo;ai) rejette(&eacute;) vos f&ecirc;tes ; je ne puis
+            sentir (je ne respirai pas) l&rsquo;odeur de vos assembl&eacute;es. </ab>
+        <ab n="22">Si vous m&rsquo;offrez des holocaustes et vos pr&eacute;sents, je ne les
+            recevrai pas ; et je ne regarderai pas vos grasses victimes offertes en v&oelig;u. </ab>
+        <ab n="23">Eloigne de moi le bruit (tumulte) de tes cantiques ; je
+            n&rsquo;&eacute;couterai pas les airs de ta lyre. </ab>
+        <ab n="24">Le jugement se manifestera comme l&rsquo;eau, et la justice comme un torrent
+            imp&eacute;tueux. </ab>
+        <ab n="25">Est-ce que vous m&rsquo;avez offert des victimes et des sacrifices dans le
+            d&eacute;sert pendant quarante ans, maison d&rsquo;Isra&euml;l ? </ab>
+        <ab n="26">Vous avez port&eacute; le tabernacle de votre Moloch, et l&rsquo;image de vos
+            idoles, l&rsquo;&eacute;toile de votre dieu, que vous vous &eacute;tiez faits. </ab>
+        <ab n="27">Je vous ferai d&eacute;porter au-del&agrave; de Damas, dit le Seigneur, dont
+            le nom est Dieu des arm&eacute;es. </ab>
+    </div>
+    <div type="chapter" n="6">
+        <ab n="1">Malheur &agrave; vous qui &ecirc;tes opulents dans Sion, et en
+            s&eacute;curit&eacute; sur (vous confiez en) la montagne de Samarie ; grands, chefs des
+            peuples, qui entrez avec pompe dans la maison d&rsquo;Isra&euml;l ! </ab>
+        <ab n="2">Passez &agrave; Chalan&eacute;, et voyez ; allez de l&agrave; dans la grande
+            Emath ; descendez &agrave; Geth des Philistins, et dans les plus beaux royaumes de ces
+            villes : leur territoire est-il plus &eacute;tendu que le v&ocirc;tre ? </ab>
+        <ab n="3">Vous qui &ecirc;tes r&eacute;serv&eacute;s pour le jour mauvais, et qui vous
+            approchez du si&egrave;ge (tr&ocirc;ne) de l&rsquo;iniquit&eacute; ; </ab>
+        <ab n="4">qui dormez sur des lits d&rsquo;ivoire, et qui vous livrez &agrave; la
+            mollesse sur vos couches ; qui mangez les agneaux du troupeau (premier b&eacute;tail),
+            et les veaux choisis entre tous (tir&eacute;s du milieu du gros b&eacute;tail) ; </ab>
+        <ab n="5">qui chantez au son de la harpe (du psalt&eacute;rion) ; ils ont cru
+            &eacute;galer David sur les instruments de musique (pour les cantiques) ; </ab>
+        <ab n="6">ils boivent (buvaient) le vin dans les coupes, et se parfum(ai)ent
+            d&rsquo;huiles exquises ; ils sont (et qui &eacute;taient) insensibles &agrave; la ruine
+            de Joseph. </ab>
+        <ab n="7">C&rsquo;est pourquoi ils seront emmen&eacute;s &agrave; la t&ecirc;te des
+            d&eacute;port&eacute;s, et cette troupe de voluptueux (d&rsquo;eff&eacute;min&eacute;s)
+            sera &eacute;loign&eacute;e. </ab>
+        <ab n="8">Le Seigneur Dieu a jur&eacute; par lui-m&ecirc;me ; le Seigneur, le Dieu des
+            arm&eacute;es a dit : Je d&eacute;teste l&rsquo;orgueil de Jacob, et je hais ses
+            maisons, et je livrerai la ville avec ses habitants. </ab>
+        <ab n="9">S&rsquo;il reste dix hommes dans une maison, ils mourront aussi. </ab>
+        <ab n="10">Leur (plus proche) parent les prendra, et les br&ucirc;lera, pour en emporter
+            les os hors de la maison ; et il dira &agrave; celui qui est au fond de la maison : Y
+            a-t-il encore quelqu&rsquo;un avec toi ? </ab>
+        <ab n="11">Et cet homme r&eacute;pondra : C&rsquo;est fini. Et l&rsquo;autre lui dira :
+            Tais-toi, et ne rappelle pas le nom du Seigneur. </ab>
+        <ab n="12">Car voici, le Seigneur va donner des ordres ; il fera tomber en ruine la
+            grande maison, et en d&eacute;bris la petite maison. </ab>
+        <ab n="13">Les chevaux peuvent-ils courir sur les rochers, ou peut-on y labourer avec
+            des b&oelig;ufs (les buffles, note), pour (c&rsquo;est pourtant ce que vous avez fait
+            vous-m&ecirc;mes, parce) que vous ayez (avez) chang&eacute; le jugement en amertume, et
+            le fruit de la justice en absinthe ? </ab>
+        <ab n="14">Vous mettez votre joie dans le n&eacute;ant, et vous dites : N&rsquo;est-ce
+            pas par notre propre force que nous avons acquis de la (&eacute;tabli notre) puissance ? </ab>
+        <ab n="15">Voici, je vais susciter contre vous, maison d&rsquo;Isra&euml;l, dit le
+            Seigneur, le Dieu des arm&eacute;es, une nation qui vous brisera, depuis
+            l&rsquo;entr&eacute;e d&rsquo;Emath jusqu&rsquo;au torrent du d&eacute;sert. </ab>
+    </div>
+    <div type="chapter" n="7">
+        <ab n="1">Le Seigneur Dieu me montra ceci : voici, il formait des sauterelles lorsque
+            l&rsquo;herbe (les plantes) se met(taient) &agrave; pousser apr&egrave;s les pluies du
+            printemps (de l&rsquo;arri&egrave;re-saison), et ces pluies venaient apr&egrave;s la
+            coupe du roi. </ab>
+        <ab n="2">Et, comme elles achevaient de manger l&rsquo;herbe du pays, je dis : Seigneur
+            Dieu, faites mis&eacute;ricorde (soyez propice), je vous prie ; qui r&eacute;tablira
+            Jacob, car il est si petit ? </ab>
+        <ab n="3">Le Seigneur fut touch&eacute; de piti&eacute; au sujet de ce fl&eacute;au :
+            Cela (Ce que tu crains) n&rsquo;arrivera pas, dit le Seigneur. </ab>
+        <ab n="4">Le Seigneur Dieu me montra ceci : voici, le Seigneur Dieu appelait un feu pour
+            exercer son (le) jugement ; ce feu d&eacute;vora le grand ab&icirc;me, et consuma en
+            m&ecirc;me temps une partie du pays (de la plaine). </ab>
+        <ab n="5">Et je dis : Seigneur Dieu, apaisez-vous, je vous prie ; qui r&eacute;tablira
+            Jacob, car il est si petit ? </ab>
+        <ab n="6">Le Seigneur fut touch&eacute; de piti&eacute; au sujet de ce fl&eacute;au :
+            Cela non plus n&rsquo;arrivera pas, dit le Seigneur Dieu. </ab>
+        <ab n="7">Le Seigneur me montra ceci : Voici, le Seigneur se tenait sur un mur
+            cr&eacute;pi, et il avait &agrave; la main une truelle de ma&ccedil;on. </ab>
+        <ab n="8">Et le Seigneur me dit : Que vois-tu, Amos ? Je r&eacute;pondis : Une truelle
+            de ma&ccedil;on. Et le Seigneur dit : Voici, je vais mettre la truelle au milieu de mon
+            peuple d&rsquo;Isra&euml;l ; je ne continuerai plus de le cr&eacute;pir. </ab>
+        <ab n="9">Les hauts lieux de l&rsquo;idole seront d&eacute;truits, les sanctuaires
+            d&rsquo;Isra&euml;l seront d&eacute;vast&eacute;s, et je me l&egrave;verai avec
+            l&rsquo;&eacute;p&eacute;e contre la maison de J&eacute;roboam. </ab>
+        <ab n="10">Alors Amasias, pr&ecirc;tre de B&eacute;thel, envoya dire &agrave;
+            J&eacute;roboam, roi d&rsquo;Isra&euml;l : Amos s&rsquo;est r&eacute;volt&eacute; contre
+            toi au milieu de la maison d&rsquo;Isra&euml;l ; le pays ne pourra pas souffrir tous ses
+            discours. </ab>
+        <ab n="11">Car voici ce que dit Amos : J&eacute;roboam mourra par
+            l&rsquo;&eacute;p&eacute;e, et Isra&euml;l sera emmen&eacute; captif hors de son pays. </ab>
+        <ab n="12">Et Amasias dit &agrave; Amos : Homme de vision, va-t&rsquo;en, fuis au pays
+            de Juda, et manges-y ton pain, et l&agrave; tu proph&eacute;tiseras. </ab>
+        <ab n="13">Mais ne continue pas de proph&eacute;tiser &agrave; B&eacute;thel, parce que
+            c&rsquo;est le sanctuaire du roi, et le si&egrave;ge du royaume. </ab>
+        <ab n="14">Amos r&eacute;pondit et dit &agrave; Amasias : Je ne suis pas
+            (proph&egrave;te, et je ne suis pas) fils de proph&egrave;te ; mais je suis berger
+            (p&acirc;tre), et je cultive les sycomores. </ab>
+        <ab n="15">Le Seigneur m&rsquo;a pris lorsque je suivais mon troupeau, et le Seigneur
+            m&rsquo;a dit : Va comme proph&egrave;te (proph&eacute;tise) vers mon peuple
+            d&rsquo;Isra&euml;l. </ab>
+        <ab n="16">Et maintenant &eacute;coute la parole du Seigneur : Tu dis : Ne
+            proph&eacute;tise pas contre Isra&euml;l, et ne parle pas &agrave; la maison de
+            l&rsquo;idole. </ab>
+        <ab n="17">A cause de cela, ainsi parle le Seigneur : Ta femme se prostituera dans la
+            ville, tes fils et tes filles p&eacute;riront par l&rsquo;&eacute;p&eacute;e, et ton
+            champ sera partag&eacute; au cordeau ; et toi, tu mourras sur une terre impure, et
+            Isra&euml;l sera emmen&eacute; captif hors de son pays. </ab>
+    </div>
+    <div type="chapter" n="8">
+        <ab n="1">Le Seigneur Dieu m&rsquo;a montr&eacute; ceci : voici, il y avait un crochet
+            &agrave; (pour abattre des) fruits. </ab>
+        <ab n="2">Et il me dit : Que vois-tu, Amos ? Je r&eacute;pondis : Un crochet &agrave;
+            (pour abattre des) fruits. Et le Seigneur me dit : La fin est venue pour mon peuple
+            d&rsquo;Isra&euml;l ; je ne continuerai pas &agrave; lui pardonner (je ne le traverserai
+            plus &agrave; l&rsquo;avenir, note). </ab>
+        <ab n="3">Les gonds du temple grinceront en ce jour-l&agrave;, dit le Seigneur Dieu ;
+            beaucoup mourront, le silence r&eacute;gnera en tous lieux. </ab>
+        <ab n="4">Ecoutez ceci, vous qui &eacute;crasez le pauvre, et qui faites p&eacute;rir
+            les indigents du pays ; </ab>
+        <ab n="5">vous qui dites : Quand le mois sera-t-il pass&eacute;, pour que nous vendions
+            nos marchandises ? quand finira le Sabbat, pour que nous ouvrions nos greniers, que nous
+            diminuions la mesure, que nous augmentions le prix (sicle, note), et que nous pesions
+            dans (substituions) de(s) fausses balances, </ab>
+        <ab n="6">et nous ach&egrave;terons les pauvres pour de l&rsquo;argent, et les indigents
+            pour des chaussures, et nous vendrons les criblures du bl&eacute; ? </ab>
+        <ab n="7">Le Seigneur a jur&eacute; contre l&rsquo;orgueil de Jacob : Jamais je
+            n&rsquo;oublierai toutes (Si j&rsquo;oublierai jamais aucune de, note) leurs
+            &oelig;uvres. </ab>
+        <ab n="8">Est-ce que, &agrave; cause de cela, le pays ne sera pas &eacute;branl&eacute;,
+            et tous ses habitants ne seront-ils pas dans le deuil ? Ne montera-t-il tout entier
+            comme le fleuve ? ne s&rsquo;&eacute;l&egrave;vera-t-il et ne se dissipera-t-il pas
+            comme le fleuve d&rsquo;Egypte ? </ab>
+        <ab n="9">En ce jour-l&agrave;, dit le Seigneur Dieu, le soleil se couchera &agrave;
+            midi, et je couvrirai la terre de t&eacute;n&egrave;bres au moment de la pleine (en un
+            jour de) lumi&egrave;re ; </ab>
+        <ab n="10">je changerai vos f&ecirc;tes en deuil, et tous vos cantiques en lamentations
+            ; je couvrirai de sacs tous les dos, et je rendrai chauves toutes les t&ecirc;tes ; je
+            mettrai le pays dans le deuil comme pour un fils unique, et sa fin sera comme un jour
+            amer. </ab>
+        <ab n="11">Voici, les jours viennent, dit le Seigneur, o&ugrave; j&rsquo;enverrai la
+            famine (faim) dans le pays ; non la famine (faim) du pain, ni la soif de l&rsquo;eau,
+            mais celle d&rsquo;entendre la parole du Seigneur. </ab>
+        <ab n="12">Et ils seront dans l&rsquo;agitation d&rsquo;une mer &agrave; l&rsquo;autre,
+            et de l&rsquo;aquilon &agrave; l&rsquo;orient ; ils courront de tous c&ocirc;t&eacute;s,
+            cherchant la parole du Seigneur, et ils ne la trouveront pas. </ab>
+        <ab n="13">En ce jour-l&agrave;, les belles jeunes filles (vierges) et les jeunes gens
+            mourront de soif, </ab>
+        <ab n="14">eux qui jurent par le p&eacute;ch&eacute; de Samarie, et qui disent : Vive
+            (Il vit) ton Dieu, &ocirc; Dan ! et vive (elle vit,) la voie de Bersab&eacute;e ! et ils
+            tomberont, et ils ne se rel&egrave;veront plus. </ab>
+    </div>
+    <div type="chapter" n="9">
+        <ab n="1">Je vis le Seigneur debout sur l&rsquo;autel, et il dit : Frappe(z) le gond, et
+            que le haut de la porte (les linteaux) soi(en)t &eacute;branl&eacute;(s), car ils ont
+            tous l&rsquo;avarice en t&ecirc;te ; je ferai mourir par l&rsquo;&eacute;p&eacute;e
+            jusqu&rsquo;au dernier d&rsquo;entre eux, nul n&rsquo;&eacute;chappera (la fuite ne leur
+            sera pas favorable). Ils fuiront, et aucun de ceux qui fuiront ne sera sauv&eacute;. </ab>
+        <ab n="2">S&rsquo;ils descendent jusqu&rsquo;aux (&agrave; l&rsquo;) enfer(s), ma main
+            les en retirera ; et, s&rsquo;ils montent jusqu&rsquo;au ciel, je les en ferai tomber. </ab>
+        <ab n="3">S&rsquo;ils se cachent au sommet du Carmel, je les y d&eacute;couvrirai
+            (chercherai) et les en tirerai ; et s&rsquo;ils se cachent &agrave; mes yeux au plus
+            profond de la mer, l&agrave; j&rsquo;ordonnerai au serpent de les mordre. </ab>
+        <ab n="4">S&rsquo;ils s&rsquo;en vont captifs devant leurs ennemis, l&agrave;
+            j&rsquo;ordonnerai &agrave; l&rsquo;&eacute;p&eacute;e de les tuer ; et
+            j&rsquo;arr&ecirc;terai mes yeux sur eux, pour leur mal(heur) et non pour leur bien. </ab>
+        <ab n="5">Le Seigneur, le Dieu des arm&eacute;es, frappe la terre, et elle se
+            dess&egrave;che (fondra), et tous ses habitants s(er)ont dans le deuil ; elle monte(ra)
+            tout enti&egrave;re comme le fleuve, et se dissipe (s&rsquo;&eacute;coulera) comme le
+            fleuve d&rsquo;Egypte. </ab>
+        <ab n="6">Il a b&acirc;ti son tr&ocirc;ne dans le ciel, et il a fond&eacute; sa
+            vo&ucirc;te sur la terre ; il appelle les eaux de la mer, et les r&eacute;pand sur la
+            face de la terre : Son nom est le Seigneur. </ab>
+        <ab n="7">N&rsquo;&ecirc;tes-vous pas pour moi comme les enfants des Ethiopiens, enfants
+            (fils) d&rsquo;Isra&euml;l ? dit le Seigneur. N&rsquo;ai-je pas fait monter Isra&euml;l
+            de l&rsquo;Egypte, et les Philistins de la Cappadoce, et les Syriens de Cyr&egrave;ne ? </ab>
+        <ab n="8">Voici, les yeux du Seigneur Dieu sont sur le royaume coupable ; je le
+            d&eacute;truirai de dessus la face de la terre ; mais je ne d&eacute;truirai pas
+            enti&egrave;rement (cependant, d&eacute;truisant, je ne d&eacute;truirai pas, note) la
+            maison de Jacob, dit le Seigneur. </ab>
+        <ab n="9">Car voici, je donnerai des ordres, et je secouerai la maison
+            d&rsquo;Isra&euml;l parmi toutes les nations, comme le bl&eacute; est secou&eacute; dans
+            un crible, sans qu&rsquo;il tombe &agrave; terre un seul grain. </ab>
+        <ab n="10">Tous les p&eacute;cheurs de mon peuple tomberont par
+            l&rsquo;&eacute;p&eacute;e, eux qui disent : Le mal (qu&rsquo;on nous pr&eacute;dit)
+            n&rsquo;approchera pas, et il ne viendra pas sur nous. </ab>
+        <ab n="11">En ce jour-l&agrave;, je rel&egrave;verai la tente (le tabernacle) de David,
+            qui est tomb&eacute;(e) ; je r&eacute;parerai les br&egrave;ches de ses murs, et je
+            reb&acirc;tirai ce qui &eacute;tait tomb&eacute;, et je la r&eacute;tablirai comme aux
+            jours anciens ; </ab>
+        <ab n="12">afin qu&rsquo;ils poss&egrave;dent les restes de l&rsquo;Idum&eacute;e et
+            toutes les nations, parce que mon nom a &eacute;t&eacute; invoqu&eacute; sur eux, dit le
+            Seigneur, qui fera ces choses. </ab>
+        <ab n="13">Voici, les jours viennent, dit le Seigneur, o&ugrave; le laboureur suivra de
+            pr&egrave;s le moissonneur, o&ugrave; celui qui foule les raisins suivra celui qui
+            r&eacute;pand la semence ; les montagnes feront couler la douceur, et toutes les
+            collines seront cultiv&eacute;es. </ab>
+        <ab n="14">Je ram&egrave;nerai les captifs de mon peuple Isra&euml;l ; ils
+            (re)b&acirc;tiront (des) les villes d&eacute;sertes, et ils les habiteront ; ils
+            planteront des vignes, et ils en boiront le vin ; ils feront des jardins, et ils en
+            mangeront les fruits. </ab>
+        <ab n="15">Je les planterai dans leur (propre) terre, et je ne les arracherai plus
+            &agrave; l&rsquo;avenir du pays que je leur ai donn&eacute;, dit le Seigneur ton
+            Dieu.</ab>
+    </div>
+</div>

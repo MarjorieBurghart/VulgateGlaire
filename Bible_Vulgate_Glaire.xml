@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="KJV_1611.rnc" type="application/relax-ng-compact-syntax"?>
+
+<!DOCTYPE definition [
+<!ENTITY rsquo "&#8217;">
+<!ENTITY lsquo "‘">
+<!ENTITY eacute "é">
+<!ENTITY euml "ë">
+<!ENTITY acirc "â">
+<!ENTITY ecirc "ê">
+<!ENTITY agrave "à">
+<!ENTITY egrave "è">
+<!ENTITY ucirc "û">
+<!ENTITY ugrave "ù">
+<!ENTITY icirc "î">
+<!ENTITY ccedil "ç">
+<!ENTITY iuml "ï">
+<!ENTITY oelig "œ">
+<!ENTITY ocirc "ô">
+<!ENTITY uuml "ü">
+<!ENTITY Eacute "É">
+<!ENTITY nbsp "&#160;">
+<!ENTITY OElig "Œ">
+<!ENTITY aelig "æ">
+
+]>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Traduction de la Vulgate en français</title>
+         </titleStmt>
+         <publicationStmt>
+            <ab>No idea yet</ab>
+         </publicationStmt>
+         <sourceDesc>
+            <ab>Le texte de cette traduction française de la Vulgate latine a été téléchargé sur le
+               site http://jesusmarie.free.fr/bible_vigouroux.html en mars 2017, et converti en TEI
+               XML grâce à une série d'expressions régulières. Nota bene: la présente conversion ne
+               s'est intéressée qu'au texte de la Vulgate tel que traduit par l'Abbé Glaire, en
+               laissant de côté toutes les introductions, notes et commentaires. </ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2017-03-27">Converted into a a TEI format proposed by Lou Burnard</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <!-- Old Testament -->
+         <!-- Genesis -->
+         <xi:include href="books/Gn.xml"/>
+         <!-- Exodus -->
+         <xi:include href="books/Ex.xml"/>
+         <!-- Leviticus -->
+         <xi:include href="books/Lv.xml"/>
+         <!-- Numeri -->
+         <xi:include href="books/Nm.xml"/>
+         <!-- Deuteronomium -->
+         <xi:include href="books/Dt.xml"/>
+         <!-- Josue -->
+         <xi:include href="books/Jos.xml"/>
+         <!-- Judicum -->
+         <xi:include href="books/Jdc.xml"/>
+         <!-- Ruth -->
+         <xi:include href="books/Rt.xml"/>
+         <!-- Regum I -->
+         <xi:include href="books/1Rg.xml"/>
+         <!-- Regum II -->
+         <xi:include href="books/2Rg.xml"/>
+         <!-- Regum III -->
+         <xi:include href="books/3Rg.xml"/>
+         <!-- Regum IV -->
+         <xi:include href="books/4Rg.xml"/>
+         <!-- Paralipomenon I -->
+         <xi:include href="books/1Par.xml"/>
+         <!-- Paralipomenon II -->
+         <xi:include href="books/2Par.xml"/>
+         <!-- Esdræ -->
+         <xi:include href="books/Esr.xml"/>
+         <!-- Nehemiæ -->
+         <xi:include href="books/Neh.xml"/>
+         <!-- Tobiæ -->
+         <xi:include href="books/Tob.xml"/>
+         <!-- Judith -->
+         <xi:include href="books/Jdt.xml"/>
+         <!-- Esther -->
+         <xi:include href="books/Est.xml"/>
+         <!-- Job -->
+         <xi:include href="books/Job.xml"/>
+         <!-- Psalmi -->
+         <xi:include href="books/Ps.xml"/>
+         <!-- Proverbia -->
+         <xi:include href="books/Pr.xml"/>
+         <!-- Ecclesiastes -->
+         <xi:include href="books/Ecl.xml"/>
+         <!-- Canticum Canticorum -->
+         <xi:include href="books/Ct.xml"/>
+         <!-- Sapientia -->
+         <xi:include href="books/Sap.xml"/>
+         <!-- Ecclesiasticus -->
+         <xi:include href="books/Sir.xml"/>
+         <!-- Isaias -->
+         <xi:include href="books/Is.xml"/>
+         <!-- Jeremias -->
+         <xi:include href="books/Jr.xml"/>
+         <!-- Lamentationes -->
+         <xi:include href="books/Lam.xml"/>
+         <!-- Baruch -->
+         <xi:include href="books/Bar.xml"/>
+         <!-- Ezechiel -->
+         <xi:include href="books/Ez.xml"/>
+         <!-- Daniel -->
+         <xi:include href="books/Dn.xml"/>
+         <!-- Osee -->
+         <xi:include href="books/Os.xml"/>
+         <!-- Joël -->
+         <xi:include href="books/Joel.xml"/>
+         <!-- Amos -->
+         <xi:include href="books/Am.xml"/>
+         <!-- Abdias -->
+         <xi:include href="books/Abd.xml"/>
+         <!-- Jonas -->
+         <xi:include href="books/Jon.xml"/>
+         <!-- Michæa -->
+         <xi:include href="books/Mch.xml"/>
+         <!-- Nahum -->
+         <xi:include href="books/Nah.xml"/>
+         <!-- Habacuc -->
+         <xi:include href="books/Hab.xml"/>
+         <!-- Sophonias -->
+         <xi:include href="books/Soph.xml"/>
+         <!-- Aggæus -->
+         <xi:include href="books/Agg.xml"/>
+         <!-- Zacharias -->
+         <xi:include href="books/Zach.xml"/>
+         <!-- Malachias -->
+         <xi:include href="books/Mal.xml"/>
+         <!-- Machabæorum I -->
+         <xi:include href="books/1Mcc.xml"/>
+         <!-- Machabæorum II -->
+         <xi:include href="books/2Mcc.xml"/>
+
+         <!-- New Testament -->
+
+         <!-- Matthæus -->
+         <xi:include href="books/Mt.xml"/>
+         <!-- Marcus -->
+         <xi:include href="books/Mc.xml"/>
+         <!-- Lucas -->
+         <xi:include href="books/Lc.xml"/>
+         <!-- Joannes -->
+         <xi:include href="books/Jo.xml"/>
+         <!-- Actus Apostolorum -->
+         <xi:include href="books/Act.xml"/>
+         <!-- ad Romanos -->
+         <xi:include href="books/Rom.xml"/>
+         <!-- ad Corinthios I -->
+         <xi:include href="books/1Cor.xml"/>
+         <!-- ad Corinthios II -->
+         <xi:include href="books/2Cor.xml"/>
+         <!-- ad Galatas -->
+         <xi:include href="books/Gal.xml"/>
+         <!-- ad Ephesios -->
+         <xi:include href="books/Eph.xml"/>
+         <!-- ad Philippenses -->
+         <xi:include href="books/Phlp.xml"/>
+         <!-- ad Colossenses -->
+         <xi:include href="books/Col.xml"/>
+         <!-- ad Thessalonicenses I -->
+         <xi:include href="books/1Thes.xml"/>
+         <!-- ad Thessalonicenses II -->
+         <xi:include href="books/2Thes.xml"/>
+         <!-- ad Timotheum I -->
+         <xi:include href="books/1Tim.xml"/>
+         <!-- ad Timotheum II -->
+         <xi:include href="books/2Tim.xml"/>
+         <!-- ad Titum -->
+         <xi:include href="books/Tit.xml"/>
+         <!-- ad Philemonem -->
+         <xi:include href="books/Phlm.xml"/>
+         <!-- ad Hebræos -->
+         <xi:include href="books/Hbr.xml"/>
+         <!-- Jacobi -->
+         <xi:include href="books/Jac.xml"/>
+         <!-- Petri I -->
+         <xi:include href="books/1Ptr.xml"/>
+         <!-- Petri II -->
+         <xi:include href="books/2Ptr.xml"/>
+         <!-- Joannis I -->
+         <xi:include href="books/1Jo.xml"/>
+         <!-- Joannis II -->
+         <xi:include href="books/2Jo.xml"/>
+         <!-- Joannis III -->
+         <xi:include href="books/3Jo.xml"/>
+         <!-- Judæ -->
+         <xi:include href="books/Jud.xml"/>
+         <!-- Apocalypsis -->
+         <xi:include href="books/Apc.xml"/>
+
+      </body>
+   </text>
+</TEI>

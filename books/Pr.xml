@@ -1,0 +1,2027 @@
+<!DOCTYPE definition [
+<!ENTITY rsquo "&#8217;">
+<!ENTITY eacute "é">
+<!ENTITY euml "ë">
+<!ENTITY acirc "â">
+<!ENTITY ecirc "ê">
+<!ENTITY agrave "à">
+<!ENTITY egrave "è">
+<!ENTITY ucirc "û">
+<!ENTITY ugrave "ù">
+<!ENTITY icirc "î">
+<!ENTITY ccedil "ç">
+<!ENTITY iuml "ï">
+<!ENTITY oelig "œ">
+<!ENTITY ocirc "ô">
+<!ENTITY uuml "ü">
+<!ENTITY Eacute "É">
+<!ENTITY nbsp "&#160;">
+<!ENTITY OElig "Œ">
+<!ENTITY aelig "æ">
+
+]>
+
+<div xmlns="http://www.tei-c.org/ns/1.0" type="book" xml:id="VULGFR_Pr">
+    <div type="chapter" n="1">
+        <ab n="1">Paraboles de Salomon, fils de David, (et) roi d&rsquo;Isra&euml;l, </ab>
+        <ab n="2">(utiles) pour conna&icirc;tre la sagesse et la discipline ; </ab>
+        <ab n="3">pour comprendre les paroles de la prudence, et pour recevoir les (l&rsquo;)
+            instruction(s) de la doctrine, la justice, et le jugement, et
+            l&rsquo;&eacute;quit&eacute; ; </ab>
+        <ab n="4">pour donner de l&rsquo;habilet&eacute; (finesse) aux simples (tout petits), la
+            science et l&rsquo;intelligence au jeune homme (l&rsquo;adolescent). </ab>
+        <ab n="5">En les &eacute;coutant, le sage deviendra plus sage, et celui qui est
+            intelligent acquerra l&rsquo;art de gouverner. </ab>
+        <ab n="6">Il p&eacute;n&eacute;trera les paraboles (le proverbe) et leur sens
+            myst&eacute;rieux, les paroles des sages et leurs &eacute;nigmes. </ab>
+        <ab n="7">La crainte du Seigneur est le principe de la sagesse. Les insens&eacute;s
+            m&eacute;prisent la sagesse et la doctrine. </ab>
+        <ab n="8">Ecoute, mon fils, les instructions (la discipline) de ton p&egrave;re, et
+            n&rsquo;abandonne (ne rejette) pas la loi de ta m&egrave;re. </ab>
+        <ab n="9">Ce sera (Afin que soit ajout&eacute;) un ornement pour ta t&ecirc;te, et un
+            collier autour de ton cou. </ab>
+        <ab n="10">Mon fils, si les (des) p&eacute;cheurs t&rsquo;attirent (veulent
+            t&rsquo;attirer) (par leurs caresses), ne te laisse pas gagner par eux. </ab>
+        <ab n="11">S&rsquo;ils disent : Viens avec nous, dressons des emb&ucirc;ches pour
+            r&eacute;pandre le (au, note) sang ; cachons des pi&egrave;ges contre l&rsquo;innocent
+            qui ne nous a fait aucun mal ; </ab>
+        <ab n="12">d&eacute;vorons-le tout vivant, comme fait l&rsquo;enfer, et tout entier
+            comme celui qui descend dans la fosse. </ab>
+        <ab n="13">Nous trouverons toute(s) sorte(s) de biens pr&eacute;cieux ; nous remplirons
+            nos maisons de d&eacute;pouilles. </ab>
+        <ab n="14">Entre en soci&eacute;t&eacute; avec nous, n&rsquo;ayons qu&rsquo;une
+            m&ecirc;me bourse pour nous tous. </ab>
+        <ab n="15">Mon fils, ne va pas avec eux ; pr&eacute;serve ton pied de leurs sentiers. </ab>
+        <ab n="16">Car leurs pieds courent au mal, et ils se h&acirc;tent de r&eacute;pandre le
+            sang. </ab>
+        <ab n="17">Mais c&rsquo;est en vain qu&rsquo;on jette le filet devant les yeux de ceux
+            qui ont des ailes (oiseaux). </ab>
+        <ab n="18">Ils dressent eux aussi des emb&ucirc;ches &agrave; leur propre sang, et ils
+            trament des complots (fraudes) contre leurs &acirc;mes. </ab>
+        <ab n="19">Telles sont les voies de tout homme cupide (avare) ; elles perdent les
+            &acirc;mes de ceux qui les suivent. </ab>
+        <ab n="20">La sagesse crie au (pr&ecirc;che) dehors ; elle fait entendre
+            (&eacute;l&egrave;ve) sa voix dans les places publiques. </ab>
+        <ab n="21">Elle pousse des cris &agrave; la t&ecirc;te des foules ; elle fait retentir
+            ses paroles aux portes de la ville, et elle dit : </ab>
+        <ab n="22">Jusques &agrave; quand, &ocirc; (tout petits) enfants, aimerez-vous
+            l&rsquo;enfance ? Jusques &agrave; quand les insens&eacute;s d&eacute;sireront-ils ce
+            qui leur est pernicieux, et les imprudents ha&iuml;ront-ils la science ? </ab>
+        <ab n="23">Convertissez-vous &agrave; mes remontrances. Je vais r&eacute;pandre sur vous
+            mon esprit, et je vous ferai entendre (comprendre) mes paroles. </ab>
+        <ab n="24">Puisque (Parce que) j&rsquo;ai appel&eacute;, et que vous avez refus&eacute;
+            d&rsquo;&eacute;couter ; (puis)que j&rsquo;ai tendu ma main, et que personne n&rsquo;y a
+            pris garde ; </ab>
+        <ab n="25">puisque vous avez m&eacute;pris&eacute; tous mes conseils, et que vous avez
+            n&eacute;glig&eacute; mes r&eacute;primandes : </ab>
+        <ab n="26">moi aussi (&agrave; votre mort) je rirai de votre ruine ; et je me moquerai,
+            lorsque ce que vous redoutiez (vous) sera arriv&eacute;. </ab>
+        <ab n="27">Lorsque soudain se pr&eacute;cipitera le malheur (une calamit&eacute;), et
+            que la ruine (mort) fondra (violemment sur vous) comme la temp&ecirc;te ; lorsque la
+            tribulation et l&rsquo;angoisse viendront sur vous, </ab>
+        <ab n="28">alors ils m&rsquo;invoqueront, et je n&rsquo;&eacute;couterai pas ; ils se
+            l&egrave;veront d&egrave;s le matin, et ils ne me trouveront pas : </ab>
+        <ab n="29">parce qu&rsquo;ils ont ha&iuml; l&rsquo;instruction (la discipline), et
+            qu&rsquo;ils n&rsquo;ont pas accueilli la crainte du Seigneur, </ab>
+        <ab n="30">et qu&rsquo;ils ne se sont pas soumis &agrave; mes conseils, et qu&rsquo;ils
+            ont m&eacute;pris&eacute; (d&eacute;pr&eacute;ci&eacute;) toutes mes remontrances. </ab>
+        <ab n="31">Ils mangeront donc les fruits de leur voie, et ils seront rassasi&eacute;s de
+            leurs conseils. </ab>
+        <ab n="32">L&rsquo;&eacute;garement des enfants (tout petits) les tuera, et la
+            prosp&eacute;rit&eacute; des insens&eacute;s les perdra. </ab>
+        <ab n="33">Mais celui qui m&rsquo;&eacute;coute reposera en assurance, et il jouira de
+            l&rsquo;abondance sans craindre aucun mal (la crainte des maux ayant &eacute;t&eacute;
+            enlev&eacute;e).</ab>
+    </div>
+    <div type="chapter" n="2">
+        <ab n="1">Mon fils, si tu re&ccedil;ois mes paroles, et si tu gardes mes
+            pr&eacute;ceptes (commandements) cach&eacute;s sur (en) toi, </ab>
+        <ab n="2">de sorte que ton oreille soit attentive &agrave; la sagesse, incline ton
+            c&oelig;ur pour conna&icirc;tre la prudence. </ab>
+        <ab n="3">Car si tu invoques la sagesse, et que tu inclines ton c&oelig;ur &agrave; la
+            prudence ; </ab>
+        <ab n="4">si tu la recherches comme l&rsquo;argent, et que tu creuses pour la trouver,
+            comme on fait pour les tr&eacute;sors ; </ab>
+        <ab n="5">alors tu comprendras la crainte du Seigneur, et tu trouveras la science de
+            Dieu, </ab>
+        <ab n="6">car c&rsquo;est le Seigneur qui donne la sagesse, et c&rsquo;est de sa bouche
+            que sortent la prudence et la science. </ab>
+        <ab n="7">Il r&eacute;servera le (veillera au) salut pour les (des) hommes droits, et il
+            prot&eacute;gera ceux qui marchent dans la simplicit&eacute;, </ab>
+        <ab n="8">pr&eacute;servant les sentiers de la justice, et gardant les voies des saints. </ab>
+        <ab n="9">Alors tu comprendras la justice, et le jugement, et
+            l&rsquo;&eacute;quit&eacute;, et tout bon sentier. </ab>
+        <ab n="10">Si la sagesse entre dans ton c&oelig;ur, et que la science plaise &agrave;
+            ton &acirc;me, </ab>
+        <ab n="11">le conseil te gardera, et la prudence te conservera, </ab>
+        <ab n="12">pour que tu sois d&eacute;livr&eacute; de la (arrach&eacute; &agrave; une)
+            voie mauvaise, et de l&rsquo;homme qui tient des discours pervers ; </ab>
+        <ab n="13">de ceux qui abandonnent le droit chemin, et qui marchent par des voies
+            t&eacute;n&eacute;breuses ; </ab>
+        <ab n="14">qui se r&eacute;jouissent lorsqu&rsquo;ils ont fait le mal, et qui mettent
+            leurs d&eacute;lices dans les choses les plus criminelles (mauvaises) ; </ab>
+        <ab n="15">leurs voies sont perverses, et leurs d&eacute;marches inf&acirc;mes. </ab>
+        <ab n="16">Pour que tu sois d&eacute;livr&eacute; de la femme &eacute;trang&egrave;re
+            (d&rsquo;autrui), de (et &agrave;) l&rsquo;&eacute;trang&egrave;re qui rend ses paroles
+            doucereuses, </ab>
+        <ab n="17">et qui abandonne le guide de sa jeunesse, </ab>
+        <ab n="18">et qui (a) oublie(&eacute;) l&rsquo;alliance de son Dieu. Sa maison penche
+            vers la mort, et ses sentiers m&egrave;nent aux (vers les) enfers. </ab>
+        <ab n="19">Aucun de ceux qui entrent aupr&egrave;s d&rsquo;elle ne reviendra, et ne
+            ressaisira les sentiers de la vie. </ab>
+        <ab n="20">Pour (Afin) que tu marches dans la bonne voie, et que tu gardes les sentiers
+            des justes. </ab>
+        <ab n="21">Car ceux qui sont droits habiteront sur la terre, et les simples y
+            demeureront (constamment) ; </ab>
+        <ab n="22">mais les impies seront extermin&eacute;s de (dessus) la terre, et ceux qui
+            commettent l&rsquo;injustice en (les m&eacute;chants) seront arrach&eacute;s.</ab>
+    </div>
+    <div type="chapter" n="3">
+        <ab n="1">Mon fils, n&rsquo;oublie pas ma loi, et que ton c&oelig;ur garde mes
+            pr&eacute;ceptes ; </ab>
+        <ab n="2">car c&rsquo;est la longueur des jours et des ann&eacute;es de vie, et la paix
+            qu&rsquo;ils te procureront. </ab>
+        <ab n="3">Que la mis&eacute;ricorde et la v&eacute;rit&eacute; ne t&rsquo;abandonnent
+            pas. Lie-les autour de ton cou, et grave-les sur les tables de ton c&oelig;ur, </ab>
+        <ab n="4">et tu trouveras gr&acirc;ce et (une) bonne instruction (discipline) devant
+            Dieu et devant les hommes. </ab>
+        <ab n="5">Aie confiance en Dieu (dans le Seigneur) de tout ton c&oelig;ur, et ne
+            t&rsquo;appuie pas sur ta prudence. </ab>
+        <ab n="6">Pense &agrave; lui dans toutes tes voies, et il conduira lui-m&ecirc;me tes
+            pas. </ab>
+        <ab n="7">Ne sois pas sage &agrave; tes propres yeux ; crains Dieu, et
+            &eacute;loigne-toi du mal ; </ab>
+        <ab n="8">car ce sera la sant&eacute; pour ta chair, et le rafra&icirc;chissement de
+            (une irrigation pour) tes os. </ab>
+        <ab n="9">Honore le Seigneur avec tes biens, et donne-lui les pr&eacute;mices de tous
+            tes fruits ; </ab>
+        <ab n="10">et tes greniers seront remplis d&rsquo;abondance, et tes pressoirs
+            regorgeront de vin. </ab>
+        <ab n="11">Mon fils, ne rejette pas la correction (discipline) du Seigneur, et ne perds
+            pas courage lorsqu&rsquo;il te ch&acirc;tie ; </ab>
+        <ab n="12">car le Seigneur ch&acirc;tie celui qu&rsquo;il aime, et il se compla&icirc;t
+            en lui comme un p&egrave;re dans son fils. </ab>
+        <ab n="13">(Bien)Heureux l&rsquo;homme qui a trouv&eacute; la sagesse, et qui est riche
+            en prudence. </ab>
+        <ab n="14">Son acquisition vaut mieux que celle (le commerce) de l&rsquo;argent, et ses
+            fruits sont pr&eacute;f&eacute;rables &agrave; l&rsquo;or le plus fin (meilleur) et le
+            plus pur. </ab>
+        <ab n="15">Elle est plus pr&eacute;cieuse que toutes les richesses, et tout ce
+            qu&rsquo;on d&eacute;sire le plus ne m&eacute;rite pas de lui &ecirc;tre compar&eacute;. </ab>
+        <ab n="16">Elle a la longueur des jours dans sa droite, et dans sa gauche les richesses
+            et la gloire. </ab>
+        <ab n="17">Ses voies sont de belles voies, et tous ses sentiers sont paisibles
+            (pacifiques). </ab>
+        <ab n="18">Elle est un arbre de vie pour ceux qui la saisissent, et celui qui
+            s&rsquo;attache &agrave; elle est bienheureux. </ab>
+        <ab n="19">Le Seigneur a fond&eacute; la terre par la sagesse ; il a &eacute;tabli
+            (affermi) les cieux par la prudence. </ab>
+        <ab n="20">C&rsquo;est par sa sagesse que les ab&icirc;mes ont d&eacute;bord&eacute;
+            (paru tout &agrave; coup), et que les nu&eacute;es se chargent de ros&eacute;e. </ab>
+        <ab n="21">Mon fils, que ces choses ne s&rsquo;&eacute;loignent pas de tes yeux. Garde
+            la loi et le conseil, </ab>
+        <ab n="22">et ils seront la vie de ton &acirc;me, et un ornement &agrave; ton cou. </ab>
+        <ab n="23">Alors tu marcheras avec confiance (assurance) dans ta voie, et ton pied ne se
+            heurtera pas. </ab>
+        <ab n="24">Si tu dors, tu ne craindras pas ; tu te reposeras, et ton sommeil sera doux. </ab>
+        <ab n="25">Ne redoute pas la frayeur (une terreur) soudaine, ni les assauts de la
+            tyrannie (les puissances) des impies. </ab>
+        <ab n="26">Car le Seigneur sera &agrave; ton c&ocirc;t&eacute;, et il gardera ton pied,
+            pour que tu ne sois pas pris (dans le pi&egrave;ge). </ab>
+        <ab n="27">N&rsquo;emp&ecirc;che pas de bien faire celui qui le peut ; si cela
+            t&rsquo;est possible, toi-m&ecirc;me fais le bien. </ab>
+        <ab n="28">Ne dis pas &agrave; ton ami : Va et reviens, je te donnerai demain, lorsque
+            tu peux donner &agrave; l&rsquo;instant m&ecirc;me. </ab>
+        <ab n="29">Ne m&eacute;dite pas le mal contre ton ami lorsqu&rsquo;il (puisqu&rsquo;il)
+            a confiance en toi. </ab>
+        <ab n="30">N&rsquo;entre pas sans sujet en contestation contre un homme, lorsqu&rsquo;il
+            ne t&rsquo;a fait aucun mal. </ab>
+        <ab n="31">Ne porte pas envie &agrave; l&rsquo;injuste, et n&rsquo;imite pas ses voies, </ab>
+        <ab n="32">parce que le Seigneur a tout trompeur (moqueur) en abomination, et
+            qu&rsquo;il converse avec les simples. </ab>
+        <ab n="33">Le Seigneur frappera d&rsquo;indigence (de d&eacute;tresse) la maison de
+            l&rsquo;impie, mais les maisons des justes seront b&eacute;nies. </ab>
+        <ab n="34">Il se moquera (jouera lui-m&ecirc;me) des moqueurs, et il donnera sa
+            gr&acirc;ce aux doux. </ab>
+        <ab n="35">Les sages poss&eacute;deront la gloire ; l&rsquo;&eacute;l&eacute;vation des
+            insens&eacute;s sera leur confusion (l&rsquo;ignominie).</ab>
+    </div>
+    <div type="chapter" n="4">
+        <ab n="1">&Eacute;coutez, mes fils, l&rsquo;instruction (la discipline) de votre
+            p&egrave;re, et soyez attentifs pour conna&icirc;tre la prudence. </ab>
+        <ab n="2">Je vous ferai un excellent don ; n&rsquo;abandonnez pas ma loi. </ab>
+        <ab n="3">Car moi aussi, j&rsquo;ai &eacute;t&eacute; le fils d&rsquo;un p&egrave;re, le
+            tendre enfant, et comme le (un) fils unique de(vant) ma m&egrave;re. </ab>
+        <ab n="4">Et il m&rsquo;instruisait, et disait : Que ton c&oelig;ur re&ccedil;oive mes
+            paroles ; garde mes pr&eacute;ceptes, et tu vivras. </ab>
+        <ab n="5">Acquiers la sagesse, acquiers la prudence. N&rsquo;oublie pas les paroles de
+            ma bouche, et ne t&rsquo;en d&eacute;tourne pas. </ab>
+        <ab n="6">N&rsquo;abandonne pas la sagesse, et elle te gardera ; aime-la, et elle te
+            conservera. </ab>
+        <ab n="7">Le commencement de la sagesse, c&rsquo;est : Acquiers la sagesse, (et) au prix
+            de tous tes biens, acquiers la prudence. </ab>
+        <ab n="8">Saisis-la (de force), et elle t&rsquo;exaltera ; elle sera ta gloire, lorsque
+            tu l&rsquo;auras embrass&eacute;e. </ab>
+        <ab n="9">Elle mettra sur ta t&ecirc;te un (des) accroissement(s) de gr&acirc;ces, et
+            elle te couvrira d&rsquo;une (glorieuse) couronne &eacute;clatante. </ab>
+        <ab n="10">&Eacute;coute, mon fils, et re&ccedil;ois mes paroles, afin que les
+            ann&eacute;es de ta vie se multiplient. </ab>
+        <ab n="11">Je te montrerai la voie de la sagesse ; je te conduirai par les sentiers de
+            l&rsquo;&eacute;quit&eacute;. </ab>
+        <ab n="12">Lorsque tu y seras entr&eacute;, tes pas ne seront pas g&ecirc;n&eacute;s, et
+            si tu cours, rien ne te fera tomber (tu ne trouveras pas de pierre d&rsquo;achoppement). </ab>
+        <ab n="13">(Re)Tiens-toi &agrave; la discipline, ne la quitte pas ; garde-la, parce
+            qu&rsquo;elle est ta vie. </ab>
+        <ab n="14">Ne mets pas tes d&eacute;lices dans les sentiers des impies, et que la voie
+            des m&eacute;chants ne te plaise pas. </ab>
+        <ab n="15">Fuis-la, n&rsquo;y passe pas ; d&eacute;tourne-t&rsquo;en, et quitte-la. </ab>
+        <ab n="16">Car ils ne dorment pas s&rsquo;ils n&rsquo;ont fait du mal, et le sommeil
+            leur est ravi, s&rsquo;ils n&rsquo;ont fait tomber quelqu&rsquo;un dans leurs
+            pi&egrave;ges. </ab>
+        <ab n="17">Ils mangent le pain de l&rsquo;impi&eacute;t&eacute;, et ils boivent le vin
+            de l&rsquo;iniquit&eacute;. </ab>
+        <ab n="18">Mais le sentier des justes s&rsquo;avance comme une lumi&egrave;re brillante
+            (&eacute;clatante) et qui cro&icirc;t jusqu&rsquo;au jour parfait. </ab>
+        <ab n="19">La voie des impies est t&eacute;n&eacute;breuse ; ils ne savent o&ugrave; ils
+            tomberont (se pr&eacute;cipitent). </ab>
+        <ab n="20">Mon fils, &eacute;coute mes discours, et pr&ecirc;te l&rsquo;oreille &agrave;
+            mes paroles. </ab>
+        <ab n="21">Qu&rsquo;elles ne s&rsquo;&eacute;loignent pas de tes yeux ; conserve-les au
+            milieu de ton c&oelig;ur ; </ab>
+        <ab n="22">car elles sont la vie de ceux qui les trouvent, et la sant&eacute; de toute
+            chair. </ab>
+        <ab n="23">Mets tout le soin possible &agrave; garder ton c&oelig;ur, car il est la
+            source de la vie. </ab>
+        <ab n="24">&Eacute;carte de toi la bouche maligne (perverse), et que les l&egrave;vres
+            m&eacute;disantes soient (bien) loin de toi. </ab>
+        <ab n="25">Que tes yeux regardent droit devant toi (voient ce qui est droit), et que tes
+            paupi&egrave;res pr&eacute;c&egrave;dent tes pas. </ab>
+        <ab n="26">Fais &agrave; tes pieds un (droit) sentier, et toutes tes voies seront
+            affermies. </ab>
+        <ab n="27">Ne te d&eacute;tourne ni &agrave; droite ni &agrave; gauche, retire ton pied
+            du mal ; car le Seigneur conna&icirc;t les voies qui sont &agrave; droite, mais ce sont
+            les voies perverses qui sont &agrave; gauche, lui-m&ecirc;me il redressera ta course, et
+            il te conduira en paix sur ton chemin.</ab>
+    </div>
+    <div type="chapter" n="5">
+        <ab n="1">Mon fils, sois attentif &agrave; ma sagesse, et pr&ecirc;te l&rsquo;oreille
+            &agrave; ma prudence, </ab>
+        <ab n="2">afin de retenir mes (tes) pens&eacute;es, et pour que tes l&egrave;vres
+            conservent mon instruction (la discipline). Ne fais pas attention aux artifices
+            (fallacieux) de la femme ; </ab>
+        <ab n="3">car les l&egrave;vres de la prostitu&eacute;e sont comme le rayon
+            d&rsquo;o&ugrave; coule le miel, et sa gorge (son gosier) est plus douce (brillant) que
+            l&rsquo;huile ; </ab>
+        <ab n="4">mais la (sa) fin en est am&egrave;re comme l&rsquo;absinthe, et
+            per&ccedil;ante comme un glaive &agrave; deux tranchants. </ab>
+        <ab n="5">Ses pieds descendent &agrave; la mort, et ses pas p&eacute;n&egrave;trent
+            (jusqu&rsquo;) aux enfers. </ab>
+        <ab n="6">Ils ne vont pas par le sentier de la vie. Ses d&eacute;marches sont vagabondes
+            (incertaines) et imp&eacute;n&eacute;trables. </ab>
+        <ab n="7">Maintenant donc, mon fils, &eacute;coute-moi, et ne t&rsquo;&eacute;carte pas
+            des paroles de ma bouche. </ab>
+        <ab n="8">Eloigne d&rsquo;elle ta voie, et n&rsquo;approche pas de la porte de sa
+            maison. </ab>
+        <ab n="9">Ne livre pas ton honneur &agrave; des &eacute;trangers, ni tes ann&eacute;es
+            &agrave; un cruel (vengeur) ; </ab>
+        <ab n="10">de peur que ces (des) &eacute;trangers ne s&rsquo;enrichissent de tes biens,
+            et que le fruit de tes travaux ne passe dans la maison d&rsquo;un autre, </ab>
+        <ab n="11">et que tu ne g&eacute;misses &agrave; la fin, quand tu auras consum&eacute;
+            ta vigueur et ton corps, et que tu ne dises : </ab>
+        <ab n="12">Pourquoi ai-je d&eacute;test&eacute; la discipline, et pourquoi mon
+            c&oelig;ur n&rsquo;a-t-il pas accept&eacute; les reproches (remontrances) ? </ab>
+        <ab n="13">Pourquoi n&rsquo;ai-je pas &eacute;cout&eacute; la voix de ceux qui
+            m&rsquo;enseignaient, ni pr&ecirc;t&eacute; l&rsquo;oreille &agrave; mes ma&icirc;tres ? </ab>
+        <ab n="14">J&rsquo;en suis presque arriv&eacute; au comble du malheur (J&rsquo;ai
+            &eacute;t&eacute; presque dans toute sorte de maux), au milieu de
+            l&rsquo;assembl&eacute;e du peuple et des anciens (et de la r&eacute;union). </ab>
+        <ab n="15">Bois l&rsquo;eau de ta citerne, et les eaux (vives) qui
+            s&rsquo;&eacute;chappent de ton puits. </ab>
+        <ab n="16">Que tes sources se d&eacute;versent dehors, et r&eacute;pands tes eaux sur
+            les places publiques (rues). </ab>
+        <ab n="17">Poss&egrave;de-les seul, et que les (des) &eacute;trangers n&rsquo;y aient
+            pas de part avec toi. </ab>
+        <ab n="18">Que ta source soit b&eacute;nie, et mets ta joie dans la femme de ta
+            jeunesse. </ab>
+        <ab n="19">Qu&rsquo;elle te soit (comme) une biche tr&egrave;s ch&egrave;re, et comme un
+            faon plein de gr&acirc;ce (tr&egrave;s agr&eacute;able). Que ses mamelles (charmes)
+            t&rsquo;enivrent en tout temps ; que son amour fasse &agrave; jamais tes d&eacute;lices. </ab>
+        <ab n="20">Pourquoi, mon fils, te laisser s&eacute;duire par une
+            &eacute;trang&egrave;re, et te reposer dans le sein d&rsquo;une inconnue (autre) ? </ab>
+        <ab n="21">Le Seigneur contemple les voies de l&rsquo;homme, et il consid&egrave;re
+            toutes ses d&eacute;marches (pas). </ab>
+        <ab n="22">L&rsquo;impie est pris dans ses iniquit&eacute;s, et il est li&eacute; par
+            les cha&icirc;nes de ses (propres) p&eacute;ch&eacute;s. </ab>
+        <ab n="23">Il mourra, parce qu&rsquo;il n&rsquo;a pas re&ccedil;u l&rsquo;instruction
+            (eu de discipline), et il sera tromp&eacute; par l&rsquo;exc&egrave;s de sa
+            folie.</ab>
+    </div>
+    <div type="chapter" n="6">
+        <ab n="1">Mon fils, si tu as r&eacute;pondu pour ton ami, si (et que) tu as
+            engag&eacute; ta main &agrave; un &eacute;tranger, </ab>
+        <ab n="2">tu es (as &eacute;t&eacute;) enlac&eacute; par les paroles de ta bouche, et
+            pris par ton propre langage. </ab>
+        <ab n="3">Fais donc ce que je te dis, mon fils, et d&eacute;livre-toi toi-m&ecirc;me,
+            car tu es tomb&eacute; entre les mains de ton prochain. Cours, h&acirc;te-toi, excite
+            (r&eacute;veille) ton ami. </ab>
+        <ab n="4">N&rsquo;accorde pas de sommeil &agrave; tes yeux, et que tes paupi&egrave;res
+            ne s&rsquo;assoupissent pas. </ab>
+        <ab n="5">D&eacute;gage-toi, comme un (petit) daim, (qui &eacute;chappe) de la main du
+            chasseur, et comme un oiseau (qui fuit) de la main de l&rsquo;oiseleur. </ab>
+        <ab n="6">Va vers la fourmi, &ocirc; paresseux, et consid&egrave;re sa conduite, et
+            apprends la sagesse. </ab>
+        <ab n="7">N&rsquo;ayant ni chef, ni ma&icirc;tre, ni prince, </ab>
+        <ab n="8">elle pr&eacute;pare durant l&rsquo;&eacute;t&eacute; sa nourriture, et amasse
+            pendant la moisson de quoi se nourrir (ce qu&rsquo;elle doit manger). </ab>
+        <ab n="9">Jusqu&rsquo;&agrave; quand dormiras-tu, paresseux ? Quand te l&egrave;veras-tu
+            de ton sommeil ? </ab>
+        <ab n="10">Tu dormiras un peu, tu sommeilleras un peu, tu croiseras un peu les mains
+            pour dormir, </ab>
+        <ab n="11">et l&rsquo;indigence viendra &agrave; toi comme un voyageur, et la
+            pauvret&eacute; comme un homme arm&eacute;. Mais si tu es diligent (actif), ta moisson
+            jaillira comme une source (abondante), et l&rsquo;indigence fuira loin de toi. </ab>
+        <ab n="12">L&rsquo;homme apostat est un homme inutile, il s&rsquo;avance avec (va
+            tenant, note) une bouche perverse. </ab>
+        <ab n="13">Il fait signe des yeux, il frappe du pied, il parle avec les (un) doigt(s) ; </ab>
+        <ab n="14">il trame le mal dans son c&oelig;ur m&eacute;chant (d&eacute;prav&eacute;),
+            et en tout temps il s&egrave;me des querelles. </ab>
+        <ab n="15">Sa ruine (perte) viendra soudain sur lui, et il sera bris&eacute; tout
+            d&rsquo;un coup et il n&rsquo;aura plus de rem&egrave;de. </ab>
+        <ab n="16">Il y a six choses que hait le Seigneur, et une (la) septi&egrave;me que son
+            &acirc;me (la) d&eacute;teste : </ab>
+        <ab n="17">les yeux altiers, la langue menteuse, les mains qui r&eacute;pandent le sang
+            innocent, </ab>
+        <ab n="18">le c&oelig;ur qui m&eacute;dite des desseins tr&egrave;s coupables, les pieds
+            agiles (prompts) pour courir au mal, </ab>
+        <ab n="19">le t&eacute;moin trompeur (fallacieux) qui prof&egrave;re des mensonges, et
+            celui qui s&egrave;me des dissensions entre les fr&egrave;res. </ab>
+        <ab n="20">Observe (Conserve), mon fils, les pr&eacute;ceptes de ton p&egrave;re, et
+            n&rsquo;abandonne (ne rejette) pas la loi de ta m&egrave;re. </ab>
+        <ab n="21">Tiens-les sans cesse li&eacute;s dans ton c&oelig;ur, et attache-les autour
+            de ton cou. </ab>
+        <ab n="22">Lorsque tu marches, qu&rsquo;ils t&rsquo;accompagnent ; lorsque tu dors,
+            qu&rsquo;ils te gardent, et &agrave; ton r&eacute;veil entretiens-toi avec eux. </ab>
+        <ab n="23">Car le pr&eacute;cepte (un commandement) est une lampe, et la loi une
+            lumi&egrave;re, et la r&eacute;primande qui retient dans la (une remontrance de)
+            discipline est la voie de la vie ; </ab>
+        <ab n="24">pour te pr&eacute;server de la femme corrompue, et de la langue flatteuse de
+            (d&rsquo;une) l&rsquo;&eacute;trang&egrave;re. </ab>
+        <ab n="25">Que ton c&oelig;ur ne convoite (se passionne) pas (pour) sa beaut&eacute;, et
+            ne te laisse pas prendre par ses regards (les signes de ses yeux) ; </ab>
+        <ab n="26">car le prix de la courtisane (d&rsquo;une prostitu&eacute;e) est &agrave;
+            peine d&rsquo;un pain, mais la femme rend captive l&rsquo;&acirc;me pr&eacute;cieuse de
+            l&rsquo;homme. </ab>
+        <ab n="27">Un homme peut-il cacher le feu dans son sein, sans que ses v&ecirc;tements
+            soient consum&eacute;s ? </ab>
+        <ab n="28">ou marcher sur des charbons ardents sans se br&ucirc;ler la (les) plante(s)
+            des pieds ? </ab>
+        <ab n="29">Ainsi celui qui s&rsquo;approche de la femme de son prochain ne sera pas pur
+            lorsqu&rsquo;il l&rsquo;aura touch&eacute;e. </ab>
+        <ab n="30">Ce n&rsquo;est pas une grande faute qu&rsquo;un homme d&eacute;robe,
+            s&rsquo;il d&eacute;robe pour rassasier sa faim. </ab>
+        <ab n="31">Et pourtant, s&rsquo;il est pris, il en rendra sept fois autant, et il
+            donnera tout ce qu&rsquo;il a dans sa maison. </ab>
+        <ab n="32">Mais celui qui est adult&egrave;re perdra son &acirc;me par la folie de son
+            (&agrave; cause de son manque de) c&oelig;ur. </ab>
+        <ab n="33">Il amasse sur lui la honte (turpitude) et l&rsquo;ignominie, et son opprobre
+            ne s&rsquo;effacera pas (sera pas effac&eacute;) ; </ab>
+        <ab n="34">car la jalousie et la fureur du mari ne pardonneront pas au jour de la
+            vengeance ; </ab>
+        <ab n="35">et il ne se rendra aux pri&egrave;res de personne, et il ne recevra pas comme
+            compensation des pr&eacute;sents, m&ecirc;me tr&egrave;s nombreux.</ab>
+    </div>
+    <div type="chapter" n="7">
+        <ab n="1">Mon fils, garde mes paroles, et cache mes pr&eacute;ceptes dans ton
+            c&oelig;ur. (Mon fils) </ab>
+        <ab n="2">Mon fils, observe mes commandements, et tu vivras ; (et) garde ma loi comme la
+            prunelle de ton &oelig;il. </ab>
+        <ab n="3">Lie-la &agrave; tes doigts ; &eacute;cris-la sur les tables de ton c&oelig;ur. </ab>
+        <ab n="4">Dis &agrave; la sagesse : Tu es ma s&oelig;ur ; et appelle la prudence ton
+            amie, </ab>
+        <ab n="5">pour qu&rsquo;elle te pr&eacute;serve de la (d&rsquo;une) femme
+            &eacute;trang&egrave;re (du dehors), de (d&rsquo;une) l&rsquo;&eacute;trang&egrave;re
+            qui rend ses paroles douce(reuse)s. </ab>
+        <ab n="6">Car de la fen&ecirc;tre de ma maison je regardais par le treillis (les
+            barreaux), </ab>
+        <ab n="7">et j&rsquo;aper&ccedil;ois des insens&eacute;s (petits enfants), et parmi eux
+            je remarque un jeune homme d&eacute;pourvu de sens, </ab>
+        <ab n="8">qui traverse la place, pr&egrave;s de l&rsquo;angle, et se dirige vers la rue
+            qui conduit &agrave; la maison de cette femme, </ab>
+        <ab n="9">dans l&rsquo;obscurit&eacute; (profonde), au d&eacute;clin du jour, dans les
+            t&eacute;n&egrave;bres et les ombres de la nuit. </ab>
+        <ab n="10">Et voici que vient au-devant de lui cette femme par&eacute;e comme une
+            courtisane, pr&ecirc;te &agrave; surprendre les &acirc;mes, bruyante, et allant
+            de&ccedil;&agrave;, del&agrave; (vagabonde), </ab>
+        <ab n="11">inqui&egrave;te (et impatiente,) et ne pouvant demeurer en repos dans sa
+            maison, </ab>
+        <ab n="12">elle tend ses pi&egrave;ges tant&ocirc;t dans la rue (dehors), tant&ocirc;t
+            sur les places publiques, tant&ocirc;t dans les coins (des rues). </ab>
+        <ab n="13">Elle saisit ce jeune homme et l&rsquo;embrasse, et, le caressant avec un
+            visage effront&eacute;, elle lui dit : </ab>
+        <ab n="14">J&rsquo;avais fait v&oelig;u d&rsquo;offrir des victimes pacifiques (pour ton
+            salut), et aujourd&rsquo;hui j&rsquo;ai accompli mes v&oelig;ux ; </ab>
+        <ab n="15">c&rsquo;est pourquoi je suis sortie &agrave; ta rencontre, d&eacute;sirant te
+            voir, et je t&rsquo;ai trouv&eacute;. </ab>
+        <ab n="16">J&rsquo;ai suspendu mon lit avec des sangles ; je l&rsquo;ai couvert de
+            courtepointes (des couvertures brod&eacute;es) d&rsquo;Egypte en broderie ; </ab>
+        <ab n="17">j&rsquo;ai parfum&eacute; mon lit de myrrhe, d&rsquo;alo&egrave;s et de
+            cinnamome. </ab>
+        <ab n="18">Viens, enivrons-nous de d&eacute;lices, et jouissons des embrassements (de
+            ce) que nous avons d&eacute;sir&eacute;s, jusqu&rsquo;au point du jour. </ab>
+        <ab n="19">Car le (mon) mari n&rsquo;est pas &agrave; la maison ; il est parti pour un
+            tr&egrave;s long voyage. </ab>
+        <ab n="20">Il a emport&eacute; avec lui un sac d&rsquo;argent ; il ne doit revenir
+            &agrave; sa maison qu&rsquo;au jour de la pleine lune. </ab>
+        <ab n="21">Elle l&rsquo;enla&ccedil;a ainsi par de longs discours, et
+            l&rsquo;entra&icirc;na par les caresses de ses l&egrave;vres. </ab>
+        <ab n="22">Aussit&ocirc;t il la suit comme un b&oelig;uf qu&rsquo;on m&egrave;ne pour
+            l&rsquo;immoler, et comme un agneau (qui va &agrave; la mort) en bondissant, et
+            ignorant, l&rsquo;insens&eacute; qu&rsquo;on l&rsquo;entra&icirc;ne pour le lier, </ab>
+        <ab n="23">jusqu&rsquo;&agrave; ce que la (qu&rsquo;une) fl&egrave;che lui ait
+            perc&eacute; le c&oelig;ur (foie) ; comme un oiseau qui se pr&eacute;cipite dans le
+            filet, ne sachant pas qu&rsquo;il y va pour lui de la vie (s&rsquo;agit du danger de son
+            &acirc;me). </ab>
+        <ab n="24">Maintenant donc, mon fils, &eacute;coute-moi, et sois attentif aux paroles de
+            ma bouche. </ab>
+        <ab n="25">Que ton esprit ne se laisse pas entra&icirc;ner dans les voies de cette
+            femme, et ne t&rsquo;&eacute;gare pas dans ses sentiers, </ab>
+        <ab n="26">car il en est beaucoup qu&rsquo;elle a bless&eacute;s et renvers&eacute;s, et
+            les plus forts (, quels qu&rsquo;ils fussent,) ont &eacute;t&eacute; tu&eacute;s par
+            elle. </ab>
+        <ab n="27">Sa maison est le chemin de l&rsquo;enfer, et il p&eacute;n&egrave;tre jusque
+            dans les profondeurs de la mort.</ab>
+    </div>
+    <div type="chapter" n="8">
+        <ab n="1">La sagesse ne crie-t-elle pas, et la prudence ne fait-elle pas entendre sa
+            voix ? </ab>
+        <ab n="2">Elle se tient sur les sommets les plus hauts et les plus &eacute;lev&eacute;s,
+            sur le chemin, au milieu des sentiers, </ab>
+        <ab n="3">pr&egrave;s des portes de la ville, &agrave; l&rsquo;entr&eacute;e m&ecirc;me
+            (de la ville), et elle parle en ces termes : </ab>
+        <ab n="4">O hommes, c&rsquo;est &agrave; vous que je crie ; et ma voix s&rsquo;adresse
+            aux enfants (fils) des hommes. </ab>
+        <ab n="5">Vous, (tout) petits, apprenez la sagesse (finesse), et vous, insens&eacute;s,
+            faites attention. </ab>
+        <ab n="6">Ecoutez, car je vais parler de grandes choses, et mes l&egrave;vres
+            s&rsquo;ouvriront pour annoncer ce qui est droit. </ab>
+        <ab n="7">Ma bouche publiera la v&eacute;rit&eacute;, et mes l&egrave;vres
+            d&eacute;testeront (ce qui est) l&rsquo;impie. </ab>
+        <ab n="8">Tous mes discours sont justes ; il n&rsquo;y a en eux rien de mauvais
+            (d&eacute;prav&eacute;) ni de pervers. </ab>
+        <ab n="9">Ils sont droits pour ceux qui sont intelligents, et &eacute;quitables pour
+            ceux qui ont trouv&eacute; la science. </ab>
+        <ab n="10">Recevez mes instructions (ma discipline) de pr&eacute;f&eacute;rence &agrave;
+            l&rsquo;argent ; choisissez la doctrine plut&ocirc;t que l&rsquo;or. </ab>
+        <ab n="11">Car la sagesse vaut mieux que tout ce qu&rsquo;il y a de plus
+            pr&eacute;cieux, et tout ce qu&rsquo;on d&eacute;sire le plus ne peut lui &ecirc;tre
+            compar&eacute;. </ab>
+        <ab n="12">Moi, la sagesse, j&rsquo;habite dans le conseil, et je suis pr&eacute;sente
+            parmi les (savantes) pens&eacute;es judicieuses. </ab>
+        <ab n="13">La crainte du Seigneur hait le mal. Je d&eacute;teste l&rsquo;insolence
+            (arrogance), et l&rsquo;orgueil, et la voie mauvaise (d&eacute;prav&eacute;e), et la
+            langue double. </ab>
+        <ab n="14">A moi est le conseil et l&rsquo;&eacute;quit&eacute; ; &agrave; moi est la
+            prudence, &agrave; moi est la force. </ab>
+        <ab n="15">C&rsquo;est par moi que r&egrave;gnent les rois, et que les
+            l&eacute;gislateurs ordonnent ce qui est juste. </ab>
+        <ab n="16">C&rsquo;est par moi que les princes commandent, et que les puissants rendent
+            la justice. </ab>
+        <ab n="17">J&rsquo;aime ceux qui m&rsquo;aiment, et ceux qui veillent d&egrave;s le
+            matin pour me chercher me trouveront. </ab>
+        <ab n="18">Avec moi sont les richesses et la gloire, les (des) biens superbes et la
+            justice. </ab>
+        <ab n="19">Car mes fruits valent mieux que l&rsquo;or et les pierres pr&eacute;cieuses,
+            et mes produits sont meilleurs que l&rsquo;argent le plus pur (meilleur). </ab>
+        <ab n="20">Je marche dans les voies de la justice, au milieu des sentiers de la prudence
+            (du jugement), </ab>
+        <ab n="21">pour enrichir ceux qui m&rsquo;aiment, et pour remplir leurs tr&eacute;sors. </ab>
+        <ab n="22">Le Seigneur m&rsquo;a poss&eacute;d&eacute;e au commencement de ses voies,
+            avant de faire quoi que ce soit, d&egrave;s le principe. </ab>
+        <ab n="23">J&rsquo;ai &eacute;t&eacute; &eacute;tablie d&egrave;s
+            l&rsquo;&eacute;ternit&eacute;, et d&egrave;s les temps anciens, avant que la terre
+            f&ucirc;t cr&eacute;&eacute;e (b&acirc;tie). </ab>
+        <ab n="24">Les ab&icirc;mes n&rsquo;&eacute;taient pas encore, et d&eacute;j&agrave;
+            j&rsquo;&eacute;tais con&ccedil;ue ; les sources des eaux n&rsquo;avaient pas encore
+            jailli ; </ab>
+        <ab n="25">les montagnes ne s&rsquo;&eacute;taient pas encore dress&eacute;es avec leur
+            pesante masse ; j&rsquo;&eacute;tais enfant&eacute;e avant les collines. </ab>
+        <ab n="26">Il n&rsquo;avait pas encore fait la terre, ni les fleuves, ni (et) les bases
+            (p&ocirc;les) du globe terrestre. </ab>
+        <ab n="27">Lorsqu&rsquo;il pr&eacute;parait les cieux, j&rsquo;&eacute;tais l&agrave; ;
+            lorsqu&rsquo;il environnait les ab&icirc;mes de leurs bornes (d&rsquo;un cercle), par
+            une loi inviolable ; </ab>
+        <ab n="28">lorsqu&rsquo;il affermissait l&rsquo;air (la vo&ucirc;te
+            &eacute;th&eacute;r&eacute;e) dans les r&eacute;gions sup&eacute;rieures, et qu&rsquo;il
+            &eacute;quilibrait les sources des eaux ; </ab>
+        <ab n="29">lorsqu&rsquo;il entourait la mer de ses limites, et qu&rsquo;il imposait une
+            loi aux eaux, pour qu&rsquo;elles ne franchissent pas leurs bornes, lorsqu&rsquo;il
+            posait (pesait) les fondements de la terre, </ab>
+        <ab n="30">j&rsquo;&eacute;tais avec lui, r&eacute;glant toutes choses, et
+            j&rsquo;&eacute;tais chaque jour dans les d&eacute;lices, me jouant sans cesse devant
+            lui, </ab>
+        <ab n="31">me jouant sur le globe de la terre, et mes d&eacute;lices sont
+            d&rsquo;&ecirc;tre avec les enfants (fils) des hommes. </ab>
+        <ab n="32">Maintenant donc, mes fils, &eacute;coutez-moi : (Bien)Heureux ceux qui
+            gardent mes voies. </ab>
+        <ab n="33">Ecoutez mes instructions (la discipline) et soyez sages, et ne les (la)
+            rejetez pas. </ab>
+        <ab n="34">(Bien)Heureux l&rsquo;homme qui m&rsquo;&eacute;coute, et qui veille tous les
+            jours &agrave; ma porte (l&rsquo;entr&eacute;e de ma demeure), et qui se tient (en
+            observation) &agrave; la porte de ma maison. </ab>
+        <ab n="35">Celui qui me trouvera, trouvera la vie, et puisera le salut dans le Seigneur. </ab>
+        <ab n="36">Mais celui qui p&eacute;chera contre moi blessera son &acirc;me ; tous ceux
+            qui me ha&iuml;ssent aiment la mort.</ab>
+    </div>
+    <div type="chapter" n="9">
+        <ab n="1">La sagesse s&rsquo;est b&acirc;tie une maison ; elle a taill&eacute; sept
+            colonnes. </ab>
+        <ab n="2">Elle a immol&eacute; ses victimes, m&ecirc;l&eacute; son (le) vin, et
+            dispos&eacute; sa table. </ab>
+        <ab n="3">Elle a envoy&eacute; ses servantes pour appeler (ses convi&eacute;s) &agrave;
+            la citadelle et aux remparts de la ville : </ab>
+        <ab n="4">Que quiconque est (tout) petit vienne &agrave; moi. Et elle a dit aux
+            insens&eacute;s : </ab>
+        <ab n="5">Venez, mangez mon pain, et buvez le vin que je vous ai pr&eacute;par&eacute;
+            (m&ecirc;l&eacute;). </ab>
+        <ab n="6">Quittez l&rsquo;enfance, et vivez, et marchez par les voies de la prudence. </ab>
+        <ab n="7">Celui qui instruit le moqueur (railleur, note) se fait injure &agrave;
+            lui-m&ecirc;me, et celui qui reprend l&rsquo;impie s&rsquo;attire l&rsquo;outrage (se
+            cr&eacute;&eacute; une tache). </ab>
+        <ab n="8">Ne reprends pas le moqueur (railleur), de peur qu&rsquo;il ne te ha&iuml;sse ;
+            reprends le sage, et il t&rsquo;aimera. </ab>
+        <ab n="9">Donne une occasion au sage, et il deviendra encore plus sage ; enseigne le
+            juste, et il recevra l&rsquo;instruction avec empressement. </ab>
+        <ab n="10">La crainte du Seigneur est le commencement (principe) de la sagesse, et la
+            science des saints est la prudence. </ab>
+        <ab n="11">Car par moi se multiplieront tes jours, et les ann&eacute;es de ta vie seront
+            augment&eacute;es. </ab>
+        <ab n="12">Si tu es sage, c&rsquo;est pour toi-m&ecirc;me que tu le seras, et si tu es
+            un moqueur (railleur), seul tu en porteras la peine (le mal). </ab>
+        <ab n="13">La (Une) femme insens&eacute;e et bruyante, pleine d&rsquo;attraits, et ne
+            sachant absolument rien, </ab>
+        <ab n="14">s&rsquo;est assise &agrave; la porte de sa maison, sur un si&egrave;ge, dans
+            un lieu &eacute;lev&eacute; de la ville, </ab>
+        <ab n="15">pour appeler ceux qui pass(ai)ent par le chemin et qui poursuiv(ai)ent leur
+            route : </ab>
+        <ab n="16">Que celui qui est petit se d&eacute;tourne (et vienne) vers moi. Et elle a
+            dit &agrave; l&rsquo;insens&eacute; (un jeune homme sans c&oelig;ur) : </ab>
+        <ab n="17">Les (Des) eaux d&eacute;rob&eacute;es sont plus douces, et le pain pris en
+            cachette (cach&eacute;) est plus agr&eacute;able (sauve). </ab>
+        <ab n="18">Mais (Et) il ignore que les (des) g&eacute;ants sont avec elle, et que ses
+            convives sont au fond de l&rsquo;enfer. </ab>
+    </div>
+    <div type="chapter" n="10">
+        <ab n="1">Le (Un) fils sage r&eacute;jouit son p&egrave;re, mais le (Un) fils
+            insens&eacute; est la tristesse de sa m&egrave;re. </ab>
+        <ab n="2">Les tr&eacute;sors de l&rsquo;impi&eacute;t&eacute; ne serviront de rien ;
+            mais la justice d&eacute;livrera de la mort. </ab>
+        <ab n="3">Le Seigneur n&rsquo;affligera pas l&rsquo;&acirc;me du juste par la faim, et
+            il renversera les complots des (pi&egrave;ges dress&eacute;s par les) m&eacute;chants. </ab>
+        <ab n="4">La main l&acirc;che produit l&rsquo;indigence ; mais la main des (du) fort(s)
+            acquiert les richesses. Celui qui s&rsquo;appuie sur des mensonges se repa&icirc;t de
+            vents, et il court aussi apr&egrave;s des oiseaux qui s&rsquo;envolent. </ab>
+        <ab n="5">Celui qui amasse pendant la moisson est un fils sage ; mais celui qui dort
+            (ronfle) pendant l&rsquo;&eacute;t&eacute; est un enfant (fils) de confusion. </ab>
+        <ab n="6">La b&eacute;n&eacute;diction du Seigneur est sur la t&ecirc;te du juste ; mais
+            l&rsquo;iniquit&eacute; couvre la bouche des impies. </ab>
+        <ab n="7">La m&eacute;moire du juste sera accompagn&eacute;e de louanges ; mais le nom
+            des impies pourrira. </ab>
+        <ab n="8">Celui qui est (Le) sage de c&oelig;ur re&ccedil;oit les pr&eacute;ceptes ;
+            l&rsquo;insens&eacute; est ch&acirc;ti&eacute; par ses (les) l&egrave;vres. </ab>
+        <ab n="9">Celui qui marche simplement marche en assurance (s&ucirc;rement) ; mais celui
+            qui pervertit ses voies sera d&eacute;couvert. </ab>
+        <ab n="10">Celui qui fait signe de l&rsquo;&oelig;il causera de la douleur, et
+            l&rsquo;insens&eacute; de l&egrave;vres sera frapp&eacute;. </ab>
+        <ab n="11">La bouche du juste est une source de vie, et (mais) la bouche des impies
+            cache l&rsquo;iniquit&eacute;. </ab>
+        <ab n="12">La haine excite les querelles, et la charit&eacute; couvre toutes les fautes. </ab>
+        <ab n="13">La sagesse se trouve sur les l&egrave;vres du sage, et la verge sur le dos de
+            celui qui manque de c&oelig;ur. </ab>
+        <ab n="14">Les sages cachent leur (la) science ; mais la bouche de
+            l&rsquo;insens&eacute; est proche de la confusion. </ab>
+        <ab n="15">La richesse (Le bien) du riche est sa ville forte ; l&rsquo;indigence des
+            pauvres est leur effroi. </ab>
+        <ab n="16">L&rsquo;&oelig;uvre du juste est pour (conduit &agrave;) la vie ; (mais) les
+            fruits de l&rsquo;impie, pour le (au) p&eacute;ch&eacute;. </ab>
+        <ab n="17">Celui qui garde la discipline est dans le chemin de la vie ; mais celui qui
+            n&eacute;glige les r&eacute;primandes s&rsquo;&eacute;gare. </ab>
+        <ab n="18">Les l&egrave;vres menteuses cachent la haine ; celui qui prof&egrave;re
+            l&rsquo;outrage est un insens&eacute;. </ab>
+        <ab n="19">Celui qui parle beaucoup ne saurait manquer de p&eacute;cher ; mais celui qui
+            mod&egrave;re ses l&egrave;vres est tr&egrave;s prudent. </ab>
+        <ab n="20">La langue du juste est un argent de choix ; mais le c&oelig;ur des
+            m&eacute;chants (impies) est de nul prix. </ab>
+        <ab n="21">Les l&egrave;vres du juste en instruisent un grand nombre ; mais les
+            ignorants mourront dans l&rsquo;indigence (par un manque) de c&oelig;ur. </ab>
+        <ab n="22">C&rsquo;est la b&eacute;n&eacute;diction du Seigneur qui donne la richesse,
+            et l&rsquo;affliction n&rsquo;y sera pas m&ecirc;l&eacute;e. </ab>
+        <ab n="23">L&rsquo;insens&eacute; commet le crime comme en se jouant ; mais la sagesse
+            est la prudence de l&rsquo;homme. </ab>
+        <ab n="24">Ce que craint l&rsquo;impie lui arrivera ; les justes obtiendront ce
+            qu&rsquo;ils d&eacute;sirent. </ab>
+        <ab n="25">L&rsquo;impie dispara&icirc;tra comme une temp&ecirc;te qui passe ; mais le
+            juste sera (est) comme un fondement &eacute;ternel. </ab>
+        <ab n="26">Ce qu&rsquo;est le vinaigre aux dents et la fum&eacute;e aux yeux, le
+            paresseux l&rsquo;est &agrave; ceux qui l&rsquo;ont envoy&eacute;. </ab>
+        <ab n="27">La crainte du Seigneur augmente les jours, et les ann&eacute;es des impies
+            seront abr&eacute;g&eacute;es. </ab>
+        <ab n="28">L&rsquo;attente des justes c&rsquo;est la joie ; mais
+            l&rsquo;esp&eacute;rance des m&eacute;chants p&eacute;rira. </ab>
+        <ab n="29">La voie (voix) du Seigneur est la force du simple, et (l&rsquo;effroi de)
+            ceux qui font le mal sont dans l&rsquo;effroi. </ab>
+        <ab n="30">Le juste ne sera jamais &eacute;branl&eacute;, mais les impies
+            n&rsquo;habiteront pas sur la terre. </ab>
+        <ab n="31">La bouche du juste enfantera la sagesse ; la langue des pervers
+            (d&eacute;prav&eacute;s) p&eacute;rira. </ab>
+        <ab n="32">Les l&egrave;vres du juste consid&egrave;rent ce qui pla&icirc;t, et la
+            bouche des impies n&rsquo;a que des paroles malignes.</ab>
+    </div>
+    <div type="chapter" n="11">
+        <ab n="1">La balance trompeuse est en abomination devant le Seigneur ; mais le poids
+            juste lui est agr&eacute;able. </ab>
+        <ab n="2">O&ugrave; sera l&rsquo;orgueil, l&agrave; sera aussi la confusion (outrage) ;
+            mais o&ugrave; est l&rsquo;humilit&eacute;, l&agrave; est pareillement la sagesse. </ab>
+        <ab n="3">La simplicit&eacute; des justes les dirigera, et les tromperies des
+            m&eacute;chants causeront leur ruine. </ab>
+        <ab n="4">Les richesses ne serviront de rien au jour de la vengeance ; mais la justice
+            d&eacute;livrera de la mort. </ab>
+        <ab n="5">La justice du simple dirigera sa voie, et l&rsquo;impie p&eacute;rira par son
+            impi&eacute;t&eacute;. </ab>
+        <ab n="6">La justice des (hommes) justes les d&eacute;livrera, et les m&eacute;chants
+            seront pris dans leurs propres pi&egrave;ges. </ab>
+        <ab n="7">A la mort de l&rsquo;impie, il ne restera plus d&rsquo;esp&eacute;rance, et
+            l&rsquo;attente des ambitieux p&eacute;rira. </ab>
+        <ab n="8">Le juste a &eacute;t&eacute; d&eacute;livr&eacute; de l&rsquo;angoisse, et le
+            m&eacute;chant (l&rsquo;impie) sera livr&eacute; &agrave; sa place. </ab>
+        <ab n="9">L&rsquo;hypocrite trompe son ami par ses paroles ; mais les justes seront
+            d&eacute;livr&eacute;s par la science. </ab>
+        <ab n="10">Le bonheur des justes mettra la ville dans l&rsquo;all&eacute;gresse, et
+            &agrave; la ruine des m&eacute;chants on se f&eacute;licitera. </ab>
+        <ab n="11">La ville s&rsquo;&eacute;l&egrave;vera par la b&eacute;n&eacute;diction des
+            justes, et elle sera renvers&eacute;e par la bouche des m&eacute;chants. </ab>
+        <ab n="12">Celui qui m&eacute;prise son ami manque de sens ; mais l&rsquo;homme prudent
+            se tiendra en silence. </ab>
+        <ab n="13">Celui qui agit avec d&eacute;loyaut&eacute; (marche frauduleusement)
+            r&eacute;v&eacute;lera les secrets ; mais celui dont le c&oelig;ur est fid&egrave;le
+            cache ce que son ami lui a confi&eacute;. </ab>
+        <ab n="14">L&agrave; o&ugrave; il n&rsquo;y a personne pour gouverner, le peuple
+            p&eacute;rit ; c&rsquo;est le salut, lorsqu&rsquo;il y a beaucoup de conseils. </ab>
+        <ab n="15">Celui qui se fait caution pour un &eacute;tranger tombera dans le malheur ;
+            mais celui qui &eacute;vite les pi&egrave;ges sera en s&ucirc;ret&eacute;. </ab>
+        <ab n="16">La femme qui a de la gr&acirc;ce trouvera la gloire, et les forts auront les
+            richesses. </ab>
+        <ab n="17">L&rsquo;homme charitable fait du bien &agrave; son &acirc;me ; mais celui qui
+            est cruel rejette (m&ecirc;me) ses proches eux-m&ecirc;mes. </ab>
+        <ab n="18">L&rsquo;&oelig;uvre que fait l&rsquo;impie ne subsistera pas ; mais la
+            r&eacute;compense est assur&eacute;e &agrave; celui qui s&egrave;me la justice. </ab>
+        <ab n="19">La cl&eacute;mence pr&eacute;pare la vie, et la recherche du mal conduit
+            &agrave; la mort. </ab>
+        <ab n="20">Le Seigneur a en abomination le c&oelig;ur mauvais (d&eacute;prav&eacute;),
+            et il met son affection en ceux qui marchent simplement. </ab>
+        <ab n="21">La (Lors m&ecirc;me qu&rsquo;un, note) main dans la (serait dans une) main,
+            le m&eacute;chant ne restera pas impuni (sera pas innocent) ; mais la race des justes
+            sera sauv&eacute;e. </ab>
+        <ab n="22">Un anneau d&rsquo;or aux narines d&rsquo;une truie, telle est une femme belle
+            et insens&eacute;e. </ab>
+        <ab n="23">Le d&eacute;sir des justes se porte &agrave; tout ce qui est bien ;
+            l&rsquo;attente des m&eacute;chants c&rsquo;est la fureur. </ab>
+        <ab n="24">Les uns donnent ce qui est &agrave; eux, et deviennent plus riches ; les
+            autres ravissent le bien d&rsquo;autrui, et sont toujours dans l&rsquo;indigence. </ab>
+        <ab n="25">L&rsquo;&acirc;me qui r&eacute;pand les b&eacute;n&eacute;dictions sera
+            elle-m&ecirc;me engraiss&eacute;e, et celui qui enivre sera lui-m&ecirc;me
+            enivr&eacute;. </ab>
+        <ab n="26">Celui qui cache le bl&eacute; sera maudit des peuples ; mais la
+            b&eacute;n&eacute;diction viendra sur la t&ecirc;te de ceux qui le vendent. </ab>
+        <ab n="27">Il y a avantage &agrave; se lever d&egrave;s l&rsquo;aurore pour chercher
+            (celui qui chercher) le bien ; mais celui qui poursuit le mal en sera accabl&eacute;. </ab>
+        <ab n="28">Celui qui se confie en ses richesses tombera (pr&eacute;cipitamment) ; mais
+            les justes germeront comme un feuillage (la feuille) verdoyant(e). </ab>
+        <ab n="29">Celui qui trouble sa maison ne poss&eacute;dera que du vent, et
+            l&rsquo;insens&eacute; sera assujetti au sage. </ab>
+        <ab n="30">Le fruit du juste est un arbre de vie, et celui qui assiste les &acirc;mes
+            est sage. </ab>
+        <ab n="31">Si le juste est puni sur la terre, combien plus le sera l&rsquo;impie et le
+            p&eacute;cheur ! (&nbsp;?)</ab>
+    </div>
+    <div type="chapter" n="12">
+        <ab n="1">Celui qui aime la correction (discipline) aime la science ; mais celui qui
+            hait les r&eacute;primandes est un insens&eacute;. </ab>
+        <ab n="2">Celui qui est bon puisera la gr&acirc;ce du Seigneur ; mais celui qui met sa
+            confiance en ses propres pens&eacute;es agit en impie. </ab>
+        <ab n="3">L&rsquo;homme ne s&rsquo;affermira pas par l&rsquo;impi&eacute;t&eacute; ;
+            mais (et) la racine des justes sera in&eacute;branlable. </ab>
+        <ab n="4">La femme diligente est la couronne de son mari ; mais celle qui fait des
+            choses dignes de confusion est comme la pourriture (carie) dans ses os. </ab>
+        <ab n="5">Les pens&eacute;es des justes ne sont qu&rsquo;&eacute;quit&eacute; (des
+            jugements) ; mais les desseins des impies ne sont que malice (frauduleux). </ab>
+        <ab n="6">Les paroles des impies sont des emb&ucirc;ches pour verser le (au, note) sang
+            ; la bouche des justes les d&eacute;livrera. </ab>
+        <ab n="7">Retourne(z) les impies, et ils ne sont plus ; mais la maison des (du) juste(s)
+            demeurera. </ab>
+        <ab n="8">L&rsquo;homme sera connu par sa doctrine ; mais celui qui est vain et
+            d&eacute;nu&eacute; de sens sera un objet de m&eacute;pris. </ab>
+        <ab n="9">Mieux vaut le pauvre qui se suffit, que le glorieux qui manque de pain. </ab>
+        <ab n="10">Le juste se met en peine de la vie de son b&eacute;tail (conna&icirc;t
+            l&rsquo;&acirc;me de ses b&ecirc;tes, note) ; mais les entrailles des impies sont
+            cruelles. </ab>
+        <ab n="11">Celui qui cultive sa terre sera rassasi&eacute; de pain ; mais celui qui
+            recherche le repos (l&rsquo;oisivet&eacute;) est tr&egrave;s insens&eacute;. Celui qui
+            met ses d&eacute;lices dans les r&eacute;unions o&ugrave; l&rsquo;on boit du vin,
+            laissera la honte dans ses places fortes. </ab>
+        <ab n="12">Le d&eacute;sir de l&rsquo;impie c&rsquo;est l&rsquo;affranchissement
+            (l&rsquo;appui) des m&eacute;chants ; mais la racine des justes prosp&eacute;rera. </ab>
+        <ab n="13">Par les p&eacute;ch&eacute;s de ses l&egrave;vres le m&eacute;chant
+            s&rsquo;attire la ruine ; mais le juste &eacute;chappera &agrave; l&rsquo;angoisse. </ab>
+        <ab n="14">C&rsquo;est par le fruit de sa bouche que l&rsquo;homme sera rempli de biens,
+            et il lui sera rendu selon les &oelig;uvres de ses mains. </ab>
+        <ab n="15">La voie de l&rsquo;insens&eacute; est droite &agrave; ses yeux ; mais celui
+            qui est sage &eacute;coute les conseils. </ab>
+        <ab n="16">L&rsquo;insens&eacute; manifeste aussit&ocirc;t sa col&egrave;re ; mais celui
+            qui dissimule l&rsquo;injure est habile. </ab>
+        <ab n="17">Celui qui parle de ce qu&rsquo;il sait proclame la justice (rend un
+            t&eacute;moignage juste) ; mais celui qui ment est un t&eacute;moin trompeur
+            (frauduleux). </ab>
+        <ab n="18">Tel promet qui est ensuite perc&eacute; comme d&rsquo;un glaive par sa
+            conscience ; mais la langue des sages est une source de (la) sant&eacute;. </ab>
+        <ab n="19">La bouche v&eacute;ridique sera toujours ferme ; mais le t&eacute;moin
+            pr&eacute;cipit&eacute; se fait une langue de mensonge. </ab>
+        <ab n="20">La fourberie (fraude) est au c&oelig;ur de ceux qui m&eacute;ditent le mal ;
+            mais ceux qui forment des conseils de paix seront dans la joie. </ab>
+        <ab n="21">Quoi qu&rsquo;il lui arrive, le juste n&rsquo;en est pas attrist&eacute;,
+            mais les impies seront remplis de maux. </ab>
+        <ab n="22">Les l&egrave;vres menteuses sont en abomination au Seigneur ; mais ceux qui
+            agissent sinc&egrave;rement lui sont agr&eacute;ables. </ab>
+        <ab n="23">L&rsquo;homme habile cache sa science, et le c&oelig;ur de
+            l&rsquo;insens&eacute; proclame la (sa) folie. </ab>
+        <ab n="24">La main des forts dominera ; mais celle qui est rel&acirc;ch&eacute;e sera
+            tributaire. </ab>
+        <ab n="25">La tristesse qu&rsquo;il a au c&oelig;ur humiliera l&rsquo;homme, et une
+            bonne parole le r&eacute;jouira. </ab>
+        <ab n="26">Celui qui, pour son ami, s&rsquo;inqui&egrave;te peu d&rsquo;une perte, est
+            juste ; mais le chemin des impies les &eacute;garera. </ab>
+        <ab n="27">Le trompeur (frauduleux) ne trouvera pas de profit, et les richesses de
+            l&rsquo;homme juste auront le prix de l&rsquo;or. </ab>
+        <ab n="28">Dans le sentier de la justice est la vie ; mais le chemin
+            d&eacute;tourn&eacute; conduit &agrave; la mort.</ab>
+    </div>
+    <div type="chapter" n="13">
+        <ab n="1">Le fils sage est attentif &agrave; (garde) la doctrine de son p&egrave;re ;
+            mais celui qui est moqueur n&rsquo;&eacute;coute pas quand on le reprend. </ab>
+        <ab n="2">Par le fruit de sa bouche l&rsquo;homme sera rassasi&eacute; de biens ; mais
+            l&rsquo;&acirc;me des pr&eacute;varicateurs est inique. </ab>
+        <ab n="3">Celui qui garde sa bouche garde son &acirc;me ; mais celui qui est
+            inconsid&eacute;r&eacute; dans ses paroles ressentira beaucoup de maux (le mal). </ab>
+        <ab n="4">Le paresseux veut et ne veut pas, mais l&rsquo;&acirc;me de ceux qui
+            travaillent s&rsquo;engraissera. </ab>
+        <ab n="5">Le juste d&eacute;teste la parole de mensonge ; mais l&rsquo;impie confond les
+            autres, et sera lui-m&ecirc;me confondu. </ab>
+        <ab n="6">La justice garde la voie de l&rsquo;innocent ; mais
+            l&rsquo;impi&eacute;t&eacute; cause la ruine du (supplante le) p&eacute;cheur. </ab>
+        <ab n="7">Tel para&icirc;t riche qui n&rsquo;a rien, et tel para&icirc;t pauvre qui a
+            (quoiqu&rsquo;il jouisse) de (grandes) richesses. </ab>
+        <ab n="8">Les richesses de l&rsquo;homme sont la ran&ccedil;on de son &acirc;me ; mais
+            celui qui est pauvre n&rsquo;entend pas de menaces (ne soutient pas un reproche). </ab>
+        <ab n="9">La lumi&egrave;re des justes procure la joie ; mais la lampe des impies sera
+            &eacute;teinte. </ab>
+        <ab n="10">Entre les orgueilleux il y a toujours des querelles ; mais ceux qui font tout
+            avec conseil sont conduits par la sagesse. </ab>
+        <ab n="11">La fortune (Le bien) amass&eacute;(e) &agrave; la h&acirc;te sera amoindri(e)
+            ; mais celle (celui) qui se recueille &agrave; la main, peu &agrave; peu se multipliera. </ab>
+        <ab n="12">L&rsquo;esp&eacute;rance diff&eacute;r&eacute;e afflige l&rsquo;&acirc;me ;
+            le d&eacute;sir qui s&rsquo;accomplit est un arbre de vie. </ab>
+        <ab n="13">Celui qui d&eacute;nigre une chose s&rsquo;engage (lui-m&ecirc;me) pour
+            l&rsquo;avenir ; mais celui qui craint le pr&eacute;cepte demeurera en paix. Les
+            &acirc;mes trompeuses errent dans les p&eacute;ch&eacute;s ; mais les justes sont
+            compatissants et mis&eacute;ricordieux. </ab>
+        <ab n="14">La loi du sage est une source de vie, pour &eacute;viter la ruine de la mort. </ab>
+        <ab n="15">La bonne doctrine produit la gr&acirc;ce ; mais le pr&eacute;cipice est sur
+            le chemin des moqueurs (contempteurs). </ab>
+        <ab n="16">L&rsquo;homme habile (avise) fait tout avec conseil ; mais
+            l&rsquo;insens&eacute; &eacute;tale sa folie. </ab>
+        <ab n="17">Le messager de l&rsquo;impie tombera dans le mal(heur) ; mais
+            l&rsquo;envoy&eacute; fid&egrave;le est une source de sant&eacute;. </ab>
+        <ab n="18">L&rsquo;indigence et la honte sont le partage de celui qui abandonne la
+            discipline ; mais celui qui re&ccedil;oit bien les r&eacute;primandes sera
+            glorifi&eacute;. </ab>
+        <ab n="19">Le d&eacute;sir, lorsqu&rsquo;il s&rsquo;accomplit, est la joie de
+            l&rsquo;&acirc;me ; les insens&eacute;s d&eacute;testent ceux qui fuient le mal (les
+            choses mauvaises). </ab>
+        <ab n="20">Celui qui marche avec les sages sera sage ; l&rsquo;ami des insens&eacute;s
+            leur deviendra semblable. </ab>
+        <ab n="21">Le mal(heur) poursuit les p&eacute;cheurs, et les biens seront la
+            r&eacute;compense des justes. </ab>
+        <ab n="22">L&rsquo;homme vertueux laisse des fils et des petits-fils pour
+            h&eacute;ritiers, et la richesse du p&eacute;cheur est r&eacute;serv&eacute;e pour le
+            juste. </ab>
+        <ab n="23">Les aliments abondent dans les champs paternels (novales des p&egrave;res) ;
+            dans d&rsquo;autres ils s&rsquo;amassent sans justice. </ab>
+        <ab n="24">Celui qui &eacute;pargne la verge hait son fils ; mais celui qui l&rsquo;aime
+            le corrige sans cesse (fortement). </ab>
+        <ab n="25">Le juste mange, et rassasie son &acirc;me ; mais le ventre des
+            m&eacute;chants (impies) est insatiable.</ab>
+    </div>
+    <div type="chapter" n="14">
+        <ab n="1">La femme sage b&acirc;tit (&eacute;difie) sa maison ; l&rsquo;insens&eacute;e
+            d&eacute;truit de ses propres mains celle (m&ecirc;me) qui est d&eacute;j&agrave;
+            b&acirc;tie. </ab>
+        <ab n="2">Celui qui marche par le droit chemin et qui craint Dieu, est
+            m&eacute;pris&eacute; par celui qui marche dans une voie inf&acirc;me. </ab>
+        <ab n="3">Dans la bouche de l&rsquo;insens&eacute; est une verge d&rsquo;orgueil ; mais
+            les l&egrave;vres des sages les conservent (gardent). </ab>
+        <ab n="4">O&ugrave; il n&rsquo;y a pas de b&oelig;ufs, la grange (cr&egrave;che) est
+            vide ; mais les r&eacute;coltes abondantes manifestent la force du b&oelig;uf. </ab>
+        <ab n="5">Le t&eacute;moin fid&egrave;le ne ment pas ; mais le faux t&eacute;moin
+            (trompeur) prof&egrave;re le mensonge. </ab>
+        <ab n="6">Le moqueur (railleur) cherche la sagesse, et il ne la trouve pas ; pour les
+            hommes prudents, la science (doctrine des prudents) est (chose) facile. </ab>
+        <ab n="7">Marche &agrave; l&rsquo;oppos&eacute; de l&rsquo;homme insens&eacute;, car il
+            ne conna&icirc;t pas les paroles (l&egrave;vres) de (la) prudence. </ab>
+        <ab n="8">La sagesse de l&rsquo;homme habile est de comprendre sa voie, et
+            l&rsquo;imprudence des insens&eacute;s s&rsquo;&eacute;gare. </ab>
+        <ab n="9">L&rsquo;insens&eacute; se fait un jeu du p&eacute;ch&eacute;, et la
+            gr&acirc;ce demeurera parmi les justes. </ab>
+        <ab n="10">Le c&oelig;ur conna&icirc;t l&rsquo;amertume de son &acirc;me ;
+            l&rsquo;&eacute;tranger ne se m&ecirc;lera pas &agrave; sa joie. </ab>
+        <ab n="11">La maison des m&eacute;chants (impies) sera d&eacute;truite ; mais les tentes
+            (tabernacles) des justes seront florissant(e)s. </ab>
+        <ab n="12">Il est une voie qui para&icirc;t juste &agrave; l&rsquo;homme ; mais ses
+            issues conduisent &agrave; la mort. </ab>
+        <ab n="13">Le rire sera m&ecirc;l&eacute; de douleur, et la tristesse prend la place
+            (des extr&eacute;mit&eacute;s) de la joie. </ab>
+        <ab n="14">L&rsquo;insens&eacute; sera rassasi&eacute; de ses voies, et l&rsquo;homme de
+            bien (vertueux) sera au-dessus de lui. </ab>
+        <ab n="15">L&rsquo;imprudent (innocent) croit tout ce qu&rsquo;on lui dit ;
+            l&rsquo;homme habile (avis&eacute;) consid&egrave;re ses pas. Il n&rsquo;arrive rien de
+            bon au fils trompeur ; mais le serviteur sage prosp&eacute;rera dans ses actes, et
+            r&eacute;ussira dans sa voie (sera dirig&eacute;e). </ab>
+        <ab n="16">Le sage craint, et se d&eacute;tourne du mal ; l&rsquo;insens&eacute; passe
+            outre, et se croit en s&ucirc;ret&eacute; (a confiance). </ab>
+        <ab n="17">L&rsquo;impatient fera des actions de folie, et l&rsquo;homme
+            dissimul&eacute; (artificieux) se rend odieux. </ab>
+        <ab n="18">Les simples (tout petits) poss&eacute;deront la folie, et les habiles (hommes
+            avis&eacute;s) attendront la science. </ab>
+        <ab n="19">Les m&eacute;chants seront &eacute;tendus devant les bons, et les impies
+            devant la (les) porte(s) des justes. </ab>
+        <ab n="20">Le pauvre sera odieux m&ecirc;me &agrave; ses proches (prochains) ; mais les
+            riches ont des amis nombreux. </ab>
+        <ab n="21">Celui qui m&eacute;prise son prochain p&egrave;che ; mais celui qui a
+            compassion du pauvre sera bienheureux. Celui qui croit au Seigneur aime la
+            mis&eacute;ricorde. </ab>
+        <ab n="22">Ceux qui font le mal se trompent (s&rsquo;&eacute;garent) ; c&rsquo;est la
+            mis&eacute;ricorde et la v&eacute;rit&eacute; qui procurent les biens. </ab>
+        <ab n="23">Partout o&ugrave; l&rsquo;on travaille il y a l&rsquo;abondance ; mais
+            o&ugrave; l&rsquo;on parle beaucoup l&rsquo;indigence sera fr&eacute;quemment. </ab>
+        <ab n="24">La couronne des sages, ce sont leurs richesses ; la folie (sottise) des
+            insens&eacute;s n&rsquo;est qu&rsquo;imprudence. </ab>
+        <ab n="25">Le t&eacute;moin fid&egrave;le d&eacute;livre les &acirc;mes, et le trompeur
+            (celui qui est double) prof&egrave;re des mensonges. </ab>
+        <ab n="26">Celui qui craint le Seigneur est dans une confiance pleine de force (ferme),
+            et il y a de l&rsquo;espoir (l&rsquo;esp&eacute;rance sera) pour ses enfants. </ab>
+        <ab n="27">La crainte du Seigneur est une source de vie, pour faire &eacute;viter la
+            ruine de la mort. </ab>
+        <ab n="28">La multitude du peuple est l&rsquo;honneur (gloire) du roi, et le petit
+            nombre des sujets est la honte (l&rsquo;ignominie) du prince. </ab>
+        <ab n="29">Celui qui est patient se gouverne avec une grande prudence ; mais
+            l&rsquo;impatient signale sa folie. </ab>
+        <ab n="30">La vie de la chair, c&rsquo;est la sant&eacute; du c&oelig;ur ; l&rsquo;envie
+            est la pourriture (carie) des os. </ab>
+        <ab n="31">Celui qui opprime l&rsquo;indigent fait injure &agrave; celui qui l&rsquo;a
+            cr&eacute;&eacute; ; mais celui qui a piti&eacute; du pauvre honore Dieu. </ab>
+        <ab n="32">L&rsquo;impie sera renvers&eacute; (rejet&eacute;) par sa malice ; mais le
+            juste esp&egrave;re m&ecirc;me en sa mort. </ab>
+        <ab n="33">La sagesse repose dans le c&oelig;ur de l&rsquo;homme prudent, et il (elle)
+            instruira tous les ignorants. </ab>
+        <ab n="34">La justice &eacute;l&egrave;ve une nation, mais le p&eacute;ch&eacute; rend
+            les peuples mis&eacute;rables (malheureux). </ab>
+        <ab n="35">Le ministre intelligent est agr&eacute;able au roi ; l&rsquo;inutile
+            ressentira sa col&egrave;re.</ab>
+    </div>
+    <div type="chapter" n="15">
+        <ab n="1">Une r&eacute;ponse douce rompt la col&egrave;re ; la parole dure excite la
+            fureur. </ab>
+        <ab n="2">La langue des sages orne (embellit) la science ; la bouche des insens&eacute;s
+            se r&eacute;pand en folies. </ab>
+        <ab n="3">En tout lieu les yeux du Seigneur contemplent les bons et les m&eacute;chants. </ab>
+        <ab n="4">La langue pacifique est un arbre de vie ; mais celle qui est
+            immod&eacute;r&eacute;e brise(ra) l&rsquo;esprit. </ab>
+        <ab n="5">L&rsquo;insens&eacute; se rit de la correction (discipline) de son p&egrave;re
+            ; mais celui qui tient compte des (est docile aux) r&eacute;primandes deviendra plus
+            habile (sage). Dans l&rsquo;abondance de la justice (une justice abondante) se trouve
+            une tr&egrave;s grande force (vertu) ; mais les pens&eacute;es des impies
+            (m&eacute;chants) seront d&eacute;racin&eacute;es. </ab>
+        <ab n="6">La maison du juste est une (grande) force &eacute;tonnante, et il n&rsquo;y a
+            que trouble dans les fruits de l&rsquo;impie. </ab>
+        <ab n="7">Les l&egrave;vres des sages s&egrave;meront la science ; il n&rsquo;en est pas
+            de m&ecirc;me du c&oelig;ur des insens&eacute;s (sera tout diff&eacute;rent). </ab>
+        <ab n="8">Les victimes des impies sont abominables au Seigneur ; les v&oelig;ux des
+            justes l&rsquo;apaisent (lui sont agr&eacute;ables). </ab>
+        <ab n="9">La voie de l&rsquo;impie est en abomination au Seigneur ; celui qui suit la
+            justice est aim&eacute; de lui. </ab>
+        <ab n="10">La doctrine est mauvaise (odieuse) pour celui qui abandonne la voie de la vie
+            ; celui qui hait les r&eacute;primandes mourra. </ab>
+        <ab n="11">L&rsquo;enfer et la perdition sont &agrave; nu devant le Seigneur : combien
+            plus les c&oelig;urs des enfants (fils) des hommes ! </ab>
+        <ab n="12">L&rsquo;homme corrompu (pernicieux) n&rsquo;aime pas celui qui le reprend, et
+            il ne va pas vers les sages. </ab>
+        <ab n="13">Un c&oelig;ur joyeux rend le visage serein ; la tristesse de
+            l&rsquo;&acirc;me abat l&rsquo;esprit. </ab>
+        <ab n="14">Le c&oelig;ur du sage cherche l&rsquo;instruction (la doctrine), et la bouche
+            des insens&eacute;s se repa&icirc;t d&rsquo;ignorance. </ab>
+        <ab n="15">Tous les jours du pauvre sont mauvais ; l&rsquo;&acirc;me tranquille est
+            comme un festin continuel. </ab>
+        <ab n="16">Peu, avec la crainte de Dieu, vaut mieux que de grands tr&eacute;sors qui ne
+            rassasient pas (in&eacute;puisables). </ab>
+        <ab n="17">Il vaut mieux &ecirc;tre invit&eacute; avec affection &agrave; manger des
+            l&eacute;gumes (un repas d&rsquo;herbe), qu&rsquo;avec haine &agrave; manger le veau
+            gras. </ab>
+        <ab n="18">L&rsquo;homme col&egrave;re excite des querelles ; celui qui est patient
+            apaise celles qui &eacute;taient d&eacute;j&agrave; suscit&eacute;es. </ab>
+        <ab n="19">Le chemin des paresseux est comme une haie d&rsquo;&eacute;pines ; la voie
+            des justes est sans obstacle (pierre d&rsquo;achoppement). </ab>
+        <ab n="20">L&rsquo;enfant (Un fils) sage r&eacute;jouit son p&egrave;re, et
+            l&rsquo;homme insens&eacute; m&eacute;prise sa m&egrave;re. </ab>
+        <ab n="21">La folie est la joie de l&rsquo;insens&eacute; ; mais l&rsquo;homme prudent
+            r&egrave;gle ses pas. </ab>
+        <ab n="22">Les projets &eacute;chouent (pens&eacute;es se dissipent) l&agrave; o&ugrave;
+            il n&rsquo;y a pas de conseil ; mais lorsque les conseillers sont nombreux, ils (elles)
+            s&rsquo;affermissent. </ab>
+        <ab n="23">Chacun (L&rsquo;homme) se compla&icirc;t dans le sentiment qu&rsquo;il a
+            &eacute;mis, et la parole dite &agrave; propos est la meilleure de toutes. </ab>
+        <ab n="24">Le sentier de la vie m&egrave;ne en haut l&rsquo;homme instruit, pour lui
+            faire &eacute;viter le plus profond de l&rsquo;enfer (le plus profond). </ab>
+        <ab n="25">Le Seigneur d&eacute;truira la maison des superbes, et il affermira les
+            limites (du champ) de la veuve. </ab>
+        <ab n="26">Les pens&eacute;es mauvaises sont en abomination au Seigneur, et la parole
+            pure lui sera tr&egrave;s agr&eacute;able (affermie par lui). </ab>
+        <ab n="27">Celui qui se livre &agrave; l&rsquo;avarice met le trouble dans sa maison ;
+            mais celui qui hait les pr&eacute;sents vivra. C&rsquo;est par la mis&eacute;ricorde et
+            par la foi que les p&eacute;ch&eacute;s sont purifi&eacute;s, et (mais) c&rsquo;est par
+            la crainte du Seigneur que tout homme se d&eacute;tourne du mal. </ab>
+        <ab n="28">L&rsquo;&acirc;me (esprit) du juste m&eacute;dite l&rsquo;ob&eacute;issance ;
+            la bouche des impies se r&eacute;pand en m&eacute;chancet&eacute;s (mauvais discours). </ab>
+        <ab n="29">Le Seigneur est loin des impies, et il exauce(ra) les pri&egrave;res des
+            justes. </ab>
+        <ab n="30">La lumi&egrave;re des yeux est la joie de l&rsquo;&acirc;me ; la bonne
+            r&eacute;putation engraisse les os. </ab>
+        <ab n="31">L&rsquo;oreille qui &eacute;coute les r&eacute;primandes salutaires demeurera
+            au milieu des sages. </ab>
+        <ab n="32">Celui qui rejette la correction (discipline) m&eacute;prise son &acirc;me ;
+            mais celui qui se rend (acquiesce) aux r&eacute;primandes poss&egrave;de son (a du)
+            c&oelig;ur. </ab>
+        <ab n="33">La crainte du Seigneur enseigne la (est une discipline de) sagesse, et
+            l&rsquo;humilit&eacute; pr&eacute;c&egrave;de la gloire.</ab>
+    </div>
+    <div type="chapter" n="16">
+        <ab n="1">C&rsquo;est &agrave; l&rsquo;homme de pr&eacute;parer son &acirc;me, et au
+            Seigneur de gouverner la langue. </ab>
+        <ab n="2">Toutes les voies de l&rsquo;homme sont expos&eacute;es &agrave; ses yeux, mais
+            le Seigneur p&egrave;se les esprits. </ab>
+        <ab n="3">R&eacute;v&egrave;le tes &oelig;uvres au Seigneur, et tes projets
+            r&eacute;ussiront (pens&eacute;es seront dirig&eacute;es). </ab>
+        <ab n="4">Le Seigneur a tout fait pour lui-m&ecirc;me, et l&rsquo;impie (m&ecirc;me)
+            pour le jour mauvais. </ab>
+        <ab n="5">Tout arrogant est en abomination au Seigneur, et, la main sur la (lors
+            m&ecirc;me qu&rsquo;une main serait dans une, note) main, il n&rsquo;est pas innocent.
+            Le commencement de la bonne voie c&rsquo;est de pratiquer la justice, et elle est plus
+            agr&eacute;able &agrave; Dieu que l&rsquo;immolation des victimes (hosties). </ab>
+        <ab n="6">C&rsquo;est par la mis&eacute;ricorde et la v&eacute;rit&eacute; que
+            l&rsquo;on rach&egrave;te l&rsquo;iniquit&eacute;, et par la crainte du Seigneur
+            qu&rsquo;on &eacute;vite le mal. </ab>
+        <ab n="7">Lorsque les voies de l&rsquo;homme plairont &agrave; Dieu, il r&eacute;duira
+            &agrave; la paix ses ennemis eux-m&ecirc;mes. </ab>
+        <ab n="8">Mieux vaut peu avec la justice, que de grands biens avec
+            l&rsquo;iniquit&eacute;. </ab>
+        <ab n="9">Le c&oelig;ur de l&rsquo;homme pr&eacute;pare sa voie, mais c&rsquo;est le
+            (au) Seigneur qui dirige ses pas. </ab>
+        <ab n="10">Il y a des oracles sur les l&egrave;vres du roi ; sa bouche ne se trompera
+            pas dans les jugements. </ab>
+        <ab n="11">Le poids et la balance sont les jugements du Seigneur, et toutes les pierres
+            du sac(het) sont son &oelig;uvre. </ab>
+        <ab n="12">Ceux qui agissent avec impi&eacute;t&eacute; sont abominables au roi, parce
+            que le tr&ocirc;ne est affermi par la justice. </ab>
+        <ab n="13">Les l&egrave;vres justes sont les d&eacute;lices des rois ; celui qui parle
+            avec droiture sera aim&eacute; (d&rsquo;eux). </ab>
+        <ab n="14">La col&egrave;re (L&rsquo;indignation) du roi est un avant-coureur de mort,
+            et l&rsquo;homme sage l&rsquo;apaisera. </ab>
+        <ab n="15">La s&eacute;r&eacute;nit&eacute; (L&rsquo;hilarit&eacute;) du visage du roi
+            c&rsquo;est la vie, et sa cl&eacute;mence est comme la pluie de
+            l&rsquo;arri&egrave;re-saison. </ab>
+        <ab n="16">Poss&egrave;de la sagesse, car elle est meilleure que l&rsquo;or ; et
+            acquiers la prudence, car elle est plus pr&eacute;cieuse que l&rsquo;argent. </ab>
+        <ab n="17">Le sentier des justes s&rsquo;&eacute;carte des maux ; celui qui garde son
+            &acirc;me se tient dans (conserve) sa voie. </ab>
+        <ab n="18">L&rsquo;orgueil pr&eacute;c&egrave;de la ruine (l&rsquo;abattement), et avant
+            la chute l&rsquo;esprit devient superbe. </ab>
+        <ab n="19">Il vaut mieux &ecirc;tre humili&eacute; avec les humbles (des hommes doux)
+            que de partager les d&eacute;pouilles avec les orgueilleux. </ab>
+        <ab n="20">Celui qui est habile dans les choses (la parole) trouvera le bonheur (des
+            biens), et celui qui esp&egrave;re au Seigneur est bien heureux. </ab>
+        <ab n="21">Celui qui a la sagesse du c&oelig;ur sera appel&eacute; prudent, et celui qui
+            est doux en paroles recevra de plus grands dons. </ab>
+        <ab n="22">L&rsquo;instruction, dans celui qui la poss&egrave;de, est une source de vie
+            ; la science (doctrine) des insens&eacute;s, c&rsquo;est la folie. </ab>
+        <ab n="23">Le c&oelig;ur du sage instruira (instruit) sa bouche, et il r&eacute;pandra
+            une nouvelle gr&acirc;ce sur ses l&egrave;vres. </ab>
+        <ab n="24">Les paroles agr&eacute;ables (dispos&eacute;es avec art) sont un rayon de
+            miel ; (c&rsquo;est) la douceur de l&rsquo;&acirc;me e(s)t la sant&eacute; des os. </ab>
+        <ab n="25">Il est une voie qui para&icirc;t droite &agrave; l&rsquo;homme, et dont les
+            issues conduisent &agrave; la mort. </ab>
+        <ab n="26">L&rsquo;&acirc;me de celui qui travaille travaille pour lui-m&ecirc;me, parce
+            que sa bouche l&rsquo;y a contraint. </ab>
+        <ab n="27">L&rsquo;impie creuse (pour trouver) le mal, et le feu br&ucirc;le sur ses
+            l&egrave;vres. </ab>
+        <ab n="28">L&rsquo;homme pervers excite (suscite) des querelles (pri&egrave;res), et le
+            grand parleur (verbeux) divise les princes. </ab>
+        <ab n="29">L&rsquo;homme inique (injuste) s&eacute;duit son ami, et il le conduit par
+            une voie qui n&rsquo;est pas bonne. </ab>
+        <ab n="30">Celui qui pense &agrave; de mauvais desseins (pervers) avec des yeux hagards,
+            ex&eacute;cute le mal en se mordant les l&egrave;vres. </ab>
+        <ab n="31">La vieillesse est une couronne d&rsquo;honneur (de dignit&eacute;),
+            lorsqu&rsquo;elle (qui) se trouve(ra) dans les voies de la justice. </ab>
+        <ab n="32">L&rsquo;homme patient vaut mieux que le vaillant, et celui qui domine son
+            esprit l&rsquo;emporte sur celui qui force les villes (prends des villes
+            d&rsquo;assaut). </ab>
+        <ab n="33">On met les pierres du sort dans le pan de la robe ; mais c&rsquo;est le
+            Seigneur qui en dispose (les dirige).</ab>
+    </div>
+    <div type="chapter" n="17">
+        <ab n="1">Mieux vaut une bouch&eacute;e de pain sec avec la joie, qu&rsquo;une maison
+            pleine de victimes avec la discorde. </ab>
+        <ab n="2">Le serviteur sage dominera sur les fils insens&eacute;s, et il partagera
+            l&rsquo;h&eacute;ritage entre les fr&egrave;res. </ab>
+        <ab n="3">Comme l&rsquo;argent est &eacute;prouv&eacute; par le feu et l&rsquo;or dans
+            le creuset, ainsi le Seigneur &eacute;prouve les c&oelig;urs. </ab>
+        <ab n="4">Le m&eacute;chant ob&eacute;it &agrave; la langue injuste, et le trompeur
+            &eacute;coute les (obtemp&egrave;re &agrave; des) l&egrave;vres mensong&egrave;res. </ab>
+        <ab n="5">Celui qui m&eacute;prise le pauvre fait injure &agrave; (outrage) celui qui
+            l&rsquo;a cr&eacute;&eacute;, et celui qui se r&eacute;jouit de la ruine d&rsquo;autrui
+            ne demeurera pas impuni. </ab>
+        <ab n="6">La couronne des vieillards ce sont les enfants (fils) des enfants (fils), et
+            la gloire des enfants (fils) ce sont leurs p&egrave;res. </ab>
+        <ab n="7">Les paroles graves ne conviennent pas &agrave; l&rsquo;insens&eacute;, ni au
+            prince la langue (une l&egrave;vre) menteuse. </ab>
+        <ab n="8">L&rsquo;attente de celui qui esp&egrave;re est une perle tr&egrave;s
+            agr&eacute;able ; de quelque c&ocirc;t&eacute; qu&rsquo;il se tourne, il agira avec
+            intelligence (et prudence). </ab>
+        <ab n="9">Celui qui cache les fautes cherche l&rsquo;amiti&eacute; ; celui qui les
+            rappelle sans cesse (une seconde fois) s&eacute;pare ceux qui &eacute;taient unis. </ab>
+        <ab n="10">Une r&eacute;primande est plus utile &agrave; un homme prudent que cent coups
+            &agrave; l&rsquo;insens&eacute;. </ab>
+        <ab n="11">Le m&eacute;chant cherche toujours des querelles ; mais un ange cruel sera
+            envoy&eacute; contre lui. </ab>
+        <ab n="12">Il vaut mieux rencontrer une ourse &agrave; qui on a ravi ses petits,
+            qu&rsquo;un insens&eacute; qui se confie en sa folie. </ab>
+        <ab n="13">Celui qui rend le mal pour le bien ne verra jamais le malheur sortir de sa
+            maison. </ab>
+        <ab n="14">Celui qui laisse &eacute;couler (l&acirc;che, note) l&rsquo;eau occasionne
+            des querelles, et il abandonne le jugement avant m&ecirc;me d&rsquo;avoir souffert
+            quelque injure. </ab>
+        <ab n="15">Celui qui justifie l&rsquo;injuste, et celui qui condamne le juste, sont tous
+            deux abominables devant Dieu. </ab>
+        <ab n="16">Que sert &agrave; l&rsquo;insens&eacute; d&rsquo;avoir des richesses,
+            puisqu&rsquo;il ne peut pas acheter la sagesse ? Celui qui &eacute;l&egrave;ve bien haut
+            sa maison (en) cherche la ruine, et celui qui n&eacute;glige d&rsquo;apprendre tombera
+            dans les maux. </ab>
+        <ab n="17">Celui qui est ami aime en tout temps, et c&rsquo;est dans l&rsquo;affliction
+            (l&rsquo;angoisse) qu&rsquo;il se montre fr&egrave;re (qu&rsquo;un fr&egrave;re se fait
+            conna&icirc;tre). </ab>
+        <ab n="18">L&rsquo;insens&eacute; battra des mains apr&egrave;s qu&rsquo;il aura
+            r&eacute;pondu pour son ami. </ab>
+        <ab n="19">Celui qui m&eacute;dite des dissensions aime les querelles (rixes), et celui
+            qui &eacute;l&egrave;ve sa porte cherche la ruine. </ab>
+        <ab n="20">Celui dont le c&oelig;ur est corrompu (pervers) ne trouvera pas le bien, et
+            celui qui a la langue double (tourne la langue, note) tombera dans le mal. </ab>
+        <ab n="21">L&rsquo;insens&eacute; est n&eacute; pour sa honte (son ignominie), et le
+            p&egrave;re d&rsquo;un fou n&rsquo;en aura pas de joie (dans un fils stupide). </ab>
+        <ab n="22">La joie de l&rsquo;esprit (Un c&oelig;ur joyeux) rend la sant&eacute;
+            florissante ; la tristesse du c&oelig;ur (une &acirc;me triste) dess&egrave;che les os. </ab>
+        <ab n="23">Le m&eacute;chant re&ccedil;oit des pr&eacute;sents en secret, pour pervertir
+            (afin qu&rsquo;il pervertisse) les voies de la justice. </ab>
+        <ab n="24">La sagesse brille sur le visage de l&rsquo;homme prudent ; les yeux des sots
+            sont aux extr&eacute;mit&eacute;s de la terre. </ab>
+        <ab n="25">Le fils insens&eacute; est l&rsquo;indignation (la col&egrave;re) de son
+            p&egrave;re, et la douleur de la m&egrave;re qui l&rsquo;a enfant&eacute;. </ab>
+        <ab n="26">Il n&rsquo;est pas bon de faire tort au juste, ni de frapper le prince qui
+            juge selon la justice. </ab>
+        <ab n="27">Celui qui est mod&eacute;r&eacute; dans ses discours est docte et prudent, et
+            l&rsquo;homme instruit (savant) a (est d&rsquo;un) l&rsquo;esprit pr&eacute;cieux. </ab>
+        <ab n="28">L&rsquo;insens&eacute; lui-m&ecirc;me, lorsqu&rsquo;il se tait, passe pour
+            sage, et pour intelligent s&rsquo;il tient ses l&egrave;vres closes.</ab>
+    </div>
+    <div type="chapter" n="18">
+        <ab n="1">Celui qui veut s&rsquo;&eacute;loigner de (rompre avec) son ami (en) cherche
+            des occasions ; en tout temps il sera digne (couvert) d&rsquo;opprobre. </ab>
+        <ab n="2">L&rsquo;insens&eacute; ne re&ccedil;oit pas les paroles de prudence, &agrave;
+            moins que vous ne lui parliez selon ce qu&rsquo;il a dans le c&oelig;ur. </ab>
+        <ab n="3">Lorsqu&rsquo;il est tomb&eacute; dans l&rsquo;ab&icirc;me des
+            p&eacute;ch&eacute;s, l&rsquo;impie se moque (m&eacute;prise) ; mais l&rsquo;ignominie
+            et l&rsquo;opprobre le suivent. </ab>
+        <ab n="4">Les paroles qui sortent de la bouche de l&rsquo;homme sont une eau profonde,
+            et la source de la sagesse est un torrent qui d&eacute;borde. </ab>
+        <ab n="5">Il n&rsquo;est pas bon d&rsquo;avoir &eacute;gard &agrave; la personne de
+            l&rsquo;impie, pour se d&eacute;tourner de la v&eacute;rit&eacute; du jugement. </ab>
+        <ab n="6">Les l&egrave;vres de l&rsquo;insens&eacute; se m&ecirc;lent aux disputes, et
+            sa bouche provoque les querelles. </ab>
+        <ab n="7">La bouche de l&rsquo;insens&eacute; cause sa perte (est sa destruction), et
+            ses l&egrave;vres sont la ruine de son &acirc;me. </ab>
+        <ab n="8">Les paroles de (l&rsquo;homme &agrave;) la langue double paraissent simples,
+            et elles p&eacute;n&egrave;trent jusqu&rsquo;au fond des entrailles. La crainte abat le
+            paresseux ; mais les &acirc;mes des eff&eacute;min&eacute;s auront faim. </ab>
+        <ab n="9">Celui qui est mou et l&acirc;che dans son ouvrage est fr&egrave;re de celui
+            qui d&eacute;truit ce qu&rsquo;il fait. </ab>
+        <ab n="10">Le nom du Seigneur est une tour tr&egrave;s forte ; le juste y court, et y
+            trouve un abri &eacute;lev&eacute; (sera exalt&eacute;). </ab>
+        <ab n="11">La fortune du riche est sa ville forte, et comme une puissante muraille
+            (solide) qui l&rsquo;environne. </ab>
+        <ab n="12">Avant d&rsquo;&ecirc;tre bris&eacute;, le c&oelig;ur de l&rsquo;homme
+            s&rsquo;&eacute;l&egrave;ve, et avant d&rsquo;&ecirc;tre glorifi&eacute;, il est
+            humili&eacute;. </ab>
+        <ab n="13">Celui qui r&eacute;pond avant d&rsquo;&eacute;couter montre qu&rsquo;il est
+            insens&eacute; et digne de confusion. </ab>
+        <ab n="14">L&rsquo;esprit de l&rsquo;homme soutient sa faiblesse ; mais qui pourra
+            soutenir un esprit qui s&rsquo;emporte ais&eacute;ment ? </ab>
+        <ab n="15">Le c&oelig;ur prudent poss&eacute;dera la science, et l&rsquo;oreille des
+            sages cherche la doctrine. </ab>
+        <ab n="16">Les pr&eacute;sents d&rsquo;un homme &eacute;largissent sa voie, ils lui font
+            faire place devant les princes. </ab>
+        <ab n="17">Le juste s&rsquo;accuse lui-m&ecirc;me le premier ; survient son ami, qui
+            sondera son c&oelig;ur (et il l&rsquo;examinera). </ab>
+        <ab n="18">Le sort apaise les diff&eacute;rends, et il est l&rsquo;arbitre entre les
+            grands eux-m&ecirc;mes. </ab>
+        <ab n="19">Le fr&egrave;re qui est aid&eacute; par son fr&egrave;re est comme une ville
+            forte, et leurs d&eacute;cisions sont comme les verrous des cit&eacute;s (portes des
+            villes). </ab>
+        <ab n="20">Les entrailles de l&rsquo;homme seront remplies du fruit de sa bouche, et il
+            sera rassasi&eacute; de ce que ses l&egrave;vres auront produit. </ab>
+        <ab n="21">La mort et la vie sont au pouvoir de la langue ; ceux qui l&rsquo;aiment
+            mangeront de ses fruits. </ab>
+        <ab n="22">Celui qui a trouv&eacute; une femme vertueuse a trouv&eacute; le (un) bien,
+            et il a re&ccedil;u du Seigneur une source de joie. Celui qui chasse une femme vertueuse
+            rejette le bien ; mais celui qui retient une adult&egrave;re est insens&eacute; et
+            impie. </ab>
+        <ab n="23">Le pauvre parle en suppliant, et le riche r&eacute;pond avec duret&eacute;. </ab>
+        <ab n="24">L&rsquo;homme dont la soci&eacute;t&eacute; est agr&eacute;able (aimable
+            &agrave; la soci&eacute;t&eacute;) sera plus aim&eacute; (ami) qu&rsquo;un
+            fr&egrave;re.</ab>
+    </div>
+    <div type="chapter" n="19">
+        <ab n="1">Mieux vaut le pauvre qui marche dans la simplicit&eacute; que le riche qui a
+            les (tord ses) l&egrave;vres perverses et qui est insens&eacute;. </ab>
+        <ab n="2">Lorsque la science manque &agrave; l&rsquo;&acirc;me, il n&rsquo;y a pas de
+            bien, et celui dont les pieds se pr&eacute;cipitent tombera. </ab>
+        <ab n="3">La folie de l&rsquo;homme pervertit ses d&eacute;marches, et il br&ucirc;le en
+            son c&oelig;ur de col&egrave;re contre Dieu. </ab>
+        <ab n="4">Les richesses donnent beaucoup de nouveaux amis ; mais ceux m&ecirc;me
+            qu&rsquo;avait le pauvre se s&eacute;parent de lui. </ab>
+        <ab n="5">Le faux t&eacute;moin ne demeurera pas impuni, et celui qui dit des mensonges
+            n&rsquo;&eacute;chappera pas. </ab>
+        <ab n="6">Beaucoup honorent la personne de l&rsquo;homme puissant, et sont amis de celui
+            qui donne des pr&eacute;sents. </ab>
+        <ab n="7">Les fr&egrave;res du pauvre le ha&iuml;ssent, et de plus ses amis se retirent
+            loin de lui. Celui qui ne cherche que des paroles n&rsquo;aura rien ; </ab>
+        <ab n="8">mais celui qui poss&egrave;de son c&oelig;ur (de l&rsquo;intelligence) aime
+            son &acirc;me, et celui qui conserve la prudence trouvera le bien. </ab>
+        <ab n="9">Le faux t&eacute;moin ne sera pas impuni, et celui qui dit des mensonges
+            p&eacute;rira. </ab>
+        <ab n="10">Les d&eacute;lices si&eacute;ent mal &agrave; l&rsquo;insens&eacute;, et ce
+            n&rsquo;est pas &agrave; l&rsquo;esclave &agrave; dominer sur les princes. </ab>
+        <ab n="11">La science (doctrine) d&rsquo;un homme se conna&icirc;t par sa patience, et
+            c&rsquo;est sa gloire de ne pas tenir compte des (laisser de c&ocirc;t&eacute; les)
+            injustices (choses iniques). </ab>
+        <ab n="12">La col&egrave;re du roi est comme le rugissement du lion, et la
+            s&eacute;r&eacute;nit&eacute; de son visage (son hilarit&eacute;) est comme la
+            ros&eacute;e sur l&rsquo;herbe. </ab>
+        <ab n="13">Un insens&eacute; est la douleur de son p&egrave;re, et la femme querelleuse
+            est comme un toit qui d&eacute;goutte toujours (continuellement d&eacute;go&ucirc;tant). </ab>
+        <ab n="14">La maison et les richesses sont donn&eacute;es par les parents (p&egrave;res)
+            ; mais c&rsquo;est sp&eacute;cialement du Seigneur que vient l&rsquo;&eacute;pouse
+            prudente. </ab>
+        <ab n="15">La paresse produit l&rsquo;assoupissement, et l&rsquo;&acirc;me l&acirc;che
+            (indolent) aura faim. </ab>
+        <ab n="16">Celui qui garde le commandement garde son &acirc;me ; mais celui qui
+            n&eacute;glige sa voie sera frapp&eacute; de mort. </ab>
+        <ab n="17">Celui qui a piti&eacute; du pauvre pr&ecirc;te (&agrave;
+            int&eacute;r&ecirc;t) au Seigneur, qui lui rendra ce qu&rsquo;il lui aura
+            pr&ecirc;t&eacute; (son bienfait). </ab>
+        <ab n="18">Corrige ton fils, et n&rsquo;en d&eacute;sesp&egrave;re pas ; mais ne prends
+            pas de r&eacute;solution qui aille &agrave; sa mort. </ab>
+        <ab n="19">Celui qui est impatient en subira la peine, et lorsqu&rsquo;il aura ravi
+            quelque objet, il le rendra au double (prendra encore autre chose, note). </ab>
+        <ab n="20">Ecoute le conseil et re&ccedil;ois l&rsquo;instruction, afin
+            d&rsquo;&ecirc;tre sage dans la suite de ta vie (tes derniers moments). </ab>
+        <ab n="21">Beaucoup de pens&eacute;es s&rsquo;agitent dans le c&oelig;ur de
+            l&rsquo;homme ; mais la volont&eacute; du Seigneur demeure(ra) ferme (&agrave; jamais). </ab>
+        <ab n="22">L&rsquo;indigent a de la compassion, et le pauvre vaut mieux que le menteur. </ab>
+        <ab n="23">La crainte du Seigneur conduit &agrave; la vie, et elle demeurera dans
+            l&rsquo;abondance sans recevoir la visite du mal(heur). </ab>
+        <ab n="24">Le paresseux cache sa main sous son aisselle, et il ne la porte pas
+            (m&ecirc;me) &agrave; sa bouche. </ab>
+        <ab n="25">Quand l&rsquo;homme corrompu (pernicieux) aura &eacute;t&eacute;
+            ch&acirc;ti&eacute; (flagell&eacute;), l&rsquo;insens&eacute; deviendra plus sage ; mais
+            si tu reprends le sage, il comprendra la r&eacute;primande. </ab>
+        <ab n="26">Celui qui afflige son p&egrave;re et met en fuite sa m&egrave;re est
+            inf&acirc;me (ignominieux) et malheureux. </ab>
+        <ab n="27">Ne cesse pas, mon fils, d&rsquo;&eacute;couter l&rsquo;enseignement (la
+            doctrine), et n&rsquo;ignore pas les paroles de la science. </ab>
+        <ab n="28">Le t&eacute;moin injuste se rit de la justice, et la bouche des impies
+            d&eacute;vore l&rsquo;iniquit&eacute;. </ab>
+        <ab n="29">Les jugements sont pr&eacute;par&eacute;s pour les moqueurs (railleurs), et
+            les marteaux pour frapper le corps des insens&eacute;s.</ab>
+    </div>
+    <div type="chapter" n="20">
+        <ab n="1">Le vin est une source de (chose luxurieuse) luxure, et l&rsquo;ivrognerie
+            (ivresse) est tumultueuse ; quiconque y met son plaisir ne sera pas sage. </ab>
+        <ab n="2">La terreur qu&rsquo;inspire le roi est comme le rugissement du lion ; celui
+            qui le provoque p&egrave;che contre son &acirc;me. </ab>
+        <ab n="3">C&rsquo;est une gloire (un honneur) pour l&rsquo;homme de
+            s&rsquo;&eacute;carter des contestations ; mais tous les insens&eacute;s se m&ecirc;lent
+            aux propos outrageants. </ab>
+        <ab n="4">A cause du froid le paresseux n&rsquo;a pas voulu labourer ; il mendiera donc
+            pendant l&rsquo;&eacute;t&eacute;, et on ne lui donnera rien. </ab>
+        <ab n="5">Le conseil est dans le c&oelig;ur de l&rsquo;homme comme une eau profonde ;
+            mais le sage l&rsquo;y puisera (l&rsquo;&eacute;puisera). </ab>
+        <ab n="6">Beaucoup d&rsquo;hommes sont appel&eacute;s mis&eacute;ricordieux ; mais qui
+            trouvera un homme fid&egrave;le ? </ab>
+        <ab n="7">Le juste qui marche dans sa simplicit&eacute; laissera apr&egrave;s lui ses
+            (des) enfants (bien)heureux. </ab>
+        <ab n="8">Le roi qui si&egrave;ge sur un tr&ocirc;ne de justice dissipe tout le mal par
+            son (seul) regard. </ab>
+        <ab n="9">Qui peut dire : Mon c&oelig;ur est sans tache ; je suis pur de
+            p&eacute;ch&eacute; ? </ab>
+        <ab n="10">Le double (Un poids et un, note) poids et la double mesure sont deux choses
+            abominables devant Dieu. </ab>
+        <ab n="11">On juge par les inclinations de l&rsquo;enfant si ses &oelig;uvres seront
+            pures et droites. </ab>
+        <ab n="12">L&rsquo;oreille qui &eacute;coute (entend) et l&rsquo;&oelig;il qui voit : le
+            Seigneur les a faits l&rsquo;un et l&rsquo;autre. </ab>
+        <ab n="13">N&rsquo;aime pas le sommeil, de peur que la pauvret&eacute; (d&eacute;tresse)
+            ne t&rsquo;accable ; ouvre les yeux, et rassasie-toi de pain. </ab>
+        <ab n="14">Cela ne vaut rien, cela ne vaut rien, dit tout acheteur ; puis,
+            lorsqu&rsquo;il se sera retir&eacute;, il se glorifiera. </ab>
+        <ab n="15">Il y a de l&rsquo;or et beaucoup (une multitude) de perles ; mais les
+            l&egrave;vres savantes sont un vase pr&eacute;cieux. </ab>
+        <ab n="16">Prends le v&ecirc;tement de celui qui s&rsquo;est fait caution pour autrui
+            (un &eacute;tranger), et enl&egrave;ve-lui des gages &agrave; cause (parce qu&rsquo;il a
+            r&eacute;pondu pour) des &eacute;trangers. </ab>
+        <ab n="17">Le pain de mensonge est doux &agrave; l&rsquo;homme ; et ensuite sa bouche
+            sera pleine de gravier. </ab>
+        <ab n="18">Les projets (pens&eacute;es) s&rsquo;affermissent par les conseils, et les
+            guerres doivent &ecirc;tre conduites avec prudence (de sages directions). </ab>
+        <ab n="19">Si quelqu&rsquo;un d&eacute;voile les secrets, agit avec duplicit&eacute; et
+            a les l&egrave;vres toujours ouvertes, ne te m&ecirc;le (lie) pas avec lui. </ab>
+        <ab n="20">Si quelqu&rsquo;un maudit son p&egrave;re et sa m&egrave;re, sa lampe
+            s&rsquo;&eacute;teindra au milieu des t&eacute;n&egrave;bres. </ab>
+        <ab n="21">L&rsquo;h&eacute;ritage que l&rsquo;on se h&acirc;te tout d&rsquo;abord
+            d&rsquo;acqu&eacute;rir, ne sera pas b&eacute;ni &agrave; la fin. </ab>
+        <ab n="22">Ne dis pas : Je rendrai le mal ; attends le Seigneur, et il te
+            d&eacute;livrera. </ab>
+        <ab n="23">Avoir deux (un poids et un) poids est en abomination devant le Seigneur ; la
+            balance trompeuse n&rsquo;est pas bonne. </ab>
+        <ab n="24">Le Seigneur dirige les pas de l&rsquo;homme ; mais quel est l&rsquo;homme qui
+            puisse comprendre sa voie ? </ab>
+        <ab n="25">C&rsquo;est une ruine pour l&rsquo;homme de d&eacute;vorer les saints, et de
+            se r&eacute;tracter apr&egrave;s avoir fait des v&oelig;ux. </ab>
+        <ab n="26">Le roi sage dissipe les m&eacute;chants, et il courbe sur eux la roue (un arc
+            de triomphe). </ab>
+        <ab n="27">Le souffle de l&rsquo;homme est une lampe divine (du Seigneur), qui
+            (laquelle) d&eacute;couvre tous les secrets (parties intimes) du c&oelig;ur. </ab>
+        <ab n="28">La mis&eacute;ricorde et la v&eacute;rit&eacute; gardent le roi, et la
+            cl&eacute;mence affermit son tr&ocirc;ne. </ab>
+        <ab n="29">La joie des jeunes gens, c&rsquo;est leur force ; et la gloire
+            (dignit&eacute;) des vieillards, ce sont les cheveux blancs. </ab>
+        <ab n="30">Le mal se gu&eacute;rira par les meurtrissures livides et par les plaies les
+            plus profondes.</ab>
+    </div>
+    <div type="chapter" n="21">
+        <ab n="1">Le c&oelig;ur du roi est dans la main du Seigneur comme des eaux courantes ;
+            il l&rsquo;incline partout o&ugrave; il veut. </ab>
+        <ab n="2">Toutes les voies de l&rsquo;homme lui paraissent droites (&agrave;
+            lui-m&ecirc;me) ; mais le Seigneur p&egrave;se les c&oelig;urs. </ab>
+        <ab n="3">Faire mis&eacute;ricorde et justice est plus agr&eacute;able au Seigneur que
+            les victimes. </ab>
+        <ab n="4">L&rsquo;orgueil du c&oelig;ur rend les yeux altiers ; la lampe des impies
+            c&rsquo;est le p&eacute;ch&eacute;. </ab>
+        <ab n="5">Les projets (pens&eacute;es) de l&rsquo;homme fort produisent toujours
+            l&rsquo;abondance ; mais tout paresseux est toujours dans l&rsquo;indigence (la
+            d&eacute;tresse). </ab>
+        <ab n="6">Celui qui amasse des tr&eacute;sors avec une langue de mensonge est vain et
+            sans jugement (c&oelig;ur), et il s&rsquo;engagera dans les filets de la mort. </ab>
+        <ab n="7">Les rapines des impies seront leur ruine, parce qu&rsquo;ils n&rsquo;ont pas
+            voulu pratiquer la justice. </ab>
+        <ab n="8">La voie corrompue de l&rsquo;homme est une voie d&eacute;tourn&eacute;e
+            (&eacute;trang&egrave;re) ; mais quand il (celui qui) est pur, ses &oelig;uvres sont
+            droites. </ab>
+        <ab n="9">Mieux vaut demeurer dans un coin du toit que d&rsquo;habiter avec une femme
+            querelleuse (et) dans une maison commune. </ab>
+        <ab n="10">L&rsquo;&acirc;me de l&rsquo;impie d&eacute;sire le mal, il n&rsquo;aura pas
+            piti&eacute; de son prochain. </ab>
+        <ab n="11">Si l&rsquo;on ch&acirc;tie l&rsquo;homme contagieux, le simple deviendra plus
+            sage ; et s&rsquo;il s&rsquo;attache au sage, il acquerra (de) la science. </ab>
+        <ab n="12">Le juste r&eacute;fl&eacute;chit (m&ucirc;rement) &agrave; la maison de
+            l&rsquo;impie, pour retirer les impies du mal. </ab>
+        <ab n="13">Celui qui ferme l&rsquo;oreille au cri du pauvre criera lui-m&ecirc;me et ne
+            sera pas exauc&eacute;. </ab>
+        <ab n="14">Un pr&eacute;sent secret &eacute;teint la col&egrave;re, et un don
+            cach&eacute; dans le sein apaise l&rsquo;indignation la plus vive. </ab>
+        <ab n="15">C&rsquo;est une joie pour le juste de pratiquer la justice, et (mais)
+            l&rsquo;effroi est pour (de) ceux qui commettent l&rsquo;iniquit&eacute;. </ab>
+        <ab n="16">L&rsquo;homme qui s&rsquo;&eacute;carte de la voie de la doctrine demeurera
+            dans l&rsquo;assembl&eacute;e des g&eacute;ants. </ab>
+        <ab n="17">Celui qui aime les festins sera dans l&rsquo;indigence (la d&eacute;tresse) ;
+            celui qui aime le vin et la bonne ch&egrave;re ne s&rsquo;enrichira pas. </ab>
+        <ab n="18">Le m&eacute;chant est livr&eacute; pour le juste, et l&rsquo;injuste
+            (l&rsquo;inique) pour les hommes droits. </ab>
+        <ab n="19">Mieux vaut habiter dans une terre d&eacute;serte qu&rsquo;avec une femme
+            querelleuse et col&egrave;re. </ab>
+        <ab n="20">Il y a un tr&eacute;sor pr&eacute;cieux et de l&rsquo;huile dans la maison du
+            juste, et (mais) l&rsquo;homme imprudent (les) dissipera (le tout). </ab>
+        <ab n="21">Celui qui exerce (recherche) la justice et la mis&eacute;ricorde trouvera la
+            vie, la justice et la gloire. </ab>
+        <ab n="22">Le sage a pris d&rsquo;assaut la ville des forts, et il a d&eacute;truit la
+            force o&ugrave; elle mettait sa confiance. </ab>
+        <ab n="23">Celui qui garde sa bouche et sa langue pr&eacute;serve son &acirc;me des
+            angoisses. </ab>
+        <ab n="24">On nomme ignorant le superbe et le pr&eacute;somptueux, qui dans sa
+            col&egrave;re ne produit que (il agit avec) l&rsquo;orgueil. </ab>
+        <ab n="25">Les d&eacute;sirs tuent le paresseux, car ses mains ne veulent (n&rsquo;ont)
+            rien (voulu) faire. </ab>
+        <ab n="26">Tout le jour il convoite et il d&eacute;sire, mais le juste donne sans cesse. </ab>
+        <ab n="27">Les victimes (hosties) des impies sont abominables, parce qu&rsquo;ils les
+            offrent du (comme) fruit de leurs crimes. </ab>
+        <ab n="28">Le t&eacute;moin menteur p&eacute;rira ; l&rsquo;homme ob&eacute;issant
+            racontera des victoires. </ab>
+        <ab n="29">L&rsquo;impie fait para&icirc;tre sur son visage une assurance
+            effront&eacute;e ; mais celui qui est droit corrige sa voie. </ab>
+        <ab n="30">Il n&rsquo;y a pas de sagesse, il n&rsquo;y a pas de prudence, il n&rsquo;y a
+            pas de conseil contre le Seigneur. </ab>
+        <ab n="31">On pr&eacute;pare le cheval pour le jour du combat ; mais c&rsquo;est le
+            Seigneur qui donne le salut (la victoire). </ab>
+    </div>
+    <div type="chapter" n="22">
+        <ab n="1">Une bonne renomm&eacute;e vaut mieux que de grandes richesses, et la
+            gr&acirc;ce (bonne amiti&eacute;) est plus estimable que l&rsquo;argent et l&rsquo;or. </ab>
+        <ab n="2">Le riche et le pauvre se sont rencontr&eacute;s ; c&rsquo;est le Seigneur qui
+            les a cr&eacute;&eacute;s l&rsquo;un et l&rsquo;autre. </ab>
+        <ab n="3">L&rsquo;homme habile voit (a vu) le mal et se (s&rsquo;est) cache(&eacute;),
+            l&rsquo;imprudent (le simple) (a) passe(&eacute;) outre, et (a) souffre (souffert) du
+            dommage. </ab>
+        <ab n="4">Le fruit (La fin) de la modestie c&rsquo;est la crainte du Seigneur, les
+            richesses, et la gloire et la vie. </ab>
+        <ab n="5">Les armes et les glaives sont sur la voie des pervers ; mais celui qui garde
+            son &acirc;me se retire (bien) loin d&rsquo;eux. </ab>
+        <ab n="6">On dit en proverbe : Le jeune homme suit sa voie ; m&ecirc;me lorsqu&rsquo;il
+            aura vieilli, il ne la quittera pas. </ab>
+        <ab n="7">Le riche commande aux pauvres, et celui qui emprunte devient l&rsquo;esclave
+            du pr&ecirc;teur. </ab>
+        <ab n="8">Celui qui s&egrave;me l&rsquo;injustice (iniquit&eacute;) moissonnera les
+            maux, et il sera bris&eacute; (d&eacute;truit) par la verge de sa col&egrave;re. </ab>
+        <ab n="9">Celui qui est port&eacute; &agrave; la mis&eacute;ricorde sera b&eacute;ni,
+            car il a donn&eacute; de ses (son) pain(s) aux pauvres. Celui qui fait des
+            pr&eacute;sents acquerra la victoire et l&rsquo;honneur ; mais il ravit
+            l&rsquo;&acirc;me de ceux qui les re&ccedil;oivent. </ab>
+        <ab n="10">Chasse le railleur, et la dispute sortira avec lui ; alors les plaintes et
+            les outrages cesseront. </ab>
+        <ab n="11">Celui qui aime la puret&eacute; du c&oelig;ur, &agrave; cause de la
+            gr&acirc;ce de ses l&egrave;vres aura le roi pour ami. </ab>
+        <ab n="12">Les yeux du Seigneur gardent la science, et les paroles du perfide (de
+            l&rsquo;homme inique) sont confondues. </ab>
+        <ab n="13">Le paresseux dit : Il y a un lion dehors, je serai tu&eacute; au milieu des
+            rues. </ab>
+        <ab n="14">La bouche de l&rsquo;&eacute;trang&egrave;re est une fosse profonde ; celui
+            contre qui le Seigneur est irrit&eacute; y tombera. </ab>
+        <ab n="15">La folie est li&eacute;e au c&oelig;ur de l&rsquo;enfant, et la verge de la
+            discipline l&rsquo;en chassera. </ab>
+        <ab n="16">Celui qui calomnie le pauvre pour accro&icirc;tre ses richesses, donnera
+            lui-m&ecirc;me &agrave; un plus riche que lui, et sera dans l&rsquo;indigence. </ab>
+        <ab n="17">Pr&ecirc;te l&rsquo;oreille, et &eacute;coute les paroles des sages, et
+            applique ton c&oelig;ur &agrave; ma doctrine. </ab>
+        <ab n="18">Elle te para&icirc;tra belle, lorsque tu la garderas au fond de ton
+            c&oelig;ur, et elle se r&eacute;pandra sur tes l&egrave;vres, </ab>
+        <ab n="19">afin que tu mettes ta confiance dans le Seigneur : c&rsquo;est pour cela que
+            je te l&rsquo;ai montr&eacute;e aujourd&rsquo;hui. </ab>
+        <ab n="20">Je te l&rsquo;ai d&eacute;crite triplement, avec conseils (r&eacute;flexion)
+            et avec science, </ab>
+        <ab n="21">pour te faire voir la certitude des (et les) paroles de la
+            v&eacute;rit&eacute;, afin qu&rsquo;elles te servent &agrave; r&eacute;pondre &agrave;
+            ceux qui t&rsquo;ont envoy&eacute;. </ab>
+        <ab n="22">Ne fais pas violence au pauvre parce qu&rsquo;il est pauvre, et
+            n&rsquo;opprime pas l&rsquo;indigent &agrave; la porte (de la ville), </ab>
+        <ab n="23">car le Seigneur d&eacute;fendra sa cause, et il (trans)percera ceux qui
+            auront (trans)perc&eacute; son &acirc;me. </ab>
+        <ab n="24">Ne sois pas l&rsquo;ami de l&rsquo;homme emport&eacute;, et ne va pas avec le
+            furieux ; </ab>
+        <ab n="25">de peur que tu n&rsquo;apprennes &agrave; suivre ses sentiers, et que tu ne
+            trouves du scandale pour ton &acirc;me. </ab>
+        <ab n="26">Ne va pas avec ceux qui frappent dans la (engagent leurs) main(s), et qui
+            s&rsquo;offrent comme garants pour ceux qui doivent (se rendent caution des dettes) ; </ab>
+        <ab n="27">car si tu n&rsquo;as pas de quoi restituer, qui emp&ecirc;chera qu&rsquo;on
+            (quel motif y a-t-il pour qu&rsquo;il) emporte la couverture de ton lit ? </ab>
+        <ab n="28">Ne d&eacute;passe pas les anciennes bornes qu&rsquo;ont pos&eacute;es tes
+            p&egrave;res. </ab>
+        <ab n="29">As-tu vu un homme prompt en son &oelig;uvre ? Il se tiendra devant les rois,
+            et non aupr&egrave;s des hommes obscurs.</ab>
+    </div>
+    <div type="chapter" n="23">
+        <ab n="1">Lorsque tu seras assis pour manger avec le prince, consid&egrave;re avec
+            attention ce qui est servi devant toi, </ab>
+        <ab n="2">et mets-toi un couteau &agrave; la gorge si toutefois tu es ma&icirc;tre de
+            ton &acirc;me. </ab>
+        <ab n="3">Ne d&eacute;sire pas ses mets, car c&rsquo;est (d&eacute;sire pas des aliments
+            de celui chez qui est) un pain de mensonge. </ab>
+        <ab n="4">Ne travaille pas &agrave; t&rsquo;enrichir ; mais mets des bornes &agrave; ta
+            prudence. </ab>
+        <ab n="5">Ne l&egrave;ve pas les yeux vers des biens que tu ne peux avoir ; car ils
+            prendront des ailes comme l&rsquo;aigle, et s&rsquo;envoleront au ciel. </ab>
+        <ab n="6">Ne mange pas avec l&rsquo;homme envieux, et ne d&eacute;sire pas ses mets ; </ab>
+        <ab n="7">car, &agrave; la mani&egrave;re du devin et de celui qui interpr&egrave;te les
+            songes, il conjecture (juge de) ce qu&rsquo;il ignore. Bois et mange, te dira-t-il ;
+            mais son c&oelig;ur n&rsquo;est pas avec toi. </ab>
+        <ab n="8">Tu rejetteras les mets que tu auras mang&eacute;s, et tu perdras tes beaux
+            (sages) discours. </ab>
+        <ab n="9">Ne parle pas aux oreilles des insens&eacute;s, parce qu&rsquo;ils
+            m&eacute;priseront l&rsquo;enseignement de tes paroles. </ab>
+        <ab n="10">Ne touche pas aux bornes des petits, et n&rsquo;entre pas dans le champ des
+            orphelins ; </ab>
+        <ab n="11">car leur proche est puissant, et il d&eacute;fendra (jugera) lui-m&ecirc;me
+            leur cause contre toi. </ab>
+        <ab n="12">Que ton c&oelig;ur p&eacute;n&egrave;tre dans la doctrine, et tes oreilles
+            dans les paroles de la science. </ab>
+        <ab n="13">N&rsquo;&eacute;pargne pas la correction &agrave; l&rsquo;enfant ; car si tu
+            le frappes avec la verge, il ne mourra pas. </ab>
+        <ab n="14">Tu le frapperas avec la verge, et tu d&eacute;livreras son &acirc;me de
+            l&rsquo;enfer. </ab>
+        <ab n="15">Mon fils, si ton esprit est sage, mon c&oelig;ur se r&eacute;jouira avec toi
+            ; </ab>
+        <ab n="16">et mes entrailles tressailliront de joie, lorsque tes l&egrave;vres auront
+            prof&eacute;r&eacute; des paroles droites. </ab>
+        <ab n="17">Que ton c&oelig;ur ne porte pas envie aux p&eacute;cheurs, mais demeure tout
+            le jour dans la crainte du Seigneur ; </ab>
+        <ab n="18">car tu auras de la confiance (l&rsquo;esp&eacute;rance) &agrave; la
+            derni&egrave;re heure, et ton attente ne te sera pas ravie (frustr&eacute;e). </ab>
+        <ab n="19">Ecoute, mon fils, et sois sage, et dirige ton &acirc;me dans la droite
+            (bonne, note) voie. </ab>
+        <ab n="20">Ne sois pas dans les festins des buveurs, ni dans les d&eacute;bauches
+            (orgies) de ceux qui apportent des viandes pour les manger ensemble ; </ab>
+        <ab n="21">car ceux qui passent le temps &agrave; boire et &agrave; se traiter ainsi
+            (qui paient leur &eacute;cot) se ruineront ; et l&rsquo;assoupissement sera v&ecirc;tu
+            de haillons. </ab>
+        <ab n="22">Ecoute ton p&egrave;re qui t&rsquo;a engendr&eacute;, et ne m&eacute;prise
+            pas ta m&egrave;re lorsqu&rsquo;elle aura vieilli. </ab>
+        <ab n="23">Ach&egrave;te la v&eacute;rit&eacute;, et ne vends pas la sagesse, ni la
+            doctrine, ni l&rsquo;intelligence. </ab>
+        <ab n="24">Le p&egrave;re du juste tressaille d&rsquo;all&eacute;gresse ; celui qui a
+            donn&eacute; la vie &agrave; un sage trouvera sa joie en lui. </ab>
+        <ab n="25">Que ton p&egrave;re et ta m&egrave;re se r&eacute;jouissent, et que celle qui
+            t&rsquo;a enfant&eacute; tressaille d&rsquo;all&eacute;gresse. </ab>
+        <ab n="26">Mon fils, donne-moi ton c&oelig;ur, et que tes yeux s&rsquo;attachent
+            &agrave; mes voies. </ab>
+        <ab n="27">Car la courtisane (prostitu&eacute;e) est une fosse profonde, et
+            l&rsquo;&eacute;trang&egrave;re un puits &eacute;troit. </ab>
+        <ab n="28">Elle dresse des emb&ucirc;ches sur le chemin comme un voleur, et elle tue(ra)
+            ceux qu&rsquo;elle voit (verra ne pas) n&rsquo;&ecirc;tre pas sur leurs gardes. </ab>
+        <ab n="29">A qui (:) Malheur ? Au p&egrave;re de qui (:) Malheur ? Pour qui les
+            querelles ? pour qui les pr&eacute;cipices ? pour qui les blessures sans sujet ? pour
+            qui la rougeur des yeux ? </ab>
+        <ab n="30">N&rsquo;est-ce pas pour ceux qui s&rsquo;attardent aupr&egrave;s du vin, et
+            qui mettent leur plaisir &agrave; vider les coupes (pleines) ? </ab>
+        <ab n="31">Ne regarde pas le vin lorsqu&rsquo;il se dore (jaunit), lorsque sa couleur
+            brille dans le verre. Il entre agr&eacute;ablement (doucement) ; </ab>
+        <ab n="32">mais &agrave; la fin il mord(ra) comme un serpent, et il r&eacute;pand(ra)
+            son venin comme un basilic. </ab>
+        <ab n="33">Tes yeux regarderont les &eacute;trang&egrave;res, et ton c&oelig;ur dira des
+            paroles d&eacute;r&eacute;gl&eacute;es (perverses). </ab>
+        <ab n="34">Et tu seras comme un homme endormi au milieu de la mer, et comme un pilote
+            assoupi qui a perdu le gouvernail. </ab>
+        <ab n="35">Et tu diras : Ils m&rsquo;ont battu, mais je n&rsquo;ai pas souffert ; ils
+            m&rsquo;ont entra&icirc;n&eacute;, mais je ne l&rsquo;ai pas senti. Quand me
+            r&eacute;veillerai-je, et quand trouverai-je encore du vin ?</ab>
+    </div>
+    <div type="chapter" n="24">
+        <ab n="1">Ne porte pas envie aux m&eacute;chants, et ne d&eacute;sire pas
+            d&rsquo;&ecirc;tre avec eux, </ab>
+        <ab n="2">car leur esprit m&eacute;dite les rapines, et leurs l&egrave;vres ne
+            prof&egrave;rent que tromperies. </ab>
+        <ab n="3">C&rsquo;est par la sagesse que la maison sera b&acirc;tie, et par la prudence
+            qu&rsquo;elle s&rsquo;affermira. </ab>
+        <ab n="4">C&rsquo;est par la science que les celliers se rempliront de tout ce
+            qu&rsquo;il y a de (biens) pr&eacute;cieux et (de) tr&egrave;s beau(x). </ab>
+        <ab n="5">L&rsquo;homme sage est fort, et l&rsquo;homme savant est robuste et puissant ; </ab>
+        <ab n="6">car c&rsquo;est par la prudence (avec r&eacute;flexion) qu&rsquo;on entreprend
+            la guerre, et le salut sera l&agrave; o&ugrave; il y a beaucoup de conseils. </ab>
+        <ab n="7">La sagesse est trop (bien) &eacute;lev&eacute;e pour l&rsquo;insens&eacute;
+            (&agrave; la porte de la ville), il n&rsquo;ouvrira pas la bouche &agrave; la porte de
+            la ville. </ab>
+        <ab n="8">Celui qui pense &agrave; faire le mal sera appel&eacute; insens&eacute;. </ab>
+        <ab n="9">La pens&eacute;e de l&rsquo;insens&eacute; c&rsquo;est le p&eacute;ch&eacute;,
+            et le m&eacute;disant est l&rsquo;abomination des hommes. </ab>
+        <ab n="10">Si tu d&eacute;sesp&egrave;res, sans courage, au jour de l&rsquo;affliction,
+            ta force en sera affaiblie. </ab>
+        <ab n="11">Sauve ceux que l&rsquo;on m&egrave;ne &agrave; la mort, et ne cesse pas de
+            d&eacute;livrer ceux qu&rsquo;on tra&icirc;ne au supplice (&agrave; la destruction). </ab>
+        <ab n="12">Si tu dis : Les forces me manquent, celui qui voit le fond du c&oelig;ur le
+            discernera (discerne lui-m&ecirc;me) ; car rien n&rsquo;&eacute;chappe &agrave;
+            l&rsquo;observateur de ton &acirc;me, et il rendra &agrave; l&rsquo;homme selon ses
+            &oelig;uvres. </ab>
+        <ab n="13">Mon fils, mange le miel, car il est bon, et le rayon de miel est tr&egrave;s
+            doux &agrave; ta bouche (le rayon doux &agrave; ton gosier). </ab>
+        <ab n="14">Telle est pour ton &acirc;me la doctrine de la sagesse ; quand tu
+            l&rsquo;auras trouv&eacute;e, tu auras de l&rsquo;espoir pour ta derni&egrave;re heure,
+            et cette esp&eacute;rance ne p&eacute;rira pas. </ab>
+        <ab n="15">Ne dresse pas d&rsquo;emb&ucirc;che (au juste), et ne cherche pas
+            l&rsquo;impi&eacute;t&eacute; dans sa (la) maison (du juste) ; ne trouble pas son repos. </ab>
+        <ab n="16">Car le juste tombera sept fois et se rel&egrave;vera ; mais les impies seront
+            pr&eacute;cipit&eacute;s dans le mal (abattus dans le malheur). </ab>
+        <ab n="17">Lorsque ton ennemi sera tomb&eacute;, ne te r&eacute;jouis pas, et que ton
+            c&oelig;ur ne tressaille pas de joie au sujet de sa ruine ; </ab>
+        <ab n="18">de peur que le Seigneur ne le voie, et que cela ne lui d&eacute;plaise, et
+            qu&rsquo;il ne retire de lui sa col&egrave;re. </ab>
+        <ab n="19">N&rsquo;aie pas de jalousie &agrave; l&rsquo;&eacute;gard des
+            m&eacute;chants, et ne porte pas envie aux impies ; </ab>
+        <ab n="20">car les m&eacute;chants n&rsquo;ont pas d&rsquo;esp&eacute;rance pour
+            l&rsquo;avenir, et la lampe des impies s&rsquo;&eacute;teindra. </ab>
+        <ab n="21">Mon fils, crains le Seigneur et le roi, et n&rsquo;aie pas de commerce avec
+            les m&eacute;disants ; </ab>
+        <ab n="22">car leur perdition se dressera tout &agrave; coup, et qui pourra
+            conna&icirc;tre la ruine de l&rsquo;un et de l&rsquo;autre ? </ab>
+        <ab n="23">Ce qui suit est aussi pour les sages. Il n&rsquo;est pas bon de faire
+            acception des personnes dans le jugement. </ab>
+        <ab n="24">Ceux qui disent &agrave; l&rsquo;impie : Tu es juste, seront maudits des
+            peuples et d&eacute;test&eacute;s des nations. </ab>
+        <ab n="25">Ceux qui le condamnent (reprennent) seront lou&eacute;s, et la
+            b&eacute;n&eacute;diction viendra sur eux. </ab>
+        <ab n="26">Il baise(ra) les l&egrave;vres, celui qui r&eacute;pond des paroles justes
+            (droites). </ab>
+        <ab n="27">Pr&eacute;pare ton ouvrage au dehors, et remue ton champ avec soin : tu
+            b&acirc;tiras ensuite ta maison. </ab>
+        <ab n="28">Ne t&eacute;moigne pas &agrave; la l&eacute;g&egrave;re contre ton prochain,
+            et ne s&eacute;duis personne par tes l&egrave;vres. </ab>
+        <ab n="29">Ne dis pas : Ce qu&rsquo;il m&rsquo;a fait, je le lui ferai ; je rendrai
+            &agrave; chacun selon ses &oelig;uvres. </ab>
+        <ab n="30">J&rsquo;ai pass&eacute; par le champ du paresseux, et par la vigne de
+            l&rsquo;homme insens&eacute; ; </ab>
+        <ab n="31">et voici que les orties avaient tout rempli, et que les &eacute;pines en
+            couvraient la surface, et le mur de pierres &eacute;tait abattu. </ab>
+        <ab n="32">A cette vue, j&rsquo;ai r&eacute;fl&eacute;chi dans mon c&oelig;ur, et je me
+            suis instruit par cet exemple. </ab>
+        <ab n="33">Tu dormiras un peu, ai-je dit ; tu sommeilleras un peu ; tu croiseras un peu
+            tes mains (mettras faiblement les mains l&rsquo;une dans l&rsquo;autre) pour te reposer, </ab>
+        <ab n="34">et l&rsquo;indigence viendra sur toi comme un courrier, et la
+            mendicit&eacute; comme un homme arm&eacute;. </ab>
+    </div>
+    <div type="chapter" n="25">
+        <ab n="1">Voici encore des paraboles de Salomon, recueillies par les hommes
+            d&rsquo;Ez&eacute;chias, roi de Juda. </ab>
+        <ab n="2">La gloire de Dieu est de cacher la parole, (et) la gloire des rois de la
+            d&eacute;couvrir (, de scruter le discours). </ab>
+        <ab n="3">Le ciel dans sa hauteur, la terre dans sa profondeur, et le c&oelig;ur des
+            rois, sont imp&eacute;n&eacute;trables. </ab>
+        <ab n="4">Ote la rouille de l&rsquo;argent, et il en sortira un vase tr&egrave;s pur. </ab>
+        <ab n="5">Ote l&rsquo;impi&eacute;t&eacute; de devant le roi, et son tr&ocirc;ne
+            s&rsquo;affermira par la justice. </ab>
+        <ab n="6">Ne sois pas orgueilleux (parais pas chercher la gloire) devant le roi, et ne
+            te mets pas au rang des grands. </ab>
+        <ab n="7">Car il vaut mieux que l&rsquo;on te dise : Monte ici, que d&rsquo;&ecirc;tre
+            humili&eacute; devant le prince. </ab>
+        <ab n="8">Ce que tes yeux ont vu, ne le r&eacute;v&egrave;le pas avec
+            pr&eacute;cipitation dans une querelle, de peur qu&rsquo;ensuite tu ne puisses plus
+            r&eacute;parer le mal, lorsque tu auras d&eacute;shonor&eacute; ton ami. </ab>
+        <ab n="9">Traite ton affaire avec ton ami, et ne r&eacute;v&egrave;le pas le secret
+            &agrave; un &eacute;tranger ; </ab>
+        <ab n="10">de peur qu&rsquo;il ne t&rsquo;insulte apr&egrave;s l&rsquo;avoir entendu, et
+            qu&rsquo;il ne cesse de te faire des reproches. La gr&acirc;ce (faveur) et
+            l&rsquo;amiti&eacute; d&eacute;livre ; assure-les-toi, de peur d&rsquo;&ecirc;tre en
+            butte au m&eacute;pris (ne deviennes pas r&eacute;pr&eacute;hensible). </ab>
+        <ab n="11">Comme des pommes d&rsquo;or sur des lits d&rsquo;argent, ainsi est la (celui
+            qui dit une) parole (dite) en son temps. </ab>
+        <ab n="12">Comme une boucle d&rsquo;or avec (et) une perle brillante, ainsi est la
+            r&eacute;primande faite &agrave; un sage et &agrave; une oreille ob&eacute;issante. </ab>
+        <ab n="13">Comme la fra&icirc;cheur de la neige au jour de la moisson, ainsi est un
+            messager fid&egrave;le pour celui qui l&rsquo;a envoy&eacute; ; il donne le repos
+            &agrave; son &acirc;me. </ab>
+        <ab n="14">Comme des nuages et le vent qui ne sont pas suivis de pluie, ainsi est
+            l&rsquo;homme qui se vante et qui ne tient pas ses promesses. </ab>
+        <ab n="15">La patience fl&eacute;chit le prince, et la langue douce brise ce qui est dur
+            (la duret&eacute;). </ab>
+        <ab n="16">As-tu trouv&eacute; du miel ? n&rsquo;en mange que ce qui te suffit, de peur
+            qu&rsquo;en &eacute;tant rassasi&eacute; tu ne le vomisses. </ab>
+        <ab n="17">Retire ton pied de la maison de ton prochain, de peur qu&rsquo;&eacute;tant
+            rassasi&eacute; (de toi) il ne te ha&iuml;sse. </ab>
+        <ab n="18">Un dard (trait), et un glaive, et une fl&egrave;che aigu&euml;, tel est
+            l&rsquo;homme qui porte un faux t&eacute;moignage contre son prochain. </ab>
+        <ab n="19">Comme une dent g&acirc;t&eacute;e et un pied fatigu&eacute;, ainsi est
+            l&rsquo;espoir en un perfide (infid&egrave;le) au jour de l&rsquo;angoisse ; </ab>
+        <ab n="20">c&rsquo;est perdre son manteau au jour du froid. Comme du vinaigre
+            vers&eacute; sur du nitre, ainsi sont les cantiques chant&eacute;s devant un c&oelig;ur
+            attrist&eacute; (tr&egrave;s mauvais). Comme la teigne au v&ecirc;tement, et la
+            pourriture (le ver) au bois, ainsi la tristesse de l&rsquo;homme nuit &agrave; son
+            c&oelig;ur. </ab>
+        <ab n="21">Si ton ennemi a faim, donne-lui &agrave; manger ; s&rsquo;il a soif,
+            donne-lui de l&rsquo;eau &agrave; boire ; </ab>
+        <ab n="22">car tu amasseras ainsi des charbons (ardents) sur sa t&ecirc;te, et le
+            Seigneur te le rendra. </ab>
+        <ab n="23">Le vent d&rsquo;aquilon dissipe les pluies, et le visage triste la langue
+            m&eacute;disante. </ab>
+        <ab n="24">Mieux vaut habiter en un coin du toit, qu&rsquo;avec une femme querelleuse,
+            (et) dans une maison commune. </ab>
+        <ab n="25">Comme de l&rsquo;eau fra&icirc;che &agrave; celui qui a soif (une &acirc;me
+            alt&eacute;r&eacute;e), ainsi est une bonne nouvelle qui vient d&rsquo;un pays
+            (d&rsquo;une terre) &eacute;loign&eacute;(e). </ab>
+        <ab n="26">Comme une fontaine troubl&eacute;e avec le pied et une source corrompue,
+            ainsi est le juste qui tombe devant l&rsquo;impie. </ab>
+        <ab n="27">Celui qui mange beaucoup de miel ne s&rsquo;en trouve pas bien, de m&ecirc;me
+            celui qui veut sonder la majest&eacute; divine sera accabl&eacute; de sa gloire. </ab>
+        <ab n="28">Comme une ville ouverte et sans enceinte de murailles, ainsi est celui qui ne
+            peut retenir son esprit en parlant.</ab>
+    </div>
+    <div type="chapter" n="26">
+        <ab n="1">Comme la neige (vient mal) en &eacute;t&eacute; et la pluie pendant la
+            moisson, ainsi la gloire sied mal &agrave; l&rsquo;insens&eacute;. </ab>
+        <ab n="2">Comme l&rsquo;oiseau qui s&rsquo;envole d&rsquo;un lieu &agrave;
+            l&rsquo;autre, et le passereau qui va de tous c&ocirc;t&eacute;s (o&ugrave; il lui
+            pla&icirc;t), ainsi la mal&eacute;diction prononc&eacute;e sans sujet (par
+            quelqu&rsquo;un) retombera sur quelqu&rsquo;un (lui). </ab>
+        <ab n="3">Le fouet est pour le cheval, et le mors pour l&rsquo;&acirc;ne, et la verge
+            pour le dos des insens&eacute;s. </ab>
+        <ab n="4">Ne r&eacute;ponds pas &agrave; l&rsquo;insens&eacute; (un fou) selon sa folie,
+            de peur que tu ne lui deviennes semblable. </ab>
+        <ab n="5">R&eacute;ponds &agrave; l&rsquo;insens&eacute; selon sa folie, de peur
+            qu&rsquo;il ne s&rsquo;imagine qu&rsquo;il est sage. </ab>
+        <ab n="6">Il se rend boiteux, et il boit l&rsquo;iniquit&eacute;, celui qui envoie des
+            messages par un insens&eacute;. </ab>
+        <ab n="7">De m&ecirc;me que le boiteux a en vain de belles jambes, ainsi la sentence
+            grave est choquante (sied mal) dans la bouche de l&rsquo;insens&eacute;. </ab>
+        <ab n="8">Comme celui qui jette une pierre dans le monceau de Mercure, ainsi est celui
+            qui rend honneur &agrave; un insens&eacute;. </ab>
+        <ab n="9">Comme une &eacute;pine qui na&icirc;trait dans la main d&rsquo;un homme ivre,
+            ainsi est la parabole dans la bouche des insens&eacute;s. </ab>
+        <ab n="10">La sentence d&eacute;cide les proc&egrave;s (Le jugement termine les causes),
+            et celui qui impose silence &agrave; l&rsquo;insens&eacute; apaise les col&egrave;res. </ab>
+        <ab n="11">Comme le chien qui retourne &agrave; ce qu&rsquo;il a vomi, ainsi est
+            l&rsquo;imprudent qui retombe dans sa folie. </ab>
+        <ab n="12">As-tu vu un homme qui se croit sage ? Il y a plus &agrave; esp&eacute;rer de
+            l&rsquo;insens&eacute; que de lui. </ab>
+        <ab n="13">Le paresseux dit : Il y a un lion sur la route, et une lionne dans les
+            chemins. </ab>
+        <ab n="14">Comme une porte roule (tourne) sur ses gonds, ainsi le paresseux dans son
+            lit. </ab>
+        <ab n="15">Le paresseux cache sa main sous son aisselle, et c&rsquo;est un travail pour
+            lui (il est fatigu&eacute;) de la porter &agrave; sa bouche. </ab>
+        <ab n="16">Le paresseux se croit plus sage que sept hommes qui disent des choses
+            sens&eacute;es (prononcent des sentences). </ab>
+        <ab n="17">Comme celui qui saisit un chien par les oreilles, ainsi est celui qui en
+            passant se m&ecirc;le avec impatience &agrave; la querelle d&rsquo;un autre. </ab>
+        <ab n="18">De m&ecirc;me que celui-l&agrave; est coupable qui lance des fl&egrave;ches
+            et des dards pour donner la mort, </ab>
+        <ab n="19">ainsi l&rsquo;est celui qui nuit frauduleusement &agrave; son ami, et qui
+            dit, lorsqu&rsquo;il est surpris : Je l&rsquo;ai fait en jouant. </ab>
+        <ab n="20">Quand il n&rsquo;y aura plus de bois, le feu s&rsquo;&eacute;teindra, et
+            quand il n&rsquo;y aura plus de rapporteurs (d&eacute;lateurs), les querelles
+            s&rsquo;apaiseront. </ab>
+        <ab n="21">Comme le charbon produit un brasier (de la braise) et le bois du feu, ainsi
+            l&rsquo;homme emport&eacute; (col&egrave;re) suscite des disputes. </ab>
+        <ab n="22">Les paroles du rapporteur (d&rsquo;un d&eacute;lateur) paraissent simples,
+            mais elles p&eacute;n&egrave;trent jusqu&rsquo;au fond des entrailles. </ab>
+        <ab n="23">Comme de l&rsquo;argent impur, dont on voudrait orner un vase de terre,
+            telles sont les l&egrave;vres superbes jointes &agrave; un c&oelig;ur corrompu. </ab>
+        <ab n="24">L&rsquo;ennemi se fait conna&icirc;tre par ses l&egrave;vres, lorsqu&rsquo;au
+            fond du c&oelig;ur il m&eacute;dite la tromperie. </ab>
+        <ab n="25">Quand il te parlerait d&rsquo;une voix humble (abaisse sa voix), ne le crois
+            pas, car il y a sept m&eacute;chancet&eacute;s (malices) dans son c&oelig;ur. </ab>
+        <ab n="26">Celui qui cache hypocritement la (frauduleusement sa) haine, verra sa malice
+            r&eacute;v&eacute;l&eacute;e dans l&rsquo;assembl&eacute;e (publique). </ab>
+        <ab n="27">Celui qui creuse une fosse y tombera, et la pierre reviendra sur celui qui
+            l&rsquo;a roul&eacute;e. </ab>
+        <ab n="28">La langue trompeuse n&rsquo;aime pas la v&eacute;rit&eacute;, et la bouche
+            flatteuse cause des ruines. </ab>
+    </div>
+    <div type="chapter" n="27">
+        <ab n="1">Ne te glorifie pas au sujet du lendemain ; tu ignores ce qu&rsquo;enfantera le
+            jour suivant. </ab>
+        <ab n="2">Qu&rsquo;un autre te loue, et non ta propre bouche ; un &eacute;tranger, et
+            non tes l&egrave;vres. </ab>
+        <ab n="3">La pierre est lourde et le sable pesant ; mais la col&egrave;re de
+            l&rsquo;insens&eacute; p&egrave;se plus que l&rsquo;une et l&rsquo;autre. </ab>
+        <ab n="4">La col&egrave;re et la fureur qui &eacute;clate sont sans piti&eacute;, et qui
+            pourra soutenir la violence d&rsquo;un homme emport&eacute; ? </ab>
+        <ab n="5">Une r&eacute;primande ouverte (correction manifeste) vaut mieux qu&rsquo;un
+            amour cach&eacute;. </ab>
+        <ab n="6">Les blessures faites par celui qui aime valent mieux que les baisers trompeurs
+            de celui qui hait. </ab>
+        <ab n="7">Celui qui est rassasi&eacute; foulera aux pieds le rayon de miel, et celui qui
+            a faim trouvera doux m&ecirc;me ce qui est amer. </ab>
+        <ab n="8">Comme l&rsquo;oiseau qui &eacute;migre de son nid, ainsi est l&rsquo;homme qui
+            abandonne son lieu. </ab>
+        <ab n="9">Le parfum et la vari&eacute;t&eacute; des odeurs r&eacute;jouissent le
+            c&oelig;ur, et les bons conseils d&rsquo;un ami font les d&eacute;lices de
+            l&rsquo;&acirc;me. </ab>
+        <ab n="10">N&rsquo;abandonne pas ton ami, ni l&rsquo;ami de ton p&egrave;re ; et
+            n&rsquo;entre pas dans la maison de ton fr&egrave;re au jour de ton affliction. Un
+            voisin qui est proche vaut mieux qu&rsquo;un fr&egrave;re qui est loin. </ab>
+        <ab n="11">Applique-toi &agrave; la sagesse, mon fils, et r&eacute;jouis mon c&oelig;ur,
+            afin que tu puisses r&eacute;pondre &agrave; celui qui te fera des reproches. </ab>
+        <ab n="12">L&rsquo;homme habile a vu le mal, et s&rsquo;est cach&eacute; ; les
+            imprudents ont pass&eacute; outre, et ont souffert le (des) dommage(s). </ab>
+        <ab n="13">Prends le v&ecirc;tement de celui qui a r&eacute;pondu pour autrui (un
+            &eacute;tranger), et enl&egrave;ve-lui le gage qu&rsquo;il doit (parce qu&rsquo;il a
+            r&eacute;pondu) pour les (des) &eacute;trangers. </ab>
+        <ab n="14">Celui qui b&eacute;nit son prochain &agrave; haute voix d&egrave;s le matin
+            (pour cela), sera semblable &agrave; celui qui maudit. </ab>
+        <ab n="15">Un toit d&rsquo;o&ugrave; l&rsquo;eau d&eacute;goutte sans cesse pendant
+            l&rsquo;hiver (un jour de froid) et une femme querelleuse se ressemblent. </ab>
+        <ab n="16">Celui qui la retient (veut la retenir) est comme celui qui voudrait retenir
+            le vent, et sa main saisit de l&rsquo;huile. </ab>
+        <ab n="17">Le fer aiguise le fer, et l&rsquo;homme aiguise la personne (face) de son
+            ami. </ab>
+        <ab n="18">Celui qui garde le figuier mangera de ses fruits, et celui qui garde son
+            ma&icirc;tre sera glorifi&eacute;. </ab>
+        <ab n="19">Comme on voit briller dans l&rsquo;eau le visage de ceux qui y regardent,
+            ainsi les c&oelig;urs des hommes sont d&eacute;voil&eacute;s aux sages (manifestes aux
+            prudents). </ab>
+        <ab n="20">L&rsquo;enfer et l&rsquo;ab&icirc;me de (la) perdition ne sont jamais remplis
+            (rassasi&eacute;s) ; les yeux des hommes sont de m&ecirc;me insatiables. </ab>
+        <ab n="21">Comme l&rsquo;argent s&rsquo;&eacute;prouve dans le creuset et l&rsquo;or
+            dans le fourneau (une fournaise), ainsi l&rsquo;homme est &eacute;prouv&eacute; par la
+            bouche de celui qui le loue. Le c&oelig;ur du m&eacute;chant recherche le mal (des
+            choses mauvaises), mais le c&oelig;ur droit cherche la science. </ab>
+        <ab n="22">Quand tu pilerais l&rsquo;insens&eacute; dans un mortier, comme des grains
+            sur lesquels frappe le pilon, sa folie ne se s&eacute;parera pas de lui. </ab>
+        <ab n="23">Reconnais avec soin l&rsquo;&eacute;tat de tes brebis (ton b&eacute;tail), et
+            consid&egrave;re tes troupeaux. </ab>
+        <ab n="24">Car tu n&rsquo;auras pas toujours la puissance ; mais ta couronne passera de
+            g&eacute;n&eacute;ration en g&eacute;n&eacute;ration (une couronne te sera donn&eacute;e
+            pour toutes les g&eacute;n&eacute;rations). </ab>
+        <ab n="25">Les pr&eacute;s sont ouverts, et les herbes verdoyantes ont paru, et on a
+            recueilli le foin des montagnes. </ab>
+        <ab n="26">Les agneaux sont pour te v&ecirc;tir, et les chevreaux pour acheter un champ. </ab>
+        <ab n="27">Que le lait des ch&egrave;vres te suffise pour ta nourriture, et pour ce qui
+            est n&eacute;cessaire &agrave; ta maison, et (qu&rsquo;il suffise aussi) pour
+            l&rsquo;entretien de tes servantes.</ab>
+    </div>
+    <div type="chapter" n="28">
+        <ab n="1">L&rsquo;impie prend la fuite sans que personne le poursuive ; mais le juste a
+            l&rsquo;assurance d&rsquo;un lion, et ne redoute rien (sera sans crainte). </ab>
+        <ab n="2">A cause des p&eacute;ch&eacute;s d&rsquo;un pays, les princes se multiplient ;
+            mais si (un) l&rsquo;homme poss&egrave;de la sagesse et la science de ce qui se dit, la
+            vie du chef se prolongera. </ab>
+        <ab n="3">Le pauvre qui opprime les pauvres est semblable &agrave; une pluie violente
+            qui pr&eacute;pare la famine. </ab>
+        <ab n="4">Ceux qui abandonnent la loi louent l&rsquo;impie ; ceux qui la gardent
+            s&rsquo;enflamment contre lui. </ab>
+        <ab n="5">Les m&eacute;chants ne pensent pas &agrave; ce qui est juste ; mais ceux qui
+            recherchent le Seigneur prennent garde &agrave; (remarquent) tout. </ab>
+        <ab n="6">Mieux vaut le pauvre qui marche dans sa simplicit&eacute;, que le riche qui va
+            dans des voies d&eacute;prav&eacute;es (chemins tortus). </ab>
+        <ab n="7">Celui qui garde la loi est un fils sage ; mais celui qui nourrit des
+            d&eacute;bauch&eacute;s (hommes de bonne ch&egrave;re) fait honte &agrave; (couvre) son
+            p&egrave;re (de confusion). </ab>
+        <ab n="8">Celui qui accumule les richesses par l&rsquo;usure et
+            l&rsquo;int&eacute;r&ecirc;t les amasse pour un homme qui sera lib&eacute;ral envers les
+            pauvres. </ab>
+        <ab n="9">Si quelqu&rsquo;un d&eacute;tourne les oreilles pour ne pas &eacute;couter la
+            loi, sa pri&egrave;re sera ex&eacute;crable. </ab>
+        <ab n="10">Celui qui &eacute;gare les justes dans la mauvaise voie tombera dans la fosse
+            qu&rsquo;il avait creus&eacute;e (succombera &agrave; sa propre destruction), et les
+            simples poss&eacute;deront ses biens. </ab>
+        <ab n="11">L&rsquo;homme riche se croit sage ; mais le pauvre qui est intelligent
+            (prudent) le sonde (p&eacute;n&eacute;trera). </ab>
+        <ab n="12">Il y a une grande gloire dans la prosp&eacute;rit&eacute;
+            (l&rsquo;exaltation) des justes ; mais quand r&egrave;gnent les impies, c&rsquo;est la
+            ruine des hommes. </ab>
+        <ab n="13">Celui qui cache ses crimes ne r&eacute;ussira pas (sera pas dirig&eacute;) ;
+            mais celui qui les confesse et s&rsquo;en retire, obtiendra mis&eacute;ricorde. </ab>
+        <ab n="14">(Bien)Heureux l&rsquo;homme qui est toujours dans la crainte ; mais celui qui
+            a le c&oelig;ur dur tombera dans le mal. </ab>
+        <ab n="15">Comme un lion rugissant et un ours affam&eacute;, ainsi est (un prince)
+            l&rsquo;impie qui domine sur un peuple pauvre. </ab>
+        <ab n="16">Un prince qui manque de prudence opprimera beaucoup d&rsquo;hommes par ses
+            violences ; mais celui qui hait l&rsquo;avarice prolongera ses jours. </ab>
+        <ab n="17">Quand celui qui a vers&eacute; le sang innocent s&rsquo;enfuit vers la fosse,
+            personne ne le retient. </ab>
+        <ab n="18">Celui qui marche simplement sera sauv&eacute; ; celui qui va par des voies
+            corrompues tombera sans ressource (tout d&rsquo;un coup). </ab>
+        <ab n="19">Celui qui cultive sa terre sera rassasi&eacute; de pain ; mais celui qui
+            recherche l&rsquo;oisivet&eacute; sera rassasi&eacute; de mis&egrave;re (dans une
+            d&eacute;tresse compl&egrave;te). </ab>
+        <ab n="20">L&rsquo;homme fid&egrave;le sera combl&eacute; de b&eacute;n&eacute;dictions
+            (beaucoup lou&eacute;) ; mais celui qui se h&acirc;te de s&rsquo;enrichir ne sera pas
+            innocent. </ab>
+        <ab n="21">Celui qui, en justice, a &eacute;gard &agrave; la personne, ne fait pas bien
+            ; un tel homme, pour une simple bouch&eacute;e de pain, abandonne la
+            v&eacute;rit&eacute;. </ab>
+        <ab n="22">L&rsquo;homme qui se h&acirc;te de s&rsquo;enrichir, et qui porte envie aux
+            autres, ignore que la disette (d&eacute;tresse) viendra sur lui. </ab>
+        <ab n="23">Celui qui reprend quelqu&rsquo;un trouvera ensuite gr&acirc;ce aupr&egrave;s
+            de lui, plus que celui qui le trompe par des paroles flatteuses. </ab>
+        <ab n="24">Celui qui d&eacute;robe quelque chose &agrave; son p&egrave;re et &agrave; sa
+            m&egrave;re, et qui dit que ce n&rsquo;est pas un p&eacute;ch&eacute;, est le compagnon
+            (est partisan du crime) de l&rsquo;homicide. </ab>
+        <ab n="25">Celui qui se vante et s&rsquo;enfle d&rsquo;orgueil excite des querelles ;
+            mais celui qui esp&egrave;re au Seigneur sera gu&eacute;ri. </ab>
+        <ab n="26">Celui qui se confie en son propre c&oelig;ur est un insens&eacute; ; mais
+            celui qui marche sagement sera sauv&eacute;. </ab>
+        <ab n="27">Celui qui donne au pauvre n&rsquo;aura besoin de rien ; celui qui
+            d&eacute;daigne sa pri&egrave;re (m&eacute;prise un suppliant) &eacute;prouvera la
+            p&eacute;nurie. </ab>
+        <ab n="28">Quand les impies sont &eacute;lev&eacute;s, les hommes se cachent ; quand ils
+            p&eacute;rissent, les justes se multiplient.</ab>
+    </div>
+    <div type="chapter" n="29">
+        <ab n="1">L&rsquo;homme qui m&eacute;prise avec ent&ecirc;tement (avec un cou roide,
+            note) celui qui le reprend recevra soudain un coup mortel, et il ne gu&eacute;rira
+            jamais. </ab>
+        <ab n="2">Quand les justes se multiplient, le peuple est dans la joie ; quand les impies
+            prennent le gouvernement, le peuple g&eacute;mit. </ab>
+        <ab n="3">L&rsquo;homme qui aime la sagesse r&eacute;jouit son p&egrave;re ; mais celui
+            qui nourrit des prostitu&eacute;es perdra sa fortune. </ab>
+        <ab n="4">Le roi juste fait prosp&eacute;rer le pays ; l&rsquo;homme avare le
+            d&eacute;truira. </ab>
+        <ab n="5">L&rsquo;homme qui tient &agrave; son ami un langage flatteur et hypocrite tend
+            un filet devant ses pieds. </ab>
+        <ab n="6">Le lacet enveloppera le m&eacute;chant qui p&egrave;che, et le juste louera
+            Dieu (le Seigneur) et se r&eacute;jouira. </ab>
+        <ab n="7">Le juste conna&icirc;t la cause des pauvres ; (mais) l&rsquo;impie ignore la
+            science. </ab>
+        <ab n="8">Les hommes corrompus (pernicieux) d&eacute;truisent la ville ; mais les sages
+            d&eacute;tournent la fureur. </ab>
+        <ab n="9">Si le sage dispute avec l&rsquo;insens&eacute;, soit qu&rsquo;il
+            s&rsquo;irrite, soit qu&rsquo;il rie, il ne trouvera pas de repos. </ab>
+        <ab n="10">Les hommes de sang ha&iuml;ssent le simple ; mais les justes cherchent
+            &agrave; lui conserver la vie. </ab>
+        <ab n="11">L&rsquo;insens&eacute; r&eacute;pand (tout de suite) hors (en avant) de lui
+            (tout) son esprit ; le sage attend et se r&eacute;serve pour l&rsquo;avenir. </ab>
+        <ab n="12">Le prince qui &eacute;coute favorablement les paroles de mensonge n&rsquo;a
+            que des impies pour ministres. </ab>
+        <ab n="13">Le pauvre et le cr&eacute;ancier se sont rencontr&eacute;s ; c&rsquo;est le
+            Seigneur qui les &eacute;claire l&rsquo;un et l&rsquo;autre. </ab>
+        <ab n="14">Lorsqu&rsquo;un roi juge les pauvres selon la v&eacute;rit&eacute;, son
+            tr&ocirc;ne s&rsquo;affermira pour jamais. </ab>
+        <ab n="15">La verge et la correction donnent la sagesse ; mais l&rsquo;enfant qui est
+            abandonn&eacute; &agrave; sa volont&eacute; fait honte &agrave; (couvre de confusion) sa
+            m&egrave;re. </ab>
+        <ab n="16">Les crimes se multiplieront dans la multiplication des impies, et les justes
+            (en) verront la (leur) ruine. </ab>
+        <ab n="17">Instruis ton fils, et il te consolera, et il procurera des d&eacute;lices
+            &agrave; ton &acirc;me. </ab>
+        <ab n="18">Lorsque la proph&eacute;tie dispara&icirc;tra, le peuple sera renvers&eacute;
+            ; mais (bien)heureux celui qui garde la loi. </ab>
+        <ab n="19">Ce n&rsquo;est pas par des paroles que l&rsquo;on peut former un esclave ;
+            car il comprend ce que tu dis, et il n&eacute;glige d&rsquo;y r&eacute;pondre. </ab>
+        <ab n="20">As-tu vu un homme prompt &agrave; parler ? Il faut plut&ocirc;t attendre de
+            lui la folie que sa correction (son amendement). </ab>
+        <ab n="21">Celui qui nourrit d&eacute;licatement son serviteur d&egrave;s
+            l&rsquo;enfance le verra ensuite se r&eacute;volter. </ab>
+        <ab n="22">L&rsquo;homme emport&eacute; excite des querelles, et celui qui
+            s&rsquo;irrite (s&rsquo;indigne) facilement sera plus prompt &agrave; p&eacute;cher. </ab>
+        <ab n="23">L&rsquo;humiliation suit l&rsquo;orgueilleux, et la gloire sera le partage de
+            l&rsquo;humble d&rsquo;esprit. </ab>
+        <ab n="24">Celui qui s&rsquo;associe avec un voleur hait son &acirc;me ; il entend
+            l&rsquo;adjuration, et il ne r&eacute;v&egrave;le rien (d&eacute;c&egrave;le pas le
+            voleur). </ab>
+        <ab n="25">Celui qui craint les hommes tombera bient&ocirc;t ; celui qui esp&egrave;re
+            au Seigneur sera &eacute;lev&eacute;. </ab>
+        <ab n="26">Beaucoup recherchent le visage du prince, et (mais) c&rsquo;est du Seigneur
+            que proc&egrave;de le jugement de chacun des hommes. </ab>
+        <ab n="27">Les justes ont en abomination l&rsquo;homme impie, et les impies ont en
+            abomination ceux qui sont dans la droite voie. L&rsquo;enfant (Le fils) qui garde la
+            parole sera pr&eacute;serv&eacute; de la perdition.</ab>
+    </div>
+    <div type="chapter" n="30">
+        <ab n="1">Paroles de celui qui assemble, (du) fils de celui qui r&eacute;pand les
+            v&eacute;rit&eacute;s. Vision racont&eacute;e par un homme qui est avec Dieu, et qui,
+            fortifi&eacute; par la pr&eacute;sence de Dieu (demeurant avec lui), a dit : </ab>
+        <ab n="2">Je suis le plus insens&eacute; des hommes, et la sagesse des hommes
+            n&rsquo;est pas en moi. </ab>
+        <ab n="3">Je n&rsquo;ai pas appris la sagesse, et je ne connais pas la science des
+            saints. </ab>
+        <ab n="4">Qui est mont&eacute; au ciel, et en est descendu ? Qui a retenu le vent dans
+            ses mains ? Qui a li&eacute; les eaux comme dans un v&ecirc;tement ? Qui a affermi
+            toutes les extr&eacute;mit&eacute;s de la terre ? Quel est son nom, et quel est le nom
+            de son fils, si tu le sais ? </ab>
+        <ab n="5">Toute parole de Dieu est pass&eacute;e au feu ; il est un bouclier pour (tous)
+            ceux qui esp&egrave;rent en lui. </ab>
+        <ab n="6">N&rsquo;ajoute rien &agrave; ses paroles, de peur que tu ne sois repris et
+            trouv&eacute; menteur. </ab>
+        <ab n="7">Je vous ai demand&eacute; deux choses ; ne me les refusez pas avant que je
+            meure. </ab>
+        <ab n="8">Eloignez de moi la vanit&eacute; et les paroles mensong&egrave;res. Ne me
+            donnez ni la pauvret&eacute; ni les richesses ; accordez-moi seulement ce qui
+            m&rsquo;est n&eacute;cessaire pour vivre ; </ab>
+        <ab n="9">de peur qu&rsquo;&eacute;tant rassasi&eacute;, je ne sois tent&eacute; de vous
+            renier, et de dire : Qui est le Seigneur ? ou que, press&eacute; par la pauvret&eacute;,
+            je ne d&eacute;robe, et que je ne parjure le nom de mon Dieu. </ab>
+        <ab n="10">N&rsquo;accuse pas le serviteur aupr&egrave;s de son ma&icirc;tre, de peur
+            qu&rsquo;il ne te maudisse et que tu n&rsquo;en souffres (ne succombes). </ab>
+        <ab n="11">Il est une race qui maudit son p&egrave;re, et qui ne b&eacute;nit pas sa
+            m&egrave;re. </ab>
+        <ab n="12">Il est une race qui se croit pure, et qui cependant n&rsquo;a pas
+            &eacute;t&eacute; lav&eacute;e de ses souillures. </ab>
+        <ab n="13">Il est une race dont les yeux sont altiers et les paupi&egrave;res
+            &eacute;lev&eacute;es (relev&eacute;es). </ab>
+        <ab n="14">Il est une race qui a des glaives pour dents et qui d&eacute;chire
+            (m&acirc;che) avec ses m&acirc;choires, pour d&eacute;vorer ceux qui n&rsquo;ont rien
+            sur la terre, et qui sont pauvres parmi les hommes. </ab>
+        <ab n="15">La sangsue a deux filles, qui disent : Apporte, apporte. Il y a trois choses
+            insatiables, et une quatri&egrave;me qui ne dit jamais : C&rsquo;est assez. </ab>
+        <ab n="16">L&rsquo;enfer, la femme st&eacute;rile (l&rsquo;impudique), la terre qui ne
+            se rassasie pas d&rsquo;eau, et le feu qui ne dit jamais : C&rsquo;est assez. </ab>
+        <ab n="17">Que l&rsquo;&oelig;il de celui qui insulte son p&egrave;re, et qui
+            m&eacute;prise la m&egrave;re qui l&rsquo;a enfant&eacute; (l&rsquo;enfantement de sa
+            m&egrave;re), soit arrach&eacute; (perc&eacute;) par les corbeaux des torrents et
+            d&eacute;vor&eacute; par les petits de l&rsquo;aigle ! </ab>
+        <ab n="18">Trois choses me sont difficiles &agrave; comprendre, et la quatri&egrave;me
+            m&rsquo;est enti&egrave;rement inconnue : </ab>
+        <ab n="19">la trace de l&rsquo;aigle dans le ciel, la trace du serpent sur le rocher, la
+            trace d&rsquo;un navire au milieu de la mer, et la voie de l&rsquo;homme dans sa
+            jeunesse (son adolescence). </ab>
+        <ab n="20">Telle est aussi la voie de la femme adult&egrave;re, qui mange, et dit en
+            s&rsquo;essuyant la bouche : Je n&rsquo;ai pas fait de mal. </ab>
+        <ab n="21">Trois choses font trembler (troublent) la terre, et elle ne peut supporter la
+            quatri&egrave;me : </ab>
+        <ab n="22">un esclave qui vient &agrave; r&eacute;gner, un insens&eacute; qui (quand il)
+            est rassasi&eacute; de pain ; </ab>
+        <ab n="23">une femme digne de haine, qu&rsquo;un homme a &eacute;pous&eacute;e, et une
+            servante qui est devenue l&rsquo;h&eacute;riti&egrave;re de sa ma&icirc;tresse. </ab>
+        <ab n="24">Il y a sur la terre quatre choses tr&egrave;s petites, et qui sont plus sages
+            que les sages m&ecirc;mes : </ab>
+        <ab n="25">les fourmis, peuple faible, qui fait sa provision pendant la moisson ; </ab>
+        <ab n="26">les lapins (le levraut, note), nation sans puissance, qui &eacute;tablit sa
+            demeure dans les roches ; </ab>
+        <ab n="27">les sauterelles qui n&rsquo;ont pas de roi, et qui sortent toutes par bandes
+            ; </ab>
+        <ab n="28">le l&eacute;zard, qui se soutient avec ses mains, et qui demeure dans le(s)
+            palais du (des) roi(s). </ab>
+        <ab n="29">Il y a trois choses qui ont une belle allure, et une quatri&egrave;me qui
+            s&rsquo;avance magnifiquement (avec succ&egrave;s) : </ab>
+        <ab n="30">le lion, le plus fort des animaux, qui ne craint rien de tout ce qu&rsquo;il
+            rencontre ; </ab>
+        <ab n="31">le coq, dont la d&eacute;marche est hardie, et le b&eacute;lier, et le roi
+            &agrave; qui rien ne r&eacute;siste. </ab>
+        <ab n="32">Tel s&rsquo;est montr&eacute; insens&eacute;, apr&egrave;s avoir
+            &eacute;t&eacute; &eacute;lev&eacute; &agrave; un rang sublime ; car, s&rsquo;il avait
+            &eacute;t&eacute; intelligent, il aurait mis sa (la) main sur sa bouche. </ab>
+        <ab n="33">Celui qui presse trop fort les mamelles pour en tirer du lait en fait sortir
+            un suc &eacute;pais (du beurre) ; celui qui se mouche violemment tire le sang, et celui
+            qui excite la col&egrave;re produit les querelles.</ab>
+    </div>
+    <div type="chapter" n="31">
+        <ab n="1">Paroles du roi Lamuel. Vision par laquelle sa m&egrave;re l&rsquo;a instruit. </ab>
+        <ab n="2">Que te dirai-je, mon bien-aim&eacute; ? Que te dirai-je, cher fruit de mes
+            entrailles ? Que te dirai-je, tendre objet de mes v&oelig;ux ? </ab>
+        <ab n="3">Ne donne pas tes biens aux femmes, ni tes richesses pour perdre les rois. </ab>
+        <ab n="4">Ce n&rsquo;est pas aux rois, &ocirc; Lamuel, ce n&rsquo;est pas aux rois
+            qu&rsquo;il faut donner du vin, car il n&rsquo;y a pas de secret l&agrave; o&ugrave;
+            r&egrave;gne l&rsquo;ivrognerie. </ab>
+        <ab n="5">Peut-&ecirc;tre (De peur que), s&rsquo;ils buvaient, oublieraient-ils la
+            justice, et m&eacute;conna&icirc;traient-ils la cause des enfants (fils) du pauvre. </ab>
+        <ab n="6">Donnez la liqueur forte aux afflig&eacute;s, et le vin &agrave; ceux qui ont
+            de l&rsquo;amertume au c&oelig;ur. </ab>
+        <ab n="7">Qu&rsquo;ils boivent et qu&rsquo;ils oublient leur pauvret&eacute;
+            (d&eacute;tresse), et qu&rsquo;ils ne se souviennent plus de leur douleur. </ab>
+        <ab n="8">Ouvre ta bouche pour le muet, et pour soutenir la cause de tous les fils
+            d&eacute;laiss&eacute;s (qui passent, note). </ab>
+        <ab n="9">Ouvre ta bouche, ordonne ce qui est juste, et rends justice au pauvre et
+            &agrave; l&rsquo;indigent. </ab>
+        <ab n="10">Qui trouvera la femme forte ? C&rsquo;est au (au-dessus de ce qui vient de)
+            loin et aux extr&eacute;mit&eacute;s du monde qu&rsquo;on doit chercher son prix. </ab>
+        <ab n="11">Le c&oelig;ur de son mari se confie en elle, et il ne manquera pas de
+            d&eacute;pouilles. </ab>
+        <ab n="12">Elle lui rendra le bien, et non le mal, tous les jours de sa vie. </ab>
+        <ab n="13">Elle a cherch&eacute; la laine et le lin, et elle a travaill&eacute; avec des
+            mains ing&eacute;nieuses (le conseil de ses mains). </ab>
+        <ab n="14">Elle est (devenue) comme le vaisseau d&rsquo;un marchand, qui apporte son
+            pain de loin. </ab>
+        <ab n="15">Elle se l&egrave;ve lorsqu&rsquo;il est encore nuit, et elle donne la
+            nourriture &agrave; ses domestiques, et les vivres &agrave; ses servantes. </ab>
+        <ab n="16">Elle a consid&eacute;r&eacute; un champ, et elle l&rsquo;a achet&eacute; ; du
+            fruit de ses mains elle a plant&eacute; une vigne. </ab>
+        <ab n="17">Elle a ceint ses reins de force, et elle a affermi son bras. </ab>
+        <ab n="18">Elle a go&ucirc;t&eacute;, et elle a vu que son trafic (commerce) est bon ;
+            sa lampe ne s&rsquo;&eacute;teindra pas pendant la nuit. </ab>
+        <ab n="19">Elle a port&eacute; sa main &agrave; des choses fortes, et ses doigts ont
+            saisi le fuseau. </ab>
+        <ab n="20">Elle a ouvert sa main &agrave; l&rsquo;indigent, et elle a &eacute;tendu ses
+            bras vers le pauvre. </ab>
+        <ab n="21">Elle ne craindra pas pour sa maison le froid de la neige, car tous ses
+            domestiques ont un double v&ecirc;tement. </ab>
+        <ab n="22">Elle s&rsquo;est fait un v&ecirc;tement de tapisserie ; elle se couvre de
+            (fin) lin et de pourpre. </ab>
+        <ab n="23">Son mari est illustre aux portes de la ville, lorsqu&rsquo;il est assis avec
+            les anciens du pays (s&eacute;nateurs de la terre). </ab>
+        <ab n="24">Elle a fait une tunique de lin (fin tissu) et elle l&rsquo;a vendue, et elle
+            a livr&eacute; une ceinture au Chanan&eacute;en. </ab>
+        <ab n="25">Elle est rev&ecirc;tue de force et de beaut&eacute;, et elle rira au dernier
+            jour (dernier). </ab>
+        <ab n="26">Elle a ouvert sa bouche &agrave; la sagesse, et la loi de la cl&eacute;mence
+            est sur sa langue. </ab>
+        <ab n="27">Elle a consid&eacute;r&eacute; les sentiers de sa maison, et elle n&rsquo;a
+            pas mang&eacute; son (de) pain dans l&rsquo;oisivet&eacute;. </ab>
+        <ab n="28">Ses fils se sont lev&eacute;s, et l&rsquo;ont proclam&eacute;e bienheureuse ;
+            son mari s&rsquo;est lev&eacute; aussi, et l&rsquo;a lou&eacute;e. </ab>
+        <ab n="29">Beaucoup de filles ont amass&eacute; des richesses ; (mais) toi, tu les as
+            toutes surpass&eacute;es. </ab>
+        <ab n="30">La gr&acirc;ce est trompeuse, et la beaut&eacute; est vaine ; la femme qui
+            craint le Seigneur est celle qui sera lou&eacute;e. </ab>
+        <ab n="31">Donnez-lui du fruit de ses mains, et que ses &oelig;uvres la louent aux
+            portes de la ville.</ab>
+    </div>
+</div>

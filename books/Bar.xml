@@ -1,0 +1,901 @@
+<!DOCTYPE definition [
+<!ENTITY rsquo "&#8217;">
+<!ENTITY eacute "é">
+<!ENTITY euml "ë">
+<!ENTITY acirc "â">
+<!ENTITY ecirc "ê">
+<!ENTITY agrave "à">
+<!ENTITY egrave "è">
+<!ENTITY ucirc "û">
+<!ENTITY ugrave "ù">
+<!ENTITY icirc "î">
+<!ENTITY ccedil "ç">
+<!ENTITY iuml "ï">
+<!ENTITY oelig "œ">
+<!ENTITY ocirc "ô">
+<!ENTITY uuml "ü">
+<!ENTITY Eacute "É">
+<!ENTITY nbsp "&#160;">
+
+]>
+
+<div xmlns="http://www.tei-c.org/ns/1.0" type="book" xml:id="VULGFR_Bar">
+<div type="chapter" n="1">
+<ab n="1">Voici
+les paroles du livre qu&rsquo;&eacute;crivit Baruch, fils de N&eacute;rias,
+fils de Maasias, fils de S&eacute;d&eacute;cias, fils de S&eacute;d&eacute;i,
+fils d&rsquo;Helcias, &agrave; Babylone, </ab>
+<ab n="2">la
+cinqui&egrave;me ann&eacute;e, le septi&egrave;me jour du mois, au
+temps o&ugrave; les Chald&eacute;ens prirent J&eacute;rusalem et la
+br&ucirc;l&egrave;rent. </ab>
+<ab n="3">Et
+Baruch lut les paroles de ce livre aux oreilles de J&eacute;chonias,
+fils de Joakim, roi de Juda, et aux oreilles de tout le peuple qui
+venait entendre cette lecture (le livre), </ab>
+<ab n="4">et
+aux oreilles des grands, des fils des rois (princes), et aux oreilles
+des anciens (pr&ecirc;tres), et aux oreilles du peuple, depuis le
+plus petit jusqu&rsquo;au plus grand de tous ceux qui habitaient &agrave;
+Babylone, pr&egrave;s du fleuve Sodi. </ab>
+<ab n="5">En
+&eacute;coutant ils pleuraient, et ils je&ucirc;naient, et ils
+priaient en pr&eacute;sence du Seigneur. </ab>
+<ab n="6">Et
+ils recueillirent de l&rsquo;argent, selon ce que la main de chacun
+put donner, </ab>
+<ab n="7">et
+ils l&rsquo;envoy&egrave;rent &agrave; J&eacute;rusalem, &agrave;
+Joakim, fils d&rsquo;Helcias, fils de Salom, le pr&ecirc;tre, et aux
+autres pr&ecirc;tres, et &agrave; tout le peuple qui se trouvait avec
+lui &agrave; J&eacute;rusalem, </ab>
+<ab n="8">apr&egrave;s
+qu&rsquo;il eut re&ccedil;u les vases du temple du Seigneur, qui
+avaient &eacute;t&eacute; emport&eacute;s du temple, pour les
+rapporter dans le pays de Juda, le dixi&egrave;me jour du mois de
+Sivan ; c&rsquo;&eacute;taient
+les vases d&rsquo;argent que S&eacute;d&eacute;cias, fils de Josias,
+roi de Juda, avait fait faire, </ab>
+<ab n="9">lorsque
+Nabuchodonosor, roi de Babylone, eut pris J&eacute;chonias, et les
+princes, et tous les grands, et le peuple du pays, et les eut emmen&eacute;s
+captifs (encha&icirc;n&eacute;s) &agrave; Babylone. </ab>
+<ab n="10">Et
+ils dirent : Nous vous avons envoy&eacute; de l&rsquo;argent ;
+achetez-en des holocaustes et de l&rsquo;encens, et faites-en des
+sacrifices, et des offrandes (oblations) pour le p&eacute;ch&eacute;,
+&agrave; l&rsquo;autel du Seigneur notre Dieu ; </ab>
+<ab n="11">et
+priez pour la vie de Nabuchodonosor, roi de Babylone, et pour la vie
+de Baltassar son
+fils, afin que leurs jours soient comme les jours du ciel sur la
+terre ; </ab>
+<ab n="12">et
+afin que le Seigneur nous donne la force, et qu&rsquo;il &eacute;claire
+nos yeux, pour que nous vivions &agrave; l&rsquo;ombre de
+Nabuchodonosor, roi de Babylone, et &agrave; l&rsquo;ombre de
+Baltassar, son fils, pour que nous les servions longtemps, et que
+nous trouvions gr&acirc;ce devant eux. </ab>
+<ab n="13">Priez
+aussi le Seigneur notre Dieu pour nous, car nous avons p&eacute;ch&eacute;
+contre le Seigneur notre Dieu, et sa col&egrave;re ne s&rsquo;est pas
+d&eacute;tourn&eacute;e de nous jusqu&rsquo;&agrave; ce jour. </ab>
+<ab n="14">Lisez
+aussi ce livre, que nous vous avons envoy&eacute; pour qu&rsquo;il
+soit lu dans le temple du Seigneur, au (en un) jour solennel et au
+(en un) jour favorable. </ab>
+<ab n="15">Et
+vous direz : La justice appartient au Seigneur notre Dieu, mais &agrave;
+nous la confusion de notre visage, comme il para&icirc;t en ce jour
+pour tout Juda et pour les habitants de J&eacute;rusalem, </ab>
+<ab n="16">pour
+nos rois, et nos princes, et nos pr&ecirc;tres, et nos proph&egrave;tes,
+et nos p&egrave;res. </ab>
+<ab n="17">Nous
+avons p&eacute;ch&eacute; devant le Seigneur notre Dieu, et nous ne
+l&rsquo;avons pas cru, manquant de confiance en lui, </ab>
+<ab n="18">et
+nous ne lui avons pas &eacute;t&eacute; soumis, et nous n&rsquo;avons
+pas &eacute;cout&eacute; la voix du Seigneur notre Dieu, pour marcher
+selon les pr&eacute;ceptes (commandements) qu&rsquo;il nous a donn&eacute;s.
+</ab>
+<ab n="19">Depuis
+le jour o&ugrave; il a tir&eacute; nos p&egrave;res du pays d&rsquo;Egypte
+jusqu&rsquo;&agrave; ce jour, nous avons &eacute;t&eacute; incr&eacute;dules
+envers le Seigneur notre Dieu ; et dans la dissipation de notre
+esprit (diss&eacute;min&eacute;s), nous nous sommes retir&eacute;s,
+pour ne pas entendre sa voix. </ab>
+<ab n="20">Aussi
+des maux nombreux se sont-ils attach&eacute;s &agrave; nous, avec les
+mal&eacute;dictions que le Seigneur avait pr&eacute;dites &agrave;
+Mo&iuml;se, son serviteur, qui a fait sortir nos p&egrave;res du pays
+d&rsquo;Egypte, pour nous donner une terre o&ugrave; coulent le lait
+et le miel, comme on le voit aujourd&rsquo;hui. </ab>
+<ab n="21">Et
+nous n&rsquo;avons pas &eacute;cout&eacute; la voix du Seigneur notre
+Dieu, selon toutes les paroles des proph&egrave;tes qu&rsquo;il nous
+a envoy&eacute;s ; </ab>
+<ab n="22">et
+chacun de nous s&rsquo;est laiss&eacute; aller au sens de son c&oelig;ur
+corrompu (m&eacute;chant), pour servir des dieux &eacute;trangers, et
+pour commettre ce qui est mal aux yeux du Seigneur notre Dieu.
+</ab>
+</div>
+<div type="chapter" n="2">
+<ab n="1">C&rsquo;est
+pourquoi le Seigneur notre Dieu a r&eacute;alis&eacute; (v&eacute;rifi&eacute;)
+sa parole, qu&rsquo;il avait dite &agrave; nous, &agrave; nos juges
+qui ont jug&eacute; Isra&euml;l, &agrave; nos rois, &agrave; nos
+princes, et &agrave; tout Isra&euml;l et Juda ; </ab>
+<ab n="2">et
+le Seigneur a amen&eacute; sur nous de grands maux, tels qu&rsquo;il
+n&rsquo;y en a pas eu sous le ciel comme il y en a eu &agrave;
+J&eacute;rusalem, selon ce qui est &eacute;crit dans la loi de Mo&iuml;se,
+</ab>
+<ab n="3">au
+point que (un) l&rsquo;homme mange&acirc;t la chair de son fils, et
+la chair de sa fille. </ab>
+<ab n="4">Et
+il les a livr&eacute;s aux mains de tous les rois qui nous
+environnent, pour &ecirc;tre
+un opprobre et un exemple de d&eacute;solation parmi tous les peuples
+chez lesquels le Seigneur nous a dispers&eacute;s ; </ab>
+<ab n="5">et
+nous avons &eacute;t&eacute; assujettis au lieu de commander, parce
+que nous avons p&eacute;ch&eacute; contre le Seigneur notre Dieu, en
+n&rsquo;ob&eacute;issant point &agrave; sa voix. </ab>
+<ab n="6">Au
+Seigneur notre Dieu appartient la justice, mais &agrave; nous et &agrave;
+nos p&egrave;res la confusion du visage, selon qu&rsquo;il para&icirc;t
+en ce jour ; </ab>
+<ab n="7">car
+le Seigneur avait pr&eacute;dit contre nous tous ces maux qui sont
+venus sur nous ; </ab>
+<ab n="8">et
+nous n&rsquo;avons pas implor&eacute; la face du Seigneur notre Dieu,
+afin que chacun de nous rev&icirc;nt de ses voies corrompues (tr&egrave;s
+mauvaises). </ab>
+<ab n="9">Et
+le Seigneur a veill&eacute; sur les maux, et il les a fait venir sur
+nous, car le Seigneur est juste dans toutes ses &oelig;uvres, en tout
+ce qu&rsquo;il nous a ordonn&eacute;. </ab>
+<ab n="10">Et
+nous n&rsquo;avons pas &eacute;cout&eacute; sa voix, pour marcher
+dans les pr&eacute;ceptes du Seigneur, qu&rsquo;il a(vait) plac&eacute;s
+devant nos yeux. </ab>
+<ab n="11">Et
+maintenant, Seigneur, Dieu d&rsquo;Isra&euml;l, qui avez (re)tir&eacute;
+votre peuple d&rsquo;Egypte avec une main forte, par des signes et
+des prodiges, par votre grande puissance et avec un bras &eacute;lev&eacute;,
+et qui vous &ecirc;tes fait un nom, comme on le voit en ce jour,
+</ab>
+<ab n="12">nous
+avons p&eacute;ch&eacute;, nous avons agi avec impi&eacute;t&eacute;,
+nous avons commis l&rsquo;iniquit&eacute;, Seigneur notre Dieu,
+contre tou(te)s vos pr&eacute;ceptes (justices). </ab>
+<ab n="13">Que
+votre col&egrave;re se d&eacute;tourne de nous, car nous sommes
+rest&eacute;s en petit nombre parmi les nations chez lesquelles vous
+nous avez dispers&eacute;s. </ab>
+<ab n="14">Exaucez,
+Seigneur, nos pri&egrave;res et nos supplications (v&oelig;ux) ; et
+d&eacute;livrez-nous &agrave; cause de vous, et faites-nous trouver
+gr&acirc;ce devant ceux qui nous ont d&eacute;port&eacute;s ; </ab>
+<ab n="15">afin
+que toute la terre sache que vous &ecirc;tes
+le Seigneur notre Dieu, et que votre nom a &eacute;t&eacute; invoqu&eacute;
+sur Isra&euml;l et sur sa race. </ab>
+<ab n="16">Jetez
+les yeux sur nous, Seigneur, de votre demeure sainte ; penchez votre
+oreille, et exaucez-nous. </ab>
+<ab n="17">Ouvrez
+vos yeux et voyez ; car ce ne sont point les morts qui sont en enfer,
+et dont l&rsquo;esprit a &eacute;t&eacute; s&eacute;par&eacute; de
+leurs entrailles, qui rendront honneur et justice au Seigneur ;
+</ab>
+<ab n="18">mais
+c&rsquo;est l&rsquo;&acirc;me qui est triste &agrave; cause de la
+grandeur du mal, qui marche courb&eacute;e et abattue, dont les yeux
+sont languissants (d&eacute;faillants) ; c&rsquo;est (et) l&rsquo;&acirc;me
+affam&eacute;e qui vous rend(ra) gloire et justice, Seigneur. </ab>
+<ab n="19">Car
+ce n&rsquo;est pas en nous appuyant sur la justice de nos p&egrave;res
+que nous r&eacute;pandons nos pri&egrave;res devant votre face, et
+que nous implorons votre mis&eacute;ricorde, Seigneur notre Dieu ;
+</ab>
+<ab n="20">mais
+parce que vous avez envoy&eacute; contre nous votre col&egrave;re et
+votre fureur, comme vous l&rsquo;avez pr&eacute;dit par vos
+serviteurs, les proph&egrave;tes, en disant : </ab>
+<ab n="21">Ainsi
+parle le Seigneur : Inclinez votre &eacute;paule et votre cou, et
+travaillez pour (servez) le roi de Babylone, et vous demeurerez dans
+le pays que j&rsquo;ai donn&eacute; &agrave; vos p&egrave;res. </ab>
+<ab n="22">Mais
+si vous n&rsquo;&eacute;coutez pas la voix du Seigneur votre Dieu, et
+si vous ne travaillez pas pour (servez pas) le roi de Babylone, je
+vous ferai sortir des villes de Juda et hors de J&eacute;rusalem </ab>
+<ab n="23">et
+je ferai cesser parmi vous les chants de joie et les chants
+d&rsquo;all&eacute;gresse, la voix de l&rsquo;&eacute;poux et la voix
+de l&rsquo;&eacute;pouse, et dans tout le pays il ne restera plus de
+traces de ceux qui l&rsquo;habitent. </ab>
+<ab n="24">Mais
+ils (nos p&egrave;res) n&rsquo;ont pas &eacute;cout&eacute; votre
+voix, de mani&egrave;re &agrave; servir le roi de Babylone, et vous
+avez r&eacute;alis&eacute; (v&eacute;rifi&eacute;) vos paroles, que
+vous avez pr&eacute;dites par (l&rsquo;entremise de) vos serviteurs
+les proph&egrave;tes, en faisant transporter hors de leur place les
+os de nos rois et les os de nos p&egrave;res (seraient transport&eacute;s
+hors de leur lieu) ; </ab>
+<ab n="25">et
+ils ont &eacute;t&eacute; expos&eacute;s &agrave; la chaleur du
+soleil et &agrave; la gel&eacute;e de la nuit, et ils sont morts dans
+des douleurs affreuses (cruelles), par la famine, et par le glaive,
+et par l&rsquo;exil. </ab>
+<ab n="26">Et
+vous avez r&eacute;duit ce temple, o&ugrave; votre nom avait &eacute;t&eacute;
+invoqu&eacute;, dans l&rsquo;&eacute;tat o&ugrave; il est
+aujourd&rsquo;hui, &agrave; cause de l&rsquo;iniquit&eacute; de la
+maison d&rsquo;Isra&euml;l et de la maison de Juda. </ab>
+<ab n="27">Et
+vous avez agi envers nous, Seigneur notre Dieu, selon toute votre
+bont&eacute;, et selon toute votre grande mis&eacute;ricorde, </ab>
+<ab n="28">comme
+vous l&rsquo;aviez dit par (l&rsquo;entremise de) votre serviteur
+Mo&iuml;se, le (au) jour o&ugrave; vous lui avez ordonn&eacute;
+d&rsquo;&eacute;crire votre loi en face des enfants d&rsquo;Isra&euml;l,
+</ab>
+<ab n="29">en
+disant : Si vous n&rsquo;&eacute;coutez pas ma voix, cette grande
+multitude sera r&eacute;duite &agrave; un tr&egrave;s petit nombre
+parmi les nations chez lesquelles je les disperserai ; </ab>
+<ab n="30">car
+je sais que le (ce) peuple ne m&rsquo;&eacute;coutera pas, car c&rsquo;est
+un peuple qui a la t&ecirc;te dure (d&rsquo;un cou roide, note) ;
+mais il rentrera en lui-m&ecirc;me (son c&oelig;ur) dans le pays de
+sa captivit&eacute;, </ab>
+<ab n="31">et
+il sauront que je suis le Seigneur leur Dieu ; je leur donnerai un
+c&oelig;ur, et ils comprendront ; des oreilles, et ils entendront ;
+</ab>
+<ab n="32">et
+ils me loueront dans le pays de leur captivit&eacute; ; et ils se
+souviendront de mon nom, </ab>
+<ab n="33">et
+ils se s&eacute;pareront de leur dos rebelle (roide, note) et de
+leurs m&eacute;chancet&eacute;s, car ils se souviendront de la voie
+de leurs p&egrave;res qui ont p&eacute;ch&eacute; contre moi. </ab>
+<ab n="34">Et
+je les rappellerai dans le pays que j&rsquo;ai promis avec serment &agrave;
+(leurs p&egrave;res, &agrave;) Abraham, &agrave; Isaac et &agrave;
+Jacob, et ils en seront les ma&icirc;tres ; et je les multiplierai,
+et ils ne diminueront point ; </ab>
+<ab n="35">et
+je ferai avec eux une autre alliance, (qui sera) &eacute;ternelle,
+afin que je sois leur Dieu et qu&rsquo;ils soient mon peuple ; et je
+ne ferai plus sortir mon peuple, les enfants d&rsquo;Isra&euml;l, du
+pays que je leur ai donn&eacute;.
+</ab>
+</div>
+<div type="chapter" n="3">
+<ab n="1">Maintenant
+donc, Seigneur tout-puissant, Dieu d&rsquo;Isra&euml;l, c&rsquo;est
+une &acirc;me dans l&rsquo;angoisse et un esprit anxieux qui crie
+vers vous. </ab>
+<ab n="2">Ecoutez,
+Seigneur, et ayez piti&eacute;, car vous &ecirc;tes un Dieu
+compatissant (mis&eacute;ricordieux) ; ayez piti&eacute; de nous,
+parce que nous avons p&eacute;ch&eacute; devant vous ; </ab>
+<ab n="3">car
+vous tr&ocirc;nez &eacute;ternellement, et nous, p&eacute;rirons-nous
+&agrave; jamais ? </ab>
+<ab n="4">Seigneur
+tout-puissant, Dieu d&rsquo;Isra&euml;l, &eacute;coutez maintenant la
+pri&egrave;re des morts d&rsquo;Isra&euml;l, et des enfants de ceux
+qui ont p&eacute;ch&eacute; devant vous, et qui n&rsquo;ont point
+&eacute;cout&eacute; la voix du Seigneur leur Dieu, de sorte que les
+maux se sont attach&eacute;s &agrave; nous. </ab>
+<ab n="5">Ne
+vous souvenez pas des iniquit&eacute;s de nos p&egrave;res ; mais
+souvenez-vous, en ce temps-ci, de votre main et de votre nom, </ab>
+<ab n="6">car
+vous &ecirc;tes le Seigneur notre Dieu, et nous vous louerons,
+Seigneur ; </ab>
+<ab n="7">car
+c&rsquo;est pour cela que vous avez mis votre crainte dans nos c&oelig;urs,
+afin que nous invoquions votre nom, et que nous publiions vos
+louanges dans notre captivit&eacute;, en nous convertissant de
+l&rsquo;iniquit&eacute; de nos p&egrave;res qui ont p&eacute;ch&eacute;
+devant vous. </ab>
+<ab n="8">Et
+voici que nous sommes aujourd&rsquo;hui dans cette (notre) captivit&eacute;,
+o&ugrave; vous nous avez dispers&eacute;s pour &ecirc;tre un sujet
+d&rsquo;opprobre (outrage) et de mal&eacute;diction, et un exemple de
+la peine due au p&eacute;ch&eacute;, selon toutes les iniquit&eacute;s
+de nos p&egrave;res qui se sont retir&eacute;s de vous, Seigneur
+notre Dieu. </ab>
+<ab n="9">Ecoute,
+Isra&euml;l, les pr&eacute;ceptes (des commandements) de (la) vie ;
+pr&ecirc;te l&rsquo;oreille, pour apprendre la prudence. </ab>
+<ab n="10">D&rsquo;o&ugrave;
+vient, Isra&euml;l, que tu es dans le pays de tes ennemis, </ab>
+<ab n="11">que
+tu as vieilli sur une terre &eacute;trang&egrave;re, que tu t&rsquo;es
+souill&eacute; avec les morts, et que tu as &eacute;t&eacute; compt&eacute;
+parmi ceux qui descendent dans le s&eacute;jour des morts (l&rsquo;enfer)
+? </ab>
+<ab n="12">C&rsquo;est
+que tu as abandonn&eacute; la source de la sagesse. </ab>
+<ab n="13">Car
+si tu avais march&eacute; dans la voix de Dieu, tu aurais
+certainement habit&eacute; dans une paix &eacute;ternelle. </ab>
+<ab n="14">Apprends
+o&ugrave; est la prudence, o&ugrave; est la force, o&ugrave; est
+l&rsquo;intelligence, afin que tu saches en m&ecirc;me temps o&ugrave;
+est la longueur de la vie et la (vraie) nourriture, o&ugrave; est la
+lumi&egrave;re des yeux et la paix. </ab>
+<ab n="15">Qui
+a trouv&eacute; le lieu o&ugrave; elle r&eacute;side ? et qui est
+entr&eacute; dans ses tr&eacute;sors ? </ab>
+<ab n="16">O&ugrave;
+sont les princes des nations, (et ceux) qui dominent sur les b&ecirc;tes
+de la terre, </ab>
+<ab n="17">(et)
+qui se jouent des oiseaux du ciel, </ab>
+<ab n="18">qui
+th&eacute;saurisent (amassent) l&rsquo;argent et l&rsquo;or, auxquels
+les hommes se confient, et qui t&acirc;chent d&rsquo;acqu&eacute;rir
+sans fin, qui fabriquent l&rsquo;argent, et qui sont inquiets (y
+mettent beaucoup de soin), et dont les travaux sont innombrables
+(incompr&eacute;hensibles) ? </ab>
+<ab n="19">Ils
+sont morts (ont &eacute;t&eacute; extermin&eacute;s), et ils sont
+descendus dans les enfers, et d&rsquo;autres se sont lev&eacute;s &agrave;
+leur place. </ab>
+<ab n="20">De(s)
+jeunes gens (hommes) ont vu la lumi&egrave;re et ont habit&eacute;
+sur la terre ; mais ils ont ignor&eacute; la voie de la sagesse
+(vraie science), </ab>
+<ab n="21">et
+ils n&rsquo;ont pas compris ses sentiers ; leurs enfants non plus ne
+l&rsquo;ont pas re&ccedil;ue, elle s&rsquo;est tenue loin d&rsquo;eux.
+</ab>
+<ab n="22">On
+n&rsquo;a pas entendu parler d&rsquo;elle dans la terre de Chanaan,
+et elle n&rsquo;a pas &eacute;t&eacute; vue dans Th&eacute;man. </ab>
+<ab n="23">Les
+fils d&rsquo;Agar, qui recherchent la prudence qui est de la terre,
+les (ces) marchands de Merrha et de Th&eacute;man, les fabulistes
+(ces conteurs de fables), et les chercheurs de prudence et
+d&rsquo;intelligence, n&rsquo;ont pas connu non plus la voie de la
+sagesse, et ne se sont pas souvenus de ses sentiers. </ab>
+<ab n="24">O
+Isra&euml;l, que la maison de Dieu est grande, et que le lieu qu&rsquo;il
+poss&egrave;de (de sa possession) est &eacute;tendu ! </ab>
+<ab n="25">Il
+est vaste et n&rsquo;a pas de bornes ; il est &eacute;lev&eacute;, il
+est immense. </ab>
+<ab n="26">L&agrave;
+furent ces g&eacute;ants c&eacute;l&egrave;bres, qui existaient au
+commencement, ces g&eacute;ants &agrave; la taille &eacute;lev&eacute;e,
+qui savaient la guerre. </ab>
+<ab n="27">Le
+Seigneur ne les a pas choisis, et ils n&rsquo;ont pas trouv&eacute;
+la voie de sa sagesse (la vraie science) ; c&rsquo;est pour cela
+qu&rsquo;ils ont p&eacute;ri, </ab>
+<ab n="28">et
+comme ils n&rsquo;ont pas eu la sagesse, ils sont morts &agrave;
+cause de leur folie. </ab>
+<ab n="29">Qui
+est mont&eacute; au ciel pour l&rsquo;y prendre (la sagesse), et qui
+l&rsquo;a fait descendre des nu&eacute;es ? </ab>
+<ab n="30">Qui
+a pass&eacute; la mer, et l&rsquo;a trouv&eacute;e, et l&rsquo;a
+apport&eacute;e de pr&eacute;f&eacute;rence &agrave; l&rsquo;or le
+plus pur ? </ab>
+<ab n="31">Il
+n&rsquo;y a personne qui puisse conna&icirc;tre ses voies, ni qui
+d&eacute;couvre (recherche) ses sentiers ; </ab>
+<ab n="32">mais
+celui qui sait tout la conna&icirc;t, et il l&rsquo;a trouv&eacute;e
+par sa prudence, lui qui a cr&eacute;&eacute; la terre &agrave;
+jamais, et qui l&rsquo;a remplie de b&ecirc;tes et de quadrup&egrave;des
+(toutes sortes d&rsquo;animaux) ; </ab>
+<ab n="33">lui
+qui envoie la lumi&egrave;re, et elle part ; qui l&rsquo;appelle, et
+elle lui ob&eacute;it avec tremblement. </ab>
+<ab n="34">Les
+&eacute;toiles ont donn&eacute; leur lumi&egrave;re &agrave; leurs
+postes, et elles se sont r&eacute;jouies ; </ab>
+<ab n="35">elles
+ont &eacute;t&eacute; appel&eacute;es, et elles ont dit : Nous voici
+; et elles ont lui avec joie pour celui qui les a faites. </ab>
+<ab n="36">C&rsquo;est
+lui qui est notre Dieu, et aucun autre ne lui est comparable (nul
+autre ne sera estim&eacute; pr&egrave;s de lui). </ab>
+<ab n="37">C&rsquo;est
+lui qui a trouv&eacute; toutes les voies de la sagesse (toute voie de
+vraie science), et qui l&rsquo;a donn&eacute;e &agrave; Jacob, son
+serviteur, et &agrave; Isra&euml;l, son bien-aim&eacute;. </ab>
+<ab n="38">Apr&egrave;s
+cela il a &eacute;t&eacute; vu sur la terre, et il a convers&eacute;
+(demeur&eacute;) avec les hommes.</ab>
+</div>
+<div type="chapter" n="4">
+<ab n="1">C&rsquo;est
+ici le livre des commandements de Dieu, et la loi qui subsiste
+&eacute;ternellement ; tous ceux qui la gardent arriveront &agrave;
+la vie ; mais ceux qui l&rsquo;abandonnent iront &agrave; la mort.
+</ab>
+<ab n="2">Convertis-toi,
+Jacob, et saisis-la ; marche par le chemin (dans sa voie) vers sa
+splendeur, &agrave; (en face de) sa lumi&egrave;re. </ab>
+<ab n="3">N&rsquo;abandonne
+pas ta gloire &agrave; un autre, et ta dignit&eacute; &agrave; une
+nation &eacute;trang&egrave;re. </ab>
+<ab n="4">Nous
+sommes (bien)heureux, Isra&euml;l, parce que ce qui pla&icirc;t &agrave;
+Dieu nous a &eacute;t&eacute; d&eacute;voil&eacute;. </ab>
+<ab n="5">Aie
+bon courage (Rassure-toi), peuple de Dieu, m&eacute;morial (monument)
+d&rsquo;Isra&euml;l. </ab>
+<ab n="6">Vous
+avez &eacute;t&eacute; vendus aux nations, non pour p&eacute;rir ;
+mais, parce que vous avez irrit&eacute; contre vous la col&egrave;re
+de Dieu, vous avez &eacute;t&eacute; livr&eacute;s &agrave; vos
+adversaires. </ab>
+<ab n="7">Car
+vous avez aigri celui qui vous a cr&eacute;&eacute;s, le Dieu
+&eacute;ternel, en sacrifiant au d&eacute;mon, et non &agrave; Dieu.
+</ab>
+<ab n="8">Vous
+avez oubli&eacute; le Dieu qui vous a nourris, et vous avez attrist&eacute;
+(contrist&eacute;) J&eacute;rusalem, votre nourrice. </ab>
+<ab n="9">Car
+elle a vu la col&egrave;re de Dieu venir sur vous, et elle a dit :
+Ecoutez, confins de Sion ; Dieu m&rsquo;a envoy&eacute; un grand
+deuil. </ab>
+<ab n="10">Car
+j&rsquo;ai vu la captivit&eacute; de mon peuple, de mes fils et de
+mes filles, celle que l&rsquo;Eternel a amen&eacute;e sur eux. </ab>
+<ab n="11">Je
+les avais (ai) nourris dans la joie, et je les ai laiss&eacute;s
+partir dans les larmes et dans le deuil. </ab>
+<ab n="12">Que
+nul ne se r&eacute;jouisse de me voir veuve et d&eacute;sol&eacute;e
+; beaucoup m&rsquo;ont abandonn&eacute;e &agrave; cause des p&eacute;ch&eacute;s
+de mes enfants, parce qu&rsquo;ils se sont d&eacute;tourn&eacute;s de
+la loi de Dieu (du Tr&egrave;s-Haut). </ab>
+<ab n="13">Ils
+n&rsquo;ont pas connu ses pr&eacute;ceptes (justices), et ils n&rsquo;ont
+pas march&eacute; dans les voies des commandements de Dieu, et ils ne
+sont pas entr&eacute;s avec justice dans les sentiers de sa v&eacute;rit&eacute;.
+</ab>
+<ab n="14">Que
+les confins de Sion viennent, et qu&rsquo;ils se souviennent de la
+captivit&eacute; de mes fils et de mes filles, que l&rsquo;Eternel a
+amen&eacute;e sur eux. </ab>
+<ab n="15">Car
+il a fait venir contre eux de loin une nation, une nation m&eacute;chante
+et d&rsquo;une (d&rsquo;une autre) langue inconnue, </ab>
+<ab n="16">et
+qui n&rsquo;a eu ni respect pour les vieillards, ni compassion pour
+les enfants, et ils ont emmen&eacute; les (fils) bien-aim&eacute;s de
+la veuve, et ils l&rsquo;ont d&eacute;sol&eacute;e en lui enlevant
+ses enfants. </ab>
+<ab n="17">Mais
+moi, en quoi puis-je vous aider ? </ab>
+<ab n="18">Car
+c&rsquo;est celui qui a fait venir ces maux sur vous qui vous
+d&eacute;livrera lui-m&ecirc;me des mains de vos ennemis. </ab>
+<ab n="19">Marchez,
+mes fils, marchez ; pour moi je demeure
+seule. </ab>
+<ab n="20">J&rsquo;ai
+quitt&eacute; la robe des jours heureux, je me suis rev&ecirc;tue du
+cilice (sac) de la pri&egrave;re (supplication), et je crierai au
+Tr&egrave;s-Haut tous les jours de ma vie. </ab>
+<ab n="21">Ayez
+bon courage (Rassurez-vous), mes enfants, criez au Seigneur, et il
+vous d&eacute;livrera de la main des princes ennemis. </ab>
+<ab n="22">Car
+j&rsquo;esp&eacute;rerai toujours (j&rsquo;ai esp&eacute;r&eacute;)
+votre salut, et la joie me vient du Dieu saint (Saint), &agrave;
+cause de la mis&eacute;ricorde que notre Sauveur &eacute;ternel
+(l&rsquo;Eternel) vous enverra. </ab>
+<ab n="23">Je
+vous ai vu partir dans le deuil et dans les pleurs ; mais le Seigneur
+vous ram&egrave;nera &agrave; moi avec joie et avec all&eacute;gresse,
+pour toujours. </ab>
+<ab n="24">Car
+de m&ecirc;me que les villes voisines de Sion ont vu la captivit&eacute;
+que Dieu vous avait envoy&eacute;e, ainsi ils verront bient&ocirc;t
+le salut qui vous viendra de Dieu, avec un grand honneur et une
+splendeur &eacute;ternelle. </ab>
+<ab n="25">Mes
+enfants, supportez patiemment la col&egrave;re qui est tomb&eacute;e
+sur vous ; car ton ennemi t&rsquo;a pers&eacute;cut&eacute;, mais tu
+verras bient&ocirc;t sa ruine, et tu fouleras
+sa t&ecirc;te sous tes pieds (monteras sur son cou). </ab>
+<ab n="26">Mes
+tendres enfants ont march&eacute; par d&rsquo;&acirc;pres chemins,
+car ils ont &eacute;t&eacute; emmen&eacute;s comme un troupeau ravi
+par les (ses) ennemis. </ab>
+<ab n="27">Ayez
+bon courage (Rassurez-vous), mes enfants, et criez au Seigneur ; car
+celui qui vous a emmen&eacute;s se souviendra de vous. </ab>
+<ab n="28">Comme
+votre esprit vous a fait errer loin de Dieu, ainsi en revenant &agrave;
+lui de nouveau vous le rechercherez (avec) dix fois plus (d&rsquo;ardeur)
+; </ab>
+<ab n="29">car
+celui qui a fait venir le malheur (les maux) sur vous, vous procurera
+de nouveau lui-m&ecirc;me une &eacute;ternelle joie en vous sauvant.
+</ab>
+<ab n="30">Aie
+bon courage (Rassure-toi), J&eacute;rusalem, car celui-l&agrave; m&ecirc;me
+qui t&rsquo;a donn&eacute; ton nom t&rsquo;encourage. </ab>
+<ab n="31">Les
+m&eacute;chants qui t&rsquo;ont tourment&eacute;e p&eacute;riront, et
+ceux qui ont fait leur joie de ta ruine seront punis. </ab>
+<ab n="32">Les
+villes o&ugrave; tes enfants (vos fils) ont &eacute;t&eacute;
+esclaves seront punies, comme aussi celle qui les a pris (re&ccedil;us
+comme captifs). </ab>
+<ab n="33">Car
+de m&ecirc;me qu&rsquo;elle s&rsquo;est r&eacute;jouie de ta ruine,
+et qu&rsquo;elle a &eacute;t&eacute; heureuse de ta chute, ainsi elle
+sera attrist&eacute;e (contrist&eacute;e) par sa propre d&eacute;solation.
+</ab>
+<ab n="34">L&rsquo;all&eacute;gresse
+de ses nombreux habitants sera retranch&eacute;e, et sa joie sera
+chang&eacute;e en deuil. </ab>
+<ab n="35">Car
+le (un) feu viendra sur elle de la part de l&rsquo;Eternel durant de
+longs jours, et elle sera habit&eacute;e par les d&eacute;mons
+pendant un temps consid&eacute;rable. </ab>
+<ab n="36">J&eacute;rusalem,
+regarde vers l&rsquo;orient, et vois la joie que (qui te vient de)
+Dieu t&rsquo;envoie. </ab>
+<ab n="37">Car
+voici que reviennent tes enfants (fils) que tu as vu partir pour &ecirc;tre
+dispers&eacute;s ; ils viennent tous ensemble, de l&rsquo;Orient
+(jusqu&rsquo;)&agrave; l&rsquo;Occident,
+sur la parole du saint, et pleins de joie ils rendent gloire &agrave;
+(se r&eacute;jouissant &agrave; la parole du saint pour l&rsquo;honneur
+de) Dieu.</ab>
+</div>
+<div type="chapter" n="5">
+<ab n="1">Quitte,
+J&eacute;rusalem, les v&ecirc;tements de ton deuil et de ton
+affliction (tourment), et rev&ecirc;ts-toi de l&rsquo;&eacute;clat et
+de la splendeur de la gloire &eacute;ternelle qui te vient de Dieu.
+</ab>
+<ab n="2">Le
+Seigneur t&rsquo;entourera de justice comme d&rsquo;un double manteau
+(te rev&ecirc;tira de la diplo&iuml;de de la justice, note), et il
+mettra sur ta t&ecirc;te un diad&egrave;me (la mitre) de gloire
+&eacute;ternelle. </ab>
+<ab n="3">Car
+Dieu montrera &agrave; tout ce (homme) qui est sous le ciel la
+splendeur qu&rsquo;il mettra en toi. </ab>
+<ab n="4">Car
+ton nom te sera donn&eacute; par Dieu &agrave; jamais : la paix de la
+justice et la gloire (honneur) de la pi&eacute;t&eacute;. </ab>
+<ab n="5">L&egrave;ve-toi,
+J&eacute;rusalem, et tiens-toi sur la hauteur ; regarde vers
+l&rsquo;Orient,
+et vois tes enfants rassembl&eacute;s, depuis le soleil levant
+jusqu&rsquo;au couchant, par la parole du Saint, pleins de joie,
+parce que Dieu s&rsquo;est souvenu d&rsquo;eux (se r&eacute;jouissant
+&agrave; la parole du saint dans le souvenir du Seigneur). </ab>
+<ab n="6">Ils
+sont sortis de toi &agrave; pied, emmen&eacute;s par les ennemis ;
+mais le Seigneur te les ram&egrave;nera port&eacute;s avec honneur
+comme des fils de rois (d&rsquo;un royaume). </ab>
+<ab n="7">Car
+Dieu a r&eacute;solu d&rsquo;abaisser toute montagne &eacute;lev&eacute;e
+et les roches &eacute;ternelles, et de remplir les vall&eacute;es en
+&eacute;galisant la terre, afin qu&rsquo;Isra&euml;l marche
+promptement pour la gloire de Dieu. </ab>
+<ab n="8">Les
+for&ecirc;ts m&ecirc;mes et tous les arbres odorif&eacute;rants
+ombrageront Isra&euml;l par l&rsquo;ordre de Dieu. </ab>
+<ab n="9">Car
+Dieu ram&egrave;nera Isra&euml;l avec all&eacute;gresse &agrave; la
+lumi&egrave;re de sa majest&eacute;, avec la mis&eacute;ricorde et la
+justice qui viennent de lui(-m&ecirc;me).</ab>
+</div>
+<div type="chapter" n="6">
+<ab n="1">A
+cause des p&eacute;ch&eacute;s que vous avez commis devant Dieu, vous
+serez emmen&eacute;s captifs &agrave; Babylone par Nabuchodonosor,
+roi des Babyloniens. </ab>
+<ab n="2">Etant
+donc entr&eacute;s &agrave; Babylone, vous y serez pendant de
+nombreuses ann&eacute;es et un temps tr&egrave;s long, jusqu&rsquo;&agrave;
+sept g&eacute;n&eacute;rations ; mais apr&egrave;s cela je vous en
+ferai sortir en paix. </ab>
+<ab n="3">Or
+maintenant vous verrez &agrave; Babylone des dieux d&rsquo;or et
+d&rsquo;argent, de pierre et de bois, que
+l&rsquo;on porte sur les &eacute;paules, et qui inspirent de la
+crainte aux nations. </ab>
+<ab n="4">Prenez
+donc garde de ne pas imiter la conduite de ces &eacute;trangers, de
+ne pas craindre leurs dieux, et de ne pas vous laisser saisir par la
+frayeur (&agrave; cause d&rsquo;eux). </ab>
+<ab n="5">Aussi,
+lorsque vous verrez une foule en avant et par derri&egrave;re, dites
+en adorant dans votre c&oelig;ur : C&rsquo;est vous qu&rsquo;il faut
+adorer, Seigneur. </ab>
+<ab n="6">Car
+mon ange est avec vous, et moi-m&ecirc;me je vengerai (rechercherai,
+note) vos &acirc;mes. </ab>
+<ab n="7">Car
+la langue de ces idoles a &eacute;t&eacute; polie par le sculpteur ;
+celles m&ecirc;mes qui sont dor&eacute;es et argent&eacute;es sont
+vaines, et ne peuvent parler. </ab>
+<ab n="8">Et
+comme l&rsquo;on fait des ornements pour une fille (vierge) qui les
+aime, ainsi on a pris de l&rsquo;or pour les fabriquer. </ab>
+<ab n="9">Leurs
+dieux ont (assur&eacute;ment) des couronnes d&rsquo;or sur la t&ecirc;te
+; mais les pr&ecirc;tres en retirent l&rsquo;or et l&rsquo;argent, et
+s&rsquo;en servent (se les arrogent) pour eux-m&ecirc;mes. </ab>
+<ab n="10">Ils
+donnent de cet or &agrave; des prostitu&eacute;es, et ils en parent
+des courtisanes ; et apr&egrave;s que ces courtisanes le leur ont
+rendu, ils en parent (de nouveau) leurs dieux. </ab>
+<ab n="11">Ceux-ci
+ne se d&eacute;fendent ni de la rouille, ni des vers. </ab>
+<ab n="12">Apr&egrave;s
+les avoir couverts d&rsquo;un v&ecirc;tement de pourpre, on leur
+essuie le visage, &agrave; cause de la grande poussi&egrave;re qui
+s&rsquo;&eacute;l&egrave;ve dans la maison o&ugrave; ils sont. </ab>
+<ab n="13">L&rsquo;un
+porte un sceptre comme un homme, comme un gouverneur de province ;
+mais (cependant) il ne fait pas mourir celui qui l&rsquo;offense.
+</ab>
+<ab n="14">L&rsquo;autre
+(Il) a (aussi) une &eacute;p&eacute;e ou une hache &agrave; la main ;
+mais il ne peut se d&eacute;livrer ni des combattants (de la guerre),
+ni des voleurs. Sachez par l&agrave; que ce ne sont pas des dieux ;
+</ab>
+<ab n="15">ne
+les craignez donc pas. Car de m&ecirc;me qu&rsquo;un vase bris&eacute;
+par un homme devient inutile, tels sont aussi leurs dieux.
+</ab>
+<ab n="16">Lorsqu&rsquo;on
+les a plac&eacute;s dans une maison, leurs yeux sont remplis de la
+poussi&egrave;re que soul&egrave;vent les pieds de ceux qui entrent.
+</ab>
+<ab n="17">Et
+comme on ferme les portes autour de celui qui a offens&eacute; le
+roi, ou autour d&rsquo;un mort qui a &eacute;t&eacute; conduit au
+s&eacute;pulcre, ainsi les pr&ecirc;tres prot&egrave;gent les portes
+par des serrures et des verrous, de peur que les voleurs ne
+d&eacute;pouillent (enti&egrave;rement) leurs dieux. </ab>
+<ab n="18">Ils
+leur allument des lampes, et en grand nombre ; mais ils n&rsquo;en
+peuvent voir aucune, et ils sont comme des poutres dans une maison.
+</ab>
+<ab n="19">Ils
+disent (aussi) que les serpents n&eacute;s de la terre leur l&egrave;chent
+le c&oelig;ur, (et en effet) lorsqu&rsquo;ils les d&eacute;vorent,
+eux et leurs v&ecirc;tements, sans qu&rsquo;ils (ne) le sentent
+(pas). </ab>
+<ab n="20">Leurs
+visages deviennent noirs par la fum&eacute;e qui s&rsquo;&eacute;l&egrave;ve
+dans la maison. </ab>
+<ab n="21">Sur
+leurs corps et sur leurs t&ecirc;tes volent les hiboux, les
+hirondelles et les autres oiseaux, et les chats y courent (sautent)
+aussi. </ab>
+<ab n="22">Sachez
+par l&agrave; que ce ne sont pas des dieux ; ne les craignez donc
+pas. </ab>
+<ab n="23">M&ecirc;me
+l&rsquo;or qu&rsquo;ils ont n&rsquo;est que pour l&rsquo;apparence ;
+&agrave; moins que l&rsquo;on n&rsquo;essuie la rouille, ils ne
+brilleront pas ; et lorsqu&rsquo;on les a fondus, ils ne le sentaient
+pas. </ab>
+<ab n="24">On
+les a achet&eacute;s &agrave; grand (&agrave; tout, note) prix,
+quoiqu&rsquo;il n&rsquo;y ait pas de vie en eux. </ab>
+<ab n="25">N&rsquo;ayant
+pas de pieds, ils sont port&eacute;s sur les &eacute;paules, et ils
+font voir leur honte (ignoble impuissance) aux hommes ; aussi, que
+ceux qui les adorent soient confondus ! (.) </ab>
+<ab n="26">C&rsquo;est
+pourquoi s&rsquo;ils tombent &agrave; terre, ils ne se rel&egrave;veront
+pas d&rsquo;eux-m&ecirc;mes ; et si on (ne) les redresse, ils ne se
+tiendront pas debout par eux-m&ecirc;mes ; mais, comme &agrave; des
+morts, on leur apporte leurs offrandes. </ab>
+<ab n="27">Leurs
+pr&ecirc;tres vendent leurs victimes, et en disposent &agrave; leur
+gr&eacute; ; leurs femmes en prennent aussi et n&rsquo;en donnent
+rien aux malades (&agrave; l&rsquo;infirme) et aux mendiants. </ab>
+<ab n="28">Les
+femmes touchent &agrave; leurs sacrifices lorsqu&rsquo;elles sont
+grosses et dans un &eacute;tat impur. Sachant donc par ces choses que
+ce ne sont pas des dieux, ne les craignez point. </ab>
+<ab n="29">Pourquoi,
+en effet, les appelle-t-on des dieux ? Car (Parce que) les femmes
+offrent des dons &agrave; ces dieux d&rsquo;argent, d&rsquo;or et de
+bois ; </ab>
+<ab n="30">et
+dans leurs temples les pr&ecirc;tres sont assis avec des tuniques
+d&eacute;chir&eacute;es la t&ecirc;te et la barbe ras&eacute;es, et
+la t&ecirc;te nue. </ab>
+<ab n="31">Ils
+rugissent en criant devant leurs dieux, comme dans un festin
+mortuaire. </ab>
+<ab n="32">Les
+pr&ecirc;tres leur &ocirc;tent leurs v&ecirc;tements, et ils en
+habillent leurs femmes et leurs enfants. </ab>
+<ab n="33">Qu&rsquo;on
+leur fasse du mal ou qu&rsquo;on leur fasse du bien, ils ne peuvent
+le rendre ; ils ne peuvent &eacute;tablir un roi, ni lui &ocirc;ter
+la couronne. </ab>
+<ab n="34">Ils
+ne peuvent non plus donner les richesses, ni rendre le mal. Si
+quelqu&rsquo;un leur a fait un v&oelig;u et ne s&rsquo;en acquitte
+pas, ils ne le lui redemandent point (s&rsquo;en mettent pas en
+peine). </ab>
+<ab n="35">Ils
+ne sauvent personne de la mort, et ils n&rsquo;arrachent pas le
+faible au plus puissant. </ab>
+<ab n="36">Ils
+ne rendent pas la vue &agrave; l&rsquo;aveugle, et ils ne d&eacute;livrent
+pas l&rsquo;homme de la n&eacute;cessit&eacute;. </ab>
+<ab n="37">Ils
+n&rsquo;auront pas piti&eacute; de la veuve, et ne feront pas de bien
+aux orphelins. </ab>
+<ab n="38">Leurs
+dieux sont semblables aux pierres extraites d&rsquo;une montagne ;
+ils sont de bois, de pierre, d&rsquo;or et d&rsquo;argent ; ceux qui
+les adorent seront confondus. </ab>
+<ab n="39">Comment
+donc peut-on penser (estimer) ou dire que ce sont des dieux ? </ab>
+<ab n="40">Les
+Chald&eacute;ens eux-m&ecirc;mes les d&eacute;shonorent ; lorsqu&rsquo;ils
+apprennent qu&rsquo;un homme est muet et ne peut parler, ils le
+pr&eacute;sentent &agrave; Bel, lui demandant de le faire parler ;
+</ab>
+<ab n="41">comme
+si ceux qui n&rsquo;ont pas de mouvement pouvaient sentir ! (;) Et
+eux lorsqu&rsquo;ils s&rsquo;en aper&ccedil;oivent, les abandonnent ;
+car leurs dieux sont insensibles (n&rsquo;ont pas le sentiment).
+</ab>
+<ab n="42">Des
+femmes entour&eacute;es de cordes sont assises dans les rues, br&ucirc;lant
+des noyaux d&rsquo;olives ; </ab>
+<ab n="43">et
+lorsque l&rsquo;une d&rsquo;elles emmen&eacute;e par quelque passant,
+a dormi avec lui, elle reproche &agrave; sa voisine de n&rsquo;avoir
+pas &eacute;t&eacute; jug&eacute;e, comme elle, digne d&rsquo;honneur,
+et de n&rsquo;avoir pas vu rompre sa corde. </ab>
+<ab n="44">Tout
+ce qu&rsquo;on fait &agrave; ces dieux est fausset&eacute; ; comment
+donc peut-on penser (estimer) ou dire que ce sont des dieux ? </ab>
+<ab n="45">Ils
+ont &eacute;t&eacute; faits par des ouvriers et par des orf&egrave;vres
+; ils ne sont que ce que les pr&ecirc;tres veulent qu&rsquo;ils
+soient. </ab>
+<ab n="46">Les
+ouvriers qui les font ne vivent eux-m&ecirc;mes que peu de temps ;
+comment donc les objets qu&rsquo;ils ont fabriqu&eacute;s peuvent-ils
+&ecirc;tre des dieux ? </ab>
+<ab n="47">Ils
+ne laissent &agrave; ceux qui viendront apr&egrave;s eux que la
+fausset&eacute; et l&rsquo;opprobre. </ab>
+<ab n="48">Car
+lorsqu&rsquo;il survient une guerre ou quelque malheur, les pr&ecirc;tres
+pensent en eux-m&ecirc;mes en quel endroit ils iront se cacher avec
+leurs dieux (eux, note). </ab>
+<ab n="49">Comment
+donc peut-on penser qu&rsquo;ils sont des dieux, ceux qui ne peuvent
+se sauver de la guerre, ni se d&eacute;livrer des malheurs (autres
+maux) ? </ab>
+<ab n="50">Car,
+puisqu&rsquo;ils ne sont que du bois, recouvert d&rsquo;or et
+d&rsquo;argent, toutes les nations et tous les rois reconna&icirc;tront
+un jour leur fausset&eacute; ; on verra clairement que ce ne sont pas
+des dieux, mais l&rsquo;&oelig;uvre de la main des hommes, et qu&rsquo;ils
+sont incapables de tout acte divin (il n&rsquo;y a aucun ouvrage de
+Dieu en eux). </ab>
+<ab n="51">On
+sait donc par l&agrave; que ce ne sont pas des dieux, mais l&rsquo;&oelig;uvre
+de la main des hommes, et qu&rsquo;ils sont incapables de tout acte
+divin (il n&rsquo;y a aucun ouvrage de Dieu en eux, note). </ab>
+<ab n="52">Ils
+n&rsquo;&eacute;tablissent pas un roi sur une contr&eacute;e ; et ils
+ne donnent pas (de) la pluie aux hommes. </ab>
+<ab n="53">Ils
+ne discerneront pas ce qui est juste, et ils ne d&eacute;livreront
+pas les contr&eacute;es (provinces) de la violence, car ils ne
+peuvent rien, et sont comme des corneilles qui volent entre le ciel
+et la terre. </ab>
+<ab n="54">Quand
+le feu aura pris &agrave; la maison de ces dieux de bois, d&rsquo;argent
+et d&rsquo;or, (&agrave; la v&eacute;rit&eacute;) leurs pr&ecirc;tres
+s&rsquo;enfuiront et seront sauv&eacute;s ; mais eux ils seront
+consum&eacute;s au milieu des flammes comme des (les) poutres (d&rsquo;une
+maison). </ab>
+<ab n="55">Ils
+ne r&eacute;sisteront point &agrave; un roi pendant la (ni &agrave;
+une) guerre. Comment donc peut-on penser ou admettre que ce soit des
+dieux ? </ab>
+<ab n="56">Ces
+dieux de bois, de pierre, d&rsquo;or et d&rsquo;argent ne se
+d&eacute;livreront pas des larrons et des voleurs ; ceux(-l&agrave;)
+qui sont plus forts qu&rsquo;eux </ab>
+<ab n="57">leur
+voleront l&rsquo;or, l&rsquo;argent et les v&ecirc;tements dont ils
+sont couverts, et ils s&rsquo;en iront, et ces dieux ne pourront pas
+se porter secours. </ab>
+<ab n="58">Il
+vaut donc mieux &ecirc;tre un roi qui manifeste sa force, ou un vase
+utile &agrave; une maison, et honorant celui qui le poss&egrave;de,
+ou la porte d&rsquo;une maison qui garde tout ce qui y est, que l&rsquo;un
+de ces faux dieux. </ab>
+<ab n="59">(Assur&eacute;ment)
+Le soleil, la lune et les astres brillants sont conduits pour
+l&rsquo;utilit&eacute; des hommes, et ob&eacute;issent &agrave; Dieu
+; </ab>
+<ab n="60">les
+&eacute;clairs aussi se font voir lorsqu&rsquo;ils paraissent, et le
+vent souffle dans tous
+les pays ; </ab>
+<ab n="61">les
+nu&eacute;es, lorsque Dieu leur commande de parcourir tout l&rsquo;univers
+(le globe), ex&eacute;cutent ce qui leur a &eacute;t&eacute; ordonn&eacute;
+; </ab>
+<ab n="62">le
+feu (du ciel), envoy&eacute; d&rsquo;en haut pour consumer les
+montagnes et les for&ecirc;ts, fait ce qui lui a &eacute;t&eacute;
+command&eacute; ; mais ces dieux ne sont semblables ni en beaut&eacute;
+ni en puissance &agrave; un(e) seul(e) de ces &ecirc;tres
+(cr&eacute;atures). </ab>
+<ab n="63">On
+ne doit donc ni penser ni dire que ce soit des dieux, puisqu&rsquo;ils
+ne peuvent ni rendre la justice, ni faire quoi que ce soit aux
+hommes. </ab>
+<ab n="64">C&rsquo;est
+pourquoi, sachant que ce ne sont pas des dieux, ne les craignez pas.
+</ab>
+<ab n="65">Ils
+ne peuvent ni maudire (maudiront) ni b&eacute;nir (b&eacute;niront)
+les rois. </ab>
+<ab n="66">Ils
+ne montrent pas non plus dans le ciel des (les) signes pour les
+peuples ; ils ne brille(ro)nt pas comme le soleil, et ils ne luisent
+(&eacute;claireront) pas comme la lune. </ab>
+<ab n="67">Les
+b&ecirc;tes valent mieux qu&rsquo;eux, puisqu&rsquo;elles peuvent
+s&rsquo;enfuir sous un toit, et se rendre service. </ab>
+<ab n="68">Il
+ne nous est donc manifest&eacute; en aucune mani&egrave;re qu&rsquo;ils
+sont des dieux ; c&rsquo;est pourquoi ne les craignez pas. </ab>
+<ab n="69">Car
+de m&ecirc;me que, dans un champ de concombres, un &eacute;pouvantail
+ne prot&egrave;ge rien, ainsi sont leurs dieux (recouverts) de bois,
+d&rsquo;argent et d&rsquo;or. </ab>
+<ab n="70">Ils
+sont semblables &agrave; l&rsquo;aub&eacute;pine dans un jardin, sur
+laquelle tous les oiseaux se posent ; leurs dieux de bois, d&rsquo;argent
+et d&rsquo;or ressemblent encore &agrave; un mort jet&eacute; dans
+les t&eacute;n&egrave;bres. </ab>
+<ab n="71">La
+pourpre et l&rsquo;&eacute;carlate, qui sont rong&eacute;s sur eux
+par les vers, vous montre(ro)nt aussi que ce ne sont pas des dieux ;
+ils sont eux-m&ecirc;mes mang&eacute;s &agrave; la fin, et ils
+deviennent (seront un) l&rsquo;opprobre d&rsquo;un (dans le) pays.
+</ab>
+<ab n="72">L&rsquo;homme
+juste qui n&rsquo;a pas d&rsquo;idoles (de simulacres) vaut mieux
+qu&rsquo;eux, car il sera loin des opprobres.</ab>
+</div>
+</div>

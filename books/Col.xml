@@ -1,0 +1,400 @@
+<!DOCTYPE definition [
+<!ENTITY rsquo "&#8217;">
+<!ENTITY eacute "é">
+<!ENTITY euml "ë">
+<!ENTITY acirc "â">
+<!ENTITY ecirc "ê">
+<!ENTITY agrave "à">
+<!ENTITY egrave "è">
+<!ENTITY ucirc "û">
+<!ENTITY ugrave "ù">
+<!ENTITY icirc "î">
+<!ENTITY ccedil "ç">
+<!ENTITY iuml "ï">
+<!ENTITY oelig "œ">
+<!ENTITY ocirc "ô">
+<!ENTITY uuml "ü">
+<!ENTITY Eacute "É">
+<!ENTITY nbsp "&#160;">
+
+]>
+
+<div xmlns="http://www.tei-c.org/ns/1.0" type="book" xml:id="VULGFR_Col">
+<div type="chapter" n="1">
+<ab n="1">Paul,
+Ap&ocirc;tre de J&eacute;sus-Christ par la volont&eacute; de Dieu, et
+Timoth&eacute;e, notre fr&egrave;re, </ab>
+<ab n="2">aux
+saints et fid&egrave;les fr&egrave;res dans le Christ J&eacute;sus,
+qui sont &agrave; Colosses. </ab>
+<ab n="3">Que
+la gr&acirc;ce et la paix soient sur vous, de la part de Dieu notre
+P&egrave;re et du Seigneur J&eacute;sus-Christ. Nous rendons gr&acirc;ces
+&agrave; Dieu, P&egrave;re de Notre Seigneur J&eacute;sus-Christ, ne
+cessant pas de prier pour vous, </ab>
+<ab n="4">ayant
+&eacute;t&eacute; inform&eacute;s de votre foi en J&eacute;sus-Christ,
+et de la charit&eacute; que vous portez &agrave; tous les saints, </ab>
+<ab n="5">&agrave;
+cause de l&rsquo;esp&eacute;rance qui vous est r&eacute;serv&eacute;e
+dans le ciel, et dont vous avez eu connaissance par la parole de
+v&eacute;rit&eacute; de l&rsquo;Evangile. </ab>
+<ab n="6">Il
+est parvenu jusqu&rsquo;&agrave; vous, comme il est aussi dans le
+monde entier, o&ugrave; il porte des fruits et grandit, comme parmi
+vous, depuis le jour o&ugrave; vous (l&rsquo;) avez entendu et connu
+la gr&acirc;ce de Dieu, conform&eacute;ment &agrave; (dans) la
+v&eacute;rit&eacute;, </ab>
+<ab n="7">selon
+que vous en avez &eacute;t&eacute; instruits par Epaphras, notre
+bien-aim&eacute; compagnon de service (dans le service de Dieu), qui
+est pour vous un fid&egrave;le ministre de J&eacute;sus-Christ, </ab>
+<ab n="8">et
+qui nous a aussi fait conna&icirc;tre votre charit&eacute; toute
+spirituelle. </ab>
+<ab n="9">C&rsquo;est
+pourquoi, nous aussi, depuis le jour o&ugrave; nous l&rsquo;avons
+appris, nous ne cessons pas de prier pour vous, et de demander &agrave;
+Dieu que vous soyez remplis de la connaissance de sa volont&eacute;,
+en toute sagesse et intelligence spirituelle, </ab>
+<ab n="10">pour
+marcher d&rsquo;une mani&egrave;re digne de Dieu, lui plaisant en
+toutes choses, portant des fruits en toute sorte de bonnes &oelig;uvres,
+et croissant dans la connaissance (science) de Dieu ; </ab>
+<ab n="11">fortifi&eacute;s
+&agrave; tous &eacute;gards par la puissance de sa gloire, pour
+manifester toute patience et longanimit&eacute;, en m&ecirc;me temps
+que la joie ; </ab>
+<ab n="12">rendant
+gr&acirc;ces &agrave; Dieu le P&egrave;re, qui nous a rendus dignes
+d&rsquo;avoir part &agrave; l&rsquo;h&eacute;ritage des saints dans
+la lumi&egrave;re, </ab>
+<ab n="13">qui
+nous a arrach&eacute;s &agrave; la puissance des t&eacute;n&egrave;bres,
+et nous a fait passer dans le royaume de son Fils bien-aim&eacute;
+(du Fils de sa dilection), </ab>
+<ab n="14">en
+qui nous avons la r&eacute;demption, par son sang, et la r&eacute;mission
+des p&eacute;ch&eacute;s. </ab>
+<ab n="15">C&rsquo;est
+lui qui est l&rsquo;image du Dieu invisible, le premier-n&eacute; de
+toute cr&eacute;ature ; </ab>
+<ab n="16">car
+en lui toutes choses ont &eacute;t&eacute; cr&eacute;&eacute;es dans
+le ciel et sur la terre, les visibles et les invisibles, soit les
+tr&ocirc;nes, soit les dominations, soit les principaut&eacute;s,
+soit les puissances : tout a &eacute;t&eacute; cr&eacute;&eacute; par
+lui et pour lui, </ab>
+<ab n="17">et
+il est avant tous, et toutes choses subsistent en lui. </ab>
+<ab n="18">C&rsquo;est
+lui aussi qui est le chef du corps de l&rsquo;Eglise ; lui est les
+pr&eacute;mices (le principe), le premier-n&eacute; d&rsquo;entre les
+morts, afin d&rsquo;&ecirc;tre en toutes choses le premier (la
+primaut&eacute; de) ; </ab>
+<ab n="19">car
+il a plu &agrave; Dieu que toute pl&eacute;nitude r&eacute;sid&acirc;t
+en lui ; </ab>
+<ab n="20">et
+il lui a plu de r&eacute;concilier par lui toutes choses avec
+lui-m&ecirc;me, soit celles qui sont sur la terre, soit celles qui
+sont dans le ciel, en &eacute;tablissant la paix par le sang de sa
+croix. </ab>
+<ab n="21">Et
+vous qui &eacute;tiez autrefois des &eacute;trangers et des ennemis,
+par (vos penchants et) vos &oelig;uvres mauvaises, </ab>
+<ab n="22">il
+vous a r&eacute;concili&eacute;s maintenant par la mort de (son Fils
+en) son corps charnel, pour vous faire para&icirc;tre devant lui
+saints, sans tache et irr&eacute;pr&eacute;hensibles, </ab>
+<ab n="23">si
+toutefois vous demeurez fond&eacute;s et affermis dans la foi, et
+in&eacute;branlables dans l&rsquo;esp&eacute;rance offerte par
+l&rsquo;Evangile que vous avez entendu, qui a &eacute;t&eacute;
+pr&ecirc;ch&eacute; &agrave; toute cr&eacute;ature qui est sous le
+ciel, et dont moi, Paul, je suis devenu le ministre. </ab>
+<ab n="24">Maintenant
+je me r&eacute;jouis dans mes souffrances pour vous, et ce qui manque
+aux souffrances du Christ, je le compl&egrave;te dans ma chair pour
+son corps, qui est l&rsquo;Eglise, </ab>
+<ab n="25">dont
+je suis devenu le ministre, selon la charge que Dieu m&rsquo;a donn&eacute;e
+relativement &agrave; vous, pour que j&rsquo;annonce pleinement la
+parole de Dieu, </ab>
+<ab n="26">le
+myst&egrave;re qui a &eacute;t&eacute; cach&eacute; aux (d&egrave;s
+l&rsquo;origine des) si&egrave;cles et aux g&eacute;n&eacute;rations,
+mais qui maintenant a &eacute;t&eacute; manifest&eacute; &agrave; ses
+saints, </ab>
+<ab n="27">auxquels
+Dieu a voulu faire conna&icirc;tre quelles sont les richesses de la
+gloire de ce myst&egrave;re parmi les Gentils (nations), &agrave;
+savoir, le Christ en vous, (pour) l&rsquo;esp&eacute;rance de la
+gloire. </ab>
+<ab n="28">C&rsquo;est
+lui que nous (vous) annon&ccedil;ons, reprenant tout homme, et
+instruisant tout homme en toute sagesse, afin que nous rendions tout
+homme parfait en J&eacute;sus-Christ. </ab>
+<ab n="29">C&rsquo;est
+aussi &agrave; quoi je travaille, en combattant avec sa force, qui
+agit puissamment en moi.</ab>
+</div>
+<div type="chapter" n="2">
+<ab n="1">Car
+je veux que vous sachiez quelle sollicitude j&rsquo;ai pour vous, et
+pour ceux qui sont &agrave; Laodic&eacute;e, et pour tous ceux qui
+n&rsquo;ont pas vu mon visage dans la chair, </ab>
+<ab n="2">afin
+que leurs c&oelig;urs soient consol&eacute;s, et qu&rsquo;&eacute;tant
+unis dans la charit&eacute;, ils soient remplis de toutes les
+richesses d&rsquo;une parfaite intelligence, &agrave; la connaissance
+du myst&egrave;re de Dieu le P&egrave;re et du Christ J&eacute;sus,
+</ab>
+<ab n="3">en
+qui sont cach&eacute;s tous les tr&eacute;sors de la sagesse et de la
+science. </ab>
+<ab n="4">Je
+dis cela afin que personne ne vous trompe par des discours &eacute;lev&eacute;s.
+</ab>
+<ab n="5">Car,
+bien que je sois absent de corps, je suis avec vous en esprit, me
+r&eacute;jouissant de voir l&rsquo;ordre qui r&egrave;gne parmi vous,
+et la solidit&eacute; de votre foi dans le Christ. </ab>
+<ab n="6">Ainsi
+donc, comme vous avez re&ccedil;u le Seigneur J&eacute;sus-Christ,
+marchez en lui, </ab>
+<ab n="7">&eacute;tant
+enracin&eacute;s en lui, et &eacute;difi&eacute;s sur lui, et
+affermis dans la foi telle qu&rsquo;elle vous a &eacute;t&eacute;
+enseign&eacute;e, et croissant en lui avec (rendant an abondance des)
+action de gr&acirc;ces. </ab>
+<ab n="8">Prenez
+garde que personne ne vous s&eacute;duise par la philosophie et une
+vaine tromperie (par des raisonnements vains et trompeurs), selon la
+tradition des hommes, selon les &eacute;l&eacute;ments du monde, et
+non selon le Christ ; </ab>
+<ab n="9">car
+toute la pl&eacute;nitude de la divinit&eacute; habite corporellement
+en lui, </ab>
+<ab n="10">et
+vous avez tout pleinement (&ecirc;tes remplis) en lui, qui est le
+chef de toute principaut&eacute; et de toute puissance. </ab>
+<ab n="11">C&rsquo;est
+aussi en lui que vous avez &eacute;t&eacute; circoncis d&rsquo;une
+circoncision que la main n&rsquo;a pas faite, mais qui consiste dans
+le d&eacute;pouillement du corps de chair, c&rsquo;est-&agrave;-dire,
+dans la circoncision du Christ ; </ab>
+<ab n="12">ayant
+&eacute;t&eacute; ensevelis avec lui par le bapt&ecirc;me, dans
+lequel vous &ecirc;tes aussi ressuscit&eacute;s par la foi en la
+puissance de Dieu, qui l&rsquo;a ressuscit&eacute; des morts. </ab>
+<ab n="13">Et
+lorsque vous &eacute;tiez morts par vos offenses (p&eacute;ch&eacute;s)
+et par l&rsquo;incirconcision de votre chair, il vous a fait revivre
+avec lui, vous pardonnant tous vos p&eacute;ch&eacute;s. </ab>
+<ab n="14">Il
+a effac&eacute; l&rsquo;acte (la c&eacute;dule) qui s&rsquo;&eacute;levait
+contre nous par ses d&eacute;crets, qui nous &eacute;tait contraire,
+et il l&rsquo;a mis de c&ocirc;t&eacute; (abolie), en le (la) clouant
+sur la croix ; </ab>
+<ab n="15">et
+d&eacute;pouillant les principaut&eacute;s et les puissances, il les
+a men&eacute;es captives hardiment, triomphant d&rsquo;elles
+publiquement en lui-m&ecirc;me. </ab>
+<ab n="16">Que
+personne donc ne vous juge au sujet du manger et du boire, ou &agrave;
+propos d&rsquo;un jour de f&ecirc;te, ou d&rsquo;une nouvelle lune,
+ou des sabbats, </ab>
+<ab n="17">choses
+qui sont l&rsquo;ombre de celles qui devaient venir, tandis que le
+Christ est le corps. </ab>
+<ab n="18">Que
+personne ne vous s&eacute;duise, en affectant l&rsquo;humilit&eacute;
+et en rendant un culte aux anges, s&rsquo;&eacute;garant en des
+choses qu&rsquo;il n&rsquo;a pas vues, enfl&eacute; d&rsquo;un vain
+orgueil par un sens charnel (des pens&eacute;es de sa chair), </ab>
+<ab n="19">et
+ne s&rsquo;attachant pas au chef (&agrave; la t&ecirc;te), duquel le
+corps entier, serr&eacute; et reli&eacute; au moyen des jointures et
+des ligatures, tire l&rsquo;accroissement que Dieu lui donne (de
+Dieu, note). </ab>
+<ab n="20">Si
+donc vous &ecirc;tes morts avec le Christ aux &eacute;l&eacute;ments
+de ce monde, pourquoi vous imposez-vous des lois, comme si vous
+viviez dans le monde ? </ab>
+<ab n="21">Ne
+touchez pas, ne go&ucirc;tez pas, ne maniez pas, </ab>
+<ab n="22">toutes
+ces choses p&eacute;rissent par l&rsquo;usage m&ecirc;me, et
+n&rsquo;existent qu&rsquo;en vertu des pr&eacute;ceptes et des
+ordonnances des hommes ; </ab>
+<ab n="23">elles
+ont une apparence de (raison) sagesse, par un culte exag&eacute;r&eacute;
+et une humilit&eacute; affect&eacute;e, en n&rsquo;&eacute;pargnant
+pas le corps, mais cela n&rsquo;a aucun m&eacute;rite et ne sert qu&rsquo;&agrave;
+rassasier la chair.</ab>
+</div>
+<div type="chapter" n="3">
+<ab n="1">Si
+donc vous &ecirc;tes ressuscit&eacute;s avec le Christ, recherchez
+les choses qui sont en haut, o&ugrave; le Christ est assis &agrave;
+la droite de Dieu ; </ab>
+<ab n="2">ayez
+du go&ucirc;t pour les choses d&rsquo;en haut, non pour celles qui
+sont sur la terre. </ab>
+<ab n="3">Car
+vous &ecirc;tes morts, et votre vie est cach&eacute;e avec le Christ
+en Dieu. </ab>
+<ab n="4">Lorsque
+le Christ, votre vie, appara&icirc;tra, alors vous appara&icirc;trez
+vous aussi avec lui dans la gloire. </ab>
+<ab n="5">Faites
+donc mourir vos membres qui sont sur la terre, la fornication,
+l&rsquo;impuret&eacute;, la luxure, la convoitise mauvaise (les
+mauvais d&eacute;sirs) et l&rsquo;avarice, qui est une idol&acirc;trie
+; </ab>
+<ab n="6">c&rsquo;est
+&agrave; cause de ces choses que la col&egrave;re de Dieu vient sur
+les fils de l&rsquo;incr&eacute;dulit&eacute;, </ab>
+<ab n="7">parmi
+lesquels vous aussi vous marchiez autrefois, lorsque vous viviez dans
+ces d&eacute;sordres (parmi eux). </ab>
+<ab n="8">Mais
+maintenant, rejetez vous aussi toutes ces choses, la col&egrave;re,
+l&rsquo;indignation, la malice, la m&eacute;disance ; que les paroles
+d&eacute;shonn&ecirc;tes soient bannies de votre bouche. </ab>
+<ab n="9">Ne
+vous mentez pas les uns aux autres ; d&eacute;pouillez-vous du vieil
+homme avec ses &oelig;uvres, </ab>
+<ab n="10">et
+rev&ecirc;tez-vous du nouveau, qui se renouvelle, en avan&ccedil;ant
+dans (&agrave;) la connaissance, conform&eacute;ment &agrave; l&rsquo;image
+de celui qui l&rsquo;a cr&eacute;&eacute; ; </ab>
+<ab n="11">l&agrave;
+il n&rsquo;y a ni gentil ni Juif, ni circoncis(ion) ni
+incirconcis(ion), ni barbare ni Scythe, ni esclave ni libre ; mais
+(o&ugrave;) le Christ est tout en tous. </ab>
+<ab n="12">Rev&ecirc;tez-vous
+donc, comme des &eacute;lus de Dieu, saints et bien-aim&eacute;s,
+d&rsquo;entrailles de mis&eacute;ricorde, de bont&eacute;,
+d&rsquo;humilit&eacute;, de modestie, de patience ; </ab>
+<ab n="13">vous
+supportant les uns les autres, et vous pardonnant mutuellement (les
+torts), si quelqu&rsquo;un a un sujet de plainte contre un autre ;
+comme le Seigneur vous a pardonn&eacute;, pardonnez-vous aussi (de
+m&ecirc;me). </ab>
+<ab n="14">Mais,
+par-dessus tout cela, ayez la charit&eacute;, qui est le lien de la
+perfection. </ab>
+<ab n="15">Et
+que la paix du Christ, &agrave; laquelle vous avez (m&ecirc;me) &eacute;t&eacute;
+appel&eacute;s pour former un seul corps, r&egrave;gne dans vos c&oelig;urs
+; et soyez reconnaissants. </ab>
+<ab n="16">Que
+la parole du Christ habite en vous abondamment (avec pl&eacute;nitude),
+en toute sagesse ; instruisez-vous et exhortez-vous les uns les
+autres par des psaumes, des hymnes et des cantiques spirituels,
+chantant &agrave; (la louange de) Dieu dans vos c&oelig;urs, par
+l&rsquo;action de la gr&acirc;ce. </ab>
+<ab n="17">Quelque
+chose que vous fassiez, en parole, ou en &oelig;uvre, faites tout au
+nom du Seigneur J&eacute;sus-Christ, rendant gr&acirc;ces par lui &agrave;
+Dieu le P&egrave;re. </ab>
+<ab n="18">Femmes,
+soyez soumises &agrave; vos maris, comme il convient, dans le
+Seigneur. </ab>
+<ab n="19">Maris,
+aimez vos femmes, et ne soyez pas amers envers elles. </ab>
+<ab n="20">Enfants,
+ob&eacute;issez &agrave; vos parents en toutes choses, car cela est
+agr&eacute;able au Seigneur. </ab>
+<ab n="21">P&egrave;res,
+ne provoquez pas l&rsquo;indignation de vos enfants, de peur qu&rsquo;ils
+ne se d&eacute;couragent (deviennent pusillanimes). </ab>
+<ab n="22">Serviteurs,
+ob&eacute;issez en toutes choses &agrave; vos ma&icirc;tres selon la
+chair, ne servant pas seulement sous leurs yeux, comme pour plaire
+aux hommes, mais en simplicit&eacute; de c&oelig;ur et en craignant
+Dieu. </ab>
+<ab n="23">Tout
+ce que vous ferez, faites-le de bon c&oelig;ur, comme pour le
+Seigneur, et non pour les hommes, </ab>
+<ab n="24">sachant
+que vous recevrez du Seigneur l&rsquo;h&eacute;ritage pour
+r&eacute;compense. Servez le Seigneur Christ. </ab>
+<ab n="25">Car
+celui qui agit injustement recevra la peine de son injustice ; et il
+n&rsquo;y a point acception des personnes devant Dieu.</ab>
+</div>
+<div type="chapter" n="4">
+<ab n="1">Ma&icirc;tres,
+accordez (rendez) &agrave; vos serviteurs ce qui est juste et
+&eacute;quitable, sachant que vous aussi vous avez un ma&icirc;tre
+dans le ciel. </ab>
+<ab n="2">Pers&eacute;v&eacute;rez
+dans la pri&egrave;re, et veillez-y avec action de gr&acirc;ces.
+</ab>
+<ab n="3">Priez
+en m&ecirc;me temps aussi pour nous, afin que Dieu nous ouvre une
+porte pour la (notre) parole en sorte que je puisse annoncer (pas de
+je + publier) le myst&egrave;re du Christ, &agrave; cause duquel je
+suis encha&icirc;n&eacute;, </ab>
+<ab n="4">et
+que je le fasse conna&icirc;tre en parlant comme je le dois.
+</ab>
+<ab n="5">Conduisez-vous
+avec sagesse envers ceux du dehors, en rachetant le temps. </ab>
+<ab n="6">Que
+votre parole soit toujours accompagn&eacute;e de gr&acirc;ce et
+assaisonn&eacute;e de sel (sagesse), afin que vous sachiez comment il
+faut r&eacute;pondre &agrave; chacun. </ab>
+<ab n="7">Tout
+ce qui me concerne, Tychique, le bien-aim&eacute; fr&egrave;re et le
+fid&egrave;le ministre, et mon compagnon de service dans le Seigneur,
+vous le fera conna&icirc;tre. </ab>
+<ab n="8">Je
+vous l&rsquo;envoie (ai envoy&eacute;) tout expr&egrave;s pour qu&rsquo;il
+connaisse ce qui vous concerne et qu&rsquo;il console vos c&oelig;urs.
+</ab>
+<ab n="9">Je
+l&rsquo;envoie avec On&eacute;sime, le fr&egrave;re bien-aim&eacute;
+et fid&egrave;le, qui est l&rsquo;un des v&ocirc;tres. Ils vous
+feront conna&icirc;tre tout ce qui se passe ici. </ab>
+<ab n="10">Aristarque,
+mon compagnon de captivit&eacute;, vous salue, ainsi que Marc, le
+cousin de Barnab&eacute;, au sujet duquel vous avez re&ccedil;u des
+ordres (s&rsquo;il vient chez vous, accueillez-le bien) ; </ab>
+<ab n="11">Et
+aussi J&eacute;sus, surnomm&eacute; Juste : ils sont de la
+circoncision. Ce sont les seuls qui travaillent avec moi pour le
+royaume de Dieu ; ils ont &eacute;t&eacute; pour moi une consolation.
+</ab>
+<ab n="12">Epaphras,
+qui est un des v&ocirc;tres (votre concitoyen), vous salue ; c&rsquo;est
+un serviteur du Christ J&eacute;sus, toujours plein de sollicitude
+pour vous dans ses pri&egrave;res, afin que vous demeuriez fermes et
+parfaits, accomplissant pleinement toute la volont&eacute; de Dieu.
+</ab>
+<ab n="13">Car
+je lui rends ce t&eacute;moignage qu&rsquo;il se donne beaucoup de
+peine pour vous, et pour ceux de Laodic&eacute;e et d&rsquo;Hi&eacute;rapolis.
+</ab>
+<ab n="14">Luc,
+le m&eacute;decin bien-aim&eacute;, et D&eacute;mas, vous saluent.
+</ab>
+<ab n="15">Saluez
+les fr&egrave;res de Laodic&eacute;e, et Nymphas, et l&rsquo;Eglise
+qui est dans sa maison. </ab>
+<ab n="16">Et
+lorsque cette lettre aura &eacute;t&eacute; lue chez vous, faites
+qu&rsquo;elle soit lue aussi dans l&rsquo;Eglise de Laodic&eacute;e,
+et que vous lisiez de m&ecirc;me celles des Laodic&eacute;ens.
+</ab>
+<ab n="17">Dites
+&agrave; Archippe : Consid&egrave;re (Vois) le minist&egrave;re que
+tu as re&ccedil;u du Seigneur, afin de le (bien) remplir. </ab>
+<ab n="18">Ma
+salutation de ma propre main : Paul. Souvenez-vous de mes liens. Que
+la gr&acirc;ce soit avec vous ! Amen.</ab>
+</div>
+</div>

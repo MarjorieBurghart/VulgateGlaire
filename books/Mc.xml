@@ -1,0 +1,1633 @@
+<!DOCTYPE definition [
+<!ENTITY rsquo "&#8217;">
+<!ENTITY eacute "é">
+<!ENTITY euml "ë">
+<!ENTITY acirc "â">
+<!ENTITY ecirc "ê">
+<!ENTITY agrave "à">
+<!ENTITY egrave "è">
+<!ENTITY ucirc "û">
+<!ENTITY ugrave "ù">
+<!ENTITY icirc "î">
+<!ENTITY ccedil "ç">
+<!ENTITY iuml "ï">
+<!ENTITY oelig "œ">
+<!ENTITY ocirc "ô">
+<!ENTITY uuml "ü">
+<!ENTITY Eacute "É">
+<!ENTITY nbsp "&#160;">
+
+]>
+
+<div xmlns="http://www.tei-c.org/ns/1.0" type="book" xml:id="VULGFR_Mc">
+    <div type="chapter" n="1">
+        <ab n="1">Commencement de l&rsquo;Evangile de J&eacute;sus-Christ, Fils de Dieu. </ab>
+        <ab n="2">Selon qu&rsquo;il est &eacute;crit dans le proph&egrave;te Isa&iuml;e : Voici
+            que j&rsquo;envoie mon ange devant ta face, et il pr&eacute;parera ton chemin devant toi
+            ; </ab>
+        <ab n="3">voix de celui qui crie dans le d&eacute;sert : Pr&eacute;parez le chemin du
+            Seigneur, rendez droit ses sentiers ; </ab>
+        <ab n="4">Jean &eacute;tait dans le d&eacute;sert, baptisant et pr&ecirc;chant le
+            bapt&ecirc;me de p&eacute;nitence pour la r&eacute;mission des p&eacute;ch&eacute;s. </ab>
+        <ab n="5">Et tout le pays de Jud&eacute;e et tous les habitants de J&eacute;rusalem
+            venaient &agrave; lui ; et ils &eacute;taient baptis&eacute;s par lui dans le fleuve du
+            Jourdain, confessant leurs p&eacute;ch&eacute;s. </ab>
+        <ab n="6">Or Jean &eacute;tait v&ecirc;tu de poils de chameau, il avait une ceinture de
+            cuir autour de ses reins, et il se nourrissait de sauterelles et de miel sauvage. Et il
+            pr&ecirc;chait en disant : </ab>
+        <ab n="7">Il vient apr&egrave;s moi, celui qui est plus puissant que moi, et je ne suis
+            pas digne de d&eacute;lier, en me baissant, la courroie de ses sandales. </ab>
+        <ab n="8">Moi, je vous ai baptis&eacute;s dans l&rsquo;eau ; mais lui, il vous baptisera
+            dans l&rsquo;Esprit-Saint. </ab>
+        <ab n="9">Or, il arriva qu&rsquo;en ces jours-l&agrave;, J&eacute;sus vint de Nazareth,
+            en Galil&eacute;e, et il fut baptis&eacute; par Jean dans le Jourdain. </ab>
+        <ab n="10">Et soudain, comme il sortait de l&rsquo;eau, il vit les cieux s&rsquo;ouvrir,
+            et l&rsquo;Esprit, comme une colombe, descendre et s&rsquo;arr&ecirc;ter (se reposant)
+            sur lui. </ab>
+        <ab n="11">Et une voix se fit entendre des cieux : Tu es mon Fils bien-aim&eacute; ; en
+            toi j&rsquo;ai mis mes complaisances. </ab>
+        <ab n="12">Et aussit&ocirc;t l&rsquo;Esprit le poussa dans le d&eacute;sert. </ab>
+        <ab n="13">Il passa dans le d&eacute;sert quarante jours et quarante nuits, et il
+            &eacute;tait tent&eacute; par Satan, et il &eacute;tait avec les b&ecirc;tes sauvages,
+            et les anges le servaient. </ab>
+        <ab n="14">Mais, apr&egrave;s que Jean eut &eacute;t&eacute; mis en prison, J&eacute;sus
+            vint en Galil&eacute;e, pr&ecirc;chant l&rsquo;Evangile du royaume de Dieu, </ab>
+        <ab n="15">et disant : Le temps est accompli, et le royaume de Dieu est proche ; faites
+            p&eacute;nitence, et croyez &agrave; l&rsquo;Evangile. </ab>
+        <ab n="16">Or, comme il passait le long de la mer de Galil&eacute;e, il vit Simon et
+            Andr&eacute;, son fr&egrave;re, qui jetaient leurs filets dans la mer, car ils
+            &eacute;taient p&ecirc;cheurs. </ab>
+        <ab n="17">Et J&eacute;sus leur dit : Suivez-moi, et je vous ferai devenir
+            p&ecirc;cheurs d&rsquo;hommes. </ab>
+        <ab n="18">Et aussit&ocirc;t, laissant leurs filets, ils le suivirent. </ab>
+        <ab n="19">De l&agrave;, s&rsquo;&eacute;tant un peu avanc&eacute;, il vit Jacques, fils
+            de Z&eacute;b&eacute;d&eacute;e, et Jean, son fr&egrave;re, qui &eacute;taient aussi
+            dans une barque, raccommodant leurs filets ; </ab>
+        <ab n="20">et aussit&ocirc;t il les appela. Et ayant laiss&eacute;
+            Z&eacute;b&eacute;d&eacute;e, leur p&egrave;re, dans la barque avec les mercenaires
+            (ouvriers), ils le suivirent. </ab>
+        <ab n="21">Ils entr&egrave;rent dans Capharna&uuml;m ; et aussit&ocirc;t, le jour du
+            sabbat, entrant dans la synagogue, il les instruisait. </ab>
+        <ab n="22">Et ils &eacute;taient frapp&eacute;s de sa doctrine, car il les instruisait
+            comme ayant autorit&eacute;, et non pas comme les scribes. </ab>
+        <ab n="23">Or, il y avait dans leur synagogue un homme poss&eacute;d&eacute; d&rsquo;un
+            esprit impur, qui s&rsquo;&eacute;cria, </ab>
+        <ab n="24">disant : Qu&rsquo;y a-t-il entre nous et vous, J&eacute;sus de Nazareth ?
+            Etes-vous venu pour nous perdre ? Je sais que vous &ecirc;tes le saint de Dieu. </ab>
+        <ab n="25">Et J&eacute;sus le mena&ccedil;a en disant : Tais-toi, et sors de cet homme. </ab>
+        <ab n="26">Et l&rsquo;esprit impur, l&rsquo;agitant avec violence, et poussant un grand
+            cri, sortit de lui. </ab>
+        <ab n="27">Et tous furent dans l&rsquo;admiration, de sorte qu&rsquo;ils se demandaient
+            entre eux : Qu&rsquo;est-ce que ceci ? Quelle est cette nouvelle doctrine ? car il
+            commande avec empire m&ecirc;me aux esprits impurs, et ils lui ob&eacute;issent. </ab>
+        <ab n="28">Et sa renomm&eacute;e se r&eacute;pandit aussit&ocirc;t dans tout le pays de
+            Galil&eacute;e. </ab>
+        <ab n="29">Et aussit&ocirc;t, sortant de la synagogue, ils vinrent dans la maison de
+            Simon et d&rsquo;Andr&eacute;, avec Jacques et Jean. </ab>
+        <ab n="30">Or, la belle-m&egrave;re de Simon &eacute;tait couch&eacute;e, ayant la
+            fi&egrave;vre, et aussit&ocirc;t ils lui parl&egrave;rent d&rsquo;elle. </ab>
+        <ab n="31">Et s&rsquo;approchant, il la souleva, la prenant par la main ; et &agrave;
+            l&rsquo;instant la fi&egrave;vre la quitta, et elle les servait. </ab>
+        <ab n="32">Le soir venu, lorsque le soleil fut couch&eacute;, on lui amena tous les
+            malades et les poss&eacute;d&eacute;s du d&eacute;mon ; </ab>
+        <ab n="33">et toute la ville &eacute;tait rassembl&eacute;e devant la porte. </ab>
+        <ab n="34">Et il en gu&eacute;rit beaucoup qui &eacute;taient tourment&eacute;s de
+            diverses maladies, et il chassa de nombreux d&eacute;mons, et il ne leur permettait pas
+            de dire qu&rsquo;ils le connaissaient. </ab>
+        <ab n="35">S&rsquo;&eacute;tant lev&eacute; de tr&egrave;s grand matin, il sortit et
+            alla dans un lieu d&eacute;sert, et l&agrave; il priait. </ab>
+        <ab n="36">Simon le suivit, ainsi que ceux qui &eacute;taient avec lui. </ab>
+        <ab n="37">Et quand ils l&rsquo;eurent trouv&eacute;, ils lui dirent : Tout le monde
+            vous cherche. </ab>
+        <ab n="38">Et il leur dit : Allons dans les villages voisins et dans les villes, afin
+            que j&rsquo;y pr&ecirc;che aussi ; car c&rsquo;est pour cela que je suis venu. </ab>
+        <ab n="39">Et il pr&ecirc;cha dans leurs synagogues et dans toute la Galil&eacute;e, et
+            chassait les d&eacute;mons. </ab>
+        <ab n="40">Or, un l&eacute;preux vint &agrave; lui, le suppliant ; et fl&eacute;chissant
+            le genou, il lui dit : Si vous le voulez, vous pouvez me gu&eacute;rir. </ab>
+        <ab n="41">J&eacute;sus, ayant piti&eacute; de lui, &eacute;tendit la main, le toucha,
+            et lui dit : Je le veux, sois gu&eacute;ri. </ab>
+        <ab n="42">Et lorsqu&rsquo;il eut dit cette parole, la l&egrave;pre le quitta
+            aussit&ocirc;t, et il fut gu&eacute;ri. </ab>
+        <ab n="43">J&eacute;sus le mena&ccedil;a et le renvoya aussit&ocirc;t, </ab>
+        <ab n="44">en lui disant : Garde-toi de rien dire &agrave; personne ; mais va,
+            montre-toi au prince des pr&ecirc;tres, et offre pour ta gu&eacute;rison ce que
+            Mo&iuml;se a ordonn&eacute;, afin que cela leur serve de t&eacute;moignage. </ab>
+        <ab n="45">Mais cet homme, &eacute;tant parti, se mit &agrave; raconter et &agrave;
+            publier la chose, de sorte que J&eacute;sus ne pouvait plus entrer ouvertement dans une
+            ville ; mais il se tenait dehors, dans des lieux d&eacute;serts, et l&rsquo;on venait
+            &agrave; lui de toutes parts. </ab>
+    </div>
+    <div type="chapter" n="2">
+        <ab n="1">Quelques jours apr&egrave;s, il entra de nouveau dans Capharna&uuml;m ; </ab>
+        <ab n="2">et on apprit qu&rsquo;il &eacute;tait dans une maison, et il s&rsquo;y
+            rassembla un si grand nombre de personnes, que l&rsquo;espace m&ecirc;me qui
+            &eacute;tait devant la porte ne pouvait les contenir ; et il leur pr&ecirc;chait la
+            parole. </ab>
+        <ab n="3">Alors quelques-uns vinrent, lui amenant un paralytique, qui &eacute;tait
+            port&eacute; par quatre hommes. </ab>
+        <ab n="4">Et comme ils ne pouvaient le lui pr&eacute;senter &agrave; cause de la foule,
+            ils d&eacute;couvrirent le toit de la maison o&ugrave; il &eacute;tait, et y ayant fait
+            une ouverture, ils descendirent le grabat sur lequel le paralytique &eacute;tait
+            couch&eacute;. </ab>
+        <ab n="5">J&eacute;sus, ayant vu leur foi, dit au paralytique : Mon fils, tes
+            p&eacute;ch&eacute;s te sont remis. </ab>
+        <ab n="6">Or, il y avait l&agrave; quelques scribes assis, qui pensaient dans leurs
+            c&oelig;urs : </ab>
+        <ab n="7">Pourquoi cet homme parle-t-il ainsi ? Il blasph&egrave;me. Qui peut remettre
+            les p&eacute;ch&eacute;s, si ce n&rsquo;est Dieu seul ? </ab>
+        <ab n="8">J&eacute;sus, connaissant aussit&ocirc;t, par son esprit, qu&rsquo;ils
+            pensaient ainsi en eux-m&ecirc;mes, leur dit : Pourquoi avez-vous ces pens&eacute;es
+            dans vos c&oelig;urs ? </ab>
+        <ab n="9">Lequel est le plus ais&eacute; de dire au paralytique : Tes
+            p&eacute;ch&eacute;s te sont remis ; ou de dire : L&egrave;ve-toi, prends ton grabat, et
+            marche ? </ab>
+        <ab n="10">Or, afin que vous sachiez que le Fils de l&rsquo;homme a sur la terre le
+            pouvoir de remettre les p&eacute;ch&eacute;s (Il dit au paralytique) : </ab>
+        <ab n="11">Je te l&rsquo;ordonne, l&egrave;ve-toi, prends ton grabat, et va dans ta
+            maison. </ab>
+        <ab n="12">Et aussit&ocirc;t il se leva, et ayant pris son grabat, il s&rsquo;en alla en
+            pr&eacute;sence de tous, de sorte qu&rsquo;ils furent tous dans l&rsquo;admiration, et
+            qu&rsquo;ils rendaient gloire &agrave; Dieu, en disant : Jamais nous n&rsquo;avons rien
+            vu de semblable. </ab>
+        <ab n="13">J&eacute;sus, &eacute;tant de nouveau sorti du c&ocirc;t&eacute; de la mer,
+            toute la foule venait &agrave; lui, et il les enseignait. </ab>
+        <ab n="14">Et tandis qu&rsquo;il passait, il vit L&eacute;vi, fils
+            d&rsquo;Alph&eacute;e, assis au bureau du p&eacute;age, et il lui dit : Suis-moi. Et se
+            levant, il le suivit. </ab>
+        <ab n="15">Et il arriva que, comme J&eacute;sus &eacute;tait &agrave; table dans la
+            maison de cet homme, beaucoup de publicains et de p&eacute;cheurs &eacute;taient aussi
+            assis &agrave; table avec lui et avec ses disciples ; car il y en avait beaucoup qui le
+            suivaient. </ab>
+        <ab n="16">Les scribes et les pharisiens, voyant qu&rsquo;il mangeait avec les
+            publicains et les p&eacute;cheurs, disaient &agrave; ses disciples : Pourquoi votre
+            Ma&icirc;tre mange-t-il et boit-il avec les publicains et les p&eacute;cheurs ? </ab>
+        <ab n="17">Ayant entendu cela, J&eacute;sus leur dit : Ce ne sont pas ceux qui se
+            portent bien qui ont besoin de m&eacute;decin, mais les malades. Je ne suis pas venu
+            appeler les justes, mais les p&eacute;cheurs. </ab>
+        <ab n="18">Or, les disciples de Jean et les pharisiens je&ucirc;naient ; et &eacute;tant
+            venus, ils lui dirent : Pourquoi les disciples de Jean et ceux des pharisiens
+            je&ucirc;nent-ils, tandis que vos disciples ne je&ucirc;nent pas ? </ab>
+        <ab n="19">J&eacute;sus leur r&eacute;pondit : Les amis de l&rsquo;&eacute;poux
+            peuvent-ils je&ucirc;ner pendant que l&rsquo;&eacute;poux est avec eux ? Aussi longtemps
+            qu&rsquo;ils ont l&rsquo;&eacute;poux avec eux, ils ne peuvent pas je&ucirc;ner. </ab>
+        <ab n="20">Mais les jours viendront o&ugrave; l&rsquo;&eacute;poux leur sera
+            enlev&eacute;, et alors ils je&ucirc;neront en ces jours-l&agrave;. </ab>
+        <ab n="21">Personne ne coud une pi&egrave;ce de drap neuf sur un vieux v&ecirc;tement ;
+            autrement, la pi&egrave;ce de drap neuf emporte une partie du vieux, et la
+            d&eacute;chirure devient plus grande. </ab>
+        <ab n="22">Et personne ne met du vin nouveau dans de vieilles outres ; autrement le vin
+            rompra les outres, et le vin se r&eacute;pandra, et les outres seront perdues ; mais le
+            vin nouveau doit &ecirc;tre mis dans des outres neuves. </ab>
+        <ab n="23">Il arriva encore que, le Seigneur passant le long des bl&eacute;s un jour de
+            sabbat, ses disciples se mirent, chemin faisant, &agrave; arracher des &eacute;pis. </ab>
+        <ab n="24">Et les pharisiens lui disaient : Voyez, pourquoi font-ils, le jour du sabbat,
+            ce qui n&rsquo;est pas permis ? </ab>
+        <ab n="25">Il leur dit : N&rsquo;avez-vous jamais lu ce que fit David lorsqu&rsquo;il
+            fut dans le besoin, et qu&rsquo;il eut faim, lui et ceux qui l&rsquo;accompagnaient ; </ab>
+        <ab n="26">comment il entra dans la maison de Dieu, au temps du grand pr&ecirc;tre
+            Abiathar, et mangea les pains de proposition, qu&rsquo;il n&rsquo;&eacute;tait permis
+            qu&rsquo;aux pr&ecirc;tres de manger, et en donna &agrave; ceux qui &eacute;taient avec
+            lui ? </ab>
+        <ab n="27">Il leur disait encore : Le sabbat a &eacute;t&eacute; fait pour
+            l&rsquo;homme, et non pas l&rsquo;homme pour le sabbat. </ab>
+        <ab n="28">C&rsquo;est pourquoi le Fils de l&rsquo;homme est ma&icirc;tre du sabbat
+            m&ecirc;me. (verset oubli&eacute;)</ab>
+    </div>
+    <div type="chapter" n="3">
+        <ab n="1">J&eacute;sus entra de nouveau dans la synagogue, et il s&rsquo;y trouvait un
+            homme qui avait une main dess&eacute;ch&eacute;e. </ab>
+        <ab n="2">Et ils l&rsquo;observaient, pour voir s&rsquo;il le gu&eacute;rirait le jour
+            du sabbat, afin de l&rsquo;accuser. </ab>
+        <ab n="3">Et il dit &agrave; l&rsquo;homme qui avait une main dess&eacute;ch&eacute;e :
+            L&egrave;ve-toi, l&agrave; au milieu. </ab>
+        <ab n="4">Puis il leur dit : Est-il permis, le jour du sabbat, de faire du bien ou du
+            mal ? de sauver la vie ou de l&rsquo;&ocirc;ter ? Mais ils se taisaient. </ab>
+        <ab n="5">Alors, promenant sur eux ses regards avec col&egrave;re, attrist&eacute; de
+            l&rsquo;aveuglement de leur c&oelig;ur, il dit &agrave; l&rsquo;homme : Etends ta main.
+            Il l&rsquo;&eacute;tendit, et sa main lui fut rendue saine. </ab>
+        <ab n="6">Les pharisiens, &eacute;tant sortis, tinrent aussit&ocirc;t conseil contre lui
+            avec les h&eacute;rodiens, sur les moyens de le perdre. </ab>
+        <ab n="7">Mais J&eacute;sus se retira avec ses disciples vers la mer, et une foule
+            nombreuse le suivit, de la Galil&eacute;e, et de la Jud&eacute;e, </ab>
+        <ab n="8">et de J&eacute;rusalem, et de l&rsquo;Idum&eacute;e, et d&rsquo;au-del&agrave;
+            du Jourdain ; et ceux des environs de Tyr et de Sidon, ayant appris ce qu&rsquo;il
+            faisait, vinrent en grand nombre aupr&egrave;s de lui. </ab>
+        <ab n="9">Et il dit &agrave; ses disciples de lui tenir pr&ecirc;te une barque, &agrave;
+            cause de la foule, pour qu&rsquo;il n&rsquo;en f&ucirc;t pas accabl&eacute;. </ab>
+        <ab n="10">Car, comme il en gu&eacute;rissait beaucoup, tous ceux qui avaient quelque
+            mal se jetaient sur lui, pour le toucher. </ab>
+        <ab n="11">Et les esprits impurs, quand ils le voyaient, se prosternaient devant lui et
+            criaient, en disant : </ab>
+        <ab n="12">Vous &ecirc;tes le Fils de Dieu. Et il leur d&eacute;fendait, avec de
+            s&eacute;v&egrave;res menaces, de le faire conna&icirc;tre. </ab>
+        <ab n="13">Il monta ensuite sur une montagne, et il appela &agrave; lui ceux que
+            lui-m&ecirc;me voulut ; et ils vinrent aupr&egrave;s de lui. </ab>
+        <ab n="14">Il en &eacute;tablit douze, pour les avoir avec lui et pour les envoyer
+            pr&ecirc;cher. </ab>
+        <ab n="15">Et il leur donna le pouvoir de gu&eacute;rir les maladies et de chasser les
+            d&eacute;mons. </ab>
+        <ab n="16">C&rsquo;&eacute;taient : Simon, auquel il donna le nom de Pierre ; </ab>
+        <ab n="17">Jacques, fils de Z&eacute;b&eacute;d&eacute;e, et Jean, fr&egrave;re de
+            Jacques, qu&rsquo;il nomma Boanerg&egrave;s, c&rsquo;est-&agrave;-dire, Fils du tonnerre
+            ; </ab>
+        <ab n="18">Andr&eacute;, Philippe, Barth&eacute;lemy, Matthieu, Thomas, Jacques fils
+            d&rsquo;Alph&eacute;e, Thadd&eacute;e, Simon le Canan&eacute;en, </ab>
+        <ab n="19">et Judas Iscariote qui le trahit. </ab>
+        <ab n="20">Ils vinrent dans la maison, et la foule s&rsquo;y rassembla de nouveau, de
+            sorte qu&rsquo;il ne pouvait pas m&ecirc;me manger du pain. </ab>
+        <ab n="21">Ses proches, ayant appris cela, vinrent pour se saisir de lui ; car ils
+            disaient : Il a perdu l&rsquo;esprit. </ab>
+        <ab n="22">Et les scribes qui &eacute;taient descendus de J&eacute;rusalem disaient : Il
+            est poss&eacute;d&eacute; de B&eacute;elz&eacute;bub, et c&rsquo;est par le prince des
+            d&eacute;mons qu&rsquo;il chasse les d&eacute;mons. </ab>
+        <ab n="23">J&eacute;sus, les ayant appel&eacute;s aupr&egrave;s de lui, leur disait en
+            paraboles : Comment Satan peut-il chasser Satan ? </ab>
+        <ab n="24">Si un royaume est divis&eacute; contre lui-m&ecirc;me, ce royaume ne peut
+            subsister. </ab>
+        <ab n="25">Et si une maison est divis&eacute;e contre elle-m&ecirc;me, cette maison ne
+            peut subsister. </ab>
+        <ab n="26">Si donc Satan se soul&egrave;ve contre lui-m&ecirc;me, il est divis&eacute;,
+            et il ne pourra subsister, mais sa puissance prendra fin. </ab>
+        <ab n="27">Personne ne peut entrer dans la maison d&rsquo;un homme fort et piller ses
+            biens si, auparavant, il ne lie cet homme fort ; alors il pillera sa maison. </ab>
+        <ab n="28">En v&eacute;rit&eacute;, je vous le dis, tous les p&eacute;ch&eacute;s seront
+            remis aux enfants des hommes, ainsi que les blasph&egrave;mes qu&rsquo;ils auront
+            prof&eacute;r&eacute;s ; </ab>
+        <ab n="29">mais celui qui aura blasph&eacute;m&eacute; contre l&rsquo;Esprit-Saint
+            n&rsquo;obtiendra jamais de pardon, et il sera coupable d&rsquo;un p&eacute;ch&eacute;
+            &eacute;ternel. </ab>
+        <ab n="30">Car ils disaient : Il est poss&eacute;d&eacute; d&rsquo;un esprit impur. </ab>
+        <ab n="31">Cependant sa m&egrave;re et ses fr&egrave;res survinrent, et se tenant
+            dehors, ils l&rsquo;envoy&egrave;rent appeler. </ab>
+        <ab n="32">Or, la foule &eacute;tait assise autour de lui ; et on lui dit : Voici que
+            votre m&egrave;re et vos fr&egrave;res sont dehors, et vous demandent. </ab>
+        <ab n="33">Et il leur r&eacute;pondit : Qui est ma m&egrave;re, et qui sont mes
+            fr&egrave;res ? </ab>
+        <ab n="34">Et promenant ses regards sur ceux qui &eacute;taient assis autour de lui, il
+            dit : Voici ma m&egrave;re et mes fr&egrave;res. </ab>
+        <ab n="35">Car quiconque fait la volont&eacute; de Dieu, celui-l&agrave; est mon
+            fr&egrave;re, et ma s&oelig;ur, et ma m&egrave;re. </ab>
+    </div>
+    <div type="chapter" n="4">
+        <ab n="1">Il se mit de nouveau &agrave; enseigner aupr&egrave;s de la mer ; et une foule
+            nombreuse se rassembla autour de lui, de sorte qu&rsquo;il monta dans une barque et
+            s&rsquo;assit, sur la mer ; et toute la foule &eacute;tait &agrave; terre, au bord de la
+            mer. </ab>
+        <ab n="2">Et il leur enseignait beaucoup de choses en paraboles, et il leur disait dans
+            son enseignement : </ab>
+        <ab n="3">Ecoutez ! Voici que le semeur sortit pour semer. </ab>
+        <ab n="4">Et tandis qu&rsquo;il semait, une partie de la semence tomba le long du chemin
+            ; et les oiseaux du ciel vinrent et la mang&egrave;rent. </ab>
+        <ab n="5">Une autre partie tomba dans des endroits pierreux, o&ugrave; elle
+            n&rsquo;avait pas beaucoup de terre, et elle leva aussit&ocirc;t, parce que la terre
+            n&rsquo;avait pas de profondeur ; </ab>
+        <ab n="6">et lorsque le soleil se fut lev&eacute;, elle fut br&ucirc;l&eacute;e, et
+            comme n&rsquo;avait pas de racines, elle s&eacute;cha. </ab>
+        <ab n="7">Une autre partie tomba dans les &eacute;pines, et les &eacute;pines
+            mont&egrave;rent et l&rsquo;&eacute;touff&egrave;rent, et elle ne donna pas de fruit. </ab>
+        <ab n="8">Une autre partie tomba dans une bonne terre, et elle donna du fruit qui
+            montait et croissait, de sorte qu&rsquo;un grain rapporta trente, un autre soixante, et
+            un autre cent. </ab>
+        <ab n="9">Et il disait : Que celui qui a des oreilles pour entendre, entende. </ab>
+        <ab n="10">Lorsqu&rsquo;il se trouva seul, les douze qui &eacute;taient avec lui
+            l&rsquo;interrog&egrave;rent sur cette parabole. </ab>
+        <ab n="11">Et il leur disait : A vous il a &eacute;t&eacute; donn&eacute; de
+            conna&icirc;tre le myst&egrave;re du royaume de Dieu ; mais pour ceux qui sont dehors,
+            tout se passe en paraboles, </ab>
+        <ab n="12">afin que, regardant, ils voient et ne voient pas, et
+            qu&rsquo;&eacute;coutant, ils &eacute;coutent et ne comprennent pas, de peur
+            qu&rsquo;ils ne se convertissent, et que leurs p&eacute;ch&eacute;s ne leur soient
+            pardonn&eacute;s. </ab>
+        <ab n="13">Il leur dit : Vous ne comprenez pas cette parabole ? Comment donc
+            comprendrez-vous toutes les paraboles ? </ab>
+        <ab n="14">Celui qui s&egrave;me, s&egrave;me la parole. </ab>
+        <ab n="15">Il en est qui sont le long du chemin o&ugrave; la parole est sem&eacute;e, et
+            lorsqu&rsquo;ils l&rsquo;ont entendue, Satan vient aussit&ocirc;t, et enl&egrave;ve la
+            parole qui avait &eacute;t&eacute; sem&eacute;e dans leurs c&oelig;urs. </ab>
+        <ab n="16">Il en est d&rsquo;autres, pareillement, qui re&ccedil;oivent la semence en
+            des endroits pierreux ; quand ils entendent la parole, ils la re&ccedil;oivent
+            aussit&ocirc;t avec joie ; </ab>
+        <ab n="17">mais, n&rsquo;ayant pas de racine en eux-m&ecirc;mes, ils ne durent
+            qu&rsquo;un temps ; et lorsqu&rsquo;il survient une tribulation et une
+            pers&eacute;cution &agrave; cause de la parole, ils sont aussit&ocirc;t
+            scandalis&eacute;s. </ab>
+        <ab n="18">Il en est d&rsquo;autres qui re&ccedil;oivent la semence parmi les
+            &eacute;pines : ce sont ceux qui &eacute;coutent la parole, </ab>
+        <ab n="19">mais les sollicitudes du si&egrave;cle, l&rsquo;illusion des richesses et les
+            autres convoitises, entrant en eux, &eacute;touffent la parole, et elle devient
+            infructueuse. </ab>
+        <ab n="20">Enfin, ceux qui ont re&ccedil;u la semence dans une bonne terre sont ceux qui
+            &eacute;coutent la parole, la re&ccedil;oivent et portent du fruit, l&rsquo;un trente
+            pour un, l&rsquo;autre soixante, et l&rsquo;autre cent. </ab>
+        <ab n="21">Il leur disait aussi : Est-ce qu&rsquo;on apporte la lampe pour la mettre
+            sous le boisseau, ou sous le lit ? N&rsquo;est-ce pas pour la mettre sur le
+            cand&eacute;labre ? </ab>
+        <ab n="22">Car il n&rsquo;y a rien de cach&eacute; qui ne doive &ecirc;tre
+            d&eacute;couvert, et rien ne se fait en secret qui ne doive para&icirc;tre en public. </ab>
+        <ab n="23">Si quelqu&rsquo;un a des oreilles pour entendre, qu&rsquo;il entende. </ab>
+        <ab n="24">Il leur disait encore : Prenez garde &agrave; ce que vous entendrez. On vous
+            mesurera avec la mesure dont vous vous serez servis envers les autres, et l&rsquo;on y
+            ajoutera pour vous. </ab>
+        <ab n="25">Car on donnera &agrave; celui qui a d&eacute;j&agrave;, et &agrave; celui qui
+            n&rsquo;a pas on enl&egrave;vera m&ecirc;me ce qu&rsquo;il a. </ab>
+        <ab n="26">Il disait aussi : Il en est du royaume de Dieu comme lorsqu&rsquo;un homme
+            jette de la semence en terre ; </ab>
+        <ab n="27">qu&rsquo;il dorme ou qu&rsquo;il se l&egrave;ve, la nuit et le jour, la
+            semence germe et cro&icirc;t sans qu&rsquo;il s&rsquo;en aper&ccedil;oive. </ab>
+        <ab n="28">Car la terre produit d&rsquo;elle-m&ecirc;me, d&rsquo;abord l&rsquo;herbe,
+            ensuite l&rsquo;&eacute;pi, puis le bl&eacute; tout form&eacute; dans
+            l&rsquo;&eacute;pi. </ab>
+        <ab n="29">Et lorsque le fruit est m&ucirc;r, aussit&ocirc;t on y met la faucille, parce
+            que c&rsquo;est le temps de la moisson. </ab>
+        <ab n="30">Il disait encore : A quoi comparerons-nous le royaume de Dieu ? ou par quelle
+            parabole le repr&eacute;senterons-nous ? </ab>
+        <ab n="31">Il est comme un grain de s&eacute;nev&eacute; qui, lorsqu&rsquo;on le
+            s&egrave;me dans la terre, est la plus petite de toutes les semences qui sont sur la
+            terre ; </ab>
+        <ab n="32">mais, lorsqu&rsquo;il a &eacute;t&eacute; sem&eacute;, il monte, et devient
+            plus grand que tous les l&eacute;gumes, et pousse de grandes branches, de sorte que les
+            oiseaux du ciel peuvent habiter sous son ombre. </ab>
+        <ab n="33">Il leur exposait la parole par de nombreuses paraboles de ce genre, selon
+            qu&rsquo;ils &eacute;taient capables de l&rsquo;entendre, </ab>
+        <ab n="34">et il ne leur parlait pas sans paraboles ; mais, en particulier, il
+            expliquait tout &agrave; ses disciples. </ab>
+        <ab n="35">Il leur dit en ce m&ecirc;me jour, lorsque le soir fut venu : Passons sur
+            l&rsquo;autre bord. </ab>
+        <ab n="36">Et ayant renvoy&eacute; la foule, ils l&rsquo;emmen&egrave;rent avec eux dans
+            la barque tel qu&rsquo;il &eacute;tait, et d&rsquo;autres barques le suivaient. </ab>
+        <ab n="37">Et il s&rsquo;&eacute;leva un grand tourbillon de vent, et les flots
+            entraient dans la barque, de sorte qu&rsquo;elle se remplissait. </ab>
+        <ab n="38">Et lui, il dormait &agrave; la poupe, sur un coussin. Ils le
+            r&eacute;veillent, et lui disent : Ma&icirc;tre, vous est-il indiff&eacute;rent que nous
+            p&eacute;rissions ? </ab>
+        <ab n="39">Alors, s&rsquo;&eacute;tant lev&eacute;, il mena&ccedil;a le vent, et dit
+            &agrave; la mer : Tais-toi, calme-toi. Et le vent cessa, et il se fit un grand calme. </ab>
+        <ab n="40">Puis il leur dit : Pourquoi &ecirc;tes-vous effray&eacute;s ?
+            N&rsquo;avez-vous pas encore la foi ? Et ils furent saisis d&rsquo;une grande crainte ;
+            et ils se disaient l&rsquo;un &agrave; l&rsquo;autre : Quel est donc celui-ci, &agrave;
+            qui les vents et les mers ob&eacute;issent ?</ab>
+    </div>
+    <div type="chapter" n="5">
+        <ab n="1">Ils arriv&egrave;rent de l&rsquo;autre c&ocirc;t&eacute; de la mer, au pays
+            des G&eacute;ras&eacute;niens. </ab>
+        <ab n="2">Et comme il sortait de la barque, tout &agrave; coup vint &agrave; lui,
+            sortant des s&eacute;pulcres, un homme poss&eacute;d&eacute; d&rsquo;un esprit impur, </ab>
+        <ab n="3">qui avait sa demeure dans les s&eacute;pulcres. Et personne ne pouvait plus le
+            lier, m&ecirc;me avec des cha&icirc;nes ; </ab>
+        <ab n="4">car souvent il avait eu les fers aux pieds, et avait &eacute;t&eacute;
+            li&eacute; de cha&icirc;nes ; mais il avait rompu les cha&icirc;nes et bris&eacute; les
+            fers, et personne ne pouvait le dompter. </ab>
+        <ab n="5">Il &eacute;tait sans cesse, jour et nuit, dans les s&eacute;pulcres et sur les
+            montagnes, criant et se meurtrissant avec des pierres. </ab>
+        <ab n="6">Ayant donc vu J&eacute;sus de loin, il accourut et l&rsquo;adora ; </ab>
+        <ab n="7">et poussant un grand cri, il dit : Qu&rsquo;y a-t-il entre vous et moi,
+            J&eacute;sus, Fils du Dieu Tr&egrave;s-haut ? Je vous en conjure au nom de Dieu, ne me
+            tourmentez pas. </ab>
+        <ab n="8">Car J&eacute;sus lui disait : Esprit impur, sors de cet homme. </ab>
+        <ab n="9">Et il lui demanda : Quel est ton nom ? Il r&eacute;pondit : Mon nom est
+            L&eacute;gion, parce que nous sommes nombreux. </ab>
+        <ab n="10">Et il le priait avec instance de ne pas les chasser du pays. </ab>
+        <ab n="11">Or il y avait l&agrave;, pr&egrave;s de la montagne, un grand troupeau de
+            pourceaux qui paissaient. </ab>
+        <ab n="12">Et les d&eacute;mons le suppliaient, en disant : Envoyez-nous dans ces
+            pourceaux, afin que nous y entrions. </ab>
+        <ab n="13">J&eacute;sus le leur permit aussit&ocirc;t ; et les esprits impurs, sortant
+            du poss&eacute;d&eacute;, entr&egrave;rent dans les pourceaux, et le troupeau se
+            pr&eacute;cipita avec imp&eacute;tuosit&eacute; dans la mer. Il y en avait environ deux
+            mille, et ils furent noy&eacute;s dans la mer. </ab>
+        <ab n="14">Ceux qui les faisaient pa&icirc;tre s&rsquo;enfuirent, et port&egrave;rent la
+            nouvelle dans la ville et dans les champs. Et les gens sortirent pour voir ce qui
+            &eacute;tait arriv&eacute;. </ab>
+        <ab n="15">Ils vinrent aupr&egrave;s de J&eacute;sus, et virent celui qui avait
+            &eacute;t&eacute; tourment&eacute; par le d&eacute;mon, assis, v&ecirc;tu, et dans son
+            bon sens ; et ils furent effray&eacute;s. </ab>
+        <ab n="16">Ceux qui avaient vu ce qui s&rsquo;&eacute;tait pass&eacute; leur
+            racont&egrave;rent ce qui &eacute;tait arriv&eacute; au poss&eacute;d&eacute; et aux
+            pourceaux. </ab>
+        <ab n="17">Et ils se mirent &agrave; prier J&eacute;sus de sortir de leur territoire. </ab>
+        <ab n="18">Comme il montait dans la barque, celui qui avait &eacute;t&eacute;
+            tourment&eacute; par le d&eacute;mon se mit &agrave; lui demander de pouvoir rester avec
+            lui. </ab>
+        <ab n="19">Mais J&eacute;sus ne l&rsquo;accepta pas, et lui dit : Va dans ta maison,
+            aupr&egrave;s des tiens, et annonce-leur tout ce que le Seigneur a fait pour toi, et
+            comment il a eu piti&eacute; de toi. </ab>
+        <ab n="20">Et il s&rsquo;en alla, et se mit &agrave; publier dans la D&eacute;capole
+            tout ce que J&eacute;sus avait fait pour lui ; et tous &eacute;taient dans
+            l&rsquo;admiration. </ab>
+        <ab n="21">J&eacute;sus ayant de nouveau gagn&eacute; l&rsquo;autre rive sur la barque,
+            une foule nombreuse s&rsquo;assembla autour de lui ; et il &eacute;tait au bord de la
+            mer. </ab>
+        <ab n="22">Alors vint un des chefs de synagogue, nomm&eacute; Ja&iuml;re, qui, le
+            voyant, se jeta &agrave; ses pieds, </ab>
+        <ab n="23">et le suppliait avec instance, en disant : Ma fille est &agrave;
+            l&rsquo;extr&eacute;mit&eacute; ; venez, imposez-lui les mains, afin qu&rsquo;elle
+            gu&eacute;risse et qu&rsquo;elle vive. </ab>
+        <ab n="24">Et J&eacute;sus alla avec lui ; et une grande foule le suivait et le
+            pressait. </ab>
+        <ab n="25">Alors une femme, atteinte d&rsquo;une perte de sang depuis douze ans, </ab>
+        <ab n="26">qui avait beaucoup souffert entre les mains de plusieurs m&eacute;decins, et
+            qui avait d&eacute;pens&eacute; tout son bien, et n&rsquo;en avait &eacute;prouv&eacute;
+            aucun soulagement, mais s&rsquo;en trouvait encore plus mal, </ab>
+        <ab n="27">ayant entendu parler de J&eacute;sus, vint dans la foule par derri&egrave;re,
+            et toucha son v&ecirc;tement. </ab>
+        <ab n="28">Car elle disait : Si je puis seulement toucher son v&ecirc;tement, je serai
+            gu&eacute;rie. </ab>
+        <ab n="29">Et aussit&ocirc;t la source du sang qu&rsquo;elle perdait fut
+            s&eacute;ch&eacute;e, et elle sentit dans son corps qu&rsquo;elle &eacute;tait
+            gu&eacute;rie de sa maladie. </ab>
+        <ab n="30">Aussit&ocirc;t J&eacute;sus, connaissant en lui-m&ecirc;me la vertu qui
+            &eacute;tait sortie de lui, se tourna vers la foule, et dit : Qui a touch&eacute; mes
+            v&ecirc;tements ? </ab>
+        <ab n="31">Et ses disciples lui disaient : Vous voyez la foule qui vous presse, et vous
+            dites : Qui m&rsquo;a touch&eacute; ? </ab>
+        <ab n="32">Et il regardait tout autour, pour voir celle qui avait fait cela. </ab>
+        <ab n="33">Mais la femme, effray&eacute;e et tremblante, sachant ce qui
+            s&rsquo;&eacute;tait pass&eacute; en elle, vint se jeter &agrave; ses pieds, et lui dit
+            toute la v&eacute;rit&eacute;. </ab>
+        <ab n="34">Et J&eacute;sus lui dit : Ma fille, ta foi t&rsquo;a sauv&eacute;e ; va en
+            paix, et sois gu&eacute;rie de ton mal. </ab>
+        <ab n="35">Comme il parlait encore, survinrent des gens du chef de la synagogue, qui
+            dirent : Ta fille est morte ; pourquoi importuner davantage le ma&icirc;tre ? </ab>
+        <ab n="36">Mais J&eacute;sus, ayant entendu cette parole, dit au chef de la synagogue :
+            Ne crains pas, crois seulement. </ab>
+        <ab n="37">Et il ne permit &agrave; personne de le suivre, si ce n&rsquo;est &agrave;
+            Pierre, &agrave; Jacques et &agrave; Jean, fr&egrave;re de Jacques. </ab>
+        <ab n="38">Ils arriv&egrave;rent &agrave; la maison du chef de la synagogue, et
+            J&eacute;sus voit (vit) le tumulte, et des personnes qui pleuraient et poussaient de
+            grands cris. </ab>
+        <ab n="39">Et &eacute;tant entr&eacute;, il leur dit : Pourquoi &ecirc;tes-vous
+            troubl&eacute;s et pleurez-vous ? La jeune fille n&rsquo;est pas morte, mais elle dort. </ab>
+        <ab n="40">Et ils se moquaient de lui. Mais lui, ayant fait sortir tout le monde, prend
+            le p&egrave;re et la m&egrave;re de l&rsquo;enfant, et ceux qui &eacute;taient avec lui,
+            et il entre (entra) au lieu o&ugrave; la jeune fille &eacute;tait couch&eacute;e. </ab>
+        <ab n="41">Et prenant la main de la jeune fille, il lui dit : Talitha, cumi ; ce qui
+            signifie : Jeune fille (Je te l&rsquo;ordonne), l&egrave;ve-toi. </ab>
+        <ab n="42">Et aussit&ocirc;t la jeune fille se leva, et se mit &agrave; marcher ; car
+            elle avait douze ans. Et ils furent frapp&eacute;s d&rsquo;une grande stupeur. </ab>
+        <ab n="43">Et il leur ordonna fortement que personne ne le s&ucirc;t, et il dit de
+            donner &agrave; manger &agrave; la jeune fille.</ab>
+    </div>
+    <div type="chapter" n="6">
+        <ab n="1">Etant sorti de l&agrave;, il alla dans son pays, et ses disciples le
+            suivaient. </ab>
+        <ab n="2">Le jour du sabbat &eacute;tant venu, il se mit &agrave; enseigner dans la
+            synagogue ; et beaucoup de ceux qui l&rsquo;entendaient, &eacute;tonn&eacute;s de sa
+            doctrine (dans l&rsquo;admiration), disaient : D&rsquo;o&ugrave; lui viennent toutes ces
+            choses ? Quelle est cette sagesse qui lui a &eacute;t&eacute; donn&eacute;e, et
+            d&rsquo;o&ugrave; vient que de telles merveilles se font par ses mains ? </ab>
+        <ab n="3">N&rsquo;est-ce pas l&agrave; le charpentier, fils de Marie, fr&egrave;re de
+            Jacques, de Joseph, de Jude et de Simon ? Et Ses s&oelig;urs ne sont-elles pas ici avec
+            nous ? Et ils se scandalisaient &agrave; son sujet. </ab>
+        <ab n="4">Et J&eacute;sus leur dit : Un proph&egrave;te n&rsquo;est sans honneur que
+            dans sa patrie, et dans sa maison, et dans sa parent&eacute;. </ab>
+        <ab n="5">Et il ne put faire l&agrave; aucun miracle, si ce n&rsquo;est qu&rsquo;il
+            gu&eacute;rit un petit nombre de malades, en leur imposant les mains. </ab>
+        <ab n="6">Il s&rsquo;&eacute;tonnait de leur incr&eacute;dulit&eacute; ; et il
+            parcourait (toutefois) les villages d&rsquo;alentour, en enseignant. </ab>
+        <ab n="7">Alors il appela les douze, et il se mit &agrave; les envoyer deux &agrave;
+            deux, et il leur donna puissance sur les esprits impurs. </ab>
+        <ab n="8">Et il leur commanda de ne rien prendre pour le chemin, si ce n&rsquo;est un
+            b&acirc;ton seulement, ni sac, ni pain, ni argent dans leur bourse, </ab>
+        <ab n="9">mais de chausser leurs sandales, et de ne pas rev&ecirc;tir deux tuniques. </ab>
+        <ab n="10">Et il leur disait : Dans quelque maison que vous entriez, demeurez-y
+            jusqu&rsquo;&agrave; ce que vous partiez de ce lieu ; </ab>
+        <ab n="11">et lorsqu&rsquo;on ne voudra pas vous recevoir, ni vous &eacute;couter,
+            sortez de l&agrave;, et secouez la poussi&egrave;re de vos pieds, en t&eacute;moignage
+            contre eux. </ab>
+        <ab n="12">Etant donc partis, ils pr&ecirc;chaient qu&rsquo;on f&icirc;t
+            p&eacute;nitence, </ab>
+        <ab n="13">et ils chassaient de nombreux d&eacute;mons, et ils oignaient d&rsquo;huile
+            de nombreux malades et les gu&eacute;rissaient. </ab>
+        <ab n="14">Or le roi H&eacute;rode entendit parler de J&eacute;sus, car son nom
+            &eacute;tait devenu c&eacute;l&egrave;bre ; et il disait : Jean-Baptiste est
+            ressuscit&eacute; d&rsquo;entre les morts, et c&rsquo;est pour cela qu&rsquo;il se fait
+            par lui des miracles. </ab>
+        <ab n="15">D&rsquo;autres disaient : C&rsquo;est Elie. D&rsquo;autres encore disaient :
+            C&rsquo;est un proph&egrave;te, comme l&rsquo;un des (anciens) proph&egrave;tes. </ab>
+        <ab n="16">Ayant entendu cela, H&eacute;rode dit : Ce Jean, &agrave; qui j&rsquo;ai fait
+            trancher la t&ecirc;te, c&rsquo;est lui qui est ressuscit&eacute; d&rsquo;entre les
+            morts. </ab>
+        <ab n="17">Car H&eacute;rode avait envoy&eacute; prendre Jean, et l&rsquo;avait
+            encha&icirc;n&eacute; en prison, &agrave; cause d&rsquo;H&eacute;rodiade, femme de son
+            fr&egrave;re Philippe, qu&rsquo;il avait &eacute;pous&eacute;e. </ab>
+        <ab n="18">Car Jean disait &agrave; H&eacute;rode : Il ne t&rsquo;est pas permis
+            d&rsquo;avoir la femme de ton fr&egrave;re. </ab>
+        <ab n="19">Or H&eacute;rodiade tendait des pi&egrave;ges &agrave; Jean, et voulait le
+            faire mourir ; mais elle ne le pouvait pas, </ab>
+        <ab n="20">car H&eacute;rode craignait Jean, sachant qu&rsquo;il &eacute;tait un homme
+            juste et saint, et il le gardait, faisait beaucoup de choses selon ses avis, et
+            l&rsquo;&eacute;coutait volontiers. </ab>
+        <ab n="21">Mais il arriva un jour opportun : &agrave; l&rsquo;anniversaire de sa
+            naissance, H&eacute;rode donna un grand festin aux grands, aux officiers et aux
+            principaux de la Galil&eacute;e. </ab>
+        <ab n="22">La fille d&rsquo;H&eacute;rodiade &eacute;tant entr&eacute;e, et ayant
+            dans&eacute;, et ayant plu &agrave; H&eacute;rode et &agrave; ceux qui &eacute;taient
+            &agrave; table avec lui, le roi dit &agrave; la jeune fille : Demande-moi ce que tu
+            voudras, et je te le donnerai. </ab>
+        <ab n="23">Et il fit ce serment : Tout ce que tu me demanderas, je te le donnerai, quand
+            ce serait (f&ucirc;t-ce) la moiti&eacute; de mon royaume. </ab>
+        <ab n="24">Elle, &eacute;tant sortie, dit &agrave; sa m&egrave;re : Que demanderai-je ?
+            Sa m&egrave;re lui dit : La t&ecirc;te de Jean-Baptiste. </ab>
+        <ab n="25">Et &eacute;tant rentr&eacute;e aussit&ocirc;t en h&acirc;te aupr&egrave;s du
+            roi, elle fit sa demande, en disant : Je veux que tu me donnes &agrave; l&rsquo;instant
+            sur un plat la t&ecirc;te de Jean-Baptiste. </ab>
+        <ab n="26">Le roi fut attrist&eacute; ; mais, &agrave; cause de son serment et de ceux
+            qui &eacute;taient &agrave; table avec lui, il ne voulut pas l&rsquo;affliger par un
+            refus. </ab>
+        <ab n="27">Il envoya donc un de ses gardes, et lui ordonna d&rsquo;apporter la
+            t&ecirc;te de Jean sur un plat. Le garde le d&eacute;capita dans la prison, </ab>
+        <ab n="28">et il apporta sa t&ecirc;te sur un plat, et la donna &agrave; la jeune fille,
+            et la jeune fille la donna &agrave; sa m&egrave;re. </ab>
+        <ab n="29">L&rsquo;ayant appris, les disciples de Jean vinrent, et prirent son corps, et
+            le mirent dans un s&eacute;pulcre. </ab>
+        <ab n="30">Or les Ap&ocirc;tres, revenant aupr&egrave;s de J&eacute;sus, lui
+            racont&egrave;rent tout ce qu&rsquo;ils avaient fait et tout ce qu&rsquo;ils avaient
+            enseign&eacute;. </ab>
+        <ab n="31">Et il leur dit : Venez &agrave; l&rsquo;&eacute;cart dans un lieu
+            d&eacute;sert, et reposez-vous un peu. Car ceux qui allaient et venaient &eacute;taient
+            nombreux, et ils n&rsquo;avaient pas m&ecirc;me le temps de manger. </ab>
+        <ab n="32">Montant donc dans une barque, ils se retir&egrave;rent &agrave;
+            l&rsquo;&eacute;cart dans un lieu d&eacute;sert. </ab>
+        <ab n="33">Mais beaucoup les virent partir et en eurent connaissance, et ils y
+            accoururent &agrave; pied de toutes les villes, et arriv&egrave;rent avant eux. </ab>
+        <ab n="34">J&eacute;sus, sortant de la barque, vit une foule nombreuse, et il en eut
+            compassion, parce qu&rsquo;ils &eacute;taient comme des brebis qui n&rsquo;ont pas de
+            pasteur, et il se mit &agrave; leur enseigner beaucoup de choses. </ab>
+        <ab n="35">Comme l&rsquo;heure &eacute;tait d&eacute;j&agrave; fort avanc&eacute;e, ses
+            disciples s&rsquo;approch&egrave;rent de lui, en disant : ce lieu est d&eacute;sert, et
+            il est d&eacute;j&agrave; tard ; </ab>
+        <ab n="36">renvoyez-les, afin qu&rsquo;ils aillent dans les villages et les bourgs
+            voisins, et s&rsquo;y ach&egrave;tent de quoi manger. </ab>
+        <ab n="37">Il leur r&eacute;pondit : Donnez-leur vous-m&ecirc;mes &agrave; manger. Ils
+            lui dirent : Irons-nous donc acheter pour deux cents deniers de pain, afin de leur
+            donner &agrave; manger ? </ab>
+        <ab n="38">Et il leur dit : Combien avez-vous de pains ? Allez et voyez. Et
+            lorsqu&rsquo;ils s&rsquo;en furent inform&eacute;s, ils dirent : Cinq, et deux poissons. </ab>
+        <ab n="39">Alors il leur commanda de les faire tous asseoir par groupes sur
+            l&rsquo;herbe verte. </ab>
+        <ab n="40">Et ils s&rsquo;assirent par troupes de cent et de cinquante. </ab>
+        <ab n="41">Ayant pris les cinq pains et les deux poissons, levant les yeux au ciel, il
+            les b&eacute;nit ; puis il rompit les pains, et les donna &agrave; ses disciples, afin
+            qu&rsquo;ils les pr&eacute;sentassent au peuple ; il partagea aussi les deux poissons
+            entre tous. </ab>
+        <ab n="42">Tous mang&egrave;rent, et furent rassasi&eacute;s. </ab>
+        <ab n="43">Et des morceaux de pain qui &eacute;taient rest&eacute;s, et des poissons,
+            ils (ses disciples) apport&egrave;rent douze corbeilles pleines. </ab>
+        <ab n="44">Or ceux qui avaient mang&eacute; &eacute;taient au nombre de cinq mille
+            hommes. </ab>
+        <ab n="45">Aussit&ocirc;t il obligea ses disciples de monter dans la barque, et de le
+            pr&eacute;c&eacute;der sur l&rsquo;autre rive, vers Bethsa&iuml;de, pendant qu&rsquo;il
+            cong&eacute;dierait le peuple. </ab>
+        <ab n="46">Et lorsqu&rsquo;il l&rsquo;eut cong&eacute;di&eacute;, il s&rsquo;en alla sur
+            la montagne, pour prier. </ab>
+        <ab n="47">Le soir &eacute;tant venu, la barque &eacute;tait au milieu de la mer, et
+            J&eacute;sus &eacute;tait seul &agrave; terre. </ab>
+        <ab n="48">Et voyant qu&rsquo;ils avaient beaucoup de peine &agrave; ramer (car le vent
+            leur &eacute;tait contraire), vers la quatri&egrave;me veille de la nuit il vint
+            &agrave; eux, marchant sur la mer, et il voulait les devancer. </ab>
+        <ab n="49">Mais eux, le voyant marcher sur la mer, crurent que c&rsquo;&eacute;tait un
+            fant&ocirc;me, et ils pouss&egrave;rent des cris. </ab>
+        <ab n="50">Car ils le virent tous, et furent &eacute;pouvant&eacute;s. Mais
+            aussit&ocirc;t il leur parla et leur dit : Ayez confiance ; c&rsquo;est moi, ne craignez
+            pas. </ab>
+        <ab n="51">Il monta ensuite avec eux dans la barque, et le vent cessa. Et ils
+            s&rsquo;&eacute;tonnaient de plus en plus en eux-m&ecirc;mes ; </ab>
+        <ab n="52">car ils n&rsquo;avaient pas compris le miracle des pains, parce que leur
+            c&oelig;ur &eacute;tait aveugl&eacute;. </ab>
+        <ab n="53">Apr&egrave;s avoir travers&eacute; la mer, ils vinrent au territoire de
+            G&eacute;n&eacute;sareth, et y abord&egrave;rent. </ab>
+        <ab n="54">Et lorsqu&rsquo;ils furent sortis de la barque, les gens du pays reconnurent
+            aussit&ocirc;t J&eacute;sus ; </ab>
+        <ab n="55">et parcourant toute cette contr&eacute;e, ils se mirent &agrave; apporter de
+            tous c&ocirc;t&eacute;s les malades sur des lits, partout o&ugrave; ils entendaient dire
+            qu&rsquo;il &eacute;tait. </ab>
+        <ab n="56">Et en quelque lieu qu&rsquo;il entr&acirc;t, dans les bourgs, dans les
+            villages ou dans les villes, on mettait les malades sur les places publiques, et on le
+            priait de leur laisser seulement toucher la frange de son v&ecirc;tement ; et tous ceux
+            qui le touchaient &eacute;taient gu&eacute;ris.</ab>
+    </div>
+    <div type="chapter" n="7">
+        <ab n="1">Les pharisiens et quelques scribes, venus de J&eacute;rusalem,
+            s&rsquo;assembl&egrave;rent aupr&egrave;s de J&eacute;sus. </ab>
+        <ab n="2">Et ayant vu quelques-uns de ses disciples manger du pain avec des mains
+            impures, c&rsquo;est-&agrave;-dire non lav&eacute;es, ils les bl&acirc;m&egrave;rent. </ab>
+        <ab n="3">Car les pharisiens et tous les Juifs ne mangent pas sans s&rsquo;&ecirc;tre
+            souvent lav&eacute; les mains, gardant en cela la tradition des anciens. </ab>
+        <ab n="4">Et lorsqu&rsquo;ils reviennent de la place publique, ils ne mangent pas sans
+            s&rsquo;&ecirc;tre lav&eacute;s. Ils ont encore beaucoup d&rsquo;autres traditions
+            qu&rsquo;ils observent, comme de laver les coupes, les vases de terre et d&rsquo;airain,
+            et les lits. </ab>
+        <ab n="5">Les pharisiens et les scribes lui demand&egrave;rent donc : Pourquoi vos
+            disciples n&rsquo;observent-ils pas la tradition des anciens, et mangent-ils du pain
+            avec des mains impures ? </ab>
+        <ab n="6">Il leur r&eacute;pondit : Isa&iuml;e a bien proph&eacute;tis&eacute; sur vous,
+            hypocrites, ainsi qu&rsquo;il est &eacute;crit : Ce peuple m&rsquo;honore des
+            l&egrave;vres, mais leur c&oelig;ur est loin de moi ; </ab>
+        <ab n="7">c&rsquo;est en vain qu&rsquo;ils m&rsquo;honorent, enseignant des doctrines et
+            des ordonnances humaines. </ab>
+        <ab n="8">Car, laissant de c&ocirc;t&eacute; le commandement de Dieu, vous observez la
+            tradition des hommes, lavant les vases et les coupes, et faisant beaucoup d&rsquo;autres
+            choses semblables. </ab>
+        <ab n="9">Et il leur disait : Vous d&eacute;truisez fort bien le commandement de Dieu,
+            pour garder votre tradition. </ab>
+        <ab n="10">Car Mo&iuml;se a dit : Honore ton p&egrave;re et ta m&egrave;re ; et : Que
+            celui qui maudira son p&egrave;re ou sa m&egrave;re soit puni de mort. </ab>
+        <ab n="11">Mais vous dites, vous : Si un homme dit &agrave; son p&egrave;re ou &agrave;
+            sa m&egrave;re : Tout corban (c&rsquo;est-&agrave;-dire, don) que je fais vous
+            profitera, (manque&nbsp;: il satisfait &agrave; la loi) </ab>
+        <ab n="12">vous ne le laissez rien faire de plus pour son p&egrave;re ou sa m&egrave;re, </ab>
+        <ab n="13">annulant la parole de Dieu par votre tradition que vous avez &eacute;tablie ;
+            et vous faites encore beaucoup d&rsquo;autres choses semblables. </ab>
+        <ab n="14">Alors, appelant de nouveau la foule, il lui disait : Ecoutez-moi tous, et
+            comprenez. </ab>
+        <ab n="15">Il n&rsquo;y a rien au dehors de l&rsquo;homme, qui, entrant en lui, puisse
+            le souiller ; mais ce qui sort de l&rsquo;homme, c&rsquo;est l&agrave; ce qui souille
+            l&rsquo;homme. </ab>
+        <ab n="16">Que celui qui a des oreilles pour entendre, entende. </ab>
+        <ab n="17">Et lorsqu&rsquo;il fut entr&eacute; dans une maison, loin de la foule, ses
+            disciples l&rsquo;interrog&egrave;rent sur cette parabole. </ab>
+        <ab n="18">Et il leur dit : Est-ce ainsi que vous avez vous-m&ecirc;mes si peu
+            d&rsquo;intelligence ? (plut&ocirc;t Glaire) Ne comprenez-vous pas que tout ce qui, du
+            dehors, entre dans l&rsquo;homme, ne peut le souiller, </ab>
+        <ab n="19">parce que cela n&rsquo;entre pas dans son c&oelig;ur, mais va dans son
+            ventre, puis est rejet&eacute; dans le lieu secret, ce qui purifie tous les aliments ? </ab>
+        <ab n="20">Mais, disait-il, ce qui sort de l&rsquo;homme, c&rsquo;est l&agrave; ce qui
+            souille l&rsquo;homme. </ab>
+        <ab n="21">Car c&rsquo;est du dedans, du c&oelig;ur des hommes, que sortent les
+            mauvaises pens&eacute;es, les adult&egrave;res, les fornications, les homicides, </ab>
+        <ab n="22">les vols, l&rsquo;avarice, les m&eacute;chancet&eacute;s, la fraude, les
+            impudicit&eacute;s, l&rsquo;&oelig;il mauvais, le blasph&egrave;me, l&rsquo;orgueil, la
+            folie. </ab>
+        <ab n="23">Tous ces maux sortent du dedans, et souillent l&rsquo;homme. </ab>
+        <ab n="24">Partant de l&agrave;, il s&rsquo;en alla sur les confins de Tyr et de Sidon ;
+            et &eacute;tant entr&eacute; dans une maison, il voulait que personne ne le s&ucirc;t ;
+            mais il ne put rester cach&eacute;. </ab>
+        <ab n="25">Car une femme, dont la fille &eacute;tait poss&eacute;d&eacute;e d&rsquo;un
+            esprit impur, ayant entendu parler de lui, entra aussit&ocirc;t et se jeta &agrave; ses
+            pieds. </ab>
+        <ab n="26">C&rsquo;&eacute;tait une femme pa&iuml;enne, syroph&eacute;nicienne de
+            nation. Et elle le priait de chasser le d&eacute;mon de sa fille. </ab>
+        <ab n="27">Mais J&eacute;sus lui dit : Laisse d&rsquo;abord les enfants se rassasier ;
+            car il n&rsquo;est pas bon de prendre le pain des enfants, et de le jeter aux chiens. </ab>
+        <ab n="28">Mais elle lui r&eacute;pondit et lui dit : C&rsquo;est vrai, Seigneur ; mais
+            les petits chiens mangent sous la table les miettes des enfants. </ab>
+        <ab n="29">Alors il lui dit : A cause de cette parole, va ; le d&eacute;mon est sorti de
+            ta fille. </ab>
+        <ab n="30">Et s&rsquo;en &eacute;tant all&eacute;e dans sa maison, elle trouva la jeune
+            fille couch&eacute;e sur le lit ; le d&eacute;mon &eacute;tait sorti. </ab>
+        <ab n="31">Quittant de nouveau les confins de Tyr, il vint par Sidon vers la mer de
+            Galil&eacute;e, en traversant le milieu de la D&eacute;capole. </ab>
+        <ab n="32">Et on lui amena un homme sourd et muet, et on le suppliait de lui imposer les
+            mains. </ab>
+        <ab n="33">Alors J&eacute;sus, le tirant &agrave; part de la foule, lui mit les doigts
+            dans les oreilles, et lui toucha la langue avec sa salive. </ab>
+        <ab n="34">Et levant les yeux au ciel, il soupira, et lui dit : Ephph&eacute;tha ;
+            c&rsquo;est-&agrave;-dire : Ouvre-toi. </ab>
+        <ab n="35">Et aussit&ocirc;t ses oreilles furent ouvertes, et le lien de sa langue fut
+            rompu, et il parlait distinctement. </ab>
+        <ab n="36">Il leur d&eacute;fendit de le dire &agrave; personne. Mais plus il le leur
+            d&eacute;fendait, plus ils le publiaient, </ab>
+        <ab n="37">et plus ils &eacute;taient saisis d&rsquo;admiration, disant : Il a bien fait
+            toutes choses ; il a fait entendre les sourds et parler les muets.</ab>
+    </div>
+    <div type="chapter" n="8">
+        <ab n="1">En ces jours-l&agrave;, comme la foule &eacute;tait de nouveau nombreuse et
+            n&rsquo;avait pas de quoi manger, il appela ses disciples, et leur dit : </ab>
+        <ab n="2">J&rsquo;ai compassion de cette foule, car voil&agrave; d&eacute;j&agrave;
+            trois jours qu&rsquo;ils sont avec moi, et ils n&rsquo;ont pas de quoi manger ; </ab>
+        <ab n="3">et si je les renvoie &agrave; jeun dans leurs maisons, les forces leur
+            manqueront en chemin, car quelques-uns d&rsquo;entre eux sont venus de loin. </ab>
+        <ab n="4">Ses disciples lui r&eacute;pondirent : Comment pourrait-on les rassasier de
+            pain ici, dans le d&eacute;sert ? </ab>
+        <ab n="5">Et il leur demanda : Combien avez-vous de pains ? Ils lui dirent : Sept. </ab>
+        <ab n="6">Alors il ordonna &agrave; la foule de s&rsquo;asseoir par terre. Et prenant
+            les sept pains, et ayant rendu gr&acirc;ces, il les rompit, et les donna &agrave; ses
+            disciples pour les distribuer ; et ils les distribu&egrave;rent &agrave; la foule. </ab>
+        <ab n="7">Ils avaient encore quelques petits poissons ; il les b&eacute;nit aussi, et
+            les fit distribuer. </ab>
+        <ab n="8">Ils mang&egrave;rent donc et furent rassasi&eacute;s ; et on emporta sept
+            corbeilles pleines des morceaux qui &eacute;taient rest&eacute;s. </ab>
+        <ab n="9">Or ceux qui mang&egrave;rent &eacute;taient environ quatre mille ; et il les
+            renvoya. </ab>
+        <ab n="10">Et aussit&ocirc;t, montant dans une barque avec ses disciples, il alla dans
+            le pays de Dalmanutha. </ab>
+        <ab n="11">Les pharisiens survinrent, et se mirent &agrave; discuter avec lui, lui
+            demandant un signe du ciel, pour le tenter. </ab>
+        <ab n="12">Mais J&eacute;sus, g&eacute;missant dans son c&oelig;ur, dit : Pourquoi cette
+            g&eacute;n&eacute;ration demande-t-elle un signe ? En v&eacute;rit&eacute;, je vous le
+            dis, il ne sera pas donn&eacute; de signe &agrave; cette g&eacute;n&eacute;ration. </ab>
+        <ab n="13">Et les renvoyant, il monta de nouveau dans la barque, et passa sur
+            l&rsquo;autre rive. </ab>
+        <ab n="14">Or ils avaient oubli&eacute; de prendre des pains, et ils n&rsquo;avaient
+            qu&rsquo;un seul pain avec eux dans la barque. </ab>
+        <ab n="15">Comme J&eacute;sus leur donnait cet ordre : Gardez-vous avec soin du levain
+            des pharisiens et du levain d&rsquo;H&eacute;rode, </ab>
+        <ab n="16">ils raisonnaient et disaient entre eux : C&rsquo;est parce que nous
+            n&rsquo;avons pas de pain. </ab>
+        <ab n="17">J&eacute;sus, l&rsquo;ayant connu, leur dit : Pourquoi pensez-vous que vous
+            n&rsquo;avez pas de pains ? N&rsquo;avez-vous encore ni sens ni intelligence ? votre
+            c&oelig;ur est-il encore aveugl&eacute; ? </ab>
+        <ab n="18">Ayant des yeux, ne voyez-vous pas ? et ayant des oreilles,
+            n&rsquo;entendez-vous pas ? et n&rsquo;avez-vous pas de m&eacute;moire ? </ab>
+        <ab n="19">Quand j&rsquo;ai rompu les cinq pains pour cinq mille hommes, combien
+            avez-vous emport&eacute; de corbeilles pleines de morceaux ? Ils lui dirent : Douze. </ab>
+        <ab n="20">Et quand j&rsquo;ai rompu les sept pains pour quatre mille hommes, combien
+            avez-vous apport&eacute; de corbeilles pleines de morceaux ? Ils lui dirent : Sept. </ab>
+        <ab n="21">Et il leur disait : Comment ne comprenez-vous pas encore ? </ab>
+        <ab n="22">Ils vinrent &agrave; Bethsa&iuml;de, et on lui amena un aveugle, et on le
+            priait de le toucher. </ab>
+        <ab n="23">Ayant pris la main de l&rsquo;aveugle, il le conduisit hors du bourg ; puis
+            il lui mit de la salive sur les yeux, et, lui ayant impos&eacute; les mains, il lui
+            demanda ce qu&rsquo;il voyait. </ab>
+        <ab n="24">Celui-ci, regardant, r&eacute;pondit : Je vois les hommes marcher, semblables
+            &agrave; des arbres. </ab>
+        <ab n="25">J&eacute;sus lui mit de nouveau les mains sur les yeux ; et il
+            commen&ccedil;a &agrave; voir, et il fut si bien gu&eacute;ri qu&rsquo;il voyait toutes
+            choses distinctement. </ab>
+        <ab n="26">Alors il le renvoya dans sa maison, en disant : Va dans ta maison ; et si tu
+            entres dans le bourg, ne dis rien &agrave; personne. </ab>
+        <ab n="27">J&eacute;sus s&rsquo;en alla, avec ses disciples, dans les villages de
+            C&eacute;sar&eacute;e de Philippe ; et il interrogeait ses disciples en chemin, en
+            disant : Qui dit-on que je suis ? </ab>
+        <ab n="28">Ils lui r&eacute;pondirent : Jean-Baptiste ; les autres, Elie ; les autres,
+            l&rsquo;un des proph&egrave;tes. </ab>
+        <ab n="29">Alors il leur dit : Mais vous, qui dites-vous que je suis ? Pierre,
+            r&eacute;pondant, lui dit : Vous &ecirc;tes le Christ. </ab>
+        <ab n="30">Et il leur d&eacute;fendit avec menace de dire cela &agrave; personne. </ab>
+        <ab n="31">Et il commen&ccedil;a &agrave; leur d&eacute;clarer qu&rsquo;il fallait que
+            le Fils de l&rsquo;homme souffr&icirc;t beaucoup, qu&rsquo;il f&ucirc;t rejet&eacute;
+            par les anciens, par les princes des pr&ecirc;tres et par les scribes, qu&rsquo;il
+            f&ucirc;t mis &agrave; mort et qu&rsquo;il ressuscit&acirc;t apr&egrave;s trois jours. </ab>
+        <ab n="32">Et il parlait de ces choses ouvertement. Alors Pierre, le tirant &agrave;
+            part, se mit &agrave; le reprendre. </ab>
+        <ab n="33">Mais lui, se retournant et regardant ses disciples, r&eacute;primanda Pierre,
+            en disant : Va derri&egrave;re moi, Satan ; car tu n&rsquo;as pas le go&ucirc;t des
+            choses de Dieu, mais des choses des hommes. </ab>
+        <ab n="34">Et ayant appel&eacute; &agrave; lui la foule, avec ses disciples, il leur dit
+            : Si quelqu&rsquo;un veut me suivre, qu&rsquo;il renonce &agrave; soi-m&ecirc;me, et
+            qu&rsquo;il porte sa croix, et qu&rsquo;il me suive. </ab>
+        <ab n="35">Car celui qui voudra sauver sa vie (son &acirc;me), la perdra ; mais celui
+            qui la perdra &agrave; cause de moi et de l&rsquo;Evangile, la sauvera. </ab>
+        <ab n="36">En effet, que servirait &agrave; l&rsquo;homme de gagner le monde entier et
+            de perdre son &acirc;me ? </ab>
+        <ab n="37">Ou que donnera l&rsquo;homme en &eacute;change de son &acirc;me ? </ab>
+        <ab n="38">Car si quelqu&rsquo;un rougit de moi et de mes paroles au milieu de cette
+            g&eacute;n&eacute;ration adult&egrave;re et p&eacute;cheresse, le Fils de l&rsquo;homme
+            rougira aussi de lui, lorsqu&rsquo;il viendra dans la gloire de son P&egrave;re, avec
+            les anges saints. </ab>
+        <ab n="39">Et il leur disait : En v&eacute;rit&eacute;, je vous le dis, il y en a
+            quelques-uns de ceux qui sont ici, qui ne go&ucirc;teront pas la mort, avant
+            d&rsquo;avoir vu le royaume de Dieu venir avec puissance. </ab>
+    </div>
+    <div type="chapter" n="9">
+        <ab n="1">Six jours apr&egrave;s, J&eacute;sus prit Pierre, Jacques et Jean, et les
+            conduisit seuls, &agrave; l&rsquo;&eacute;cart, sur une haute montagne ; et il fut
+            transfigur&eacute; devant eux. </ab>
+        <ab n="2">Ses v&ecirc;tements devinrent resplendissants, et tout &agrave; fait blancs,
+            comme la neige, tels qu&rsquo;aucun foulon sur la terre n&rsquo;en peut faire
+            d&rsquo;aussi blancs. </ab>
+        <ab n="3">Elie et Mo&iuml;se leur apparurent, et ils s&rsquo;entretenaient avec
+            J&eacute;sus. </ab>
+        <ab n="4">Et Pierre, prenant la parole, dit &agrave; J&eacute;sus : Ma&icirc;tre, il est
+            bon pour nous d&rsquo;&ecirc;tre ici ; faisons trois tentes, une pour vous, une pour
+            Mo&iuml;se, et une pour Elie. </ab>
+        <ab n="5">Car il ne savait pas ce qu&rsquo;il disait, l&rsquo;effroi les ayant saisis. </ab>
+        <ab n="6">Il se forma une nu&eacute;e, qui les couvrit ; et une voix sortit de la
+            nu&eacute;e, disant : Celui-ci est mon fils bien-aim&eacute; ; &eacute;coutez-le. </ab>
+        <ab n="7">Et aussit&ocirc;t, regardant tout autour, ils ne virent plus personne, si ce
+            n&rsquo;est J&eacute;sus seul avec eux. </ab>
+        <ab n="8">Et comme ils descendaient de la montagne, il leur ordonna de ne raconter
+            &agrave; personne ce qu&rsquo;ils avaient vu, jusqu&rsquo;&agrave; ce que le Fils de
+            l&rsquo;homme f&ucirc;t ressuscit&eacute; d&rsquo;entre les morts. </ab>
+        <ab n="9">Et ils tinrent cette parole secr&egrave;te en eux-m&ecirc;mes, se demandant
+            entre eux ce que signifiait : Jusqu&rsquo;&agrave; ce qu&rsquo;il f&ucirc;t
+            ressuscit&eacute; d&rsquo;entre les morts. </ab>
+        <ab n="10">Et ils l&rsquo;interrogeaient, en disant : Pourquoi donc les pharisiens et
+            les scribes disent-ils qu&rsquo;il faut qu&rsquo;Elie vienne d&rsquo;abord ? </ab>
+        <ab n="11">Il leur r&eacute;pondit : Elie, lorsqu&rsquo;il viendra d&rsquo;abord,
+            r&eacute;tablira toutes choses, et comme il est &eacute;crit du Fils de l&rsquo;homme,
+            il souffrira beaucoup et sera m&eacute;pris&eacute;. </ab>
+        <ab n="12">Mais je vous dis qu&rsquo;Elie est d&eacute;j&agrave; venu (et ils lui ont
+            fait tout ce qu&rsquo;ils ont voulu), selon qu&rsquo;il a &eacute;t&eacute; &eacute;crit
+            de lui. </ab>
+        <ab n="13">Lorsqu&rsquo;il fut venu vers ses disciples, il vit une grande foule autour
+            d&rsquo;eux, et des scribes qui discutaient avec eux. </ab>
+        <ab n="14">Et aussit&ocirc;t tout le peuple, voyant J&eacute;sus, fut saisi
+            d&rsquo;&eacute;tonnement et de frayeur ; et &eacute;tant accourus, ils le saluaient. </ab>
+        <ab n="15">Il leur demanda : Pourquoi discutez-vous ensemble ? </ab>
+        <ab n="16">Et un homme de la foule, prenant la parole, dit : Ma&icirc;tre, je vous ai
+            amen&eacute; mon fils, qui est poss&eacute;d&eacute; d&rsquo;un esprit muet ; </ab>
+        <ab n="17">et en quelque lieu qu&rsquo;il le saisisse, il le jette &agrave; terre, et
+            l&rsquo;enfant &eacute;cume, grince des dents et se dess&egrave;che. J&rsquo;ai dit
+            &agrave; vos disciples de le chasser, mais ils ne l&rsquo;ont pu. </ab>
+        <ab n="18">J&eacute;sus leur r&eacute;pondit : O g&eacute;n&eacute;ration
+            incr&eacute;dule, jusqu&rsquo;&agrave; quand serai-je avec vous ? jusqu&rsquo;&agrave;
+            quand vous souffrirai-je ? Amenez-le-moi. </ab>
+        <ab n="19">Ils l&rsquo;amen&egrave;rent ; et aussit&ocirc;t qu&rsquo;il eut vu
+            J&eacute;sus, l&rsquo;esprit l&rsquo;agita avec violence, et, jet&eacute; &agrave;
+            terre, il se roulait en &eacute;cumant. </ab>
+        <ab n="20">J&eacute;sus demanda au p&egrave;re de l&rsquo;enfant : Combien y a-t-il de
+            temps que cela lui arrive ? Il r&eacute;pondit : Depuis son enfance ; </ab>
+        <ab n="21">et l&rsquo;esprit l&rsquo;a souvent jet&eacute; dans le feu et dans
+            l&rsquo;eau, pour le faire p&eacute;rir. Mais, si vous pouvez quelque chose,
+            secourez-nous, ayez piti&eacute; de nous. </ab>
+        <ab n="22">J&eacute;sus lui dit : Si tu peux croire, tout est possible &agrave; celui
+            qui croit. </ab>
+        <ab n="23">Et aussit&ocirc;t le p&egrave;re de l&rsquo;enfant s&rsquo;&eacute;cria,
+            disant avec larmes : Je crois, Seigneur ; aidez mon incr&eacute;dulit&eacute;. </ab>
+        <ab n="24">Et J&eacute;sus, voyant accourir la foule, mena&ccedil;a l&rsquo;esprit
+            impur, et lui dit : Esprit sourd et muet, je te l&rsquo;ordonne, sors de cet enfant, et
+            ne rentre plus en lui. </ab>
+        <ab n="25">Alors l&rsquo;esprit, poussant des cris et l&rsquo;agitant avec violence,
+            sortit, et l&rsquo;enfant devint comme mort, de sorte que beaucoup disaient : Il est
+            mort. </ab>
+        <ab n="26">Mais J&eacute;sus, l&rsquo;ayant pris par la main, le souleva, et il se leva. </ab>
+        <ab n="27">Lorsque J&eacute;sus fut entr&eacute; dans la maison, ses disciples lui
+            demandaient en secret : Pourquoi n&rsquo;avons-nous pas pu le chasser ? </ab>
+        <ab n="28">Il leur r&eacute;pondit : Cette sorte de d&eacute;mon ne peut se chasser que
+            par la pri&egrave;re et par le je&ucirc;ne. </ab>
+        <ab n="29">Etant sortis de l&agrave;, ils travers&egrave;rent la Galil&eacute;e, et il
+            voulait que personne ne le s&ucirc;t. </ab>
+        <ab n="30">Cependant il instruisait ses disciples, et leur disait : Le Fils de
+            l&rsquo;homme sera livr&eacute; entre les mains des hommes, et ils le feront mourir, et
+            le troisi&egrave;me jour apr&egrave;s sa mort il ressuscitera. </ab>
+        <ab n="31">Mais ils ne comprenaient pas cette parole, et ils craignaient de
+            l&rsquo;interroger. </ab>
+        <ab n="32">Ils vinrent &agrave; Capharna&uuml;m ; et lorsqu&rsquo;ils furent dans la
+            maison, il leur demanda : Sur quoi discutiez-vous en chemin ? </ab>
+        <ab n="33">Mais ils se taisaient ; car, en chemin, ils avaient discut&eacute; ensemble,
+            pour savoir lequel d&rsquo;entre eux &eacute;tait le plus grand. </ab>
+        <ab n="34">Et s&rsquo;&eacute;tant assis, Il appela les douze et leur dit : Si
+            quelqu&rsquo;un veut &ecirc;tre le premier, il sera le dernier de tous et le serviteur
+            de tous. </ab>
+        <ab n="35">Puis, prenant un enfant, il le pla&ccedil;a au milieu d&rsquo;eux ; et
+            apr&egrave;s l&rsquo;avoir embrass&eacute;, il leur dit : </ab>
+        <ab n="36">Quiconque re&ccedil;oit en mon nom un enfant comme celui-ci, me re&ccedil;oit
+            ; et quiconque me re&ccedil;oit, re&ccedil;oit non pas moi mais celui qui m&rsquo;a
+            envoy&eacute;. </ab>
+        <ab n="37">Alors Jean, prenant la parole, lui dit : Ma&icirc;tre, nous avons vu un homme
+            qui chasse les d&eacute;mons en votre nom, et il ne nous suit pas ; et nous en
+            l&rsquo;avons emp&ecirc;ch&eacute;. </ab>
+        <ab n="38">Mais J&eacute;sus dit : Ne l&rsquo;en emp&ecirc;chez pas ; car il n&rsquo;y a
+            personne qui, apr&egrave;s avoir fait un miracle en mon nom, puisse aussit&ocirc;t
+            apr&egrave;s parler mal de moi. </ab>
+        <ab n="39">Qui n&rsquo;est pas contre vous, est pour vous. </ab>
+        <ab n="40">Et quiconque vous donnera un verre d&rsquo;eau en mon nom, parce que vous
+            appartenez au Christ, en v&eacute;rit&eacute;, je vous le dis, il ne perdra pas sa
+            r&eacute;compense. </ab>
+        <ab n="41">Mais si quelqu&rsquo;un scandalisait un de ces petits qui croient en moi, il
+            vaudrait mieux pour lui qu&rsquo;on lui m&icirc;t autour du cou une de ces meules que
+            les &acirc;nes tournent, et qu&rsquo;on le jeta dans la mer. </ab>
+        <ab n="42">Et si ta main te scandalise, coupe-la ; il vaut mieux pour toi entrer manchot
+            dans la vie, que d&rsquo;aller, ayant deux mains, dans la g&eacute;henne, dans le feu
+            inextinguible, </ab>
+        <ab n="43">l&agrave; o&ugrave; leur ver ne meurt pas, et o&ugrave; le feu ne
+            s&rsquo;&eacute;teint pas. </ab>
+        <ab n="44">Et si ton pied te scandalise, coupe-le ; il vaut mieux pour toi entrer
+            boiteux dans la vie &eacute;ternelle, que d&rsquo;&ecirc;tre jet&eacute;, ayant deux
+            pieds, dans la g&eacute;henne du feu inextinguible, </ab>
+        <ab n="45">l&agrave; o&ugrave; leur ver ne meurt pas, et o&ugrave; le feu ne
+            s&rsquo;&eacute;teint pas. </ab>
+        <ab n="46">Et si ton &oelig;il te scandalise, arrache-le ; il vaut mieux pour toi entrer
+            borgne dans le royaume de Dieu, que d&rsquo;&ecirc;tre jet&eacute;, ayant deux yeux,
+            dans la g&eacute;henne de feu, </ab>
+        <ab n="47">l&agrave; o&ugrave; leur ver ne meurt pas, et o&ugrave; le feu ne
+            s&rsquo;&eacute;teint pas. </ab>
+        <ab n="48">Car tous seront sal&eacute;s par le feu, comme toute victime est sal&eacute;e
+            par le sel. </ab>
+        <ab n="49">Le sel est bon ; mais si le sel devient fade, avec quoi
+            l&rsquo;assaisonnerez-vous ? Ayez du sel en vous, et ayez la paix entre vous. </ab>
+    </div>
+    <div type="chapter" n="10">
+        <ab n="1">J&eacute;sus, &eacute;tant parti de l&agrave;, vint aux confins de la
+            Jud&eacute;e, au-del&agrave; du Jourdain ; et de nouveau les foules
+            s&rsquo;assembl&egrave;rent aupr&egrave;s de lui, et, selon sa coutume, il les
+            instruisit de nouveau. </ab>
+        <ab n="2">Et s&rsquo;approchant, les pharisiens lui demand&egrave;rent, pour le tenter :
+            Est-il permis &agrave; un homme de renvoyer sa femme ? </ab>
+        <ab n="3">Mais il leur r&eacute;pondit : Que vous a ordonn&eacute; Mo&iuml;se ? </ab>
+        <ab n="4">Ils dirent : Mo&iuml;se a permis d&rsquo;&eacute;crire un acte de divorce, et
+            de la renvoyer. </ab>
+        <ab n="5">J&eacute;sus leur r&eacute;pondit : C&rsquo;est &agrave; cause de la
+            duret&eacute; de votre c&oelig;ur qu&rsquo;il a &eacute;crit pour vous cette ordonnance. </ab>
+        <ab n="6">Mais au commencement de la cr&eacute;ation, Dieu fit un homme et une femme. </ab>
+        <ab n="7">C&rsquo;est pourquoi l&rsquo;homme quittera son p&egrave;re et sa m&egrave;re,
+            et il s&rsquo;attachera &agrave; sa femme, </ab>
+        <ab n="8">et ils seront deux dans une seule chair. Ainsi ils ne sont plus deux, mais une
+            seule chair. </ab>
+        <ab n="9">Ce que Dieu a uni, que l&rsquo;homme ne le s&eacute;pare donc pas. </ab>
+        <ab n="10">Dans la maison, ses disciples l&rsquo;interrog&egrave;rent encore sur le
+            m&ecirc;me sujet. </ab>
+        <ab n="11">Et il leur dit : Quiconque renvoie sa femme et en &eacute;pouse une autre,
+            commet un adult&egrave;re &agrave; l&rsquo;&eacute;gard de celle-l&agrave;. </ab>
+        <ab n="12">Et si une femme renvoie son mari et en &eacute;pouse un autre, elle commet un
+            adult&egrave;re. </ab>
+        <ab n="13">On lui pr&eacute;sentait de petits enfants, afin qu&rsquo;il les
+            touch&acirc;t ; mais les disciples repoussaient durement ceux qui les
+            pr&eacute;sentaient. </ab>
+        <ab n="14">J&eacute;sus, les voyant, en fut indign&eacute;, et leur dit : Laissez venir
+            &agrave; moi les petits enfants, et ne les emp&ecirc;chez pas ; car le royaume de Dieu
+            est &agrave; ceux qui leur ressemblent. </ab>
+        <ab n="15">En v&eacute;rit&eacute;, je vous le dis, quiconque ne recevra pas le royaume
+            de Dieu comme un petit enfant, n&rsquo;y entrera pas. </ab>
+        <ab n="16">Et les embrassant, et imposant les mains sur eux, il les b&eacute;nissait. </ab>
+        <ab n="17">Comme il se mettait en chemin, quelqu&rsquo;un accourut, et,
+            fl&eacute;chissant le genou devant lui, il lui demandait : Bon ma&icirc;tre, que
+            ferai-je pour acqu&eacute;rir la vie &eacute;ternelle ? </ab>
+        <ab n="18">J&eacute;sus lui dit : Pourquoi m&rsquo;appelles-tu bon ? Personne
+            n&rsquo;est bon, si ce n&rsquo;est Dieu seul. </ab>
+        <ab n="19">Tu connais les commandements : Ne commets pas l&rsquo;adult&egrave;re ; ne
+            tue pas ; ne d&eacute;robe pas ; ne porte pas de faux t&eacute;moignage ; ne fais tort
+            &agrave; personne ; honore ton p&egrave;re et ta m&egrave;re. </ab>
+        <ab n="20">Il lui r&eacute;pondit : Ma&icirc;tre, j&rsquo;ai observ&eacute; toutes ces
+            choses depuis ma jeunesse. </ab>
+        <ab n="21">J&eacute;sus, l&rsquo;ayant regard&eacute;, l&rsquo;aima, et lui dit : Il te
+            manque une chose ; va, vends tout ce que tu as et donne-le aux pauvres, et tu auras un
+            tr&eacute;sor dans le ciel ; puis viens et suis-moi. </ab>
+        <ab n="22">Mais lui, afflig&eacute; de cette parole, s&rsquo;en alla triste, car il
+            avait de grands biens. </ab>
+        <ab n="23">Alors J&eacute;sus, regardant autour de lui, dit &agrave; ses disciples :
+            Qu&rsquo;il est difficile &agrave; ceux qui ont des richesses d&rsquo;entrer dans le
+            royaume de Dieu ! </ab>
+        <ab n="24">Les disciples &eacute;taient stup&eacute;faits de ces paroles. Mais
+            J&eacute;sus, reprenant, leur dit : Mes petits enfants, qu&rsquo;il est difficile
+            &agrave; ceux qui se confient dans les richesses d&rsquo;entrer dans le royaume de Dieu
+            ! </ab>
+        <ab n="25">Il est plus facile &agrave; un chameau de passer par le trou d&rsquo;une
+            aiguille, qu&rsquo;&agrave; un riche d&rsquo;entrer dans le royaume de Dieu. </ab>
+        <ab n="26">Ils furent encore plus &eacute;tonn&eacute;s, et ils se disaient les uns les
+            autres : Et qui donc peut &ecirc;tre sauv&eacute; ? </ab>
+        <ab n="27">J&eacute;sus, les regardant, dit : Cela est impossible aux hommes, mais non
+            pas &agrave; Dieu ; car tout est possible &agrave; Dieu. </ab>
+        <ab n="28">Alors Pierre se mit &agrave; lui dire : Nous, voici que nous avons tout
+            quitt&eacute;, et que nous vous avons suivi. </ab>
+        <ab n="29">J&eacute;sus r&eacute;pondit : En v&eacute;rit&eacute;, je vous le dis,
+            personne ne quittera sa maison, ou ses fr&egrave;res, ou ses s&oelig;urs, ou son
+            p&egrave;re, ou sa m&egrave;re, ou ses enfants, ou ses champs, pour moi et pour
+            l&rsquo;Evangile, </ab>
+        <ab n="30">qu&rsquo;il ne re&ccedil;oive cent fois autant, maintenant, en ce temps
+            pr&eacute;sent, des maisons, des fr&egrave;res, des s&oelig;urs, des m&egrave;res, des
+            enfants et des champs, avec des pers&eacute;cutions, et, dans le si&egrave;cle futur, la
+            vie &eacute;ternelle. </ab>
+        <ab n="31">Mais beaucoup des premiers seront les derniers, et beaucoup des derniers les
+            premiers. </ab>
+        <ab n="32">Or ils &eacute;taient en chemin pour monter &agrave; J&eacute;rusalem ; et
+            J&eacute;sus marchait devant eux, et ils &eacute;taient troubl&eacute;s, et ils le
+            suivaient avec crainte. Et prenant de nouveau les douze &agrave; part, il se mit
+            &agrave; leur dire ce qui devait lui arriver : </ab>
+        <ab n="33">Voici que nous montons &agrave; J&eacute;rusalem, et le Fils de l&rsquo;homme
+            sera livr&eacute; aux princes des pr&ecirc;tres, et aux scribes, et aux anciens ; ils le
+            condamneront &agrave; mort, et ils le livreront aux gentils ; </ab>
+        <ab n="34">et ils l&rsquo;insulteront, et cracheront sur lui, et le flagelleront, et le
+            feront mourir ; et il ressuscitera le troisi&egrave;me jour. </ab>
+        <ab n="35">Alors Jacques et Jean, fils de Z&eacute;b&eacute;d&eacute;e,
+            s&rsquo;approch&egrave;rent de lui, en disant : Ma&icirc;tre, nous voulons que vous
+            fassiez pour nous tout ce que nous demanderons. </ab>
+        <ab n="36">Mais Il leur dit : Que voulez-vous que je fasse pour vous ? </ab>
+        <ab n="37">Et ils dirent : Accordez-nous d&rsquo;&ecirc;tre assis, l&rsquo;un &agrave;
+            votre droite, et l&rsquo;autre &agrave; votre gauche, dans votre gloire. </ab>
+        <ab n="38">Mais J&eacute;sus leur r&eacute;pondit : Vous ne savez pas ce que vous
+            demandez. Pouvez-vous boire le calice que je dois boire, ou &ecirc;tre baptis&eacute; du
+            bapt&ecirc;me dont je dois &ecirc;tre baptis&eacute; ? </ab>
+        <ab n="39">Ils lui dirent : Nous le pouvons. Mais J&eacute;sus leur dit : Vous boirez,
+            en effet, le calice que je dois boire, et vous serez baptis&eacute;s du bapt&ecirc;me
+            dont je dois &ecirc;tre baptis&eacute; ; </ab>
+        <ab n="40">mais, quant &agrave; &ecirc;tre assis &agrave; ma droite ou &agrave; ma
+            gauche, il ne m&rsquo;appartient pas de vous le donner &agrave; vous, mais &agrave; ceux
+            pour lesquels cela a &eacute;t&eacute; pr&eacute;par&eacute;. </ab>
+        <ab n="41">Et les dix autres, entendant cela, commenc&egrave;rent &agrave;
+            s&rsquo;indigner contre Jacques et Jean. </ab>
+        <ab n="42">Mais J&eacute;sus, les appelant, leur dit : Vous savez que ceux qui sont
+            regard&eacute;s comme les chefs des nations les dominent, et que leurs princes ont
+            puissance sur elles. </ab>
+        <ab n="43">Il n&rsquo;en est pas de m&ecirc;me parmi vous ; mais quiconque voudra
+            devenir le plus grand, sera votre serviteur ; </ab>
+        <ab n="44">et quiconque voudra &ecirc;tre le premier parmi vous, sera le serviteur de
+            tous. </ab>
+        <ab n="45">Car le Fils de l&rsquo;homme lui-m&ecirc;me n&rsquo;est pas venu pour
+            &ecirc;tre servi, mais pour servir, et pour donner sa vie comme la ran&ccedil;on
+            d&rsquo;un grand nombre. </ab>
+        <ab n="46">Ils vinrent ensuite &agrave; J&eacute;richo ; et, comme il partait de
+            J&eacute;richo avec ses disciples et une foule consid&eacute;rable, le fils de
+            Tim&eacute;e, Bartim&eacute;e l&rsquo;aveugle, &eacute;tait assis sur le bord du chemin,
+            demandant l&rsquo;aum&ocirc;ne. </ab>
+        <ab n="47">Ayant appris que c&rsquo;&eacute;tait J&eacute;sus de Nazareth, il se mit
+            &agrave; crier et &agrave; dire : J&eacute;sus, Fils de David, ayez piti&eacute; de moi. </ab>
+        <ab n="48">Et beaucoup le mena&ccedil;aient pour qu&rsquo;il se t&ucirc;t ; mais il
+            criait bien plus fort : Fils de David, ayez piti&eacute; de moi. </ab>
+        <ab n="49">Alors J&eacute;sus, s&rsquo;arr&ecirc;tant, ordonna qu&rsquo;on
+            l&rsquo;appel&acirc;t. Et ils appel&egrave;rent l&rsquo;aveugle, en lui disant : Aie bon
+            courage ; l&egrave;ve-toi, il t&rsquo;appelle. </ab>
+        <ab n="50">Ayant jet&eacute; son manteau, il vint en sautant vers J&eacute;sus. </ab>
+        <ab n="51">Et J&eacute;sus, prenant la parole, lui dit : Que veux-tu que je te fasse ?
+            L&rsquo;aveugle lui r&eacute;pondit : Rabboni (Ma&icirc;tre), que je voie. </ab>
+        <ab n="52">J&eacute;sus lui dit : Va, ta foi t&rsquo;a sauv&eacute;. Et aussit&ocirc;t
+            il vit, et il suivait J&eacute;sus sur le chemin.</ab>
+    </div>
+    <div type="chapter" n="11">
+        <ab n="1">Comme ils approchaient de J&eacute;rusalem et de B&eacute;thanie, vers la
+            montagne des Oliviers, il envoya deux de ses disciples, </ab>
+        <ab n="2">et il leur dit : Allez au village qui est devant vous, et aussit&ocirc;t que
+            vous y serez entr&eacute;s, vous trouverez un &acirc;non attach&eacute;, sur lequel nul
+            homme ne s&rsquo;est encore assis ; d&eacute;liez-le, et amenez-le. </ab>
+        <ab n="3">Et si quelqu&rsquo;un vous dit : Que faites-vous ? r&eacute;pondez : Le
+            Seigneur en a besoin ; et aussit&ocirc;t on le laissera amener ici. </ab>
+        <ab n="4">Etant donc all&eacute;s, ils trouv&egrave;rent l&rsquo;&acirc;non
+            attach&eacute; dehors, devant une porte, entre deux chemins, et ils le
+            d&eacute;li&egrave;rent. </ab>
+        <ab n="5">Quelques uns de ceux qui &eacute;taient l&agrave; leur disaient : Que
+            faites-vous ? Pourquoi d&eacute;liez-vous cet &acirc;non ? </ab>
+        <ab n="6">Ils leur r&eacute;pondirent comme J&eacute;sus le leur avait ordonn&eacute; ;
+            et ils le leur laiss&egrave;rent emmener. </ab>
+        <ab n="7">Ils amen&egrave;rent &agrave; J&eacute;sus l&rsquo;&acirc;non, sur lequel ils
+            mirent leurs v&ecirc;tements, et il s&rsquo;assit dessus. </ab>
+        <ab n="8">Beaucoup &eacute;tendirent leurs v&ecirc;tements sur le chemin ;
+            d&rsquo;autres coupaient des branches d&rsquo;arbres, et les jetaient sur le chemin. </ab>
+        <ab n="9">Et ceux qui marchaient devant, et ceux qui suivaient criaient, en disant :
+            Hosanna ! </ab>
+        <ab n="10">B&eacute;ni soit celui qui vient au nom du Seigneur ! B&eacute;ni soit le
+            r&egrave;gne de notre p&egrave;re David, qui arrive ! Hosanna au plus haut des cieux ! </ab>
+        <ab n="11">J&eacute;sus entra &agrave; J&eacute;rusalem dans le temple ; et,
+            apr&egrave;s avoir regard&eacute; toutes choses, comme il &eacute;tait
+            d&eacute;j&agrave; tard, il s&rsquo;en alla &agrave; B&eacute;thanie avec les douze. </ab>
+        <ab n="12">Le lendemain, comme ils sortaient de B&eacute;thanie, il eut faim. </ab>
+        <ab n="13">Et voyant de loin un figuier qui avait des feuilles, il alla voir s&rsquo;il
+            y trouverait quelque chose ; et, s&rsquo;en &eacute;tant approch&eacute;, il n&rsquo;y
+            trouva que des feuilles, car ce n&rsquo;&eacute;tait pas le temps des figues. </ab>
+        <ab n="14">Prenant la parole, il lui dit : Que jamais personne ne mange de toi aucun
+            fruit. Et ses disciples l&rsquo;entendirent. </ab>
+        <ab n="15">Ils vinrent ensuite &agrave; J&eacute;rusalem, et J&eacute;sus, &eacute;tant
+            entr&eacute; dans le temple, se mit &agrave; chasser ceux qui vendaient et qui
+            achetaient dans le temple ; et il renversa les tables des changeurs et les si&egrave;ges
+            de ceux qui vendaient des colombes. </ab>
+        <ab n="16">Et il ne permettait pas que personne transport&acirc;t aucun objet &agrave;
+            travers le temple. </ab>
+        <ab n="17">Et il enseignait, en leur disant : N&rsquo;est-il pas &eacute;crit : Ma
+            maison sera appel&eacute;e une maison de pri&egrave;re pour toutes les nations ? Mais
+            vous, vous en avez fait une caverne de voleurs. </ab>
+        <ab n="18">Ayant entendu cela, les princes des pr&ecirc;tres et les scribes cherchaient
+            un moyen de le faire mourir ; car ils le craignaient, parce que toute la foule
+            &eacute;tait dans l&rsquo;admiration au sujet de sa doctrine. </ab>
+        <ab n="19">Quand le soir fut venu, il sortit de la ville. </ab>
+        <ab n="20">Le matin, en passant, ils virent le figuier, dess&eacute;ch&eacute;
+            jusqu&rsquo;&agrave; la racine. </ab>
+        <ab n="21">Et Pierre, se ressouvenant, lui dit : Ma&icirc;tre, voici que le figuier que
+            vous avez maudit s&rsquo;est dess&eacute;ch&eacute;. </ab>
+        <ab n="22">J&eacute;sus, prenant la parole, leur dit : Ayez foi en Dieu. </ab>
+        <ab n="23">En v&eacute;rit&eacute;, je vous le dis, quiconque dira &agrave; cette
+            montagne : Ote-toi de l&agrave;, et jette-toi dans la mer, s&rsquo;il
+            n&rsquo;h&eacute;site pas dans son c&oelig;ur, mais s&rsquo;il croit que tout ce
+            qu&rsquo;il aura dit arrivera, il le verra arriver. </ab>
+        <ab n="24">C&rsquo;est pourquoi je vous dis : Quoi que ce soit que vous demandiez en
+            priant, croyez que vous le recevrez, et cela vous arrivera. </ab>
+        <ab n="25">Et lorsque vous vous tiendrez debout pour prier, si vous avez quelque chose
+            contre quelqu&rsquo;un, pardonnez-lui, afin que votre P&egrave;re qui est dans les cieux
+            vous pardonne aussi vos p&eacute;ch&eacute;s. </ab>
+        <ab n="26">Car si vous ne pardonnez pas vous-m&ecirc;mes, votre P&egrave;re qui est dans
+            les cieux ne vous pardonnera pas non plus vos p&eacute;ch&eacute;s. (verset
+            oubli&eacute;) </ab>
+        <ab n="27">Ils vinrent de nouveau &agrave; J&eacute;rusalem. Et comme J&eacute;sus se
+            promenait dans le temple, les princes des pr&ecirc;tres, les scribes et les anciens
+            vinrent &agrave; lui, </ab>
+        <ab n="28">et lui dirent : Par quelle autorit&eacute; faites-vous ces choses ? et qui
+            vous a donn&eacute; le pouvoir de les faire ? </ab>
+        <ab n="29">J&eacute;sus leur r&eacute;pondit : Je vous adresserai, moi aussi, une
+            question ; r&eacute;pondez-moi, et je vous dirai par quelle autorit&eacute; je fais ces
+            choses. </ab>
+        <ab n="30">Le bapt&ecirc;me de Jean &eacute;tait-il du ciel ou des hommes ?
+            R&eacute;pondez-moi. </ab>
+        <ab n="31">Mais ils raisonnaient en eux-m&ecirc;mes, disant : Si nous r&eacute;pondons :
+            Du ciel, il dira : Pourquoi donc n&rsquo;avez-vous pas cru en lui ? </ab>
+        <ab n="32">Si nous disons : Des hommes, nous avons &agrave; craindre le peuple ; car
+            tous regardaient Jean comme un vrai proph&egrave;te. </ab>
+        <ab n="33">Ils r&eacute;pondirent donc &agrave; J&eacute;sus : Nous ne savons. Et
+            J&eacute;sus leur r&eacute;pliqua : Moi non plus, je ne vous dirai pas par quelle
+            autorit&eacute; Je fais ces choses.</ab>
+    </div>
+    <div type="chapter" n="12">
+        <ab n="1">Il se mit ensuite &agrave; leur parler en paraboles : Un homme planta une
+            vigne, et l&rsquo;entoura d&rsquo;une haie, et creusa un pressoir, et b&acirc;tit une
+            tour, et la loua &agrave; des vignerons, puis s&rsquo;en alla dans un pays lointain. </ab>
+        <ab n="2">Le temps venu, il envoya un serviteur aux vignerons, pour recevoir d&rsquo;eux
+            du fruit de la vigne. </ab>
+        <ab n="3">Mais, l&rsquo;ayant saisi, ils le battirent, et le renvoy&egrave;rent les
+            mains vides. </ab>
+        <ab n="4">Il leur envoya de nouveau un autre serviteur, et ils le bless&egrave;rent
+            &agrave; la t&ecirc;te, et le charg&egrave;rent d&rsquo;outrages. </ab>
+        <ab n="5">Il en envoya de nouveau un autre, qu&rsquo;ils tu&egrave;rent ; puis plusieurs
+            autres dont ils battirent les uns, et tu&egrave;rent les autres. </ab>
+        <ab n="6">Enfin, ayant encore un fils unique, qui lui &eacute;tait tr&egrave;s cher, il
+            le leur envoya aussi en dernier lieu, disant : Ils respecteront mon fils. </ab>
+        <ab n="7">Mais les vignerons dirent entre eux : Voici l&rsquo;h&eacute;ritier ; venez,
+            tuons-le, et l&rsquo;h&eacute;ritage sera &agrave; nous. </ab>
+        <ab n="8">Et s&rsquo;&eacute;tant saisis de lui, ils le tu&egrave;rent, et le
+            jet&egrave;rent hors de la vigne. </ab>
+        <ab n="9">Que fera donc le ma&icirc;tre de la vigne ? Il viendra, et fera p&eacute;rir
+            les vignerons, et il donnera la vigne &agrave; d&rsquo;autres. </ab>
+        <ab n="10">N&rsquo;avez-vous pas lu cette parole de l&rsquo;Ecriture : La pierre
+            rejet&eacute;e par ceux qui b&acirc;tissaient est devenue la t&ecirc;te de l&rsquo;angle
+            ; </ab>
+        <ab n="11">c&rsquo;est le Seigneur qui a fait cela, et c&rsquo;est une merveille
+            &agrave; nos yeux ? </ab>
+        <ab n="12">Et ils cherchaient &agrave; s&rsquo;emparer de lui, mais ils craignirent la
+            foule ; car ils comprirent que c&rsquo;&eacute;tait pour eux qu&rsquo;il avait dit cette
+            parabole. Et l&rsquo;ayant laiss&eacute;, ils s&rsquo;en all&egrave;rent. </ab>
+        <ab n="13">Ils envoy&egrave;rent aupr&egrave;s de lui quelques-uns des pharisiens et des
+            h&eacute;rodiens, pour le surprendre dans ses paroles. </ab>
+        <ab n="14">Et ils vinrent lui dire : Ma&icirc;tre, nous savons que vous &ecirc;tes
+            v&eacute;ridique, et que vous n&rsquo;avez souci de qui que ce soit ; car vous ne
+            consid&eacute;rez pas l&rsquo;apparence des personnes, mais vous enseignez la voie de
+            Dieu selon la v&eacute;rit&eacute;. Est-il permis de payer le tribut &agrave;
+            C&eacute;sar, ou ne le payerons-nous pas ? </ab>
+        <ab n="15">Connaissant leur hypocrisie, il leur dit : Pourquoi me tentez-vous ?
+            Apportez-moi un denier, afin que je le voie. </ab>
+        <ab n="16">Ils lui en apport&egrave;rent un. Et il leur dit : De qui est cette image et
+            cette inscription ? Ils lui dirent : De C&eacute;sar. </ab>
+        <ab n="17">J&eacute;sus leur r&eacute;pondit : Rendez donc &agrave; C&eacute;sar ce qui
+            est &agrave; C&eacute;sar, et &agrave; Dieu ce qui est &agrave; Dieu. Et ils
+            &eacute;taient dans l&rsquo;&eacute;tonnement &agrave; son sujet. </ab>
+        <ab n="18">Alors les sadduc&eacute;ens, qui disent qu&rsquo;il n&rsquo;y a pas de
+            r&eacute;surrection, vinrent aupr&egrave;s de lui, et ils l&rsquo;interrogeaient, en
+            disant : </ab>
+        <ab n="19">Ma&icirc;tre, Mo&iuml;se a &eacute;crit pour nous que, si un homme meurt,
+            laissant sa femme sans enfants, son fr&egrave;re doit &eacute;pouser cette femme, et
+            susciter une post&eacute;rit&eacute; &agrave; son fr&egrave;re. </ab>
+        <ab n="20">Or il y avait sept fr&egrave;res ; et le premier prit une femme, et mourut
+            sans laisser de post&eacute;rit&eacute;. </ab>
+        <ab n="21">Le second la prit ensuite, et mourut, et ne laissa pas non plus de
+            post&eacute;rit&eacute;. Et le troisi&egrave;me de m&ecirc;me. </ab>
+        <ab n="22">Et les sept la prirent pareillement, et ne laiss&egrave;rent pas de
+            post&eacute;rit&eacute;. La femme mourut aussi, la derni&egrave;re de tous. </ab>
+        <ab n="23">A la r&eacute;surrection, lorsqu&rsquo;ils seront ressuscit&eacute;s, duquel
+            d&rsquo;entre eux sera-t-elle la femme ? car tous les sept l&rsquo;ont eue pour femme. </ab>
+        <ab n="24">Et J&eacute;sus leur r&eacute;pondit : N&rsquo;&ecirc;tes-vous pas dans
+            l&rsquo;erreur, parce que vous ne comprenez ni les Ecritures, ni la puissance de Dieu ? </ab>
+        <ab n="25">Car, lorsqu&rsquo;ils seront ressuscit&eacute;s d&rsquo;entre les morts, les
+            hommes ne prendront pas de femmes, ni les femmes de maris, mais ils seront comme les
+            anges dans le ciel. </ab>
+        <ab n="26">Et quant &agrave; la r&eacute;surrection des morts, n&rsquo;avez-vous pas lu
+            dans le livre de Mo&iuml;se, &agrave; l&rsquo;endroit du buisson, ce que Dieu lui dit :
+            Je suis le Dieu d&rsquo;Abraham, et le Dieu d&rsquo;Isaac, et le Dieu de Jacob ? </ab>
+        <ab n="27">Or il n&rsquo;est pas le Dieu des morts, mais des vivants. Vous &ecirc;tes
+            donc dans une grande erreur. </ab>
+        <ab n="28">Alors s&rsquo;approcha un des scribes, qui les avait entendus disputer, et
+            voyant que J&eacute;sus leur avait bien r&eacute;pondu, il lui demanda quel &eacute;tait
+            le premier de tous les commandements. </ab>
+        <ab n="29">J&eacute;sus lui r&eacute;pondit : Le premier de tous les commandements est
+            celui-ci : Ecoute, Isra&euml;l ; le Seigneur ton Dieu est le Dieu unique ; </ab>
+        <ab n="30">et tu aimeras le Seigneur ton Dieu de tout ton c&oelig;ur, et de toute ton
+            &acirc;me, et de tout ton esprit, et de toute ta force. C&rsquo;est l&agrave; le premier
+            commandement. </ab>
+        <ab n="31">Le second lui est semblable : Tu aimeras ton prochain comme toi-m&ecirc;me.
+            Il n&rsquo;y a pas d&rsquo;autre commandement plus grand que ceux-l&agrave;. </ab>
+        <ab n="32">Le scribe lui dit : Bien, ma&icirc;tre ; vous avez dit avec
+            v&eacute;rit&eacute; qu&rsquo;il n&rsquo;y a qu&rsquo;un seul Dieu, et qu&rsquo;il
+            n&rsquo;y en a pas d&rsquo;autre que lui, </ab>
+        <ab n="33">et qu&rsquo;on doit l&rsquo;aimer de tout son c&oelig;ur, et de tout son
+            esprit, et de toute son &acirc;me, et de toute sa force, et qu&rsquo;aimer le prochain
+            comme soi-m&ecirc;me est quelque chose de plus grand que tous les holocaustes et les
+            sacrifices. </ab>
+        <ab n="34">J&eacute;sus, voyant qu&rsquo;il avait sagement r&eacute;pondu, lui dit : Tu
+            n&rsquo;es pas loin du royaume de Dieu. Et personne n&rsquo;osait plus lui adresser de
+            question. </ab>
+        <ab n="35">Mais J&eacute;sus, enseignant dans le temple, disait : Comment les scribes
+            disent-ils que le Christ est le fils de David ? </ab>
+        <ab n="36">Car David lui-m&ecirc;me a dit par le Saint-Esprit : Le Seigneur a dit
+            &agrave; mon Seigneur : Assieds-toi &agrave; ma droite, jusqu&rsquo;&agrave; ce que je
+            fasse de tes ennemis l&rsquo;escabeau de tes pieds ? </ab>
+        <ab n="37">Ainsi, David lui-m&ecirc;me l&rsquo;appelle Seigneur ; comment donc est-il
+            son fils ? La foule, qui &eacute;tait nombreuse, l&rsquo;&eacute;coutait avec plaisir. </ab>
+        <ab n="38">Et il leur disait dans son enseignement : Gardez-vous des scribes, qui aiment
+            &agrave; se promener v&ecirc;tus de longues robes, et &agrave; &ecirc;tre salu&eacute;s
+            sur la place publique ; </ab>
+        <ab n="39">&agrave; occuper les premi&egrave;res chaires dans les synagogues et les
+            premi&egrave;res places dans les festins ; </ab>
+        <ab n="40">qui d&eacute;vorent les maisons des veuves, sous pr&eacute;texte de longues
+            pri&egrave;res : ils subiront un jugement plus prolong&eacute; (s&eacute;v&egrave;re). </ab>
+        <ab n="41">Apr&egrave;s cela J&eacute;sus, s&rsquo;&eacute;tant assis vis-&agrave;-vis
+            du tronc, regardait comment la foule y jetait de l&rsquo;argent ; et beaucoup de riches
+            en jetaient beaucoup. </ab>
+        <ab n="42">Il vint aussi une pauvre veuve, qui y mit deux petites pi&egrave;ces, valant
+            le quart d&rsquo;un as. </ab>
+        <ab n="43">Alors J&eacute;sus, appelant ses disciples, leur dit : En
+            v&eacute;rit&eacute;, je vous le dis, cette pauvre veuve a plus donn&eacute; que tous
+            ceux qui ont mis dans le tronc. </ab>
+        <ab n="44">Car tous ont mis de leur superflu ; mais elle a donn&eacute;, de son
+            indigence m&ecirc;me, tout ce qu&rsquo;elle poss&eacute;dait, tout ce qu&rsquo;elle
+            avait pour vivre. </ab>
+    </div>
+    <div type="chapter" n="13">
+        <ab n="1">Comme il sortait du temple, un des disciples lui dit : Ma&icirc;tre, regardez
+            quelles pierres et quelles constructions. </ab>
+        <ab n="2">J&eacute;sus, r&eacute;pondant, lui dit : Tu vois tous ces grands
+            &eacute;difices ? Il n&rsquo;en restera pas pierre sur pierre qui ne soit
+            renvers&eacute;e. </ab>
+        <ab n="3">Et comme ils &eacute;taient assis sur la montagne des Oliviers, en face du
+            temple, Pierre, Jacques, Jean et Andr&eacute; lui demand&egrave;rent en particulier : </ab>
+        <ab n="4">Dites-nous quand cela arrivera, et quel signe il y aura quand toutes ces
+            choses commenceront &agrave; s&rsquo;accomplir. </ab>
+        <ab n="5">Et J&eacute;sus, leur r&eacute;pondant, se mit &agrave; dire : Prenez garde
+            que personne ne vous s&eacute;duise. </ab>
+        <ab n="6">Car beaucoup viendront sous mon nom, disant : C&rsquo;est moi le Christ ; et
+            ils s&eacute;duiront beaucoup de monde. </ab>
+        <ab n="7">Quand vous entendrez parler de guerres et de bruits de guerres, ne craignez
+            pas ; car il faut que ces choses arrivent, mais ce ne sera pas encore la fin. </ab>
+        <ab n="8">Car on verra se soulever nation contre nation et royaume contre royaume, et il
+            y aura des tremblements de terre en divers lieux, et des famines. Ce sera l&agrave; le
+            commencement des douleurs. </ab>
+        <ab n="9">Pour vous, prenez garde &agrave; vous-m&ecirc;mes ; car on vous livrera aux
+            tribunaux et vous serez battus dans les synagogues, et vous compara&icirc;trez devant
+            les gouverneurs et devant les rois &agrave; cause de moi, pour me rendre
+            t&eacute;moignage devant eux. </ab>
+        <ab n="10">Il faut auparavant que l&rsquo;Evangile soit pr&ecirc;ch&eacute; &agrave;
+            toutes les nations. </ab>
+        <ab n="11">Et lorsqu&rsquo;on vous emm&egrave;nera pour vous livrer, ne pensez pas
+            d&rsquo;avance &agrave; ce que vous direz ; mais dites ce qui vous sera inspir&eacute;
+            &agrave; l&rsquo;heure m&ecirc;me, car ce n&rsquo;est pas vous qui parlerez, mais
+            l&rsquo;Esprit-Saint. </ab>
+        <ab n="12">Alors le fr&egrave;re livrera son fr&egrave;re &agrave; la mort, et le
+            p&egrave;re son fils ; les enfants s&rsquo;&eacute;l&egrave;veront contre leurs parents,
+            et les feront mourir. </ab>
+        <ab n="13">Et vous serez ha&iuml;s de tout le monde &agrave; cause de mon nom ; mais
+            celui qui pers&eacute;v&eacute;rera jusqu&rsquo;&agrave; la fin sera sauv&eacute;. </ab>
+        <ab n="14">Or, quand vous verrez l&rsquo;abomination de la d&eacute;solation
+            &eacute;tablie l&agrave; o&ugrave; elle ne doit pas &ecirc;tre (que celui qui lit
+            entende), alors que tous ceux qui sont dans la Jud&eacute;e s&rsquo;enfuient sur les
+            montagnes ; </ab>
+        <ab n="15">que celui qui sera sur le toit ne descende pas dans sa maison, et n&rsquo;y
+            entre pas pour en emporter quelque chose ; </ab>
+        <ab n="16">et que celui qui sera dans les champs ne retourne pas en arri&egrave;re pour
+            prendre son v&ecirc;tement. </ab>
+        <ab n="17">Malheur aux femmes qui seront enceintes ou qui allaiteront en ces
+            jours-l&agrave; ! </ab>
+        <ab n="18">Priez pour que ces choses n&rsquo;arrivent pas en hiver. </ab>
+        <ab n="19">Car les tribulations de ces jours seront telles, qu&rsquo;il n&rsquo;y en a
+            pas eu de semblables depuis le commencement du monde que Dieu a cr&eacute;&eacute;,
+            jusqu&rsquo;&agrave; pr&eacute;sent, et qu&rsquo;il n&rsquo;y en aura jamais. </ab>
+        <ab n="20">Et si le Seigneur n&rsquo;avait abr&eacute;g&eacute; ces jours, aucune chair
+            n&rsquo;aurait &eacute;t&eacute; sauv&eacute;e ; mais, &agrave; cause des &eacute;lus
+            qu&rsquo;il a choisis, il a abr&eacute;g&eacute; ces jours. </ab>
+        <ab n="21">Et alors, si quelqu&rsquo;un vous dit : Voici que le Christ est ici, voici
+            qu&rsquo;il est l&agrave; ; ne le croyez pas. </ab>
+        <ab n="22">Car il s&rsquo;&eacute;l&egrave;vera de faux christs et de faux
+            proph&egrave;tes, qui feront des prodiges et des miracles pour s&eacute;duire,
+            s&rsquo;il &eacute;tait possible, les &eacute;lus eux-m&ecirc;mes. </ab>
+        <ab n="23">Vous donc, prenez garde ; voici que je vous ai tout pr&eacute;dit. </ab>
+        <ab n="24">Mais en ces jours-l&agrave;, apr&egrave;s cette tribulation, le soleil
+            s&rsquo;obscurcira, et la lune ne donnera plus sa lumi&egrave;re ; </ab>
+        <ab n="25">les &eacute;toiles du ciel tomberont, et les puissances qui sont dans les
+            cieux seront &eacute;branl&eacute;es. </ab>
+        <ab n="26">Et alors on verra le Fils de l&rsquo;homme venant sur les nu&eacute;es, avec
+            une grande puissance et une grande gloire. </ab>
+        <ab n="27">Et alors il enverra ses anges, et il rassemblera ses &eacute;lus des quatre
+            vents, de l&rsquo;extr&eacute;mit&eacute; de la terre &agrave;
+            l&rsquo;extr&eacute;mit&eacute; du ciel. </ab>
+        <ab n="28">Apprenez une comparaison tir&eacute;e du figuier. Lorsque ses branches sont
+            d&eacute;j&agrave; tendres et que ses feuilles viennent de na&icirc;tre, vous savez que
+            l&rsquo;&eacute;t&eacute; est proche ; </ab>
+        <ab n="29">de m&ecirc;me, lorsque vous verrez ces choses arriver, sachez que c&rsquo;est
+            proche, &agrave; la porte. </ab>
+        <ab n="30">En v&eacute;rit&eacute;, je vous le dis, cette g&eacute;n&eacute;ration ne
+            passera pas, que toutes ces choses n&rsquo;arrivent. </ab>
+        <ab n="31">Le ciel et la terre passeront, mais mes paroles ne passeront pas. </ab>
+        <ab n="32">Quant &agrave; ce jour ou &agrave; cette heure nul ne sait rien, ni les anges
+            dans le ciel, ni le Fils, mais le P&egrave;re seul. </ab>
+        <ab n="33">Prenez garde, veillez et priez, car vous ne savez quand ce temps viendra. </ab>
+        <ab n="34">Il en sera comme d&rsquo;un homme qui, s&rsquo;en allant au loin, laisse sa
+            maison et remet l&rsquo;autorit&eacute; &agrave; ses serviteurs, marquant &agrave;
+            chacun sa t&acirc;che, et ordonne au portier de veiller. </ab>
+        <ab n="35">Veillez donc, car vous ne savez pas quand viendra le ma&icirc;tre de la
+            maison, si ce sera le soir, ou au milieu de la nuit, ou au chant du coq, ou le matin ; </ab>
+        <ab n="36">de peur que, survenant tout &agrave; coup, il ne vous trouve endormis. </ab>
+        <ab n="37">Ce que je vous dis, je le dis &agrave; tous : Veillez. </ab>
+    </div>
+    <div type="chapter" n="14">
+        <ab n="1">Or, deux jours apr&egrave;s, c&rsquo;&eacute;taient la P&acirc;que et les
+            Azymes, et les princes des pr&ecirc;tres et les scribes cherchaient comment ils se
+            saisiraient de J&eacute;sus par ruse, et le feraient mourir. </ab>
+        <ab n="2">Mais ils disaient : Que ce ne soit pas le jour de la f&ecirc;te, de peur
+            qu&rsquo;il ne s&rsquo;&eacute;l&egrave;ve quelque tumulte parmi le peuple. </ab>
+        <ab n="3">Comme J&eacute;sus &eacute;tait &agrave; B&eacute;thanie, dans la maison de
+            Simon le l&eacute;preux, et qu&rsquo;il &eacute;tait &agrave; table, une femme entra,
+            portant un vase d&rsquo;alb&acirc;tre plein d&rsquo;un parfum pr&eacute;cieux, de nard
+            d&rsquo;&eacute;pi, et ayant rompu le vase, elle r&eacute;pandit le parfum sur la
+            t&ecirc;te de J&eacute;sus. </ab>
+        <ab n="4">Or il y en avait l&agrave; quelques-uns qui s&rsquo;indign&egrave;rent en
+            eux-m&ecirc;mes, et qui disaient : A quoi bon perdre ainsi ce parfum ? </ab>
+        <ab n="5">Car on pouvait vendre ce parfum plus de trois cents deniers, et les donner aux
+            pauvres. Et ils s&rsquo;irritaient contre elle. </ab>
+        <ab n="6">Mais J&eacute;sus dit : Laissez-la ; pourquoi lui faites-vous de la peine ?
+            Elle a fait une bonne &oelig;uvre &agrave; mon &eacute;gard. </ab>
+        <ab n="7">Car vous avez toujours des pauvres avec vous, et quand vous voudrez, vous
+            pourrez leur faire du bien ; mais moi, vous ne m&rsquo;aurez pas toujours. </ab>
+        <ab n="8">Ce qu&rsquo;elle a pu, elle l&rsquo;a fait ; elle a d&rsquo;avance
+            embaum&eacute; mon corps pour la s&eacute;pulture. </ab>
+        <ab n="9">En v&eacute;rit&eacute;, je vous le dis, partout o&ugrave; sera
+            pr&ecirc;ch&eacute; cet Evangile, dans le monde entier, on racontera aussi, en
+            m&eacute;moire de cette femme, ce qu&rsquo;elle a fait. </ab>
+        <ab n="10">Alors Judas Iscariote, l&rsquo;un des douze, s&rsquo;en alla vers les princes
+            des pr&ecirc;tres, pour leur livrer J&eacute;sus. </ab>
+        <ab n="11">Apr&egrave;s l&rsquo;avoir entendu, ils se r&eacute;jouirent, et promirent de
+            lui donner de l&rsquo;argent. Et il cherchait une occasion favorable pour le livrer. </ab>
+        <ab n="12">Le premier jour des Azymes, o&ugrave; on immolait la p&acirc;que, les
+            disciples lui dirent : O&ugrave; voulez-vous que nous allions vous pr&eacute;parer ce
+            qu&rsquo;il faut pour manger la p&acirc;que ? </ab>
+        <ab n="13">Et il envoya deux de ses disciples, et leur dit : Allez &agrave; la ville, et
+            vous rencontrerez un homme portant une cruche d&rsquo;eau ; suivez-le, </ab>
+        <ab n="14">et en quelque lieu qu&rsquo;il entre, dites au ma&icirc;tre de la maison : Le
+            Ma&icirc;tre dit : O&ugrave; est le lieu o&ugrave; je pourrai manger la p&acirc;que avec
+            mes disciples ? </ab>
+        <ab n="15">Et il vous montrera une grande chambre haute, toute meubl&eacute;e ;
+            l&agrave; faites-nous les pr&eacute;paratifs. </ab>
+        <ab n="16">Ses disciples s&rsquo;en all&egrave;rent donc et vinrent dans la ville ; et
+            ils trouv&egrave;rent les choses comme il le leur avait dit, et ils
+            pr&eacute;par&egrave;rent la p&acirc;que. </ab>
+        <ab n="17">Le soir &eacute;tant venu, il se rendit l&agrave; avec les douze. </ab>
+        <ab n="18">Et tandis qu&rsquo;ils &eacute;taient &agrave; table et qu&rsquo;ils
+            mangeaient, J&eacute;sus dit : En v&eacute;rit&eacute;, je vous le dis : l&rsquo;un de
+            vous qui mange avec moi me trahira. </ab>
+        <ab n="19">Ils commenc&egrave;rent &agrave; s&rsquo;attrister, et &agrave; lui dire
+            l&rsquo;un apr&egrave;s l&rsquo;autre : Est-ce moi ? </ab>
+        <ab n="20">Il leur r&eacute;pondit : C&rsquo;est l&rsquo;un des douze, qui met avec moi
+            la main au plat. </ab>
+        <ab n="21">Pour le Fils de l&rsquo;homme, il s&rsquo;en va selon ce qui a
+            &eacute;t&eacute; &eacute;crit de lui ; mais malheur &agrave; l&rsquo;homme par qui le
+            Fils de l&rsquo;homme sera trahi ! Mieux vaudrait pour cet homme qu&rsquo;il ne
+            f&ucirc;t pas n&eacute;. </ab>
+        <ab n="22">Pendant qu&rsquo;ils mangeaient, J&eacute;sus prit du pain, et l&rsquo;ayant
+            b&eacute;ni, il le rompit et le leur donna, en disant : Prenez, ceci est mon corps. </ab>
+        <ab n="23">Et ayant pris le calice et rendu gr&acirc;ces, il le leur donna, et ils en
+            burent tous. </ab>
+        <ab n="24">Et il leur dit : Ceci est mon sang, le sang de la nouvelle alliance, qui sera
+            r&eacute;pandu pour un grand nombre. </ab>
+        <ab n="25">En v&eacute;rit&eacute;, je vous le dis, d&eacute;sormais je ne boirai plus
+            du fruit de la vigne jusqu&rsquo;au jour o&ugrave; j&rsquo;en boirai du nouveau dans le
+            royaume de Dieu. </ab>
+        <ab n="26">Et apr&egrave;s avoir dit l&rsquo;hymne, ils s&rsquo;en all&egrave;rent
+            &agrave; la montagne des Oliviers. </ab>
+        <ab n="27">Et J&eacute;sus leur dit : Vous serez tous scandalis&eacute;s cette nuit
+            &agrave; mon sujet, car il est &eacute;crit : Je frapperai le pasteur, et les brebis
+            seront dispers&eacute;es. </ab>
+        <ab n="28">Mais, apr&egrave;s que je serai ressuscit&eacute;, je vous
+            pr&eacute;c&eacute;derai en Galil&eacute;e. </ab>
+        <ab n="29">Or Pierre lui dit : Quand tous seraient scandalis&eacute;s &agrave; votre
+            sujet, je ne le serai pas. </ab>
+        <ab n="30">Et J&eacute;sus lui dit : En v&eacute;rit&eacute;, je te le dis,
+            aujourd&rsquo;hui, pendant cette nuit, avant que le coq ait chant&eacute; deux fois, tu
+            me renieras trois fois. </ab>
+        <ab n="31">Mais Pierre insistait encore davantage : Quand il me faudrait mourir avec
+            vous, je ne vous renierai pas. Et tous disaient la m&ecirc;me chose. </ab>
+        <ab n="32">Ils all&egrave;rent ensuite dans une propri&eacute;t&eacute; appel&eacute;e
+            Geths&eacute;mani. Et il dit &agrave; ses disciples : Asseyez-vous ici, pendant que je
+            prierai. </ab>
+        <ab n="33">Et il prit avec lui Pierre, Jacques et Jean, et il commen&ccedil;a &agrave;
+            &ecirc;tre saisi de frayeur et d&rsquo;angoisse. </ab>
+        <ab n="34">Et il leur dit : Mon &acirc;me est triste jusqu&rsquo;&agrave; la mort ;
+            demeurez ici, et veillez. </ab>
+        <ab n="35">Et s&rsquo;&eacute;tant avanc&eacute; un peu, il se prosterna contre terre,
+            et il priait pour que, s&rsquo;il &eacute;tait possible, cette heure
+            s&rsquo;&eacute;loign&acirc;t de lui. </ab>
+        <ab n="36">Et il dit : Abba, P&egrave;re, tout vous est possible ; transportez ce calice
+            loin de moi ; toutefois, non pas ce que je veux, mais ce que vous voulez. </ab>
+        <ab n="37">Il vint vers les disciples, et il les trouva endormis. Et il dit &agrave;
+            Pierre : Simon, tu dors ? Tu n&rsquo;as pas pu veiller une heure ? </ab>
+        <ab n="38">Veillez et priez, afin que vous n&rsquo;entriez pas en tentation.
+            L&rsquo;esprit est prompt, mais la chair est faible. </ab>
+        <ab n="39">Et, s&rsquo;en allant de nouveau, il pria, redisant les m&ecirc;mes paroles. </ab>
+        <ab n="40">Et &eacute;tant venu, il les trouva encore endormis ; car leurs yeux
+            &eacute;taient appesantis de sommeil, et ils ne savaient que lui r&eacute;pondre. </ab>
+        <ab n="41">Il revint pour la troisi&egrave;me fois, et il leur dit : Dormez maintenant
+            et reposez-vous. C&rsquo;est assez, l&rsquo;heure est venue ; voici que le Fils de
+            l&rsquo;homme va &ecirc;tre livr&eacute; aux mains des p&eacute;cheurs. </ab>
+        <ab n="42">Levez-vous, allons ; voici que celui qui me livrera est proche. </ab>
+        <ab n="43">Et comme il parlait encore, Judas Iscariote, l&rsquo;un des douze, vint, et
+            avec lui une grande foule, arm&eacute;e d&rsquo;&eacute;p&eacute;es et de b&acirc;tons,
+            envoy&eacute;e par les grands pr&ecirc;tres, et les scribes, et les anciens. </ab>
+        <ab n="44">Or celui qui le trahissait leur avait donn&eacute; ce signal, en disant :
+            Celui que je baiserai, c&rsquo;est lui ; saisissez-le, et emmenez-le avec
+            pr&eacute;caution. </ab>
+        <ab n="45">Etant donc arriv&eacute;, il s&rsquo;approcha aussit&ocirc;t de J&eacute;sus,
+            et dit : Ma&icirc;tre, je vous salue. Et il le baisa. </ab>
+        <ab n="46">Alors ils mirent les mains sur J&eacute;sus, et le saisirent. </ab>
+        <ab n="47">Un de ceux qui &eacute;taient pr&eacute;sents, tirant son &eacute;p&eacute;e,
+            frappa le serviteur du grand pr&ecirc;tre, et lui coupa l&rsquo;oreille. </ab>
+        <ab n="48">J&eacute;sus, prenant la parole, leur dit : Vous &ecirc;tes venus, comme
+            contre un voleur, arm&eacute;s d&rsquo;&eacute;p&eacute;es et de b&acirc;tons, pour me
+            prendre. </ab>
+        <ab n="49">Tous les jours j&rsquo;&eacute;tais au milieu de vous, enseignant dans le
+            temple, et vous ne m&rsquo;avez pas arr&ecirc;t&eacute; ; mais c&rsquo;est pour que les
+            Ecritures soient accomplies. </ab>
+        <ab n="50">Alors ses disciples, l&rsquo;abandonnant, s&rsquo;enfuirent tous. </ab>
+        <ab n="51">Cependant un jeune homme le suivait, couvert seulement d&rsquo;un drap, et
+            ils le saisirent. </ab>
+        <ab n="52">Mais lui, rejetant le drap, s&rsquo;enfuit nu de leurs mains. </ab>
+        <ab n="53">Ils emmen&egrave;rent J&eacute;sus chez le grand pr&ecirc;tre, o&ugrave;
+            s&rsquo;assembl&egrave;rent tous les pr&ecirc;tres, les scribes et les anciens. </ab>
+        <ab n="54">Pierre le suivit de loin, jusque dans la cour du grand pr&ecirc;tre, et il
+            s&rsquo;assit aupr&egrave;s du feu avec les serviteurs, et il se chauffait. </ab>
+        <ab n="55">Cependant les princes des pr&ecirc;tres et tout le conseil cherchaient un
+            t&eacute;moignage contre J&eacute;sus pour le faire mourir ; et ils n&rsquo;en
+            trouvaient pas. </ab>
+        <ab n="56">Car beaucoup rendaient de faux t&eacute;moignages contre lui ; mais les
+            t&eacute;moignages ne s&rsquo;accordaient pas. </ab>
+        <ab n="57">Quelques-uns, se levant, port&egrave;rent un faux t&eacute;moignage contre
+            lui, en disant : </ab>
+        <ab n="58">Nous l&rsquo;avons entendu dire : Je d&eacute;truirai ce temple, fait de main
+            d&rsquo;homme, et en trois jours j&rsquo;en b&acirc;tirai un autre, qui ne sera pas fait
+            de main d&rsquo;homme. </ab>
+        <ab n="59">Mais leur t&eacute;moignage ne concordait pas. </ab>
+        <ab n="60">Alors le grand pr&ecirc;tre, se levant au milieu de l&rsquo;assembl&eacute;e,
+            interrogea J&eacute;sus, en disant : Tu ne r&eacute;ponds rien &agrave; ce que ces
+            hommes d&eacute;posent contre toi ? </ab>
+        <ab n="61">Mais J&eacute;sus se taisait, et il ne r&eacute;pondit rien. Le grand
+            pr&ecirc;tre l&rsquo;interrogea de nouveau, et lui dit : Es-tu le Christ, le Fils du
+            Dieu b&eacute;ni ? </ab>
+        <ab n="62">J&eacute;sus lui r&eacute;pondit : Je le suis ; et vous verrez le Fils de
+            l&rsquo;homme assis &agrave; la droite de la puissance de Dieu, et venant sur les
+            nu&eacute;es du ciel. </ab>
+        <ab n="63">Alors le grand pr&ecirc;tre, d&eacute;chirant ses v&ecirc;tements, dit :
+            Qu&rsquo;avons-nous encore besoin de t&eacute;moins ? </ab>
+        <ab n="64">Vous avez entendu le blasph&egrave;me ; que vous en semble ? Tous le
+            condamn&egrave;rent comme m&eacute;ritant la mort. </ab>
+        <ab n="65">Alors quelques-uns commenc&egrave;rent &agrave; cracher sur lui, et &agrave;
+            lui voiler le visage, et &agrave; le frapper &agrave; coups de poing, et &agrave; lui
+            dire : Proph&eacute;tise. Et les valets le meurtrissaient de soufflets. </ab>
+        <ab n="66">Tandis que Pierre &eacute;tait en bas dans la cour, une des servantes du
+            grand pr&ecirc;tre survint ; </ab>
+        <ab n="67">et ayant vu Pierre qui se chauffait, elle le regarda, et dit : Toi aussi, tu
+            &eacute;tais avec J&eacute;sus de Nazareth. </ab>
+        <ab n="68">Mais il le nia, en disant : Je ne sais pas et je ne comprends pas ce que tu
+            dis. Et il sortit dehors, devant la cour, et le coq chanta. </ab>
+        <ab n="69">La servante, l&rsquo;ayant vu de nouveau, se mit &agrave; dire &agrave; ceux
+            qui &eacute;taient pr&eacute;sents : Celui-ci est un d&rsquo;entre eux. </ab>
+        <ab n="70">Mais il le nia de nouveau. Et peu apr&egrave;s, ceux qui &eacute;taient
+            pr&eacute;sents dirent encore &agrave; Pierre : Certainement tu es un d&rsquo;entre eux,
+            car tu es aussi Galil&eacute;en. </ab>
+        <ab n="71">Il se mit alors &agrave; faire des impr&eacute;cations, et &agrave; dire avec
+            serment : Je ne connais pas cet homme dont vous parlez. </ab>
+        <ab n="72">Et aussit&ocirc;t le coq chanta de nouveau. Et Pierre se souvint de la parole
+            que J&eacute;sus lui avait dite : Avant que le coq chante deux fois, tu me renieras
+            trois fois. Et il se mit &agrave; pleurer.</ab>
+    </div>
+    <div type="chapter" n="15">
+        <ab n="1">D&egrave;s le matin, les princes des pr&ecirc;tres, ayant
+            d&eacute;lib&eacute;r&eacute; avec les anciens, et les scribes, et tout le conseil,
+            li&egrave;rent J&eacute;sus, l&rsquo;emmen&egrave;rent, et le livr&egrave;rent &agrave;
+            Pilate. </ab>
+        <ab n="2">Et Pilate l&rsquo;interrogea : Es-tu le roi des Juifs ? J&eacute;sus lui
+            r&eacute;pondit : Tu le dis. </ab>
+        <ab n="3">Les princes des pr&ecirc;tres l&rsquo;accus&egrave;rent de beaucoup de choses. </ab>
+        <ab n="4">Pilate l&rsquo;interrogea de nouveau, en disant : Tu ne r&eacute;ponds rien ?
+            Vois de combien de choses ils t&rsquo;accusent. </ab>
+        <ab n="5">Mais J&eacute;sus ne r&eacute;pondit plus rien, de sorte que Pilate
+            &eacute;tait &eacute;tonn&eacute;. </ab>
+        <ab n="6">Or, le jour de la f&ecirc;te, il avait coutume de leur d&eacute;livrer un des
+            prisonniers, celui qu&rsquo;ils demandaient. </ab>
+        <ab n="7">Il y en avait un, nomm&eacute; Barabbas, qui avait &eacute;t&eacute;
+            emprisonn&eacute; avec des s&eacute;ditieux, pour un meurtre qu&rsquo;il avait commis
+            dans une &eacute;meute. </ab>
+        <ab n="8">La foule, &eacute;tant mont&eacute;e, se mit &agrave; r&eacute;clamer ce
+            qu&rsquo;il leur accordait toujours. </ab>
+        <ab n="9">Pilate leur r&eacute;pondit, et dit : Voulez-vous que je vous d&eacute;livre
+            le toi des Juifs ? </ab>
+        <ab n="10">Car il savait que c&rsquo;&eacute;tait par envie que les princes des
+            pr&ecirc;tres l&rsquo;avaient livr&eacute;. </ab>
+        <ab n="11">Mais les pontifes excit&egrave;rent la foule &agrave; demander qu&rsquo;il
+            d&eacute;livr&acirc;t plut&ocirc;t Barabbas. </ab>
+        <ab n="12">Pilate, prenant de nouveau la parole, leur dit : Que voulez-vous donc que je
+            fasse du toi des Juifs ? </ab>
+        <ab n="13">Mais ils cri&egrave;rent de nouveau : crucifie-le. </ab>
+        <ab n="14">Pilate, cependant, leur disait : Mais quel mal a-t-il fait ? Et ils criaient
+            encore plus fort : Crucifie-le. </ab>
+        <ab n="15">Pilate, voulant satisfaire le peuple, leur remit Barabbas, et apr&egrave;s
+            avoir fait flagell&eacute; J&eacute;sus, il le livra pour &ecirc;tre crucifi&eacute;. </ab>
+        <ab n="16">Alors les soldats le conduisirent dans la cour du pr&eacute;toire ; puis ils
+            rassemblent toute la cohorte. </ab>
+        <ab n="17">Ils le rev&ecirc;t(ir)ent de pourpre, et lui mettent (mirent) sur la
+            t&ecirc;te une couronne d&rsquo;&eacute;pines qu&rsquo;ils avaient tress&eacute;e. </ab>
+        <ab n="18">Ils se mirent ensuite &agrave; le saluer : Salut, roi des Juifs. </ab>
+        <ab n="19">Ils lui frappaient la t&ecirc;te avec un roseau, et crachaient sur lui, et
+            fl&eacute;chissant les genoux, ils l&rsquo;adoraient. </ab>
+        <ab n="20">Apr&egrave;s s&rsquo;&ecirc;tre moqu&eacute;s de lui, ils lui
+            &ocirc;t&egrave;rent la pourpre, et lui remirent ses v&ecirc;tements ; puis ils
+            l&rsquo;emmen&egrave;rent pour le crucifier. </ab>
+        <ab n="21">Et ils contraignirent un certain Simon de Cyr&egrave;ne, p&egrave;re
+            d&rsquo;Alexandre et de Rufus, qui passait par l&agrave; en revenant des champs, de
+            porter la croix de J&eacute;sus. </ab>
+        <ab n="22">Ils le conduisirent ainsi au lieu appel&eacute; Golgotha ; ce qui signifie :
+            lieu du Calvaire. </ab>
+        <ab n="23">Et ils lui donnaient &agrave; boire du vin m&ecirc;l&eacute; de myrrhe ; mais
+            il n&rsquo;en prit pas. </ab>
+        <ab n="24">Apr&egrave;s l&rsquo;avoir crucifi&eacute;, ils partag&egrave;rent ses
+            v&ecirc;tements, tirant au sort ce que chacun en apporterait. </ab>
+        <ab n="25">C&rsquo;&eacute;tait la troisi&egrave;me heure quand ils le
+            crucifi&egrave;rent. </ab>
+        <ab n="26">Et l&rsquo;inscription qui indiquait la cause de sa condamnation portait : Le
+            roi des Juifs. </ab>
+        <ab n="27">Ils crucifi&egrave;rent avec lui deux voleurs, l&rsquo;un &agrave; sa droite,
+            et l&rsquo;autre &agrave; sa gauche. </ab>
+        <ab n="28">Ainsi fut accomplie cette parole de l&rsquo;Ecriture : Il a &eacute;t&eacute;
+            rang&eacute; parmi les criminels. </ab>
+        <ab n="29">Les passants le blasph&eacute;maient, branlant la t&ecirc;te, et disant : Eh
+            ! Toi qui d&eacute;truis le temple de Dieu et qui le reb&acirc;tis en trois jours, </ab>
+        <ab n="30">sauve-toi toi-m&ecirc;me, en descendant de la croix. </ab>
+        <ab n="31">Pareillement, les princes des pr&ecirc;tres, se moquant de lui avec les
+            scribes, se disaient l&rsquo;un &agrave; l&rsquo;autre : Il a sauv&eacute; les autres ;
+            et il ne peut se sauver lui-m&ecirc;me. </ab>
+        <ab n="32">Que le Christ, le roi d&rsquo;Isra&euml;l, descende maintenant de la croix,
+            afin que nous voyions et que nous croyions ! Ceux qui avaient &eacute;t&eacute;
+            crucifi&eacute;s avec lui l&rsquo;insultaient aussi. </ab>
+        <ab n="33">La sixi&egrave;me heure &eacute;tant venue, les t&eacute;n&egrave;bres
+            couvrirent toute la terre, jusqu&rsquo;&agrave; la neuvi&egrave;me heure. </ab>
+        <ab n="34">Et &agrave; la neuvi&egrave;me heure, J&eacute;sus poussa un grand cri, en
+            disant : Elo&iuml;, Elo&iuml;, lamma sabacthani ? Ce qui signifie : Mon Dieu, mon Dieu,
+            pourquoi m&rsquo;avez-vous abandonn&eacute; ? </ab>
+        <ab n="35">Quelques-uns de ceux qui &eacute;taient pr&eacute;sents, l&rsquo;ayant
+            entendu, disaient : Voici qu&rsquo;il appelle Elie. </ab>
+        <ab n="36">Et l&rsquo;un d&rsquo;eux courut, et remplit une &eacute;ponge de vinaigre ;
+            et l&rsquo;ayant mise au bout d&rsquo;un roseau, il lui pr&eacute;sentait &agrave;
+            boire, en disant : Laissez ; voyons si Elie viendra le d&eacute;tacher. </ab>
+        <ab n="37">Mais J&eacute;sus, ayant pouss&eacute; un grand cri, expira. </ab>
+        <ab n="38">Alors le voile du temple se d&eacute;chira en deux, depuis le haut
+            jusqu&rsquo;en bas. </ab>
+        <ab n="39">Et le centurion qui &eacute;tait en face de J&eacute;sus, voyant qu&rsquo;il
+            avait expir&eacute; en poussant ce grand cri, dit : Cet homme &eacute;tait vraiment le
+            Fils de Dieu. </ab>
+        <ab n="40">Il y avait l&agrave; aussi des femmes qui regardaient de loin ; parmi elles
+            &eacute;taient Marie-Madeleine, et Marie, M&egrave;re de Jacques le Mineur et de Joseph,
+            et Salom&eacute;, </ab>
+        <ab n="41">qui le suivaient et le servaient lorsqu&rsquo;il &eacute;tait en
+            Galil&eacute;e ; et beaucoup d&rsquo;autres encore, qui &eacute;taient mont&eacute;es
+            avec lui &agrave; J&eacute;rusalem. </ab>
+        <ab n="42">Le soir &eacute;tant d&eacute;j&agrave; venu, comme c&rsquo;&eacute;tait la
+            pr&eacute;paration, c&rsquo;est-&agrave;-dire la veille du sabbat, </ab>
+        <ab n="43">Joseph d&rsquo;Arimathie, membre distingu&eacute; du conseil, qui attendait,
+            lui aussi, le royaume de Dieu, vint et entra hardiment chez Pilate, et demanda le corps
+            de J&eacute;sus. </ab>
+        <ab n="44">Pilate s&rsquo;&eacute;tonna qu&rsquo;il f&ucirc;t mort si t&ocirc;t ; et
+            ayant fait venir le centurion, il lui demanda s&rsquo;il &eacute;tait d&eacute;j&agrave;
+            mort. </ab>
+        <ab n="45">Et lorsqu&rsquo;il s&rsquo;en fut assur&eacute; par le centurion, il donna le
+            corps &agrave; Joseph. </ab>
+        <ab n="46">Joseph, ayant achet&eacute; un linceul, descendit J&eacute;sus de la croix,
+            l&rsquo;enveloppa dans le linceul, et le d&eacute;posa dans un s&eacute;pulcre qui
+            &eacute;tait taill&eacute; dans le roc ; puis il roula une pierre &agrave;
+            l&rsquo;entr&eacute;e du s&eacute;pulcre. </ab>
+        <ab n="47">Cependant Marie-Madeleine, et Marie, m&egrave;re de Joseph, regardaient
+            o&ugrave; on le mettait.</ab>
+    </div>
+    <div type="chapter" n="16">
+        <ab n="1">Lorsque le sabbat fut pass&eacute;, Marie-Madeleine, et Marie m&egrave;re de
+            Jacques, et Salom&eacute;, achet&egrave;rent des parfums pour venir embaumer
+            J&eacute;sus. </ab>
+        <ab n="2">Et de grand matin, le premier jour apr&egrave;s le sabbat, elles vinrent au
+            s&eacute;pulcre, le soleil &eacute;tant d&eacute;j&agrave; lev&eacute;. </ab>
+        <ab n="3">Et elles disaient entre elles : Qui nous retirera la pierre de devant
+            l&rsquo;entr&eacute;e du s&eacute;pulcre ? </ab>
+        <ab n="4">Et en regardant, elles virent que cette pierre, qui &eacute;tait fort grande,
+            avait &eacute;t&eacute; roul&eacute;e de c&ocirc;t&eacute;. </ab>
+        <ab n="5">Et entrant dans le s&eacute;pulcre, elles virent un jeune homme assis du
+            c&ocirc;t&eacute; droit, v&ecirc;tu d&rsquo;une robe blanche, et elles furent
+            effray&eacute;es. </ab>
+        <ab n="6">Il leur dit : Ne vous effrayez pas ; vous cherchez J&eacute;sus de Nazareth,
+            qui a &eacute;t&eacute; crucifi&eacute; ; il est ressuscit&eacute;, il n&rsquo;est pas
+            ici ; voici le lieu o&ugrave; on l&rsquo;avait mis. </ab>
+        <ab n="7">Mais allez dire &agrave; ses disciples, et &agrave; Pierre, qu&rsquo;il vous
+            pr&eacute;c&egrave;de en Galil&eacute;e ; c&rsquo;est l&agrave; que vous le verrez,
+            comme il vous l&rsquo;a dit. </ab>
+        <ab n="8">Elles sortirent du s&eacute;pulcre, et s&rsquo;enfuirent, car le tremblement
+            et la peur les avaient saisies ; et elles ne dirent rien &agrave; personne, &agrave;
+            cause de leur crainte. </ab>
+        <ab n="9">Or J&eacute;sus, &eacute;tant ressuscit&eacute; le matin, le premier jour
+            apr&egrave;s le sabbat, apparut d&rsquo;abord &agrave; Marie-Madeleine, dont il avait
+            chass&eacute; sept d&eacute;mons. </ab>
+        <ab n="10">Elle alla l&rsquo;annoncer &agrave; ceux qui avaient &eacute;t&eacute; avec
+            lui, et qui s&rsquo;affligeaient et pleuraient. </ab>
+        <ab n="11">Mais eux, entendant dire qu&rsquo;il vivait et qu&rsquo;elle l&rsquo;avait
+            vu, ne crurent pas. </ab>
+        <ab n="12">Apr&egrave;s cela, il apparut, sous une autre forme, &agrave; deux
+            d&rsquo;entre eux, qui &eacute;taient en chemin et qui allaient &agrave; la campagne. </ab>
+        <ab n="13">Et ceux-ci vinrent l&rsquo;annoncer aux autres ; mais ils ne les crurent pas
+            non plus. </ab>
+        <ab n="14">Enfin il apparut aux onze, tandis qu&rsquo;ils &eacute;taient &agrave; table
+            ; et il leur reprocha leur incr&eacute;dulit&eacute; et la duret&eacute; de leur
+            c&oelig;ur, parce qu&rsquo;ils n&rsquo;avaient pas cru ceux qui avaient vu qu&rsquo;il
+            &eacute;tait ressuscit&eacute;. </ab>
+        <ab n="15">Et il leur dit : Allez dans le monde entier, et pr&ecirc;chez
+            l&rsquo;Evangile &agrave; toute cr&eacute;ature. </ab>
+        <ab n="16">Celui qui croira et qui sera baptis&eacute;, sera sauv&eacute; ; mais celui
+            qui ne croira pas sera condamn&eacute;. </ab>
+        <ab n="17">Voici les miracles qui accompagneront ceux qui auront cru : en mon nom, ils
+            chasseront les d&eacute;mons, ils parleront des langues nouvelles, </ab>
+        <ab n="18">ils prendront les serpents, et s&rsquo;ils boivent quelque breuvage mortel,
+            il ne leur fera pas de mal ; ils imposeront les mains sur les malades, et ils seront
+            gu&eacute;ris. </ab>
+        <ab n="19">Le Seigneur J&eacute;sus, apr&egrave;s leur avoir parl&eacute;, fut
+            &eacute;lev&eacute; dans le ciel, et (o&ugrave;) il est assis &agrave; la droite de
+            Dieu. </ab>
+        <ab n="20">Et eux, &eacute;tant partis, pr&ecirc;ch&egrave;rent partout, le Seigneur
+            coop&eacute;rant avec eux, et confirmant leur parole par les miracles dont elle
+            &eacute;tait accompagn&eacute;e.</ab>
+    </div>
+</div>

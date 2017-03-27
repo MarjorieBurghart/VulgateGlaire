@@ -1,0 +1,3711 @@
+<!DOCTYPE definition [
+<!ENTITY rsquo "&#8217;">
+<!ENTITY eacute "é">
+<!ENTITY euml "ë">
+<!ENTITY acirc "â">
+<!ENTITY ecirc "ê">
+<!ENTITY agrave "à">
+<!ENTITY egrave "è">
+<!ENTITY ucirc "û">
+<!ENTITY ugrave "ù">
+<!ENTITY icirc "î">
+<!ENTITY ccedil "ç">
+<!ENTITY iuml "ï">
+<!ENTITY oelig "œ">
+<!ENTITY ocirc "ô">
+<!ENTITY uuml "ü">
+<!ENTITY Eacute "É">
+<!ENTITY nbsp "&#160;">
+
+]>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="book" xml:id="VULGFR_Job">
+
+<div type="chapter" n="1">
+<ab n="1">Il
+y avait dans la terre de Hus un homme qui s&rsquo;appelait Job. Et
+cet homme &eacute;tait simple et droit ; et il craignait Dieu, et
+fuyait le mal. </ab>
+<ab n="2">Et
+il lui naquit sept fils et trois filles. </ab>
+<ab n="3">Il
+poss&eacute;dait sept mille brebis, trois mille chameaux, cinq cents
+paires de b&oelig;ufs, et cinq cents &acirc;nesses, et un tr&egrave;s
+grand nombre de serviteurs. Et cet homme &eacute;tait grand parmi
+tous les Orientaux. </ab>
+<ab n="4">Et
+ses fils allaient (les uns chez les autres), et donnaient un festin
+chacun &agrave; leur jour. Et ils envoyaient prier leurs trois s&oelig;urs
+de venir manger et boire avec eux. </ab>
+<ab n="5">Et
+lorsque (ce cercle des) les jours de festin &eacute;taient
+achev&eacute;s,
+Job envoyait chercher ses enfants, et les purifiait (sanctifiait) ;
+et, se levant de grand matin, il offrait des holocaustes pour chacun
+d&rsquo;eux. Car il disait : Peut-&ecirc;tre mes enfants ont-ils
+p&eacute;ch&eacute;, et ont-ils offens&eacute; Dieu dans leur c&oelig;ur.
+C&rsquo;est ainsi que Job faisait tous les jours. </ab>
+<ab n="6">Or
+les fils de Dieu &eacute;tant venus un jour se pr&eacute;senter
+devant le Seigneur, Satan se trouva aussi parmi eux. </ab>
+<ab n="7">Le
+Seigneur lui dit : D&rsquo;o&ugrave; viens-tu ? Il lui r&eacute;pondit
+: J&rsquo;ai fait le tour de la terre, et je l&rsquo;ai parcourue
+tout enti&egrave;re (travers&eacute;e). </ab>
+<ab n="8">Et
+le Seigneur lui dit : As-tu consid&eacute;r&eacute; mon serviteur
+Job, qui n&rsquo;a pas
+d&rsquo;&eacute;gal sur la terre, qui est un homme simple et droit,
+qui craint Dieu et fuit le mal ? </ab>
+<ab n="9">Satan
+lui r&eacute;pondit : Est-ce pour rien (en vain) que Job craint Dieu
+(le Seigneur) ? </ab>
+<ab n="10">N&rsquo;avez-vous
+pas prot&eacute;g&eacute; de toutes parts sa personne, et sa maison,
+et tous ses biens ? Vous avez b&eacute;ni les &oelig;uvres de ses
+mains, et ses possessions se sont multipli&eacute;es sur la terre.
+</ab>
+<ab n="11">Mais
+&eacute;tendez un peu votre main, et touchez tout ce qui est &agrave;
+lui, et vous verrez s&rsquo;il ne vous maudira pas en face. </ab>
+<ab n="12">Le
+Seigneur r&eacute;pondit &agrave; Satan : Va, tout ce qu&rsquo;il a
+est en ton pouvoir ; seulement ne porte pas la main sur lui. Et Satan
+sortit aussit&ocirc;t de devant le Seigneur. </ab>
+<ab n="13">Un
+jour donc que les fils et les filles de Job mangeaient et buvaient
+dans la maison de leur fr&egrave;re a&icirc;n&eacute;, </ab>
+<ab n="14">un
+messager vint &agrave; Job et lui dit : Les b&oelig;ufs labouraient,
+et les &acirc;nesses
+paissaient aupr&egrave;s d&rsquo;eux, </ab>
+<ab n="15">et
+les Sab&eacute;ens se sont pr&eacute;cipit&eacute;s, ont tout enlev&eacute;,
+et ont pass&eacute; les serviteurs au fil de l&rsquo;&eacute;p&eacute;e
+; et je me suis &eacute;chapp&eacute;, moi seul, pour vous en
+apporter la nouvelle. </ab>
+<ab n="16">Il
+parlait encore, lorsqu&rsquo;un autre vint et dit : Le (Un) feu de
+Dieu est tomb&eacute; du ciel sur les brebis et sur les serviteurs,
+et les a consum&eacute;s, et je me suis &eacute;chapp&eacute; (, moi)
+seul pour vous en apporter la nouvelle. </ab>
+<ab n="17">Il
+parlait encore, lorsqu&rsquo;un autre vint et dit : Les Chald&eacute;ens
+ont form&eacute; trois bandes, se sont jet&eacute;s sur les chameaux
+et les ont enlev&eacute;s, et ils ont pass&eacute; les serviteurs au
+fil de l&rsquo;&eacute;p&eacute;e, et je me suis &eacute;chapp&eacute;
+seul pour vous en apporter la nouvelle. </ab>
+<ab n="18">Il
+parlait encore, quand un autre se pr&eacute;senta et dit : Vos fils
+et vos filles mangeaient et buvaient dans la maison de leur fr&egrave;re
+a&icirc;n&eacute;, </ab>
+<ab n="19">lorsqu&rsquo;un
+vent imp&eacute;tueux s&rsquo;est lev&eacute; tout &agrave; coup du
+c&ocirc;t&eacute; du d&eacute;sert, et a &eacute;branl&eacute; les
+quatre coins de la maison, qui, s&rsquo;&eacute;croulant, a &eacute;cras&eacute;
+vos enfants, et ils sont morts. Et je me suis &eacute;chapp&eacute;
+seul pour vous en apporter la nouvelle. </ab>
+<ab n="20">Alors
+Job se leva et d&eacute;chira ses v&ecirc;tements, et, s&rsquo;&eacute;tant
+ras&eacute; la t&ecirc;te, il se jeta par terre, et adora, </ab>
+<ab n="21">et
+dit : Je suis sorti nu du sein de ma m&egrave;re, et j&rsquo;y
+retournerai nu. Le Seigneur (m&rsquo;) a donn&eacute;, le Seigneur
+(m&rsquo;) a &ocirc;t&eacute; ; il est arriv&eacute; ce qui a plu au
+Seigneur ; que le nom du Seigneur soit b&eacute;ni ! </ab>
+<ab n="22">En
+tout cela Job ne p&eacute;cha pas
+par ses l&egrave;vres, et il ne dit rien d&rsquo;insens&eacute;
+contre Dieu.</ab></div>
+<div type="chapter" n="2">
+<ab n="1">Or
+il arriva que les fils de Dieu &eacute;tant venus un (certain) jour
+se pr&eacute;senter devant le Seigneur, et Satan &eacute;tant aussi
+venu parmi eux se pr&eacute;senter devant le Seigneur, </ab>
+<ab n="2">le
+Seigneur lui dit : D&rsquo;o&ugrave; viens-tu ? Il r&eacute;pondit :
+J&rsquo;ai fait le tour de la terre, et je l&rsquo;ai parcourue tout
+enti&egrave;re (travers&eacute;e). </ab>
+<ab n="3">Le
+Seigneur dit encore &agrave; Satan : As-tu consid&eacute;r&eacute;
+mon serviteur Job, qui n&rsquo;a pas
+d&rsquo;&eacute;gal sur la terre, qui est un homme simple et droit,
+qui craint Dieu et fuit le mal, et qui maintient encore son innocence
+? Cependant tu m&rsquo;as port&eacute; &agrave; agir (excit&eacute;)
+contre lui pour l&rsquo;affliger sans motif. </ab>
+<ab n="4">Satan
+lui r&eacute;pondit : L&rsquo;homme donnera peau pour peau, et tout
+ce qu&rsquo;il a pour sauver sa vie ; </ab>
+<ab n="5">mais
+&eacute;tendez votre main, et frappez ses os et sa chair, et vous
+verrez s&rsquo;il ne vous maudira pas en face. </ab>
+<ab n="6">Le
+Seigneur dit donc &agrave; Satan : Va, (Voil&agrave; qu&rsquo;) il
+est en ta main ; mais ne touche pas
+&agrave; sa vie. </ab>
+<ab n="7">Satan,
+&eacute;tant sorti de devant le Seigneur, frappa Job d&rsquo;un
+ulc&egrave;re malin (d&rsquo;une plaie horrible), depuis la plante
+des pieds jusqu&rsquo;&agrave; la t&ecirc;te. </ab>
+<ab n="8">Et
+Job, assis sur un fumier, &ocirc;tait avec un tesson la pourriture de
+ses ulc&egrave;res (raclait la sanie). </ab>
+<ab n="9">Alors
+sa femme lui dit : Tu demeures encore dans ta simplicit&eacute; ?
+Maudis Dieu, et meurs. </ab>
+<ab n="10">Il
+lui dit : Tu parles comme une femme qui n&rsquo;a pas
+de sens. Si nous avons re&ccedil;u les biens de la main du Seigneur,
+pourquoi n&rsquo;en recevrons-nous pas les maux ? Dans toutes ces
+choses Job ne p&eacute;cha pas
+par ses l&egrave;vres. </ab>
+<ab n="11">Cependant
+trois amis de Job apprirent tous les maux qui lui &eacute;taient
+arriv&eacute;s, et ils vinrent chacun de leur pays : Eliphaz de
+Th&eacute;man, Baldad de Suha, et Sophar de Naamath. Car ils
+s&rsquo;&eacute;taient concert&eacute;s pour venir le voir ensemble,
+et le consoler. </ab>
+<ab n="12">Et
+ayant lev&eacute; de loin les yeux, ils ne le reconnurent pas
+; et (jetant un grand cri,) ils pleur&egrave;rent &agrave; haute
+voix, d&eacute;chir&egrave;rent leurs v&ecirc;tements, et jet&egrave;rent
+de la poussi&egrave;re en l&rsquo;air au-dessus de leur t&ecirc;te.
+</ab>
+<ab n="13">Et
+ils se tinrent assis &agrave; terre avec lui sept jours et sept
+nuits, et nul ne lui dit une parole, car ils voyaient que sa douleur
+&eacute;tait extr&ecirc;me (violente).
+</ab></div>
+<div type="chapter" n="3">
+<ab n="1">Apr&egrave;s
+cela Job ouvrit la bouche, et maudit le jour de sa naissance, </ab>
+<ab n="2">et
+il parla (ainsi) : </ab>
+<ab n="3">P&eacute;risse
+le jour o&ugrave; je suis n&eacute;, et la nuit dans laquelle il a
+&eacute;t&eacute; dit : Un homme est (a &eacute;t&eacute;) con&ccedil;u.
+</ab>
+<ab n="4">Ce
+jour, qu&rsquo;il se change en t&eacute;n&egrave;bres ; que Dieu ne
+le regarde pas du ciel ; qu&rsquo;il ne soit pas
+&eacute;clair&eacute; de la lumi&egrave;re. </ab>
+<ab n="5">Que
+les (des) t&eacute;n&egrave;bres et l&rsquo;ombre de la mort
+l&rsquo;obscurcissent, qu&rsquo;une noire obscurit&eacute;
+l&rsquo;environne, et qu&rsquo;il soit plong&eacute; dans l&rsquo;amertume.
+</ab>
+<ab n="6">Cette
+nuit, qu&rsquo;un tourbillon t&eacute;n&eacute;breux s&rsquo;en
+empare ; qu&rsquo;elle ne soit pas
+compt&eacute;e parmi les jours de l&rsquo;ann&eacute;e, ni mise au
+nombre des mois. </ab>
+<ab n="7">Que
+cette nuit soit d&eacute;sol&eacute;e (solitaire) et indigne de
+louanges. </ab>
+<ab n="8">Que
+ceux qui maudissent le jour le maudissent, ceux qui sont pr&ecirc;ts
+&agrave; susciter L&eacute;viathan.
+</ab>
+<ab n="9">Que
+les &eacute;toiles soient obscurcies par sa noirceur ; qu&rsquo;elle
+attende la lumi&egrave;re, et qu&rsquo;elle ne la voie pas,
+non plus que l&rsquo;aurore, lorsqu&rsquo;elle commence &agrave;
+poindre, </ab>
+<ab n="10">parce
+qu&rsquo;elle n&rsquo;a pas ferm&eacute; le sein qui m&rsquo;a port&eacute;,
+ni d&eacute;rob&eacute; les souffrances &agrave; (maux de devant de)
+mes regards (yeux). </ab>
+<ab n="11">Pourquoi
+ne suis-je pas mort dans le sein de ma m&egrave;re ? Pourquoi n&rsquo;ai-je
+pas expir&eacute; aussit&ocirc;t que j&rsquo;en suis sorti ?
+</ab>
+<ab n="12">Pourquoi
+ai-je &eacute;t&eacute; re&ccedil;u sur des genoux, allait&eacute;
+par des mamelles ? </ab>
+<ab n="13">Car
+je dormirais maintenant dans le silence, et je me reposerais dans mon
+sommeil, </ab>
+<ab n="14">avec
+les rois et les consuls de la terre, qui se b&acirc;tissent des (de
+vastes) solitudes ; </ab>
+<ab n="15">(ou)
+avec les princes qui poss&egrave;dent l&rsquo;or, et qui remplissent
+d&rsquo;argent leurs maisons. </ab>
+<ab n="16">Ou,
+comme un avorton cach&eacute; (dans le sein de sa m&egrave;re), je
+n&rsquo;existerais plus ; ou comme ceux qui, ayant &eacute;t&eacute;
+con&ccedil;us, n&rsquo;ont pas vu la lumi&egrave;re. </ab>
+<ab n="17">L&agrave;
+les impies ont cess&eacute; leur tumulte ; l&agrave; se reposent ceux
+qui sont &eacute;puis&eacute;s, sans force. </ab>
+<ab n="18">Et
+ceux qui &eacute;taient autrefois encha&icirc;n&eacute;s ensemble ne
+souffrent plus aucun mal, et ils n&rsquo;entendent plus la voix du
+ma&icirc;tre de corv&eacute;es (d&rsquo;un exacteur). </ab>
+<ab n="19">L&agrave;
+sont le grand et le petit, et l&rsquo;esclave est affranchi de son
+ma&icirc;tre. </ab>
+<ab n="20">Pourquoi
+la lumi&egrave;re a-t-elle &eacute;t&eacute; donn&eacute;e au
+mis&eacute;rable, et la vie &agrave; ceux qui sont dans l&rsquo;amertume
+du c&oelig;ur ; </ab>
+<ab n="21">qui
+attendent la mort, et elle ne vient pas
+; qui la cherchent comme s&rsquo;ils creusaient pour trouver un
+tr&eacute;sor, </ab>
+<ab n="22">et
+qui sont ravis de joie lorsqu&rsquo;ils ont trouv&eacute; le tombeau
+(un s&eacute;pulcre)&nbsp;? </ab>
+<ab n="23">Pourquoi
+la vie a-t-elle &eacute;t&eacute; donn&eacute;e (A un) &agrave;
+l&rsquo;homme dont la voie est cach&eacute;e, et que Dieu a environn&eacute;
+de t&eacute;n&egrave;bres ? </ab>
+<ab n="24">Avant
+de manger je soupire, et mes cris (rugissements) sont comme des eaux
+qui d&eacute;bordent. </ab>
+<ab n="25">Car
+ce qui faisait le sujet de ma crainte m&rsquo;est arriv&eacute;, et
+ce que je redoutais est tomb&eacute; sur moi. </ab>
+<ab n="26">Ne
+me suis-je pas tenu dans la r&eacute;serve ? N&rsquo;ai-je pas gard&eacute;
+le silence, le repos ? Et la col&egrave;re divine (l&rsquo;indignation
+de Dieu) est tomb&eacute;e sur moi.</ab></div>
+<div type="chapter" n="4">
+<ab n="1">Alors
+Eliphaz de Th&eacute;man prit la parole et dit : </ab>
+<ab n="2">Si
+nous nous mettons &agrave; te parler, tu le trouveras peut-&ecirc;tre
+mauvais ; mais qui pourrait retenir la parole qu&rsquo;il a con&ccedil;ue
+? </ab>
+<ab n="3">Voici,
+tu en as instruit un grand nombre, et tu as fortifi&eacute; les mains
+fatigu&eacute;es. </ab>
+<ab n="4">Tes
+paroles ont affermi
+ceux qui chancelaient, et tu as fortifi&eacute; les genoux
+tremblants. </ab>
+<ab n="5">Mais
+maintenant que le malheur est venu sur toi, tu perds courage ; il t&rsquo;a
+touch&eacute;, et tu es dans le trouble (es troubl&eacute;). </ab>
+<ab n="6">O&ugrave;
+(donc) est ta crainte de Dieu, ta force, ta patience, et la
+perfection de tes voies ? </ab>
+<ab n="7">Rappelle-toi,
+je te prie, quel innocent a jamais p&eacute;ri ; ou quand les hommes
+droits ont-ils &eacute;t&eacute; extermin&eacute;s ? </ab>
+<ab n="8">J&rsquo;ai
+vu, au contraire, que ceux qui commettent l&rsquo;iniquit&eacute;,
+qui s&egrave;ment les maux et les moissonnent, </ab>
+<ab n="9">sont
+re(n&nbsp;?)vers&eacute;s par le souffle de Dieu, et consum&eacute;s
+par le vent de sa col&egrave;re. </ab>
+<ab n="10">Le
+rugissement du lion, et la voix de la lionne, et les dents des
+lionceaux ont &eacute;t&eacute; broy&eacute;s (bris&eacute;s). </ab>
+<ab n="11">Le
+tigre a p&eacute;ri parce qu&rsquo;il n&rsquo;avait pas
+de proie, et les petits du lion ont &eacute;t&eacute; dispers&eacute;s
+(dissip&eacute;s). </ab>
+<ab n="12">(Cependant)
+Une parole m&rsquo;a &eacute;t&eacute; dite en secret, et mon oreille
+a recueilli comme &agrave; la d&eacute;rob&eacute;e ses faibles sons.
+</ab>
+<ab n="13">Dans
+l&rsquo;horreur d&rsquo;une vision de nuit, lorsqu&rsquo;un profond
+sommeil a coutume de s&rsquo;emparer des hommes, </ab>
+<ab n="14">je
+fus saisi de crainte et d&rsquo;&eacute;pouvante, et la frayeur
+p&eacute;n&eacute;tra jusque dans mes os. </ab>
+<ab n="15">(Et)
+Un esprit passa devant moi ; les poils de ma chair se h&eacute;riss&egrave;rent.
+</ab>
+<ab n="16">Quelqu&rsquo;un
+se tint l&agrave;, dont je ne connaissais pas le visage ; un spectre
+parut devant mes yeux, et j&rsquo;entendis une voix semblable &agrave;
+un souffle l&eacute;ger. </ab>
+<ab n="17">L&rsquo;homme
+sera-t-il trouv&eacute; juste en comparaison de Dieu ? et sera-t-il
+plus pur que son cr&eacute;ateur
+? </ab>
+<ab n="18">Ceux
+m&ecirc;me qui le servent n&rsquo;ont pas &eacute;t&eacute; stables,
+et il a trouv&eacute; le p&eacute;ch&eacute; (la d&eacute;pravation)
+dans ses anges. </ab>
+<ab n="19">Combien
+plus ceux qui habitent des maisons d&rsquo;argile (de boue), qui
+n&rsquo;ont qu&rsquo;un fondement de terre, seront-ils consum&eacute;s
+comme par les vers ? (!) </ab>
+<ab n="20">Du
+matin au soir ils seront retranch&eacute;s (moissonn&eacute;s) ; et,
+parce que nul n&rsquo;a d&rsquo;intelligence, ils p&eacute;riront &agrave;
+jamais. </ab>
+<ab n="21">Ceux
+(m&ecirc;me) qui seront rest&eacute;s de leur race seront emport&eacute;s
+; ils mourront, et non dans la sagesse.</ab></div>
+<div type="chapter" n="5">
+<ab n="1">Appelle
+donc (&agrave; ton secours), s&rsquo;il y a quelqu&rsquo;un qui te
+r&eacute;ponde, et adresse-toi &agrave; quelqu&rsquo;un des saints.
+</ab>
+<ab n="2">Certes,
+la col&egrave;re fait mourir l&rsquo;insens&eacute;, et l&rsquo;envie
+tue les petits esprits (les enfants). </ab>
+<ab n="3">J&rsquo;ai
+vu l&rsquo;insens&eacute; aux solides racines, et j&rsquo;ai maudit
+aussit&ocirc;t son &eacute;clat. </ab>
+<ab n="4">Ses
+enfants, loin de trouver le salut, seront foul&eacute;s &agrave; la
+porte, et il n&rsquo;y aura personne pour les d&eacute;livrer.
+</ab>
+<ab n="5">L&rsquo;affam&eacute;
+d&eacute;vorera sa moisson, l&rsquo;homme arm&eacute; l&rsquo;enl&egrave;vera
+lui-m&ecirc;me, et ceux qui s&eacute;chaient de soif boiront ses
+richesses. </ab>
+<ab n="6">Rien
+sur la terre ne se fait sans sujet, et ce n&rsquo;est pas
+de la terre que germe la douleur. </ab>
+<ab n="7">L&rsquo;homme
+est n&eacute; pour la peine (le travail), comme l&rsquo;oiseau pour
+voler. </ab>
+<ab n="8">C&rsquo;est
+pourquoi je supplierai (prierai) le Seigneur, et j&rsquo;adresserai
+ma parole &agrave; Dieu, </ab>
+<ab n="9">qui
+fait des choses grandes et imp&eacute;n&eacute;trables, et des
+merveilles sans nombre ; </ab>
+<ab n="10">qui
+r&eacute;pand la pluie sur la face de la terre, et qui arrose d&rsquo;eau
+tout l&rsquo;univers (tous les lieux) ; </ab>
+<ab n="11">qui
+exalte ceux qui sont abaiss&eacute;s (les humbles) ; qui rel&egrave;ve
+et gu&eacute;rit (prot&egrave;ge) les afflig&eacute;s ; </ab>
+<ab n="12">qui
+dissipe les pens&eacute;es des m&eacute;chants, et emp&ecirc;che
+leurs mains d&rsquo;achever ce qu&rsquo;elles avaient commenc&eacute;
+; </ab>
+<ab n="13">qui
+(sur)prend les sages dans leur propre ruse, et qui renverse les
+desseins (le conseil) des injustes. </ab>
+<ab n="14">Durant
+le jour ils trouveront les t&eacute;n&egrave;bres, et, comme si
+c&rsquo;&eacute;tait la nuit, ils t&acirc;tonneront en plein midi.
+</ab>
+<ab n="15">Mais
+Dieu sauvera le pauvre du glaive de leur langue, il le sauvera de la
+main du violent. </ab>
+<ab n="16">Et
+il y aura de l&rsquo;esp&eacute;rance pour le pauvre, et l&rsquo;iniquit&eacute;
+fermera sa bouche. </ab>
+<ab n="17">Heureux
+l&rsquo;homme qui est ch&acirc;ti&eacute; par Dieu. (!) Ne rejette
+donc p&acirc;s la
+correction du Seigneur. </ab>
+<ab n="18">Car
+c&rsquo;est lui qui blesse et qui donne le rem&egrave;de ; il frappe,
+et ses mains gu&eacute;rissent. </ab>
+<ab n="19">Il
+te d&eacute;livrera dans six tribulations, et &agrave; la septi&egrave;me
+le mal ne te touchera pas. </ab>
+<ab n="20">Pendant
+la famine, il te sauvera de la mort, et, dans la guerre, du tranchant
+du glaive. </ab>
+<ab n="21">Il
+te mettra &agrave; couvert du fl&eacute;au de la langue, et si
+l&rsquo;affliction (la calamit&eacute;) survient, tu ne la craindras
+pas. </ab>
+<ab n="22">Tu
+riras des ravages et de la disette, et tu ne redouteras pas les b&ecirc;tes
+de la terre. </ab>
+<ab n="23">Mais
+tu feras alliance avec les pierres des champs, et les b&ecirc;tes
+sauvages (de la terre) seront pacifiques pour toi. </ab>
+<ab n="24">Tu
+verras la paix r&eacute;gner dans ta tente (ton tabernacle), et,
+contemplant ta prosp&eacute;rit&eacute;, tu la trouveras au complet
+(beaut&eacute;, tu ne p&eacute;cheras pas). </ab>
+<ab n="25">Tu
+verras aussi ta race se multiplier, et ta post&eacute;rit&eacute;
+cro&icirc;tre comme l&rsquo;herbe de la terre. </ab>
+<ab n="26">Tu
+entreras dans le s&eacute;pulcre combl&eacute; de biens, comme un
+monceau de bl&eacute; qu&rsquo;on emporte en son temps. </ab>
+<ab n="27">Voila
+le r&eacute;sultat de nos recherches, il en est ainsi ; &eacute;coute-le,
+et (ce que tu as entendu) repasse-le dans ton esprit.</ab></div>
+<div type="chapter" n="6">
+<ab n="1">(Or)
+Job r&eacute;pondit en ces termes : </ab>
+<ab n="2">Pl&ucirc;t
+&agrave; Dieu que les p&eacute;ch&eacute;s par lesquels j&rsquo;ai
+m&eacute;rit&eacute; la col&egrave;re de Dieu, et les maux que je
+souffre, fussent pes&eacute;s dans une balance ! </ab>
+<ab n="3">Ceux-ci
+appara&icirc;traient plus lourds que le sable de la mer. C&rsquo;est
+pourquoi mes paroles sont pleines de douleur, </ab>
+<ab n="4">car
+les fl&egrave;ches du Seigneur m&rsquo;ont perc&eacute;. La douleur
+qu&rsquo;elles me causent &eacute;puise mon esprit, et les terreurs
+de Dieu (du Seigneur) m&rsquo;assi&egrave;gent. </ab>
+<ab n="5">L&rsquo;&acirc;ne
+sauvage (L&rsquo;onagre) crie-t-il lorsqu&rsquo;il a de l&rsquo;herbe
+? ou le b&oelig;uf mugit-il lorsqu&rsquo;il est devant une auge
+(cr&egrave;che) pleine ? </ab>
+<ab n="6">Peut-on
+manger d&rsquo;un mets fade, qui n&rsquo;est pas
+assaisonn&eacute; avec le sel ? ou quelqu&rsquo;un peut-il go&ucirc;ter
+ce qui fait mourir celui qui en go&ucirc;te ? </ab>
+<ab n="7">Ce
+qu&rsquo;auparavant je (mon &acirc;me) n&rsquo;eusse pas voulu
+toucher, c&rsquo;est l&agrave; maintenant ma nourriture, &agrave;
+cause de mon angoisse (d&eacute;tresse). </ab>
+<ab n="8">Qui
+m&rsquo;accordera que ma pri&egrave;re soit re&ccedil;ue, et que Dieu
+me donne ce que j&rsquo;attends ; </ab>
+<ab n="9">que
+celui qui a commenc&eacute; ach&egrave;ve de me briser ; qu&rsquo;il
+laisse aller sa main (qu&rsquo;il m&rsquo;extirpe) et qu&rsquo;il
+tranche ma vie ? </ab>
+<ab n="10">Qu&rsquo;il
+me reste au moins cette consolation, dans ces douleurs dont il
+m&rsquo;afflige sans m&rsquo;&eacute;pargner, que je ne contredise en
+rien les ordres du Dieu saint (Saint). </ab>
+<ab n="11">Car
+quelle est ma force pour que je supporte ces maux ? ou quelle est ma
+fin pour que je conserve la patience ? </ab>
+<ab n="12">Ma
+force n&rsquo;est pas
+la force des pierres, et ma chair n&rsquo;est pas de bronze
+(d&rsquo;airain). </ab>
+<ab n="13">Voici
+que je ne trouve en moi aucun secours, et mes amis intimes (m&ecirc;mes)
+m&rsquo;ont abandonn&eacute;. </ab>
+<ab n="14">Celui
+qui n&rsquo;a pas compassion de son ami a perdu la crainte du
+Seigneur. </ab>
+<ab n="15">Mes
+fr&egrave;res ont pass&eacute; devant moi, comme un torrent qui
+s&rsquo;&eacute;coule avec rapidit&eacute; dans les vall&eacute;es.
+</ab>
+<ab n="16">Ceux
+qui craignent la gel&eacute;e seront accabl&eacute;s par la neige.
+</ab>
+<ab n="17">Au
+temps o&ugrave; ils commenceront &agrave; s&rsquo;&eacute;couler (se
+r&eacute;pandre), ils p&eacute;riront ; d&egrave;s que la chaleur
+viendra, ils dispara&icirc;tront de leur lieu. </ab>
+<ab n="18">Ils
+vont par des sentiers embarrass&eacute;s (cach&eacute;s) ; ils
+marchent sur le vide, et ils p&eacute;riront. </ab>
+<ab n="19">Consid&eacute;rez
+les sentiers de Th&eacute;ma, les chemins de Saba, et attendez un
+peu. </ab>
+<ab n="20">Ils
+sont confus, parce que j&rsquo;ai esp&eacute;r&eacute; ; ils sont
+venus aussi jusqu&rsquo;&agrave; moi, et ils ont &eacute;t&eacute;
+couverts de honte (confusion). </ab>
+<ab n="21">Vous
+ne faites que venir, et aussit&ocirc;t que vous voyez ma plaie, vous
+en avez horreur. </ab>
+<ab n="22">Ai-je
+dit : Apportez-moi quelque chose, ou donnez-moi de votre bien ? </ab>
+<ab n="23">ou
+: D&eacute;livrez-moi de la main de l&rsquo;ennemi, et arrachez-moi
+de la main des forts ? </ab>
+<ab n="24">Enseignez-moi,
+et je me tairai ; et si j&rsquo;ai ignor&eacute; quelque chose,
+instruisez-moi. </ab>
+<ab n="25">Pourquoi
+attaquez-vous (avez-vous d&eacute;prim&eacute;) des paroles de
+v&eacute;rit&eacute;, puisque nul d&rsquo;entre vous ne peut
+m&rsquo;accuser ? </ab>
+<ab n="26">Vous
+n&rsquo;&eacute;tudiez dans vos discours qu&rsquo;&agrave; jeter du
+bl&acirc;me, et vous ne faites que parler en l&rsquo;air. </ab>
+<ab n="27">Vous
+vous pr&eacute;cipitez sur un orphelin, et vous vous efforcez
+d&rsquo;accabler (de renverser) votre ami. </ab>
+<ab n="28">Mais
+achevez ce que vous avez commenc&eacute; ; pr&ecirc;tez l&rsquo;oreille,
+et voyez si je mens. </ab>
+<ab n="29">R&eacute;pondez,
+je vous prie, sans contention ; et, en parlant, jugez des choses
+selon la justice. </ab>
+<ab n="30">Alors
+vous ne trouverez pas
+d&rsquo;iniquit&eacute; sur ma langue, et la folie ne retentira pas
+dans ma bouche.</ab></div>
+<div type="chapter" n="7">
+<ab n="1">La
+vie de l&rsquo;homme sur la terre est celle du soldat, et ses jours
+sont comme les jours d&rsquo;un mercenaire. </ab>
+<ab n="2">Comme
+un esclave soupire apr&egrave;s l&rsquo;ombre, et comme un mercenaire
+attend la fin de son travail, </ab>
+<ab n="3">ainsi
+je n&rsquo;ai eu que des mois vides, et je ne compte que des nuits
+douloureuses (laborieuses). </ab>
+<ab n="4">Si
+je m&rsquo;endors, je dis : Quand me l&egrave;verai-je ? et j&rsquo;attends
+de nouveau le soir, et je suis rempli de douleurs jusqu&rsquo;&agrave;
+la nuit (aux t&eacute;n&egrave;bres). </ab>
+<ab n="5">Ma
+chair est couverte de pourriture et d&rsquo;une sale poussi&egrave;re
+; ma peau est toute s&egrave;che et retir&eacute;e (contract&eacute;e).
+</ab>
+<ab n="6">Mes
+jours ont pass&eacute; plus vite que la toile n&rsquo;est coup&eacute;e
+par le tisserand, et ils se sont consum&eacute;s sans aucune
+esp&eacute;rance. </ab>
+<ab n="7">Souvenez-vous
+que ma vie n&rsquo;est qu&rsquo;un souffle, et que mes yeux ne
+verront plus (reviendra pas pour voir) le bonheur. </ab>
+<ab n="8">Le
+regard de l&rsquo;homme ne m&rsquo;apercevra plus. Vos yeux s(er)ont
+sur moi, et je ne pourrai subsister. </ab>
+<ab n="9">Comme
+une nu&eacute;e se dissipe et passe, ainsi
+celui qui descend au s&eacute;jour des morts (dans les enfers) ne
+remontera plus. </ab>
+<ab n="10">Il
+ne reviendra plus dans sa maison, et le lieu o&ugrave; il &eacute;tait
+ne le reconna&icirc;tra plus. </ab>
+<ab n="11">C&rsquo;est
+pourquoi je ne retiendrai pas ma langue (bouche) ; je parlerai dans
+l&rsquo;affliction (la tribulation) de mon esprit, je m&rsquo;entretiendrai
+dans l&rsquo;amertume de mon &acirc;me. </ab>
+<ab n="12">Suis-je
+une mer, ou un monstre marin, pour que vous m&rsquo;ayez renferm&eacute;
+dans une prison ? </ab>
+<ab n="13">Si
+je dis : Mon lit me consolera, et en m&rsquo;entretenant avec
+moi-m&ecirc;me je me reposerai sur ma couche, </ab>
+<ab n="14">vous
+me tourmentez par des songes, et vous me troublez par d&rsquo;horribles
+visions. </ab>
+<ab n="15">C&rsquo;est
+pourquoi mon &acirc;me pr&eacute;f&egrave;re une mort violente, et
+mes os appellent le tr&eacute;pas. </ab>
+<ab n="16">J&rsquo;ai
+perdu tout espoir ; la vie m&rsquo;&eacute;chappe &agrave; jamais.
+Epargnez-moi, car mes jours ne sont que n&eacute;ant. </ab>
+<ab n="17">Qu&rsquo;est-ce
+que l&rsquo;homme (qu&rsquo;un) pour que vous en fassiez tant de cas
+? Et comment daignez-vous appliquer sur lui votre c&oelig;ur ? </ab>
+<ab n="18">Vous
+le visitez le matin, et aussit&ocirc;t vous l&rsquo;&eacute;prouvez.
+</ab>
+<ab n="19">Jusques
+&agrave; quand ne m&rsquo;&eacute;pargnerez-vous pas, et ne me
+laisserez-vous pas m&ecirc;me avaler ma salive ? </ab>
+<ab n="20">J&rsquo;ai
+p&eacute;ch&eacute;, que vous ferai-je, &ocirc; gardien des hommes ?
+Pourquoi m&rsquo;avez-vous mis en butte &agrave; vos coups, et
+m&rsquo;avez-vous rendu insupportable &agrave; moi-m&ecirc;me ?
+</ab>
+<ab n="21">Pourquoi
+n&rsquo;enlevez-vous pas mon p&eacute;ch&eacute;, et ne me
+pardonnez-vous pas mon iniquit&eacute; ? Je vais bient&ocirc;t dormir
+dans la poussi&egrave;re, et quand vous me chercherez (d&egrave;s) le
+matin, je ne serai plus.</ab></div>
+<div type="chapter" n="8">
+<ab n="1">Alors
+Baldad le Suhite prit la parole et dit : </ab>
+<ab n="2">Jusques
+&agrave; quand tiendras-tu ce langage, et les paroles de ta bouche
+seront-elles un vent imp&eacute;tueux (qui souffle de tout c&ocirc;t&eacute;)
+? </ab>
+<ab n="3">Dieu
+refuse-t-il la justice ? et le Tout-Puissant renverse-t-il l&rsquo;&eacute;quit&eacute;
+? </ab>
+<ab n="4">Quand
+tes enfants auraient p&eacute;ch&eacute; contre lui, et qu&rsquo;il
+les aurait abandonn&eacute;s au pouvoir de leur iniquit&eacute;, </ab>
+<ab n="5">si
+n&eacute;anmoins tu t&rsquo;empresses d&rsquo;aller &agrave; Dieu, et
+si tu implores (pries) le Tout-Puissant, </ab>
+<ab n="6">si
+tu marches pur et droit, il sera prompt &agrave; te secourir, et il
+rendra la paix &agrave; ton habitation innocente (la demeure de ta
+justice) ; </ab>
+<ab n="7">de
+sorte que si tes biens &eacute;taient autrefois m&eacute;diocres, ils
+se multiplieront d&eacute;sormais &eacute;tonnamment. </ab>
+<ab n="8">Interroge
+(en effet) la g&eacute;n&eacute;ration pass&eacute;e, et consulte
+avec soin les histoires de nos p&egrave;res ; </ab>
+<ab n="9">(car
+nous ne sommes que d&rsquo;hier, et nous ne savons rien, parce (pas)
+que nos jours s&rsquo;&eacute;coulent sur la terre comme l&rsquo;ombre
+;) </ab>
+<ab n="10">et
+ils t&rsquo;instruiront ; ils te parleront, et ils puiseront ces
+le&ccedil;ons dans leur c&oelig;ur. </ab>
+<ab n="11">Le
+jonc peut-il verdir sans humidit&eacute;, ou le roseau (carex)
+peut-il cro&icirc;tre sans eau ? </ab>
+<ab n="12">Encore
+en fleur, et sans qu&rsquo;on le cueille, il s&egrave;che avant
+toutes les herbes. </ab>
+<ab n="13">Telle
+est la voie de tous ceux qui oublient Dieu, et (ainsi) l&rsquo;esp&eacute;rance
+de l&rsquo;hypocrite (l&rsquo;impie) p&eacute;rira. </ab>
+<ab n="14">Il
+condamnera lui-m&ecirc;me sa folie, et sa confiance sera comme une
+toile (maison) d&rsquo;araign&eacute;e. </ab>
+<ab n="15">Il
+s&rsquo;appuiera sur sa maison, et elle ne tiendra pas ; il
+l&rsquo;&eacute;tayera, et elle ne subsistera pas.
+</ab>
+<ab n="16">C&rsquo;est
+une plante qui para&icirc;t verte avant que le soleil se l&egrave;ve,
+et qui pousse sa tige aussit&ocirc;t qu&rsquo;il est lev&eacute;.
+</ab>
+<ab n="17">Ses
+racines se multiplient sur un monceau de pierres, et elle s&rsquo;&eacute;tablit
+(il s&rsquo;arr&ecirc;tera, note) parmi les cailloux. </ab>
+<ab n="18">Si
+on l&rsquo;arrache de sa place, ce lieu la (elle le) reniera, et dira
+: Je ne te connais pas. </ab>
+<ab n="19">Car
+telle est toute la joie de sa voie, que d&rsquo;autres germent de
+terre &agrave; sa place. </ab>
+<ab n="20">Dieu
+ne rejettera pas le simple, et il ne tendra pas la main aux m&eacute;chants,
+</ab>
+<ab n="21">jusqu&rsquo;&agrave;
+ce que le (un sou)rire remplisse ta bouche, et que la jubilation (un
+cri de joie) soit sur tes l&egrave;vres. </ab>
+<ab n="22">Ceux
+qui te ha&iuml;ssent seront couverts de confusion, et la tente des
+impies ne subsistera plus.</ab></div>
+<div type="chapter" n="9">
+<ab n="1">Job
+prit la parole et dit : </ab>
+<ab n="2">Assur&eacute;ment
+je sais qu&rsquo;il en est ainsi, et que l&rsquo;homme, si on le
+compare &agrave; Dieu, ne sera pas trouv&eacute; juste. </ab>
+<ab n="3">S&rsquo;il
+veut disputer avec lui, il ne pourra pas lui r&eacute;pondre sur une
+chose entre mille. </ab>
+<ab n="4">Dieu
+est sage, il est tout-puissant (puissant en force) : qui lui a
+r&eacute;sist&eacute;, et est demeur&eacute; en paix ? </ab>
+<ab n="5">Il
+transporte les (des) montagnes, et ceux qu&rsquo;il renverse dans sa
+fureur ne s&rsquo;en aper&ccedil;oivent pas (sont pas aper&ccedil;us).
+</ab>
+<ab n="6">Il
+remue la terre de sa place, et ses colonnes sont &eacute;branl&eacute;es.
+</ab>
+<ab n="7">Il
+commande au soleil, et le soleil ne se l&egrave;ve pas,
+et il tient les &eacute;toiles enferm&eacute;es comme sous le (un)
+sceau. </ab>
+<ab n="8">Il
+&eacute;tend seul les cieux, et il marche sur les flots de la mer.
+</ab>
+<ab n="9">Il a
+cr&eacute;&eacute; la Grande-Ourse (Arcturus, note), Orion, les
+Hyades, et les constellations australes (les astres cach&eacute;s du
+midi). </ab>
+<ab n="10">Il
+fait des merveilles incompr&eacute;hensibles, et des prodiges sans
+nombre. </ab>
+<ab n="11">S&rsquo;il
+vient &agrave; moi, je ne le verrai pas ; et s&rsquo;il s&rsquo;en
+va, je ne m&rsquo;en apercevrai pas. </ab>
+<ab n="12">S&rsquo;il
+interroge tout &agrave; coup, qui lui r&eacute;pondra ? ou qui pourra
+lui dire : Pourquoi faites-vous ainsi ? </ab>
+<ab n="13">Dieu,
+personne ne peut r&eacute;sister &agrave; sa col&egrave;re ; et ceux
+m&ecirc;mes qui portent le monde (l&rsquo;univers) fl&eacute;chissent
+sous lui. </ab>
+<ab n="14">Qui
+suis-je donc, moi, pour lui r&eacute;pondre, et pour avoir un
+entretien avec lui ? </ab>
+<ab n="15">Quand
+m&ecirc;me j&rsquo;aurais quelque justice, je ne r&eacute;pondrais
+pas, mais j&rsquo;implorerais mon juge. </ab>
+<ab n="16">Et
+lors m&ecirc;me qu&rsquo;il aurait exauc&eacute; ma pri&egrave;re
+(quand je l&rsquo;invoquais), je ne croirais pas qu&rsquo;il e&ucirc;t
+daign&eacute; &eacute;couter ma voix. </ab>
+<ab n="17">Car
+il me brisera dans un tourbillon, et il multipliera mes blessures,
+m&ecirc;me sans raison. </ab>
+<ab n="18">Il
+ne me laisse pas respirer (permet pas que mon esprit se repose), et
+il me remplit d&rsquo;amertume. </ab>
+<ab n="19">Si
+l&rsquo;on fait appel &agrave; la force, il est tout- (tr&egrave;s)
+puissant ; &agrave; la justice du jugement, personne n&rsquo;osera
+rendre t&eacute;moignage en ma faveur. </ab>
+<ab n="20">Si
+j&rsquo;entreprends de me justifier, ma propre bouche me condamnera ;
+si je d&eacute;montre mon innocence, il me convaincra d&rsquo;&ecirc;tre
+coupable (que je suis pervers). </ab>
+<ab n="21">Quand
+je serais juste, cela m&ecirc;me me serait cach&eacute;, et ma vie me
+serait &agrave; charge &agrave; moi-m&ecirc;me. </ab>
+<ab n="22">Tout
+ce que j&rsquo;ai dit se ram&egrave;ne &agrave; ceci : Dieu d&eacute;truit
+le juste aussi bien que l&rsquo;impie. </ab>
+<ab n="23">S&rsquo;il
+frappe, qu&rsquo;il tue tout d&rsquo;un coup, et qu&rsquo;il ne se
+rie pas des peines des innocents. </ab>
+<ab n="24">La
+terre est (a &eacute;t&eacute;) livr&eacute;e aux mains de l&rsquo;impie
+; Dieu couvre d&rsquo;un voile la face des juges. Si ce n&rsquo;est
+lui, qui est-ce donc ? </ab>
+<ab n="25">Mes
+jours ont pass&eacute; plus vite qu&rsquo;un courrier (coureur) ; ils
+ont fui sans avoir vu le bonheur. </ab>
+<ab n="26">Ils
+ont pass&eacute; comme des vaisseaux qui portent des fruits, comme un
+aigle qui fond sur sa proie. </ab>
+<ab n="27">Quand
+je dis : Je ne parlerai plus ainsi, mon visage se change aussit&ocirc;t,
+et la douleur me d&eacute;chire. </ab>
+<ab n="28">Je
+tremblais &agrave; chacune de mes &oelig;uvres, sachant que vous ne
+(me) pardonne(rie)z pas au coupable (si je p&eacute;chais). </ab>
+<ab n="29">Que
+si, apr&egrave;s cela, je passe pour impie, pourquoi aurais-je
+(ai-je) travaill&eacute; en vain ? </ab>
+<ab n="30">Quand
+je me laverais dans l&rsquo;eau de neige, et que la puret&eacute; de
+mes mains &eacute;claterait, </ab>
+<ab n="31">vous
+me plongeriez dans la fange, et mes v&ecirc;tements m&rsquo;auraient
+en horreur. </ab>
+<ab n="32">Car
+ce n&rsquo;est pas
+&agrave; un homme semblable &agrave; moi que j&rsquo;aurai &agrave;
+r&eacute;pondre, ni &agrave; quelqu&rsquo;un qui puisse d&rsquo;&eacute;gal
+&agrave; &eacute;gal plaider avec moi. </ab>
+<ab n="33">Il
+n&rsquo;y a personne qui puisse reprendre les deux parties, et mettre
+sa main sur l&rsquo;un et l&rsquo;autre. </ab>
+<ab n="34">Qu&rsquo;il
+retire sa verge de dessus moi, et que sa terreur ne m&rsquo;&eacute;pouvante
+pas. </ab>
+<ab n="35">Alors
+je parlerai sans le craindre ; car, dans la crainte o&ugrave; je
+suis, je ne puis r&eacute;pondre.</ab></div>
+<div type="chapter" n="10">
+<ab n="1">Mon
+&acirc;me est d&eacute;go&ucirc;t&eacute;e de la vie ; je
+m&rsquo;abandonnerai aux plaintes contre moi-m&ecirc;me, je parlerai
+dans l&rsquo;amertume de mon &acirc;me. </ab>
+<ab n="2">Je
+dirai &agrave; Dieu : Ne me condamnez pas ; indiquez-moi pourquoi
+vous me traitez (jugez) ainsi. </ab>
+<ab n="3">Vous
+para&icirc;trait-il bon de me calomnier et de m&rsquo;accabler, moi
+l&rsquo;&oelig;uvre de vos mains ? Favoriserez-vous les desseins des
+impies ? </ab>
+<ab n="4">Avez-vous
+des yeux de chair, et regardez-vous les choses comme l&rsquo;homme
+les regarde ? </ab>
+<ab n="5">Vos
+jours sont-ils comme les jours de l&rsquo;homme, et vos ann&eacute;es
+comme ses ann&eacute;es, </ab>
+<ab n="6">pour
+que vous recherchiez mes iniquit&eacute;s, et que vous scrutiez mon
+p&eacute;ch&eacute;, </ab>
+<ab n="7">quand
+vous savez que je n&rsquo;ai rien fait d&rsquo;impie, et que personne
+ne peut me d&eacute;livrer de votre main ? </ab>
+<ab n="8">Vos
+mains m&rsquo;ont form&eacute; ; elles ont fa&ccedil;onn&eacute;
+toutes les parties de mon corps, et vous voudriez me perdre en un
+instant ? </ab>
+<ab n="9">Souvenez-vous,
+je vous prie, que vous m&rsquo;avez fa&ccedil;onn&eacute; comme de
+(un vase d&rsquo;) l&rsquo;argile, et que vous me r&eacute;duirez en
+poussi&egrave;re. </ab>
+<ab n="10">Ne
+m&rsquo;avez-vous pas fait couler comme le lait, et coagul&eacute;
+comme un laitage press&eacute; (le fromage) ? </ab>
+<ab n="11">Vous
+m&rsquo;avez rev&ecirc;tu de peau et de chairs ; vous m&rsquo;avez
+affermi d&rsquo;os et de nerfs. </ab>
+<ab n="12">Vous
+m&rsquo;avez donn&eacute; la vie et combl&eacute; de bienfaits ; et
+c&rsquo;est votre providence (vos soins) qui a gard&eacute; mon &acirc;me
+(conserv&eacute; mon souffle vital). </ab>
+<ab n="13">Quoique
+vous cachiez ces choses dans votre c&oelig;ur, je sais n&eacute;anmoins
+que vous vous souvenez de tout. </ab>
+<ab n="14">Si
+j&rsquo;ai p&eacute;ch&eacute;, et si vous m&rsquo;avez &eacute;pargn&eacute;
+pour un instant, pourquoi ne permettez-vous pas que je sois purifi&eacute;
+de mon iniquit&eacute; ? </ab>
+<ab n="15">Si
+j&rsquo;ai &eacute;t&eacute; impie, malheur &agrave; moi ; et si je
+suis juste, je n&rsquo;ose lever la t&ecirc;te, abreuv&eacute;
+(satur&eacute;) d&rsquo;affliction et de mis&egrave;re. </ab>
+<ab n="16">A
+cause de mon orgueil, vous me saisirez comme une lionne, et de
+nouveau vous me tourmenterez &eacute;trangement (prodigieusement).
+</ab>
+<ab n="17">Vous
+produisez encore contre moi vos t&eacute;moins, vous multipliez sur
+moi les effets de votre col&egrave;re, et les maux m&rsquo;assi&egrave;gent
+comme une arm&eacute;e (vos ch&acirc;timents combattent contre moi).
+</ab>
+<ab n="18">Pourquoi
+m&rsquo;avez-vous tir&eacute; du sein de ma m&egrave;re ? Que n&rsquo;ai-je
+p&eacute;ri sans qu&rsquo;un &oelig;il p&ucirc;t me voir ! </ab>
+<ab n="19">J&rsquo;aurais
+&eacute;t&eacute; comme si je n&rsquo;avais pas
+exist&eacute;, n&rsquo;ayant fait que passer du sein (de ma m&egrave;re)
+au tombeau. </ab>
+<ab n="20">Les
+quelques jours qui me restent ne finiront-ils pas bient&ocirc;t ?
+Laissez-moi donc pleurer un instant (peu) ma douleur, </ab>
+<ab n="21">avant
+que je m&rsquo;en aille sans retour dans cette r&eacute;gion
+t&eacute;n&eacute;breuse et couverte de l&rsquo;obscurit&eacute; de
+la mort : </ab>
+<ab n="22">r&eacute;gion
+(terre) de mis&egrave;re et de t&eacute;n&egrave;bres, o&ugrave;
+habite (r&egrave;gne) l&rsquo;ombre de la mort, o&ugrave; il n&rsquo;y
+a pas d&rsquo;ordre, mais une &eacute;ternelle horreur.</ab></div>
+<div type="chapter" n="11">
+<ab n="1">(Or)
+Sophar de Naama prit la parole et dit : </ab>
+<ab n="2">Celui
+qui parle tant n&rsquo;&eacute;coutera-t-il pas &agrave; son tour ?
+et suffira-t-il d&rsquo;&ecirc;tre un grand parleur pour para&icirc;tre
+juste (&ecirc;tre absous) ? </ab>
+<ab n="3">Les
+hommes se tairont-ils pour toi seul ? et apr&egrave;s t&rsquo;&ecirc;tre
+moqu&eacute; des autres, ne seras-tu confondu par personne ? </ab>
+<ab n="4">Car
+tu as dit : Ma doctrine (parole) est pure, et je suis sans tache en
+votre pr&eacute;sence. </ab>
+<ab n="5">Qu&rsquo;il
+serait &agrave; souhaiter que Dieu te parl&acirc;t, et qu&rsquo;il
+ouvr&icirc;t pour toi sa bouche, </ab>
+<ab n="6">pour
+te d&eacute;couvrir les secrets de sa sagesse, et la multiplicit&eacute;
+des pr&eacute;ceptes de sa loi, et pour te faire comprendre qu&rsquo;il
+exige beaucoup moins de toi que ne m&eacute;rite ton iniquit&eacute;
+! </ab>
+<ab n="7">Pr&eacute;tends-tu
+sonder (D&eacute;couvriras-tu) ce qui est cach&eacute; en Dieu, et
+conna&icirc;tre parfaitement le Tout-Puissant ? </ab>
+<ab n="8">Il
+est plus &eacute;lev&eacute; que le ciel, que feras-tu ? Il est plus
+profond que l&rsquo;enfer, comment (donc) le conna&icirc;tras-tu ?
+</ab>
+<ab n="9">Sa
+mesure d&eacute;passe la longueur de la terre et la largeur de la
+mer. </ab>
+<ab n="10">S&rsquo;il
+renverse tout, s&rsquo;il confond toutes choses ensemble, qui pourra
+s&rsquo;opposer &agrave; lui (le contredira) ? </ab>
+<ab n="11">Car
+il conna&icirc;t la vanit&eacute; des hommes, et, voyant l&rsquo;iniquit&eacute;,
+ne la consid&egrave;re-t-il pas ? </ab>
+<ab n="12">L&rsquo;homme
+vain s&rsquo;&eacute;l&egrave;ve jusqu&rsquo;&agrave; l&rsquo;orgueil,
+et il se croit n&eacute; libre comme le poulain de l&rsquo;&acirc;ne
+sauvage (petit d&rsquo;un onagre). </ab>
+<ab n="13">Mais
+toi, tu as endurci ton c&oelig;ur, et (cependant) tu as &eacute;lev&eacute;
+tes mains vers Dieu. </ab>
+<ab n="14">Si
+tu bannis l&rsquo;iniquit&eacute; qui est dans tes mains, et que
+l&rsquo;injustice ne demeure pas
+dans ta tente (on tabernacle), </ab>
+<ab n="15">alors
+tu pourras lever ton visage sans tache ; tu seras stable, et tu ne
+craindras pas.
+</ab>
+<ab n="16">Tu
+oublieras m&ecirc;me ta mis&egrave;re, et tu t&rsquo;en souviendras
+comme d&rsquo;eaux qui se sont &eacute;coul&eacute;es. </ab>
+<ab n="17">Sur
+le soir se l&egrave;vera pour toi comme l&rsquo;&eacute;clat du midi
+; et lorsque tu te croiras perdu, tu appara&icirc;tras comme l&rsquo;&eacute;toile
+du matin (Lucifer). </ab>
+<ab n="18">L&rsquo;esp&eacute;rance
+qui te sera propos&eacute;e te remplira de confiance ; et, (m&ecirc;me)
+entrant dans le s&eacute;pulcre, tu dormiras en assurance. </ab>
+<ab n="19">Tu
+te reposeras sans que personne ne te trouble, et plusieurs
+imploreront tes regards. </ab>
+<ab n="20">Mais
+les yeux des m&eacute;chants seront consum&eacute;s ; pour eux pas
+de refuge, et ce que l&rsquo;&acirc;me a en horreur, voil&agrave;
+leur esp&eacute;rance.</ab></div>
+<div type="chapter" n="12">
+<ab n="1">Job
+prit la parole et dit : </ab>
+<ab n="2">Etes-vous
+donc les seuls hommes, et la sagesse mourra-t-elle avec vous ? </ab>
+<ab n="3">J&rsquo;ai
+du sens aussi bien que (cependant un c&oelig;ur comme) vous, et je ne
+vous suis pas inf&eacute;rieur ; car qui donc (en effet) ignore ce
+que vous savez ? </ab>
+<ab n="4">Celui
+qui est comme moi l&rsquo;objet des railleries de son ami invoquera
+Dieu, et Dieu l&rsquo;exaucera ; car on se moque de la simplicit&eacute;
+du juste. </ab>
+<ab n="5">C&rsquo;est
+une lampe m&eacute;pris&eacute;e dans les pens&eacute;es des riches,
+mais qui est pr&ecirc;te pour le (un) temps marqu&eacute;. </ab>
+<ab n="6">Les
+tentes des brigands sont dans l&rsquo;abondance, et ils provoquent
+Dieu audacieusement, quoiqu&rsquo;il (quoique que ce soit lui qui)
+ait tout mis entre leurs mains. </ab>
+<ab n="7">Interroge
+les animaux, et ils t&rsquo;enseigneront ; les oiseaux du ciel, et
+ils t&rsquo;instruiront. </ab>
+<ab n="8">Parle
+&agrave; la terre, et elle te r&eacute;pondra, et les poissons de la
+mer te le raconteront. </ab>
+<ab n="9">Qui
+ignore que c&rsquo;est la main de Dieu (du Seigneur) qui a fait
+toutes ces choses ? </ab>
+<ab n="10">Lui
+qui tient dans sa main l&rsquo;&acirc;me de tout ce qui vit, et le
+souffle (l&rsquo;esprit) de toute chair d&rsquo;homme. </ab>
+<ab n="11">L&rsquo;oreille
+ne juge-t-elle pas des paroles ? et le palais ne savoure-t-il pas les
+mets ? </ab>
+<ab n="12">Dans
+les vieillards se trouve la sagesse, et la prudence dans une longue
+vie. </ab>
+<ab n="13">En
+Dieu r&eacute;sident la sagesse et la puissance ; c&rsquo;est lui qui
+poss&egrave;de le conseil et l&rsquo;intelligence (la prudence).
+</ab>
+<ab n="14">S&rsquo;il
+d&eacute;truit, nul ne pourra b&acirc;tir ; s&rsquo;il tient un homme
+enferm&eacute;, nul ne pourra lui ouvrir. </ab>
+<ab n="15">S&rsquo;il
+retient les eaux, tout se dess&eacute;chera ; et, s&rsquo;il les
+l&acirc;che, elles d&eacute;vasteront la terre. </ab>
+<ab n="16">En
+lui r&eacute;sident la force et la sagesse ; il conna&icirc;t et
+celui qui trompe, et celui qui est tromp&eacute;. </ab>
+<ab n="17">Il
+am&egrave;ne les conseillers &agrave; une fin insens&eacute;e, et les
+juges &agrave; l&rsquo;&eacute;tourdissement. </ab>
+<ab n="18">Il
+d&eacute;lie le baudrier des rois, et il ceint leurs reins d&rsquo;une
+corde. </ab>
+<ab n="19">Il
+emm&egrave;ne les pontifes (pr&ecirc;tres) sans gloire, et il fait
+tomber les nobles (grands). </ab>
+<ab n="20">Il
+change le langage des v&eacute;ridiques, et il retire la science aux
+vieillards. </ab>
+<ab n="21">Il
+r&eacute;pand le m&eacute;pris sur les princes : Il rel&egrave;ve
+ceux qui avaient &eacute;t&eacute; opprim&eacute;s. </ab>
+<ab n="22">Il
+d&eacute;couvre ce qui &eacute;tait cach&eacute; dans les t&eacute;n&egrave;bres,
+et il produit au jour (la lumi&egrave;re) l&rsquo;ombre de la mort.
+</ab>
+<ab n="23">Il
+multiplie les nations, et les perd, et il les r&eacute;tablit
+enti&egrave;rement apr&egrave;s leur ruine. </ab>
+<ab n="24">Il
+change le c&oelig;ur des princes du peuple de la terre, et il les
+trompe pour qu&rsquo;ils s&rsquo;avancent vainement en des d&eacute;serts
+sans voie. </ab>
+<ab n="25">Ils
+t&acirc;tonneront comme dans les t&eacute;n&egrave;bres, loin de la
+lumi&egrave;re, et il les fera errer comme des gens ivres.</ab></div>
+<div type="chapter" n="13">
+<ab n="1">Voici,
+mon &oelig;il a vu toutes ces choses ; mon oreille les a entendues,
+et je les ai toutes comprises. </ab>
+<ab n="2">Ce
+que vous savez ne m&rsquo;est pas
+inconnu, et je ne vous suis pas inf&eacute;rieur. </ab>
+<ab n="3">Mais
+je veux parler (parlerai) au Tout-Puissant, et je d&eacute;sire
+discuter avec Dieu, </ab>
+<ab n="4">en
+montrant d&rsquo;abord que vous &ecirc;tes des fabricants de
+mensonge, et les d&eacute;fenseurs d&rsquo;une doctrine (de maximes)
+corrompue(s). </ab>
+<ab n="5">Que
+ne gardez-vous le silence, afin de passer pour des sages ! </ab>
+<ab n="6">Ecoutez
+donc ma r&eacute;primande ; soyez attentifs &agrave; la sentence de
+mes l&egrave;vres. </ab>
+<ab n="7">Dieu
+a-t-il besoin de votre mensonge, ou que vous disiez des fausset&eacute;s
+pour le d&eacute;fendre ? </ab>
+<ab n="8">Voulez-vous
+avoir &eacute;gard &agrave; sa personne, et faites-vous des efforts
+pour le justifier ? </ab>
+<ab n="9">Cela
+peut-il lui plaire, lui &agrave; qui rien n&rsquo;est cach&eacute; ?
+ou se laissera-t-il tromper (sera-t-il tromp&eacute;), comme un
+homme, par vos artifices ? </ab>
+<ab n="10">Lui-m&ecirc;me
+il vous condamnera, &agrave; cause de votre perversit&eacute; secr&egrave;te
+en sa faveur. </ab>
+<ab n="11">Aussit&ocirc;t
+qu&rsquo;il s&rsquo;&eacute;branlera (s&rsquo;&eacute;mouvra), il
+vous troublera, et sa terreur fondra sur vous. </ab>
+<ab n="12">Votre
+m&eacute;moire sera semblable &agrave; la cendre, et vos t&ecirc;tes
+superbes deviendront comme de la boue. </ab>
+<ab n="13">Taisez-vous
+un peu, afin que je dise tout ce que mon esprit me sugg&eacute;rera.
+</ab>
+<ab n="14">Pourquoi
+d&eacute;chir&eacute;-je mes chairs avec mes dents, et pourquoi
+port&eacute;-je mon &acirc;me entre mes mains ? </ab>
+<ab n="15">Quand
+m&ecirc;me Dieu me tuerait, j&rsquo;esp&eacute;rerais en lui ;
+n&eacute;anmoins je d&eacute;fendrai (j&rsquo;exposerai donc) mes
+voies en sa pr&eacute;sence. </ab>
+<ab n="16">Et
+il sera lui-m&ecirc;me mon sauveur ; car l&rsquo;hypocrite n&rsquo;osera
+para&icirc;tre devant lui. </ab>
+<ab n="17">Ecoutez
+mes paroles, pr&ecirc;tez oreille &agrave; mes sentences (&eacute;nigmes).
+</ab>
+<ab n="18">Si
+j&rsquo;&eacute;tais jug&eacute;, je sais que je serais reconnu
+innocent. </ab>
+<ab n="19">Est-il
+quelqu&rsquo;un qui veuille plaider contre moi ? Qu&rsquo;il vienne ;
+car pourquoi me laiss&eacute;-je consumer sans avoir parl&eacute;
+pour ma d&eacute;fense ? </ab>
+<ab n="20">Je
+vous demande seulement deux choses, et ensuite je ne me cacherai pas
+de devant votre face. </ab>
+<ab n="21">Eloignez
+de moi votre main, et que votre &eacute;pouvante (crainte) ne
+m&rsquo;effraye pas. </ab>
+<ab n="22">Appelez-moi,
+et je vous r&eacute;pondrai ; ou bien je parlerai, et vous,
+r&eacute;pondez-moi. </ab>
+<ab n="23">Combien
+ai-je commis d&rsquo;iniquit&eacute;s et de p&eacute;ch&eacute;s ?
+Montrez-moi mes crimes et mes offenses. </ab>
+<ab n="24">Pourquoi
+me cachez-vous votre visage, et pourquoi me croyez-vous votre ennemi
+? </ab>
+<ab n="25">Vous
+faites &eacute;clater votre puissance contre une feuille que le vent
+emporte, et vous poursuivez une paille s&egrave;che (dess&eacute;ch&eacute;e).
+</ab>
+<ab n="26">Car
+vous &eacute;crivez contre moi des arr&ecirc;ts tr&egrave;s s&eacute;v&egrave;res
+; et vous voulez me consumer pour les p&eacute;ch&eacute;s de ma
+jeunesse. </ab>
+<ab n="27">Vous
+avez mis mes pieds dans les ceps ; vous avez observ&eacute; tous mes
+sentiers, et vous avez consid&eacute;r&eacute; les traces de mes pas
+(pieds). </ab>
+<ab n="28">Et
+moi je dois me consumer comme la pourriture, et comme un v&ecirc;tement
+rong&eacute; par les vers.</ab></div>
+<div type="chapter" n="14">
+<ab n="1">L&rsquo;homme
+n&eacute; de la femme vit peu de temps, et il est rempli de beaucoup
+de mis&egrave;res. </ab>
+<ab n="2">Comme
+une fleur, il germe et il est foul&eacute; aux pieds (bris&eacute;) ;
+il fuit comme l&rsquo;ombre, et il ne demeure jamais dans le m&ecirc;me
+&eacute;tat. </ab>
+<ab n="3">Et
+vous jugez digne de vous d&rsquo;ouvrir les yeux sur lui, et de le
+faire entrer en jugement avec vous ? </ab>
+<ab n="4">Qui
+peut rendre pur celui qui a &eacute;t&eacute; con&ccedil;u dans
+l&rsquo;impuret&eacute; (d&rsquo;un sang impur) ? N&rsquo;est-ce pas
+vous seul qui le pouvez ? </ab>
+<ab n="5">Les
+jours de l&rsquo;homme sont courts ; vous connaissez le nombre de ses
+mois ; vous avez marqu&eacute; les bornes qu&rsquo;il ne pourra
+franchir. </ab>
+<ab n="6">Retirez-vous
+un peu de lui, afin qu&rsquo;il se repose, jusqu&rsquo;&agrave; ce
+que vienne le jour qu&rsquo;il d&eacute;sire (d&eacute;sir&eacute;)
+comme le mercenaire. </ab>
+<ab n="7">Un
+arbre n&rsquo;est pas sans esp&eacute;rance ; si on le coupe, il
+reverdit encore, et ses branches se multiplient. </ab>
+<ab n="8">Que
+sa racine ait vieilli dans la terre, et que son tronc soit mort dans
+la poussi&egrave;re, </ab>
+<ab n="9">&agrave;
+peine aura-t-il senti l&rsquo;eau, qu&rsquo;il repoussera, et il se
+couvrira de feuilles comme lorsqu&rsquo;il a &eacute;t&eacute;
+plant&eacute;. </ab>
+<ab n="10">Mais
+quand l&rsquo;homme est mort, d&eacute;pouill&eacute;, consum&eacute;,
+dites-le-moi, que devient-il ? </ab>
+<ab n="11">Semblable
+aux eaux qui se retirent de la mer, et &agrave; un fleuve qui tarit
+et se dess&egrave;che (il ne coule pas de nouveau), </ab>
+<ab n="12">(ainsi)
+l&rsquo;homme, lorsqu&rsquo;il est mort, ne ressuscite pas ; jusqu&rsquo;&agrave;
+ce que le ciel soit d&eacute;truit, il ne se r&eacute;veillera pas,
+et il ne sortira pas de son sommeil. </ab>
+<ab n="13">Qui
+m&rsquo;accordera que vous me cachiez dans le s&eacute;jour des morts
+(prot&eacute;giez dans l&rsquo;enfer) jusqu&rsquo;&agrave; ce que
+votre fureur soit pass&eacute;e, et que vous me marquiez un temps o&ugrave;
+vous vous souviendrez de moi ? </ab>
+<ab n="14">L&rsquo;homme,
+une fois mort, vivra-t-il de nouveau ? Dans cette guerre o&ugrave; je
+me trouve maintenant, j&rsquo;attends tous les jours que mon
+changement arrive. </ab>
+<ab n="15">Vous
+m&rsquo;appellerez, et je vous r&eacute;pondrai ; vous tendrez votre
+droite &agrave; l&rsquo;&oelig;uvre de vos mains. </ab>
+<ab n="16">Vous
+avez (, &agrave; la v&eacute;rit&eacute;,) compt&eacute; tous mes pas
+; mais pardonnez-moi mes p&eacute;ch&eacute;s. </ab>
+<ab n="17">Vous
+avez scell&eacute; mes offenses comme dans un sac ; mais vous avez
+gu&eacute;ri mon iniquit&eacute;. </ab>
+<ab n="18">La
+(Une) montagne se mine et tombe, et le (un) rocher est arrach&eacute;
+de sa place ; </ab>
+<ab n="19">les
+eaux creusent les pierres, et l&rsquo;eau qui bat contre la terre la
+consume peu &agrave; peu : c&rsquo;est (donc) ainsi que vous
+perd(r)ez l&rsquo;homme. </ab>
+<ab n="20">Vous
+l&rsquo;avez affermi pour quelque temps, afin qu&rsquo;il pass&acirc;t
+ensuite &agrave; jamais ; vous changerez son visage, et vous le ferez
+sortir de ce monde (l&rsquo;enverrez au loin). </ab>
+<ab n="21">Que
+ses enfants soient dans l&rsquo;&eacute;clat (la gloire) ou qu&rsquo;ils
+soient dans l&rsquo;ignominie, il ne le saura pas. </ab>
+<ab n="22">Sa
+chair, pendant qu&rsquo;il vivra, sera dans la douleur, et son &acirc;me
+pleurera sur lui.</ab></div>
+<div type="chapter" n="15">
+<ab n="1">Eliphaz
+de Th&eacute;man prit la parole et dit : </ab>
+<ab n="2">Le
+sage doit-il dans ses r&eacute;ponses parler comme en l&rsquo;air, et
+remplir sa poitrine d&rsquo;une chaleur inconsid&eacute;r&eacute;e
+(ardente) ? </ab>
+<ab n="3">Tu
+accuses par tes paroles celui qui n&rsquo;est pas ton &eacute;gal, et
+tu parles d&rsquo;une mani&egrave;re qui ne t&rsquo;est pas
+avantageuse. </ab>
+<ab n="4">Tu
+as d&eacute;truit, autant qu&rsquo;il est en toi, la crainte de Dieu,
+et supprim&eacute; les pri&egrave;res qu&rsquo;on doit lui offrir.
+</ab>
+<ab n="5">Car
+ton iniquit&eacute; a instruit ta bouche, et tu imites le langage des
+blasph&eacute;mateurs. </ab>
+<ab n="6">C&rsquo;est
+ta bouche qui te condamnera, et non pas moi ; et tes l&egrave;vres
+d&eacute;poseront contre toi. </ab>
+<ab n="7">Es-tu
+n&eacute; le premier des hommes, et as-tu &eacute;t&eacute; form&eacute;
+avant les collines ? </ab>
+<ab n="8">Es-tu
+entr&eacute; dans (As-tu ou&iuml;) le conseil de Dieu, et sa sagesse
+sera-t-elle inf&eacute;rieure &agrave; la tienne ? </ab>
+<ab n="9">Que
+sais-tu que nous ignorions ? et quelle lumi&egrave;re as-tu que nous
+n&rsquo;ayons &eacute;galement ? </ab>
+<ab n="10">Parmi
+nous aussi il y a des vieillards
+et des anciens, beaucoup plus &acirc;g&eacute;s que tes p&egrave;res.
+</ab>
+<ab n="11">Serait-il
+difficile &agrave; Dieu de te consoler ? Mais tu l&rsquo;en emp&ecirc;ches
+par tes paroles perverses. </ab>
+<ab n="12">Pourquoi
+ton c&oelig;ur te soul&egrave;ve-t-il ? L&rsquo;&eacute;tonnement de
+tes yeux ne marque-t-il pas l&rsquo;orgueil de tes pens&eacute;es
+(comme si tu pensais de grandes choses) ? </ab>
+<ab n="13">Pourquoi
+ton esprit s&rsquo;enfle-t-il contre Dieu, jusqu&rsquo;&agrave; faire
+prof&eacute;rer &agrave; ta bouche de si &eacute;tranges (tels)
+discours ? </ab>
+<ab n="14">Qu&rsquo;est-ce
+que l&rsquo;homme pour qu&rsquo;il soit pur, et le fils de la femme
+pour para&icirc;tre juste ? </ab>
+<ab n="15">Entre
+ses saints m&ecirc;me,
+personne n&rsquo;est impeccable, et les cieux ne sont pas purs devant
+ses yeux. </ab>
+<ab n="16">Combien
+plus l&rsquo;homme, qui boit l&rsquo;iniquit&eacute; comme l&rsquo;eau,
+est-il abominable et inutile ? </ab>
+<ab n="17">Je
+t&rsquo;instruirai (te le montrerai), &eacute;coute-moi ; je te
+raconterai ce que j&rsquo;ai vu. </ab>
+<ab n="18">Les
+(Des) sages le publient, et ils ne cachent pas
+ce qu&rsquo;ils ont re&ccedil;u de leurs p&egrave;res, </ab>
+<ab n="19">auxquels
+seuls cette terre a &eacute;t&eacute; donn&eacute;e, et nul &eacute;tranger
+ne passait parmi eux. </ab>
+<ab n="20">Durant
+tous ses jours, l&rsquo;impie cro&icirc;t en orgueil, et le nombre
+des ann&eacute;es de sa tyrannie est incertain. </ab>
+<ab n="21">Son
+oreille est toujours frapp&eacute;e de bruits effrayants, et au
+milieu de la paix il soup&ccedil;onne toujours des emb&ucirc;ches.
+</ab>
+<ab n="22">Il
+ne croit pas qu&rsquo;il puisse revenir des t&eacute;n&egrave;bres &agrave;
+la lumi&egrave;re, et il ne voit partout que le glaive. </ab>
+<ab n="23">Lorsqu&rsquo;il
+se remue pour chercher son pain, il sait que le jour des t&eacute;n&egrave;bres
+est pr&ecirc;t &agrave; ses c&ocirc;t&eacute;s (en sa main).
+</ab>
+<ab n="24">L&rsquo;adversit&eacute;
+l&rsquo;&eacute;pouvante(ra), et l&rsquo;angoisse l&rsquo;assi&egrave;ge
+(l&rsquo;environnera), comme un roi qui se pr&eacute;pare au combat.
+</ab>
+<ab n="25">Car
+il a &eacute;tendu sa main contre Dieu, et il s&rsquo;est raidi
+(roidi) contre le Tout-Puissant. </ab>
+<ab n="26">Il
+a couru contre Dieu le cou tendu ; il s&rsquo;est arm&eacute; d&rsquo;un
+orgueil inflexible. </ab>
+<ab n="27">L&rsquo;embonpoint
+(La graisse) a couvert tout son visage, et la graisse (l&rsquo;embonpoint)
+pend &agrave; ses flancs (c&ocirc;t&eacute;s). </ab>
+<ab n="28">Il
+a mis sa demeure dans des villes d&eacute;sol&eacute;es, dans des
+maisons d&eacute;sertes, qui ne sont plus que des monceaux de
+pierres. </ab>
+<ab n="29">Il
+ne s&rsquo;enrichira pas, son opulence (bien) ne durera pas,
+et il ne poussera pas
+de racine sur la terre. </ab>
+<ab n="30">Il
+ne sortira pas des t&eacute;n&egrave;bres ; la (une) flamme
+dess&eacute;chera ses rameaux ; le souffle de sa bouche l&rsquo;emportera.
+</ab>
+<ab n="31">Il
+ne croira pas, tromp&eacute; par une vaine erreur, qu&rsquo;il puisse
+&ecirc;tre rachet&eacute; &agrave; aucun prix. </ab>
+<ab n="32">Il
+p&eacute;rira avant que ses jours soient accomplis, et ses mains se
+(des)s&eacute;cheront. </ab>
+<ab n="33">Sa
+grappe sera frapp&eacute;e comme celle de la vigne &agrave; peine
+fleurie (qui l&rsquo;est dans sa premi&egrave;re fleur), et comme
+l&rsquo;olivier qui laisse tomber sa fleur. </ab>
+<ab n="34">Car
+la famille de (tout ce qu&rsquo;amasse un) l&rsquo;hypocrite sera
+inf&eacute;conde (fruit), et le feu d&eacute;vorera les maisons
+(tabernacles) de ceux qui aiment &agrave; recevoir des pr&eacute;sents.
+</ab>
+<ab n="35">Il
+con&ccedil;oit (a con&ccedil;u) la douleur et il enfante l&rsquo;iniquit&eacute;,
+et son sein (c&oelig;ur) pr&eacute;pare la d&eacute;ception (des
+fourberies).</ab></div>
+<div type="chapter" n="16">
+<ab n="1">Job
+prit la parole et dit : </ab>
+<ab n="2">J&rsquo;ai
+entendu souvent de pareils discours ; vous &ecirc;tes tous des
+consolateurs importuns. </ab>
+<ab n="3">Ces
+discours en l&rsquo;air finiront-ils
+? Et qu&rsquo;y a-t-il de plus ais&eacute; que de parler (eu dans mes
+paroles quelque chose d&rsquo;offensant pour toi, puisque tu parles
+ainsi) ainsi ? </ab>
+<ab n="4">Moi
+aussi je pourrais en dire autant que vous ; et que ne suis-je &agrave;
+votre place ! </ab>
+<ab n="5">Je
+vous consolerais aussi par mes paroles, et je branlerais la t&ecirc;te
+&agrave; votre sujet. </ab>
+<ab n="6">Je
+vous fortifierais par mon langage (ma bouche), et je remuerais mes
+l&egrave;vres, comme
+par compassion pour vous (si je vous m&eacute;nageais). </ab>
+<ab n="7">Mais
+que ferai-je ? Si je parle, ma douleur ne s&rsquo;apaisera pas
+; et si je me tais, elle ne me quittera pas. </ab>
+<ab n="8">Mais
+maintenant ma douleur m&rsquo;accable, et tous mes membres sont
+r&eacute;duits &agrave; rien. </ab>
+<ab n="9">Mes
+rides rendent t&eacute;moignage contre moi ; et il s&rsquo;&eacute;l&egrave;ve,
+devant ma face, un menteur qui m&rsquo;accuse (un faux raisonneur est
+suscit&eacute; devant ma face, me contredisant). </ab>
+<ab n="10">Il
+a ramass&eacute; contre moi sa fureur ; il a grinc&eacute; des dents
+en me mena&ccedil;ant ; mon ennemi m&rsquo;a envisag&eacute;
+(regard&eacute;) avec un regard terrible. </ab>
+<ab n="11">Ils
+ont ouvert leurs bouches contre moi, et, me couvrant d&rsquo;opprobre,
+ils ont frapp&eacute; ma joue, et se sont rassasi&eacute;s de mes
+peines. </ab>
+<ab n="12">Dieu
+m&rsquo;a mis &agrave; la merci du m&eacute;chant ; il m&rsquo;a
+livr&eacute; entre les mains des impies. </ab>
+<ab n="13">Moi
+qui &eacute;tais autrefois (si) puissant, j&rsquo;ai &eacute;t&eacute;
+bris&eacute; tout &agrave; coup. Il m&rsquo;a pris par la nuque, il
+m&rsquo;a broy&eacute;, et il m&rsquo;a mis comme en butte &agrave;
+ses traits. </ab>
+<ab n="14">Il
+m&rsquo;a environn&eacute; de ses lances, il m&rsquo;en a perc&eacute;
+(couvert) les reins (de blessure) ; il ne m&rsquo;a pas
+&eacute;pargn&eacute;, et il a r&eacute;pandu mes entrailles &agrave;
+terre. </ab>
+<ab n="15">Il
+m&rsquo;a fait (d&eacute;chir&eacute; en me faisant) blessure sur
+blessure ; il a fondu sur moi comme un g&eacute;ant. </ab>
+<ab n="16">J&rsquo;ai
+cousu un cilice (sac) sur ma peau, et j&rsquo;ai couvert ma chair de
+cendres. </ab>
+<ab n="17">Mon
+visage s&rsquo;est gonfl&eacute; &agrave; force de pleurer, et mes
+paupi&egrave;res se sont obscurcies. </ab>
+<ab n="18">J&rsquo;ai
+souffert cela sans que l&rsquo;iniquit&eacute; f&ucirc;t dans ma
+main, lorsque j&rsquo;offrais &agrave; Dieu de(s) pures pri&egrave;res
+(pures). </ab>
+<ab n="19">Terre,
+ne couvre pas mon
+sang, et que mes cris ne soient nulle part &eacute;touff&eacute;s
+dans ton sein. </ab>
+<ab n="20">Car
+voici que mon t&eacute;moin
+est dans le ciel,
+et celui qui me
+conna&icirc;t &agrave; fond (a une connaissance intime de moi) habite
+les hauts lieux. </ab>
+<ab n="21">Mes
+amis se r&eacute;pandent en paroles, mes yeux fondent en larmes
+devant Dieu. </ab>
+<ab n="22">Que
+je voudrais que l&rsquo;homme p&ucirc;t se justifier devant Dieu,
+comme il peut se justifier devant un de ses semblables ! </ab>
+<ab n="23">Car
+mes ann&eacute;es s&rsquo;&eacute;coulent rapides (vite), et je
+parcours une voie par laquelle je ne reviendrai jamais (pas).</ab></div>
+<div type="chapter" n="17">
+<ab n="1">Mon
+souffle (esprit) va s&rsquo;&eacute;puiser, mes jours vont &ecirc;tre
+abr&eacute;g&eacute;s, et il ne me reste plus que (un) le tombeau.
+</ab>
+<ab n="2">Je
+n&rsquo;ai pas
+p&eacute;ch&eacute;, et cependant mon &oelig;il ne contemple
+qu&rsquo;amertumes. </ab>
+<ab n="3">D&eacute;livrez-moi,
+Seigneur, et placez-moi aupr&egrave;s de vous, et que la main de qui
+que ce soit s&rsquo;arme contre moi. </ab>
+<ab n="4">Vous
+avez &eacute;loign&eacute; leur c&oelig;ur de l&rsquo;intelligence
+(la science) ; c&rsquo;est pourquoi ils ne seront pas
+exalt&eacute;s. </ab>
+<ab n="5">Il
+promet du butin &agrave; ses compagnons ; mais (et) les yeux de ses
+fils tomberont en d&eacute;faillance. </ab>
+<ab n="6">Il
+m&rsquo;a rendu comme la fable du peuple, et je suis &agrave; leurs
+yeux un exemple. </ab>
+<ab n="7">L&rsquo;indignation
+m&rsquo;obscurcit les yeux, et mes membres sont comme r&eacute;duits
+&agrave; rien. </ab>
+<ab n="8">Les
+(Des) justes seront dans la stupeur &agrave; ce sujet, et l&rsquo;innocent
+(un) s&rsquo;&eacute;l&egrave;vera contre l&rsquo;hypocrite. </ab>
+<ab n="9">Et
+(Mais) le juste demeurera dans sa voie, et celui qui a les mains
+pures en deviendra plus fort. </ab>
+<ab n="10">Vous
+tous, retournez-vous (convertissez-vous) donc et venez, et je ne
+trouverai pas un sage parmi vous. </ab>
+<ab n="11">Mes
+jours se sont &eacute;coul&eacute;s, mes pens&eacute;es ont &eacute;t&eacute;
+renvers&eacute;es, et ne servent qu&rsquo;&agrave; me torturer le
+c&oelig;ur. </ab>
+<ab n="12">Ils
+(Elles) ont chang&eacute; la nuit en jour, et apr&egrave;s les
+t&eacute;n&egrave;bres j&rsquo;esp&egrave;re encore voir la lumi&egrave;re.
+</ab>
+<ab n="13">Quand
+m&ecirc;me j&rsquo;attendrais (avec patience), le s&eacute;jour des
+morts (l&rsquo;enfer) est ma maison, et je me suis pr&eacute;par&eacute;
+mon lit dans les t&eacute;n&egrave;bres. </ab>
+<ab n="14">J&rsquo;ai
+dit &agrave; la pourriture : Tu es mon p&egrave;re ; et aux vers :
+Vous &ecirc;tes ma m&egrave;re et ma s&oelig;ur. </ab>
+<ab n="15">O&ugrave;
+est donc maintenant mon attente ? Et ma patience, qui la consid&egrave;re
+? </ab>
+<ab n="16">Tout
+ce que j&rsquo;ai (en moi) descendra dans le plus profond du tombeau
+(l&rsquo;enfer). Croyez-vous qu&rsquo;au moins l&agrave; je puisse
+avoir du repos ?</ab></div>
+<div type="chapter" n="18">
+<ab n="1">Baldad
+le Suhite prit la parole et dit : </ab>
+<ab n="2">Jusques
+&agrave; quand vous r&eacute;pandrez-vous en paroles ? Comprenez
+d&rsquo;abord, et ensuite nous parlerons. </ab>
+<ab n="3">Pourquoi
+passons-nous pour des brutes (animaux stupides), et pourquoi
+sommes-nous immondes (m&eacute;prisables) &agrave; vos yeux ? </ab>
+<ab n="4">Toi
+qui perds ton &acirc;me dans ta fureur, la terre sera-t-elle
+abandonn&eacute;e &agrave; cause de toi, et les rochers transport&eacute;s
+de leur place ? </ab>
+<ab n="5">La
+lumi&egrave;re de l&rsquo;impie ne s&rsquo;&eacute;teindra-telle pas
+? et la flamme de son foyer (feu) ne sera-t-elle pas sans &eacute;clat
+? </ab>
+<ab n="6">La
+lumi&egrave;re sera obscurcie dans sa tente (son tabernacle), et la
+lampe qui brille au-dessus de lui s&rsquo;&eacute;teindra. </ab>
+<ab n="7">Ses
+pas robustes seront entrav&eacute;s, et ses conseils le jetteront
+dans le pr&eacute;cipice. </ab>
+<ab n="8">Car
+il a engag&eacute; ses pieds dans les (un) rets, et il marche au
+milieu de leurs mailles. </ab>
+<ab n="9">Son
+pied sera pris dans le filet, et la (une) soif (ardente) le br&ucirc;lera
+par ses ardeurs. </ab>
+<ab n="10">Le
+pi&egrave;ge est cach&eacute; pour lui sous la terre, et les lacs
+(qu&rsquo;on lui a pr&eacute;par&eacute;s) sur le sentier. </ab>
+<ab n="11">Les
+terreurs l&rsquo;assi&eacute;geront de toutes parts, et envelopperont
+ses pieds. </ab>
+<ab n="12">La
+faim ext&eacute;nuera sa force, et la disette envahira ses flancs.
+</ab>
+<ab n="13">La
+mort la plus terrible (cruelle) d&eacute;vorera sa beaut&eacute;, et
+elle consumera ses bras. </ab>
+<ab n="14">Ce
+en quoi il mettait sa confiance sera arrach&eacute; de sa tente (son
+tabernacle), et la mort, comme un roi, le foulera aux pieds. </ab>
+<ab n="15">Les
+compagnons de celui qui n&rsquo;est plus habiteront dans sa tente
+(son tabernacle), et on r&eacute;pandra du soufre dans sa demeure
+(son tabernacle). </ab>
+<ab n="16">En
+bas, (que) ses racines se dess&eacute;che(ro)nt ; (qu&rsquo;) en
+haut, ses branches seront (soient) bris&eacute;es. </ab>
+<ab n="17">Sa
+m&eacute;moire p&eacute;rira de dessus la terre, et son nom ne sera
+plus (pas)
+c&eacute;l&eacute;br&eacute; dans les places publiques. </ab>
+<ab n="18">On
+(Il, note) le chassera de la lumi&egrave;re dans les t&eacute;n&egrave;bres,
+et il sera transport&eacute; hors de ce monde (l&rsquo;univers). </ab>
+<ab n="19">Il
+n&rsquo;aura pas
+de post&eacute;rit&eacute;, pas
+de descendants parmi son peuple, et il n&rsquo;en restera rien dans
+le pays. </ab>
+<ab n="20">Ceux
+qui viendront apr&egrave;s lui seront &eacute;tonn&eacute;s de sa
+perte, et ceux de son temps en seront saisis d&rsquo;horreur.
+</ab>
+<ab n="21">Telles
+seront les tentes (tabernacles) du m&eacute;chant, et telle la place
+(tel est le terme) de celui qui ignore Dieu.</ab></div>
+<div type="chapter" n="19">
+<ab n="1">Alors
+Job prit la parole et dit : </ab>
+<ab n="2">Jusques
+&agrave; quand affligerez-vous mon &acirc;me, et m&rsquo;&eacute;craserez-vous
+par vos discours ? </ab>
+<ab n="3">Voil&agrave;
+d&eacute;j&agrave; dix fois que vous m&rsquo;insultez (cherchez &agrave;
+me confondre), et que vous ne rougissez pas
+de m&rsquo;accabler. </ab>
+<ab n="4">Quand
+je serais dans l&rsquo;ignorance, mon ignorance ne regarde que moi.
+</ab>
+<ab n="5">Mais
+vous vous &eacute;levez contre moi, et vous tirez de mes humiliations
+une preuve contre moi. </ab>
+<ab n="6">Comprenez
+au moins maintenant que ce n&rsquo;est pas
+par un jugement de justice que Dieu m&rsquo;a afflig&eacute; et m&rsquo;a
+entour&eacute; de ses fl&eacute;aux (ch&acirc;timents). </ab>
+<ab n="7">Voici,
+je crie, souffrant violence, et personne ne m&rsquo;&eacute;coute ;
+j&rsquo;&eacute;l&egrave;ve la voix, et on ne me rend pas justice.
+</ab>
+<ab n="8">Il a
+ferm&eacute; de toutes parts mon sentier, et je ne puis plus passer ;
+et il a r&eacute;pandu des t&eacute;n&egrave;bres sur mon chemin. </ab>
+<ab n="9">Il
+m&rsquo;a d&eacute;pouill&eacute; de ma gloire, et il m&rsquo;a &ocirc;t&eacute;
+la couronne de la t&ecirc;te. </ab>
+<ab n="10">Il
+m&rsquo;a d&eacute;truit de tous c&ocirc;t&eacute;s, et je p&eacute;ris
+; et comme &agrave; un arbre arrach&eacute;, il m&rsquo;a &ocirc;t&eacute;
+toute esp&eacute;rance. </ab>
+<ab n="11">Sa
+fureur s&rsquo;est allum&eacute;e contre moi, et il m&rsquo;a trait&eacute;
+comme son ennemi. </ab>
+<ab n="12">Ses
+brigands (soldats) sont venus tous ensemble ; ils se sont fray&eacute;
+une route jusqu&rsquo;&agrave; (au travers de) moi, et ils ont mis le
+si&egrave;ge autour de ma tente (mon tabernacle). </ab>
+<ab n="13">Il
+a &eacute;loign&eacute; de moi mes fr&egrave;res, et mes amis se sont
+d&eacute;tourn&eacute;s de moi comme des &eacute;trangers. </ab>
+<ab n="14">Mes
+proches m&rsquo;ont abandonn&eacute;, et ceux qui me connaissaient
+m&rsquo;ont oubli&eacute;. </ab>
+<ab n="15">Ceux
+qui demeuraient dans ma maison et mes servantes m&rsquo;ont regard&eacute;
+comme un &eacute;tranger (h&ocirc;te passager). </ab>
+<ab n="16">J&rsquo;ai
+appel&eacute; mon serviteur, et il ne m&rsquo;a pas r&eacute;pondu ;
+je le suppliais (priais) de ma propre bouche. </ab>
+<ab n="17">Ma
+femme a eu horreur de mon haleine, et je priais les fils sortis de
+mon sein. </ab>
+<ab n="18">Les
+(Des) insens&eacute;s eux-m&ecirc;mes me m&eacute;prisaient, et &agrave;
+peine les avais-je quitt&eacute;s, qu&rsquo;ils m&eacute;disaient de
+moi. </ab>
+<ab n="19">Mes
+confidents d&rsquo;autrefois m&rsquo;ont eu en ex&eacute;cration, et
+celui que j&rsquo;aimais le plus s&rsquo;est d&eacute;tourn&eacute;
+de moi. </ab>
+<ab n="20">Mes
+chairs &eacute;tant consum&eacute;es, mes os se sont coll&eacute;s &agrave;
+ma peau, et il ne me reste que les l&egrave;vres autour des dents.
+</ab>
+<ab n="21">Ayez
+piti&eacute; de moi, ayez piti&eacute; de moi, vous du moins, mes
+amis, car la main du Seigneur m&rsquo;a frapp&eacute;. </ab>
+<ab n="22">Pourquoi
+me pers&eacute;cutez-vous comme Dieu, et vous rassasiez-vous de ma
+chair ? </ab>
+<ab n="23">Qui
+m&rsquo;accordera que mes paroles soient &eacute;crites ? Qui me
+donnera qu&rsquo;elles soient trac&eacute;es dans un livre ;
+</ab>
+<ab n="24">qu&rsquo;elles
+soient grav&eacute;es sur une lame de plomb avec un style de fer, ou
+sur la pierre avec un ciseau (burin) ? </ab>
+<ab n="25">Car
+je sais que mon R&eacute;dempteur est vivant, et que je ressusciterai
+de la terre au dernier jour, </ab>
+<ab n="26">et
+que je serai de nouveau rev&ecirc;tu de ma peau, et que dans ma chair
+je verrai mon Dieu. </ab>
+<ab n="27">Je
+le verrai (dois le voir) moi-m&ecirc;me, et non un autre, et mes yeux
+le contempleront. Cette esp&eacute;rance repose dans mon sein.
+</ab>
+<ab n="28">Pourquoi
+donc dites-vous maintenant : Pers&eacute;cutons-le, et cherchons
+contre lui des pr&eacute;textes pour le d&eacute;crier ? </ab>
+<ab n="29">Fuyez
+donc de devant le glaive, car il y a un glaive vengeur des iniquit&eacute;s,
+et sachez qu&rsquo;il y a un jugement.</ab></div>
+<div type="chapter" n="20">
+<ab n="1">Sophar
+de Naamath prit la parole et dit : </ab>
+<ab n="2">C&rsquo;est
+pour cela que mes pens&eacute;es diverses se succ&egrave;dent, et que
+mon esprit est agit&eacute; en sens contraires (des sentiments
+divers). </ab>
+<ab n="3">J&rsquo;&eacute;couterai
+la th&eacute;orie sur laquelle tu m&rsquo;attaques (m&rsquo;accuses)
+; mais l&rsquo;esprit (de mon) d&rsquo;intelligence qui est en moi
+r&eacute;pondra pour moi. </ab>
+<ab n="4">Je
+sais que d&egrave;s l&rsquo;origine, depuis que l&rsquo;homme a &eacute;t&eacute;
+plac&eacute; sur la terre, </ab>
+<ab n="5">la
+gloire des impies est courte, et que la joie de l&rsquo;hypocrite
+n&rsquo;est que d&rsquo;un moment. </ab>
+<ab n="6">Quand
+son orgueil s&rsquo;&eacute;l&egrave;verait jusqu&rsquo;au ciel, et
+que sa t&ecirc;te toucherait les nues, </ab>
+<ab n="7">il
+p&eacute;rira &agrave; la fin, comme un fumier ; et ceux qui
+l&rsquo;avaient vu, diront : O&ugrave; est-il ? </ab>
+<ab n="8">Comme
+un songe qui s&rsquo;envole, on ne le trouvera plus, et il
+dispara&icirc;tra comme une vision de la nuit. </ab>
+<ab n="9">L&rsquo;&oelig;il
+qui l&rsquo;avait vu ne le verra plus, et sa place (son lieu) ne
+l&rsquo;apercevra plus. </ab>
+<ab n="10">Ses
+fils seront &eacute;cras&eacute;s par la pauvret&eacute;, et ses
+propres mains lui rendront le mal qu&rsquo;il a fait (aux autres).
+</ab>
+<ab n="11">Les
+d&eacute;r&egrave;glements de sa jeunesse p&eacute;n&eacute;treront
+jusque dans ses os, et se reposeront avec lui dans la poussi&egrave;re.
+</ab>
+<ab n="12">Car,
+parce que le mal a &eacute;t&eacute; doux &agrave; sa bouche, il le
+cachera sous sa langue. </ab>
+<ab n="13">Il
+m&eacute;nage(ra) ce mets, il ne le l&acirc;che(ra) pas,
+et il le retien(dra)t dans sa bouche. </ab>
+<ab n="14">Son
+pain, dans son sein, se changera int&eacute;rieurement en fiel
+d&rsquo;aspic. </ab>
+<ab n="15">Il
+vomira les richesses qu&rsquo;il avait d&eacute;vor&eacute;es, et
+Dieu les tirera de son ventre (entrailles). </ab>
+<ab n="16">Il
+sucera la t&ecirc;te des aspics, et la langue de la vip&egrave;re le
+tuera. </ab>
+<ab n="17">Il
+ne verra pas
+couler sur lui les fleuves, ni des torrents de miel et de lait
+(beurre). </ab>
+<ab n="18">Il
+expiera tout ce qu&rsquo;il a fait, et n&rsquo;en sera cependant pas
+consum&eacute; ; il souffrira selon la multitude de ses crimes (la
+multitude de richesses qu&rsquo;il aura acquises). </ab>
+<ab n="19">Car
+il a bris&eacute; et d&eacute;pouill&eacute; les pauvres ; il a ravi
+la maison qu&rsquo;il n&rsquo;avait pas fait b&acirc;tir. </ab>
+<ab n="20">Son
+ventre a &eacute;t&eacute; insatiable ; et lorsqu&rsquo;il aura ce
+qu&rsquo;il convoitait, il n&rsquo;en pourra pas jouir. </ab>
+<ab n="21">Il
+n&rsquo;est rien rest&eacute; de sa nourriture : c&rsquo;est pour
+cela qu&rsquo;il ne demeurera rien de ses biens. </ab>
+<ab n="22">Lorsqu&rsquo;il
+aura &eacute;t&eacute; rassasi&eacute;, il sera dans l&rsquo;angoisse
+(oppress&eacute; et &eacute;touff&eacute; de chaleur) ; il s&rsquo;agitera,
+et toutes les douleurs se pr&eacute;cipiteront sur lui. </ab>
+<ab n="23">Que
+son ventre se remplisse donc ; que Dieu lance contre lui la fureur de
+sa col&egrave;re (col&egrave;re de sa fureur), et qu&rsquo;il fasse
+pleuvoir sur lui ses traits (foudres) ! </ab>
+<ab n="24">Il
+fuira les armes de fer, et il tombera sur (sera transperc&eacute;
+par) l&rsquo;arc d&rsquo;airain. </ab>
+<ab n="25">L&rsquo;&eacute;p&eacute;e
+est d&eacute;gain&eacute;e, elle sort du fourreau, elle &eacute;tincelle
+et le perce cruellement ; les terreurs (d&rsquo;horribles spectres)
+passeront et repasseront sur lui. </ab>
+<ab n="26">Toutes
+les t&eacute;n&egrave;bres sont cach&eacute;es dans le secret de son
+&acirc;me ; il sera d&eacute;vor&eacute; par un feu que personne
+n&rsquo;allume, et, d&eacute;laiss&eacute; dans sa tente (son
+tabernacle), il sera livr&eacute; &agrave; l&rsquo;affliction. </ab>
+<ab n="27">Les
+cieux r&eacute;v&eacute;leront son iniquit&eacute;, et la terre
+s&rsquo;&eacute;l&egrave;vera contre lui. </ab>
+<ab n="28">Les
+enfants de sa maison seront expos&eacute;s &agrave; la violence ; ils
+seront retranch&eacute;s (enlev&eacute;s) au jour de la fureur de
+Dieu. </ab>
+<ab n="29">Tel
+est le partage que Dieu r&eacute;serve &agrave; l&rsquo;impie, et
+l&rsquo;h&eacute;ritage qu&rsquo;il recevra du Seigneur pour ses
+paroles.</ab></div>
+<div type="chapter" n="21">
+<ab n="1">Job
+prit la parole et dit : </ab>
+<ab n="2">Ecoutez,
+je vous prie, mes paroles, et changez de sentiment (faites
+p&eacute;nitence). </ab>
+<ab n="3">Souffrez
+que je parle, et ensuite riez, si cela vous pla&icirc;t, de mes
+discours. </ab>
+<ab n="4">Est-ce
+avec un homme que je dispute ? N&rsquo;est-ce pas &agrave; bon droit
+que je m&rsquo;attriste (pour que je ne doive pas &ecirc;tre
+justement contrist&eacute;, note) ? </ab>
+<ab n="5">Jetez
+les yeux sur moi, et soyez frapp&eacute;s d&rsquo;&eacute;tonnement,
+et mettez le doigt sur votre bouche. </ab>
+<ab n="6">Et
+moi, quand je m&rsquo;en souviens, j&rsquo;en suis &eacute;pouvant&eacute;
+et j&rsquo;en tremble de tout mon corps. </ab>
+<ab n="7">Pourquoi
+donc les impies vivent-ils ? Pourquoi sont-ils si &eacute;lev&eacute;s
+et rendus puissants par les richesses ? </ab>
+<ab n="8">Leur
+race se perp&eacute;tue devant eux ; la foule de leurs proches et de
+leurs petits enfants est en leur pr&eacute;sence. </ab>
+<ab n="9">Leurs
+maisons jouissent d&rsquo;une profonde paix, et la verge de Dieu ne
+les touche pas.
+</ab>
+<ab n="10">Leur
+vache (g&eacute;nisse) con&ccedil;oit et conserve son fruit, leur
+g&eacute;nisse (vache) met bas et n&rsquo;avorte pas
+(n&rsquo;a pas &eacute;t&eacute; priv&eacute;e de son fruit). </ab>
+<ab n="11">Leurs
+(petits) enfants sortent comme des troupeaux, leurs nouveau-n&eacute;s
+(enfants) bondissent en se jouant. </ab>
+<ab n="12">Ils
+tiennent le (un) tambour(in) et la (une) harpe, et ils se r&eacute;jouissent
+au son de la fl&ucirc;te de Pan (d&rsquo;un orgue). </ab>
+<ab n="13">Ils
+passent leurs jours dans le bonheur, et soudain ils descendent dans
+le tombeau (les enfers). </ab>
+<ab n="14">Ils
+ont dit &agrave; Dieu : Retire-toi de nous, nous ne voulons pas
+conna&icirc;tre tes voies. </ab>
+<ab n="15">Qu&rsquo;est
+le Tout-Puissant pour que nous le servions ? Et quel int&eacute;r&ecirc;t
+avons-nous &agrave; le prier ? </ab>
+<ab n="16">Mais
+puisque leurs biens ne sont pas en leur pouvoir, loin de moi le
+conseil des impies ! </ab>
+<ab n="17">Combien
+de fois voit-on s&rsquo;&eacute;teindre la lumi&egrave;re des impies,
+et un d&eacute;luge de maux leur survenir, et Dieu leur partager
+(distribuer) les douleurs dans sa col&egrave;re ! </ab>
+<ab n="18">Ils
+s(er)ont comme la paille en face du vent, et comme la poussi&egrave;re
+que disperse un tourbillon. </ab>
+<ab n="19">Dieu
+r&eacute;serve &agrave; leurs fils la peine du p&egrave;re, Dieu le
+frappera lui-m&ecirc;me (lorsqu&rsquo;il lui aura rendu selon son
+m&eacute;rite), (et) alors il comprendra. </ab>
+<ab n="20">Il
+verra de ses yeux sa propre ruine, et il boira de la fureur du
+Tout-Puissant. </ab>
+<ab n="21">Car
+que lui importe ce que deviendra sa maison apr&egrave;s lui, quand
+m&ecirc;me Dieu lui retrancherait la moiti&eacute; de ses ann&eacute;es
+(mois) ? </ab>
+<ab n="22">Qui
+entreprendra d&rsquo;enseigner la science &agrave; Dieu, lui qui juge
+les grands ? </ab>
+<ab n="23">L&rsquo;un
+meurt robuste et sain, riche et heureux ; </ab>
+<ab n="24">ses
+entrailles sont charg&eacute;es de graisse, et ses os arros&eacute;s
+de moelle. </ab>
+<ab n="25">L&rsquo;autre
+meurt dans l&rsquo;amertume de son &acirc;me, sans aucun bien ; </ab>
+<ab n="26">et
+n&eacute;anmoins ils dorment tous deux dans la poussi&egrave;re, et
+les vers les recouvrent tous deux. </ab>
+<ab n="27">Je
+connais bien vos pens&eacute;es, et vos jugements injustes contre
+moi. </ab>
+<ab n="28">Car
+vous dites : O&ugrave; est la maison du (d&rsquo;un) prince, et o&ugrave;
+sont les tentes (tabernacles) des impies ? </ab>
+<ab n="29">Interrogez
+quelqu&rsquo;un des voyageurs (le premier des passants), et vous
+verrez qu&rsquo;il conna&icirc;t cette m&ecirc;me v&eacute;rit&eacute;
+: </ab>
+<ab n="30">que
+le m&eacute;chant est r&eacute;serv&eacute; pour le jour de la ruine
+(perdition), et qu&rsquo;il sera conduit (jusqu&rsquo;)au jour de la
+fureur. </ab>
+<ab n="31">Qui
+le reprendra, en sa pr&eacute;sence, de ses voies ? et qui lui rendra
+ce qu&rsquo;il a fait ? </ab>
+<ab n="32">Il
+sera port&eacute; lui-m&ecirc;me au tombeau, et il veillera parmi la
+foule des morts. </ab>
+<ab n="33">Sa
+pr&eacute;sence a &eacute;t&eacute; agr&eacute;able aux sables
+(graviers) du Cocyte ; il y entra&icirc;nera tous les hommes (tout
+homme) apr&egrave;s lui, et une foule innombrable l&rsquo;a pr&eacute;c&eacute;d&eacute;.
+</ab>
+<ab n="34">Pourquoi
+(Comment) donc me donnez-vous une vaine consolation, puisque j&rsquo;ai
+(il a &eacute;t&eacute;) montr&eacute; que votre r&eacute;ponse est
+contraire &agrave; la v&eacute;rit&eacute; ?</ab></div>
+<div type="chapter" n="22">
+<ab n="1">Eliphaz
+de Th&eacute;man prit la parole et dit : </ab>
+<ab n="2">L&rsquo;homme
+peut-il &ecirc;tre compar&eacute; &agrave; Dieu, quand (m&ecirc;me)
+il aurait une science consomm&eacute;e (parfaite) ? </ab>
+<ab n="3">Que
+sert &agrave; Dieu que tu sois juste ? ou que lui procures-tu si ta
+conduite est sans tache ? </ab>
+<ab n="4">Est-ce
+par crainte (en craignant) qu&rsquo;il t&rsquo;accusera, et qu&rsquo;il
+entrera en jugement avec toi ? </ab>
+<ab n="5">Et
+n&rsquo;est-ce pas &agrave; cause de ta malice multiple (tr&egrave;s
+grande) et de tes iniquit&eacute;s infinies ? </ab>
+<ab n="6">(Car)
+Tu as pris sans raison des gages &agrave; tes fr&egrave;res, et tu as
+d&eacute;pouill&eacute; de leurs v&ecirc;tements ceux qui &eacute;taient
+nus. </ab>
+<ab n="7">Tu
+n&rsquo;as pas donn&eacute; d&rsquo;eau &agrave; celui qui &eacute;tait
+fatigu&eacute; (&eacute;puis&eacute; de lassitude), et tu refusais du
+pain &agrave; l&rsquo;homme affam&eacute;. </ab>
+<ab n="8">Tu
+poss&eacute;dais le pays par la violence (force) de ton bras, et tu
+t&rsquo;y &eacute;tablissais par le droit du plus fort (&eacute;tant
+le plus puissant, tu la conservais). </ab>
+<ab n="9">Tu
+renvoyais les veuves les mains vides, tu brisais les bras des
+orphelins. </ab>
+<ab n="10">C&rsquo;est
+pour cela que tu es environn&eacute; de pi&egrave;ges, et troubl&eacute;
+par une crainte subite. </ab>
+<ab n="11">Et
+tu pensais que tu ne verrais pas les t&eacute;n&egrave;bres, et que
+tu ne serais pas
+accabl&eacute; par le choc des eaux d&eacute;bord&eacute;es (un
+imp&eacute;tueux d&eacute;bordement d&rsquo;eaux). </ab>
+<ab n="12">Ne
+consid&egrave;res-tu pas que Dieu est plus &eacute;lev&eacute; que le
+ciel, qu&rsquo;il est bien au-dessus (au sommet) des astres ? </ab>
+<ab n="13">Et
+tu dis : Qu&rsquo;est-ce que Dieu sait ? Il juge comme &agrave;
+travers (une profonde) l&rsquo;obscurit&eacute;. </ab>
+<ab n="14">Les
+nu&eacute;es sont sa retraite ; il ne s&rsquo;inqui&egrave;te pas
+de nos affaires, et il se prom&egrave;ne dans le ciel d&rsquo;un p&ocirc;le
+&agrave; l&rsquo;autre. </ab>
+<ab n="15">D&eacute;sires-tu
+suivre l&rsquo;antique route des si&egrave;cles, foul&eacute;e de ces
+hommes impies, </ab>
+<ab n="16">qui
+ont &eacute;t&eacute; emport&eacute;s avant leur temps, et dont le
+d&eacute;luge (un fleuve) a renvers&eacute; le fondement ; </ab>
+<ab n="17">qui
+disaient &agrave; Dieu : Retire-toi de nous, et qui s&rsquo;imaginaient
+que le Tout-Puissant ne pouvait rien (faire) ; </ab>
+<ab n="18">quoique
+ce f&ucirc;t lui qui avait rempli leurs maisons de biens ? Mais loin
+de moi leurs pens&eacute;es impies ! </ab>
+<ab n="19">Les
+justes les verront p&eacute;rir, et s&rsquo;en r&eacute;jouiront, et
+l&rsquo;innocent leur insultera (se moquera d&rsquo;eux) : </ab>
+<ab n="20">Ce
+qu&rsquo;ils avaient &eacute;lev&eacute; n&rsquo;a-t-il pas &eacute;t&eacute;
+d&eacute;truit, et le feu n&rsquo;a-t-il pas d&eacute;vor&eacute;
+leurs restes ? </ab>
+<ab n="21">Soumets-toi
+donc &agrave; Dieu, et demeure en paix ; et par l&agrave; tu
+obtiendras d&rsquo;excellents fruits. </ab>
+<ab n="22">Re&ccedil;ois
+la loi de sa bouche, et mets ses paroles dans ton c&oelig;ur. </ab>
+<ab n="23">Si
+tu reviens au Tout-Puissant, tu seras r&eacute;tabli de nouveau, et
+tu banniras l&rsquo;iniquit&eacute; de ta tente (ton tabernacle).
+</ab>
+<ab n="24">Il
+te donnera, au lieu de la terre, le rocher ; et au lieu de la pierre
+(d&rsquo;un rocher), des torrents d&rsquo;or. </ab>
+<ab n="25">Le
+Tout-Puissant se d&eacute;clarera contre tes ennemis, et tu auras des
+monceaux d&rsquo;argent. </ab>
+<ab n="26">Alors
+tu trouveras tes d&eacute;lices dans le Tout-Puissant, et tu &eacute;l&egrave;veras
+ton visage vers Dieu. </ab>
+<ab n="27">Tu
+le prieras, et il t&rsquo;exaucera ; et tu accompliras tes v&oelig;ux.
+</ab>
+<ab n="28">Tu
+formeras des desseins, et ils r&eacute;ussiront ; et la lumi&egrave;re
+brillera sur tes voies. </ab>
+<ab n="29">Car
+celui qui aura &eacute;t&eacute; humili&eacute; sera dans la gloire ;
+et celui qui aura baiss&eacute; les yeux sera sauv&eacute;.
+</ab>
+<ab n="30">L&rsquo;innocent
+sera d&eacute;livr&eacute;, et il le sera par la puret&eacute; de ses
+mains.</ab></div>
+<div type="chapter" n="23">
+<ab n="1">Or
+(Mais) Job r&eacute;pondit en ces termes : </ab>
+<ab n="2">Maintenant
+encore ma parole est pleine d&rsquo;amertume, et la violence de ma
+plaie est bien au-dessus de (s&rsquo;est bien plus aggrav&eacute;e
+que) mes g&eacute;missements. </ab>
+<ab n="3">Qui
+me donnera de le conna&icirc;tre (Dieu) et de le trouver, et de
+parvenir jusqu&rsquo;&agrave; son tr&ocirc;ne ? </ab>
+<ab n="4">J&rsquo;exposerais
+ma cause devant lui, et je remplirais ma bouche de preuves
+(r&eacute;criminations), </ab>
+<ab n="5">pour
+savoir ce qu&rsquo;il me r&eacute;pondrait, et pour entendre ce qu&rsquo;il
+pourrait me dire. </ab>
+<ab n="6">Je
+ne voudrais (veux) pas
+qu&rsquo;il me combatt&icirc;t de toute sa force (lutte contre moi),
+ni qu&rsquo;il m&rsquo;accabl&acirc;t (accable) par le poids de sa
+grandeur. </ab>
+<ab n="7">Qu&rsquo;il
+propose contre moi l&rsquo;&eacute;quit&eacute;, et ma cause
+obtiendra la victoire. </ab>
+<ab n="8">Mais
+si je vais &agrave; l&rsquo;orient, il ne para&icirc;t pas
+; si je vais &agrave; l&rsquo;occident, je ne l&rsquo;aper&ccedil;ois
+pas. </ab>
+<ab n="9">Si
+je me tourne &agrave; gauche, que faire ? je ne puis l&rsquo;atteindre
+; si je vais &agrave; droite, je ne le verrai pas.
+</ab>
+<ab n="10">Mais
+il conna&icirc;t lui-m&ecirc;me ma voie, et il m&rsquo;&eacute;prouve
+comme l&rsquo;or qui passe par le feu. </ab>
+<ab n="11">Mon
+pied a suivi ses traces ; j&rsquo;ai gard&eacute; sa voie, et je ne
+m&rsquo;en suis pas
+d&eacute;tourn&eacute;. </ab>
+<ab n="12">Je
+ne me suis pas &eacute;cart&eacute; des commandements de ses l&egrave;vres,
+et j&rsquo;ai cach&eacute; dans mon sein les paroles de sa bouche.
+</ab>
+<ab n="13">Car
+il subsiste lui seul (est Tout-puissant). Nul ne peut emp&ecirc;cher
+ses desseins, et il fait absolument tout ce qui lui pla&icirc;t (son
+&acirc;me a voulu, elle l&rsquo;a fait). </ab>
+<ab n="14">Quand
+il aura accompli sur moi sa volont&eacute;, il lui reste encore
+beaucoup d&rsquo;autres moyens semblables. </ab>
+<ab n="15">C&rsquo;est
+pourquoi je me trouble en sa pr&eacute;sence, et lorsque je le
+consid&egrave;re, je suis agit&eacute; de crainte. </ab>
+<ab n="16">Dieu
+a amolli mon c&oelig;ur, et le Tout-Puissant m&rsquo;a &eacute;pouvant&eacute;.
+</ab>
+<ab n="17">Car
+je ne p&eacute;ris pas
+&agrave; cause des t&eacute;n&egrave;bres qui m&rsquo;environnent, et
+ce n&rsquo;est pas l&rsquo;obscurit&eacute; qui a voil&eacute; ma
+face.</ab></div>
+<div type="chapter" n="24">
+<ab n="1">Les
+temps ne sont pas
+cach&eacute;s au Tout-Puissant ; mais ceux qui le connaissent
+ignorent ses jours. </ab>
+<ab n="2">Il
+en est qui d&eacute;placent les limites, qui ravissent les troupeaux,
+et les m&egrave;nent dans leurs p&acirc;turages (les ont fait
+pa&icirc;tre). </ab>
+<ab n="3">Ils
+saisissent l&rsquo;&acirc;ne des orphelins, et ils emm&egrave;nent
+pour gage le b&oelig;uf de la veuve. </ab>
+<ab n="4">Ils
+renversent la voie des pauvres, et ils oppriment tous ceux qui sont
+doux sur la terre. </ab>
+<ab n="5">D&rsquo;autres,
+comme les onagres du d&eacute;sert, sortent pour leur ouvrage ; ils
+cherchent leur proie d&egrave;s le matin, pour donner de quoi vivre &agrave;
+leurs enfants. </ab>
+<ab n="6">Ils
+moissonnent le champ qui n&rsquo;est pas
+&agrave; eux, et ils vendangent la vigne de celui qu&rsquo;ils ont
+opprim&eacute; par violence. </ab>
+<ab n="7">Ils
+renvoient les hommes nus, et ils enl&egrave;vent les v&ecirc;tements
+de ceux qui n&rsquo;ont pas de quoi se couvrir pendant le froid ;
+</ab>
+<ab n="8">qui
+sont mouill&eacute;s par les pluies des montagnes, et qui, n&rsquo;ayant
+pas de manteau, se pressent contre les rochers. </ab>
+<ab n="9">Ils
+d&eacute;pouillent de force les orphelins, et ils pillent le pauvre
+peuple. </ab>
+<ab n="10">Ils
+arrachent les &eacute;pis des mains (ont pris des &eacute;pis) &agrave;
+ceux qui sont nus, sans v&ecirc;tements et affam&eacute;s. </ab>
+<ab n="11">Ils
+se reposent &agrave; midi parmi les gerbes (tas de fruits) de ceux
+qui, apr&egrave;s avoir foul&eacute; les (des) pressoirs, sont dans
+la soif. </ab>
+<ab n="12">Ils
+font g&eacute;mir les hommes dans les villes ; les &acirc;mes
+bless&eacute;es poussent des cris, et Dieu ne laissera pas ces crimes
+impunis. </ab>
+<ab n="13">Ils
+ont &eacute;t&eacute; rebelles &agrave; la lumi&egrave;re ; ils n&rsquo;ont
+pas connu ses voies (les voies de Dieu), et ils ne sont pas revenus
+par ses sentiers. </ab>
+<ab n="14">Le
+meurtrier se l&egrave;ve de grand matin ; il tue le faible
+(l&rsquo;indigent) et le pauvre, et il r&ocirc;de la nuit, comme un
+larron. </ab>
+<ab n="15">L&rsquo;&oelig;il
+de l&rsquo;adult&egrave;re &eacute;pie l&rsquo;obscurit&eacute; ; il
+dit : Personne ne me verra ; et il se couvre le visage. </ab>
+<ab n="16">Il
+perce les maisons dans les t&eacute;n&egrave;bres, &agrave; l&rsquo;heure
+qu&rsquo;ils s&rsquo;&eacute;taient donn&eacute;e pendant le jour ;
+et ils n&rsquo;ont pas
+connu la lumi&egrave;re. </ab>
+<ab n="17">Si
+l&rsquo;aurore para&icirc;t tout &agrave; coup, ils croient que c&rsquo;est
+l&rsquo;ombre de la mort, et ils marchent dans les t&eacute;n&egrave;bres
+comme dans le jour (&agrave; la lumi&egrave;re). </ab>
+<ab n="18">Il
+est (plus) l&eacute;ger &agrave; (que) la (sur)face de l&rsquo;eau ;
+que sa portion soit maudite sur la terre, et qu&rsquo;il ne marche
+pas par le chemin
+des vignes. </ab>
+<ab n="19">Qu&rsquo;il
+passe des eaux de la neige &agrave; une chaleur excessive, et que son
+p&eacute;ch&eacute; p&eacute;n&egrave;tre (le conduise) jusqu&rsquo;aux
+enfers. </ab>
+<ab n="20">Que
+la mis&eacute;ricorde l&rsquo;oublie, que les vers soient ses d&eacute;lices
+; qu&rsquo;on ne se souvienne pas
+de lui, mais qu&rsquo;il soit arrach&eacute; comme un arbre sans
+fruit. </ab>
+<ab n="21">Car
+il a d&eacute;vor&eacute; (nourri) la femme st&eacute;rile, qui
+n&rsquo;enfante pas, et il n&rsquo;a pas fait de bien &agrave; la
+veuve. </ab>
+<ab n="22">Il
+a fait tomber (abattu) les forts par sa puissance ; et lorsqu&rsquo;il
+sera debout, il ne sera pas s&ucirc;r de sa vie. </ab>
+<ab n="23">Dieu
+lui a donn&eacute; du temps pour faire p&eacute;nitence, et il en
+abuse pour l&rsquo;orgueil ; mais les yeux de Dieu sont sur ses
+voies. </ab>
+<ab n="24">Ils
+se sont &eacute;lev&eacute;s pour un moment, et ils ne subsisteront
+pas ; ils seront humili&eacute;s comme toutes choses, ils seront
+emport&eacute;s et retranch&eacute;s (bris&eacute;s) comme le haut
+des &eacute;pis. </ab>
+<ab n="25">Que
+si cela n&rsquo;est ainsi, qui pourra me convaincre de mensonge, et
+porter mes paroles devant Dieu ?</ab></div>
+<div type="chapter" n="25">
+<ab n="1">Baldad
+le Suhite parla ensuite en ces termes : </ab>
+<ab n="2">La
+puissance et la terreur appartiennent &agrave; Dieu ; il (&agrave;
+celui qui) fait r&eacute;gner la paix dans ses hauts lieux. </ab>
+<ab n="3">Peut-on
+compter le nombre de ses soldats ? et sur qui sa lumi&egrave;re ne se
+l&egrave;ve-t-elle pas
+? </ab>
+<ab n="4">L&rsquo;homme
+compar&eacute; &agrave; Dieu peut-il &ecirc;tre justifi&eacute;, et
+celui qui est n&eacute; de la femme para&icirc;tra-t-il pur ? </ab>
+<ab n="5">La
+lune m&ecirc;me ne brille pas,
+et les &eacute;toiles ne sont pas pures devant ses yeux ; </ab>
+<ab n="6">combien
+moins le sera l&rsquo;homme qui n&rsquo;est que pourriture, et le
+fils de l&rsquo;homme, qui n&rsquo;est qu&rsquo;un ver ?</ab></div>
+<div type="chapter" n="26">
+<ab n="1">Alors
+Job r&eacute;pondit en ces termes : </ab>
+<ab n="2">De
+qui es-tu l&rsquo;auxiliaire ? Est-ce du faible ? et soutiens-tu le
+bras d&rsquo;un &ecirc;tre d&eacute;nu&eacute; de force ? </ab>
+<ab n="3">A
+qui donnes-tu un conseil ? Est-ce &agrave; celui qui n&rsquo;a pas de
+sagesse ? Vraiment (et) tu as manifest&eacute; une immense prudence.
+</ab>
+<ab n="4">Qui
+veux-tu instruire ? N&rsquo;est-ce pas celui qui a cr&eacute;&eacute;
+le souffle de la vie ? </ab>
+<ab n="5">Les
+g&eacute;ants m&ecirc;mes et ceux qui habitent avec eux g&eacute;missent
+sous les eaux. </ab>
+<ab n="6">Le
+s&eacute;jour des morts (L&rsquo;enfer) est &agrave; nu devant lui,
+et l&rsquo;ab&icirc;me sans aucun voile. </ab>
+<ab n="7">Il
+&eacute;tend le septentrion sur le vide, et suspend la terre sur le
+n&eacute;ant. </ab>
+<ab n="8">Il
+lie les eaux dans ses nu&eacute;es, afin qu&rsquo;elles ne fondent
+pas sur la terre toutes ensemble. </ab>
+<ab n="9">Il
+couvre la face de son tr&ocirc;ne, et il r&eacute;pand sur lui sa
+nu&eacute;e. </ab>
+<ab n="10">Il
+a entour&eacute; les eaux d&rsquo;une limite (pour les retenir),
+jusqu&rsquo;aux confins de la lumi&egrave;re et des t&eacute;n&egrave;bres.
+</ab>
+<ab n="11">Les
+colonnes du ciel tremblent, et s&rsquo;effrayent &agrave; son moindre
+signe (clin d&rsquo;&oelig;il). </ab>
+<ab n="12">Sa
+puissance a rassembl&eacute; les mers en un instant, et sa sagesse en
+a dompt&eacute; l&rsquo;orgueil (prudence a frapp&eacute; le
+superbe). </ab>
+<ab n="13">Son
+esprit a orn&eacute; les cieux, et l&rsquo;adresse de sa main a fait
+para&icirc;tre le (un) serpent plein de replis. </ab>
+<ab n="14">Ce
+n&rsquo;est l&agrave; qu&rsquo;une partie de ses &oelig;uvres (de ses
+voies) ; et si nous n&rsquo;avons entendu qu&rsquo;un l&eacute;ger
+murmure de sa voix, qui pourra soutenir le tonnerre de sa grandeur ?
+
+</ab></div>
+<div type="chapter" n="27">
+<ab n="1">Job
+prit encore la
+parole sous une forme sentencieuse (prenant encore de nouveau sa
+parabole), et il dit : </ab>
+<ab n="2">Par
+le Dieu vivant (Vive Dieu) qui refuse de me faire justice, et par le
+Tout-Puissant qui a rempli mon &acirc;me d&rsquo;amertume, </ab>
+<ab n="3">tant
+que j&rsquo;aurai ma respiration et que le souffle de Dieu sera dans
+mes narines, </ab>
+<ab n="4">mes
+l&egrave;vres ne prononceront rien d&rsquo;injuste,
+et ma langue ne dira rien de faux. </ab>
+<ab n="5">Loin
+de moi la pens&eacute;e de vous croire &eacute;quitables ; tant que
+je vivrai, je ne me d&eacute;sisterai pas de mon innocence. </ab>
+<ab n="6">Je
+n&rsquo;abandonnerai pas la justification que j&rsquo;ai commenc&eacute;
+de produire ; car mon c&oelig;ur ne me reproche rien dans toute ma
+vie. </ab>
+<ab n="7">Que
+mon ennemi soit regard&eacute; comme un impie ; et celui qui me
+combat, comme un homme injuste. </ab>
+<ab n="8">Car
+quelle est l&rsquo;esp&eacute;rance de l&rsquo;hypocrite, s&rsquo;il
+vole par avarice, et que Dieu ne d&eacute;livre pas
+son &acirc;me ? </ab>
+<ab n="9">Dieu
+entendra-t-il ses cris, lorsque l&rsquo;affliction (l&rsquo;angoisse)
+viendra sur lui ? </ab>
+<ab n="10">Ou
+(bien) pourra-t-il faire du Tout-Puissant ses d&eacute;lices,
+et invoquer Dieu en tout temps ? </ab>
+<ab n="11">Je
+vous enseignerai avec le secours de Dieu ; je ne vous cacherai pas
+les desseins du (ce que fait le) Tout-Puissant. </ab>
+<ab n="12">Mais
+vous le savez d&eacute;j&agrave; tous ; pourquoi donc vous r&eacute;pandre
+inutilement en de vains discours ? </ab>
+<ab n="13">Voici
+le sort que Dieu r&eacute;serve &agrave; l&rsquo;homme impie, et
+l&rsquo;h&eacute;ritage que les violents recevront du Tout-Puissant.
+</ab>
+<ab n="14">S&rsquo;il
+a des fils en grand nombre, ils passeront par le glaive, et ses
+petits-enfants (descendants) ne seront pas
+rassasi&eacute;s de pain. </ab>
+<ab n="15">Ceux
+qui resteront de sa race seront ensevelis dans leur ruine, et ses
+veuves ne (le) pleureront pas.
+</ab>
+<ab n="16">S&rsquo;il
+amoncelle l&rsquo;argent comme de la terre, s&rsquo;il amasse des
+v&ecirc;tements comme de la boue, </ab>
+<ab n="17">il
+est vrai qu&rsquo;il les aura amass&eacute;s ; mais le juste s&rsquo;en
+rev&ecirc;tira, et l&rsquo;innocent partagera son argent. </ab>
+<ab n="18">Ce
+qu&rsquo;il a b&acirc;ti sera comme la maison de la teigne (Il a
+b&acirc;ti, comme les vers, sa maison), et comme la cabane d&rsquo;un
+gardien. </ab>
+<ab n="19">Lorsque
+le riche s&rsquo;endormira, il n&rsquo;emportera rien avec lui ; il
+ouvrira les yeux, et il ne trouvera rien. </ab>
+<ab n="20">L&rsquo;indigence
+le surprendra comme une inondation (l&rsquo;au qui d&eacute;borde) ;
+la (une) temp&ecirc;te l&rsquo;emportera pendant la nuit. </ab>
+<ab n="21">Un
+vent br&ucirc;lant le saisira et l&rsquo;emportera, et l&rsquo;enl&egrave;vera
+de sa place comme un tourbillon. </ab>
+<ab n="22">Dieu
+enverra sur lui plaie sur plaie (l&rsquo;infortune), et ne
+l&rsquo;&eacute;pargnera pas
+; et il s&rsquo;efforcera d&rsquo;&eacute;chapper &agrave; sa main.
+</ab>
+<ab n="23">On
+battra des mains sur lui, et on le sifflera en voyant la place qu&rsquo;il
+occupait.</ab></div>
+<div type="chapter" n="28">
+<ab n="1">L&rsquo;argent
+a une source de ses veines, et l&rsquo;or un lieu o&ugrave; on
+l&rsquo;&eacute;pure. </ab>
+<ab n="2">Le
+fer se tire de la terre, et la pierre, fondue par la chaleur, se
+change en airain. </ab>
+<ab n="3">L&rsquo;homme
+(Il, note) met fin aux t&eacute;n&egrave;bres ; il consid&egrave;re
+lui-m&ecirc;me la fin de toutes choses, et aussi la pierre ensevelie
+(cach&eacute;e) dans l&rsquo;obscurit&eacute; et l&rsquo;ombre de la
+mort. </ab>
+<ab n="4">Le
+(Un) torrent s&eacute;pare du (d&rsquo;un) peuple voyageur (&eacute;tranger)
+ceux qu&rsquo;a oubli&eacute;s le pied de l&rsquo;homme pauvre, et
+qui sont hors de la voie (inaccessibles). </ab>
+<ab n="5">La
+(Une) terre, d&rsquo;o&ugrave; le pain naissait comme de son lieu, a
+&eacute;t&eacute; boulevers&eacute;e par le feu. </ab>
+<ab n="6">Le
+saphir se trouve dans ses pierres, et ses mottes (gl&egrave;bes) sont
+de l&rsquo;or. </ab>
+<ab n="7">L&rsquo;oiseau
+en a ignor&eacute; la route, et l&rsquo;&oelig;il du vautour ne l&rsquo;a
+pas vue. </ab>
+<ab n="8">Les
+fils des marchands n&rsquo;y ont pas
+march&eacute;, et la lionne n&rsquo;y a pas
+pass&eacute;. </ab>
+<ab n="9">Il
+a &eacute;tendu sa main sur les (des) rochers ; il a renvers&eacute;
+les (des) montagnes jusque dans leurs racines. </ab>
+<ab n="10">Il
+a taill&eacute; des ruisseaux dans les pierres, et son &oelig;il a vu
+tout ce qui est pr&eacute;cieux. </ab>
+<ab n="11">Il
+a scrut&eacute; le fond des fleuves, et il a produit au jour les
+tr&eacute;sors cach&eacute;s. </ab>
+<ab n="12">Mais
+la sagesse, o&ugrave; la trouvera-t-on ? et quel est le lieu de
+l&rsquo;intelligence ? </ab>
+<ab n="13">L&rsquo;homme
+en ignore le prix, et elle ne se trouve pas
+dans la terre de ceux qui vivent d&eacute;licatement (dans les
+d&eacute;lices). </ab>
+<ab n="14">L&rsquo;ab&icirc;me
+dit : Elle n&rsquo;est pas
+en moi ; et la mer aussi : Elle n&rsquo;est pas
+avec moi. </ab>
+<ab n="15">Elle
+ne se donne pas
+pour l&rsquo;or le plus pur, et elle ne s&rsquo;ach&egrave;te pas au
+poids de l&rsquo;argent (au poids). </ab>
+<ab n="16">On
+ne la mettra pas
+en comparaison avec les &eacute;toffes teintes des Indes, ni avec la
+sardoine la plus pr&eacute;cieuse, ou le saphir. </ab>
+<ab n="17">On
+ne lui &eacute;galera ni l&rsquo;or ni le verre, et on ne la donnera
+pas en &eacute;change
+pour des vases d&rsquo;or. </ab>
+<ab n="18">Ce
+qu&rsquo;il y a de plus grand et de plus &eacute;lev&eacute; ne sera
+pas m&ecirc;me mentionn&eacute; aupr&egrave;s d&rsquo;elle ; mais la
+sagesse se tire d&rsquo;une source cach&eacute;e. </ab>
+<ab n="19">On
+ne la comparera pas
+avec la topaze d&rsquo;Ethiopie, ni avec les teintures les plus
+&eacute;clatantes. </ab>
+<ab n="20">D&rsquo;o&ugrave;
+vient donc la sagesse ? et o&ugrave; l&rsquo;intelligence se
+trouve-t-elle ? </ab>
+<ab n="21">Elle
+est cach&eacute;e aux yeux de tous les vivants ; elle est inconnue
+m&ecirc;me aux oiseaux du ciel. </ab>
+<ab n="22">La
+perdition et la mort ont dit : Nous avons entendu parler d&rsquo;elle
+(ou&iuml; son nom de nos oreilles). </ab>
+<ab n="23">C&rsquo;est
+Dieu qui conna&icirc;t (comprend) sa voie ; lui qui sait le lieu o&ugrave;
+elle habite. </ab>
+<ab n="24">Car
+il contemple les extr&eacute;mit&eacute;s du monde, et il consid&egrave;re
+tout ce qui se passe sous le ciel. </ab>
+<ab n="25">C&rsquo;est
+lui qui a r&eacute;gl&eacute; le poids des (aux) vents ; lui qui a
+pes&eacute; et mesur&eacute; les eaux (avec mesure). </ab>
+<ab n="26">Lorsqu&rsquo;il
+prescrivait une loi aux pluies, et un chemin (une voix (voie&nbsp;?))
+aux temp&ecirc;tes retentissantes (tonnantes), </ab>
+<ab n="27">alors
+il l&rsquo;a vue, il l&rsquo;a d&eacute;couverte, il l&rsquo;a
+pr&eacute;par&eacute;e (proclam&eacute;e) et il l&rsquo;a fond&eacute;e
+(scrut&eacute;e). </ab>
+<ab n="28">Et
+il a dit &agrave; l&rsquo;homme : La crainte du Seigneur, voil&agrave;
+la sagesse, et se retirer du mal, c&rsquo;est l&rsquo;intelligence.</ab></div>
+<div type="chapter" n="29">
+<ab n="1">Job,
+reprenant son discours sentencieux (prenant encore de nouveau sa
+parabole), parla encore en ces termes : </ab>
+<ab n="2">Qui
+me donnera d&rsquo;&ecirc;tre comme au temps d&rsquo;autrefois, comme
+aux jours o&ugrave; Dieu me gardait ? </ab>
+<ab n="3">Lorsque
+sa lampe luisait sur ma t&ecirc;te, et qu&rsquo;&agrave; sa lumi&egrave;re
+je marchais dans les t&eacute;n&egrave;bres ; </ab>
+<ab n="4">comme
+j&rsquo;&eacute;tais aux jours de ma jeunesse, lorsque Dieu habitait
+en secret dans ma tente (tabernacle) ; </ab>
+<ab n="5">lorsque
+le Tout-Puissant &eacute;tait avec moi, et mes enfants (serviteurs)
+autour de moi ; </ab>
+<ab n="6">lorsque
+je lavais mes pieds dans le lait caill&eacute; (beurre), et que (une)
+la pierre r&eacute;pandait pour moi des ruisseaux d&rsquo;huile ;
+</ab>
+<ab n="7">lorsque
+je m&rsquo;avan&ccedil;ais vers la porte de la ville, et que l&rsquo;on
+me pr&eacute;parait un si&egrave;ge dans la place publique ? </ab>
+<ab n="8">Les
+jeunes gens me voyaient et se cachaient (retiraient &agrave; l&rsquo;&eacute;cart)
+; et les vieillards, se levant, demeuraient debout. </ab>
+<ab n="9">Les
+princes cessaient de parler, et ils mettaient le doigt sur leur
+bouche. </ab>
+<ab n="10">Les
+chefs (grands) retenaient leur voix, et leur langue demeurait
+attach&eacute;e &agrave; leur palais. </ab>
+<ab n="11">L&rsquo;oreille
+qui m&rsquo;&eacute;coutait me proclamait bienheureux, et l&rsquo;&oelig;il
+qui me voyait me rendait t&eacute;moignage, </ab>
+<ab n="12">parce
+que j&rsquo;avais d&eacute;livr&eacute; le pauvre qui criait, et
+l&rsquo;orphelin priv&eacute; de secours. </ab>
+<ab n="13">La
+b&eacute;n&eacute;diction de celui qui allait p&eacute;rir venait sur
+moi, et je consolais le c&oelig;ur de la veuve. </ab>
+<ab n="14">Je
+me suis rev&ecirc;tu de la justice, et l&rsquo;&eacute;quit&eacute;
+(de jugements) me servit (m&rsquo;a
+servi) comme d&rsquo;un manteau (de
+v&ecirc;tement) et d&rsquo;un diad&egrave;me. </ab>
+<ab n="15">J&rsquo;ai
+&eacute;t&eacute; l&rsquo;&oelig;il de l&rsquo;aveugle, et le pied du
+boiteux. </ab>
+<ab n="16">J&rsquo;&eacute;tais
+le p&egrave;re des pauvres, et j&rsquo;examinais avec un soin extr&ecirc;me
+l&rsquo;affaire que je ne connaissais pas. </ab>
+<ab n="17">Je
+brisais les m&acirc;choires de l&rsquo;injuste, et je lui arrachais
+sa proie d&rsquo;entre les dents. </ab>
+<ab n="18">Je
+disais : Je mourrai dans mon (petit) nid, et je multiplierai mes
+jours comme le palmier. </ab>
+<ab n="19">Ma
+racine s&rsquo;&eacute;tend le long des eaux, et la ros&eacute;e se
+reposera sur mes branches (ma moisson). </ab>
+<ab n="20">Ma
+gloire se renouvellera sans cesse, et mon arc se fortifiera dans ma
+main. </ab>
+<ab n="21">Ceux
+qui m&rsquo;&eacute;coutaient attendaient mon avis (sentiment), et
+ils se taisaient, attentifs &agrave; mon sentiment (avis). </ab>
+<ab n="22">Ils
+n&rsquo;osaient rien ajouter &agrave; mes paroles, et elles tombaient
+sur eux comme la ros&eacute;e. </ab>
+<ab n="23">Ils
+me d&eacute;siraient comme la pluie, et leur bouche s&rsquo;ouvrait
+comme aux ond&eacute;es de l&rsquo;arri&egrave;re-saison. </ab>
+<ab n="24">Si
+parfois je leur souriais, ils ne pouvaient le croire, et la lumi&egrave;re
+de mon visage ne tombait pas &agrave; terre. </ab>
+<ab n="25">Quand
+(Si) je voulais aller parmi eux, je prenais la premi&egrave;re place
+; et lorsque j&rsquo;&eacute;tais assis comme un roi au milieu de ses
+gardes, je ne laissais pas d&rsquo;&ecirc;tre le consolateur des
+afflig&eacute;s.</ab></div>
+<div type="chapter" n="30">
+<ab n="1">Mais
+maintenant je sers de jouet &agrave; de plus jeunes qui moi, dont je
+ne daignais pas (autrefois) mettre les p&egrave;res avec les chiens
+de mon troupeau ; </ab>
+<ab n="2">car
+la force de leurs mains (la main) ne m&rsquo;e&ucirc;t servi de rien,
+et ils &eacute;taient m&ecirc;me regard&eacute;s (qui me
+paraissaient) comme indignes de la vie. </ab>
+<ab n="3">Dess&eacute;ch&eacute;s
+par la faim et la pauvret&eacute;, ils rongeaient le d&eacute;sert,
+d&eacute;figur&eacute;s par l&rsquo;affliction (malheur) et la
+mis&egrave;re. </ab>
+<ab n="4">Ils
+mangeaient l&rsquo;herbe et l&rsquo;&eacute;corce des arbres, et se
+nourrissaient de la racine des gen&eacute;vriers. </ab>
+<ab n="5">Ils
+allaient ravir ces aliments dans les vall&eacute;es, et, quand ils
+les d&eacute;couvraient, ils y accouraient avec de grands cris. </ab>
+<ab n="6">Ils
+habitaient dans les creux (d&eacute;serts aupr&egrave;s) des
+torrents, dans les cavernes de la terre ou sur le gravier. </ab>
+<ab n="7">Ils
+trouvaient leur joie dans cet &eacute;tat, et ils regardaient comme
+des d&eacute;lices d&rsquo;&ecirc;tre sous les buissons (des ronces).
+</ab>
+<ab n="8">Fils
+d&rsquo;insens&eacute;s et d&rsquo;hommes ignobles, m&eacute;pris et
+rebut du pays. </ab>
+<ab n="9">Je
+suis devenu le sujet de leurs chansons, je suis l&rsquo;objet de
+leurs railleries (pass&eacute; parmi eux en proverbe). </ab>
+<ab n="10">Ils
+m&rsquo;ont en horreur, et ils fuient loin de moi, et ils ne
+craignent pas de me cracher au visage. </ab>
+<ab n="11">Car
+Dieu a ouvert son carquois pour me faire souffrir, et il a mis un
+frein &agrave; ma bouche. </ab>
+<ab n="12">Quand
+je me l&egrave;ve, mes maux se dressent aussit&ocirc;t &agrave; ma
+droite ; ils ont renvers&eacute; mes pieds, et ils m&rsquo;ont
+accabl&eacute; de leurs men&eacute;es comme sous des flots. </ab>
+<ab n="13">Ils
+ont rompu mes sentiers, ils m&rsquo;ont dress&eacute; des pi&egrave;ges
+et ont eu sur moi l&rsquo;avantage, et il n&rsquo;y a eu personne
+pour me secourir. </ab>
+<ab n="14">Ils
+se sont jet&eacute;s sur moi, comme par la br&egrave;che d&rsquo;une
+muraille et par une porte ouverte, et ils sont venus m&rsquo;accabler
+dans ma mis&egrave;re. </ab>
+<ab n="15">J&rsquo;ai
+&eacute;t&eacute; r&eacute;duit au n&eacute;ant. Vous avez emport&eacute;
+comme un tourbillon ce qui m&rsquo;&eacute;tait cher, et mon salut a
+pass&eacute; comme un nuage. </ab>
+<ab n="16">(Aussi)
+Mon &acirc;me est maintenant toute languissante en moi-m&ecirc;me, et
+des jours d&rsquo;affliction me poss&egrave;dent. </ab>
+<ab n="17">Pendant
+la nuit la douleur transperce mes os, et ceux qui me d&eacute;vorent
+ne dorment pas.
+</ab>
+<ab n="18">Leur
+multitude consume mon v&ecirc;tement, et ils me serrent comme le haut
+(m&rsquo;ont couvert comme le capuchon) d&rsquo;une tunique. </ab>
+<ab n="19">Je
+suis devenu comme de la boue, et je suis semblable &agrave; la
+poussi&egrave;re (braise) et &agrave; la cendre. </ab>
+<ab n="20">Je
+crie vers vous, et vous ne m&rsquo;&eacute;coutez pas ; je me
+pr&eacute;sente &agrave; vous, et vous ne me regardez pas. </ab>
+<ab n="21">Vous
+&ecirc;tes devenu cruel envers moi, et vous me combattez d&rsquo;une
+main dure. </ab>
+<ab n="22">Vous
+m&rsquo;avez &eacute;lev&eacute;, et, me tenant comme suspendu en
+l&rsquo;air, vous m&rsquo;avez bris&eacute; enti&egrave;rement. </ab>
+<ab n="23">Je
+sais que vous me livrerez &agrave; la mort, o&ugrave; est marqu&eacute;e
+la maison de tous les vivants. </ab>
+<ab n="24">Toutefois
+vous n&rsquo;&eacute;tendez pas votre main pour les consumer
+enti&egrave;rement ; car, lorsqu&rsquo;ils tombent, vous les sauvez.
+</ab>
+<ab n="25">Je
+pleurais autrefois sur ce qui &eacute;tait afflig&eacute;, et mon &acirc;me
+&eacute;tait compatissante envers le pauvre. </ab>
+<ab n="26">J&rsquo;attendais
+les (des) biens, et les (des) maux me sont venus ; j&rsquo;esp&eacute;rais
+la lumi&egrave;re, et les t&eacute;n&egrave;bres se sont pr&eacute;cipit&eacute;es.
+</ab>
+<ab n="27">Un
+feu br&ucirc;le sans rel&acirc;che dans mes entrailles ; les (des)
+jours de l&rsquo;affliction m&rsquo;ont pr&eacute;venu. </ab>
+<ab n="28">Je
+marchais triste, sans ardeur (fureur) ; je me levais et je poussais
+des cris dans la foule. </ab>
+<ab n="29">J&rsquo;ai
+&eacute;t&eacute; le fr&egrave;re des dragons, et le compagnon des
+autruches. </ab>
+<ab n="30">Ma
+peau s&rsquo;est noircie sur moi, et mes os se sont dess&eacute;ch&eacute;s
+par l&rsquo;ardeur qui me br&ucirc;le. </ab>
+<ab n="31">Ma
+harpe s&rsquo;est chang&eacute;e en un chant de deuil (plainte
+lugubre), et mon hautbois rend des sons lugubres (orgue en voix de
+pleureurs).</ab></div>
+<div type="chapter" n="31">
+<ab n="1">J&rsquo;ai
+fait un pacte avec mes yeux pour ne pas penser m&ecirc;me &agrave;
+une vierge. </ab>
+<ab n="2">Car
+(autrement) quelle union Dieu aurait-il d&rsquo;en haut avec moi ? et
+quelle part le Tout-Puissant me donnerait-il &agrave; son c&eacute;leste
+h&eacute;ritage ? </ab>
+<ab n="3">Ne
+perdra-t-il pas le m&eacute;chant, et ne rejettera-t-il pas
+(l&rsquo;ali&eacute;nation des h&eacute;ritages pour) ceux qui
+commettent l&rsquo;injustice ? </ab>
+<ab n="4">Ne
+consid&egrave;re-t-il pas mes voies, et ne compte-t-il pas toutes mes
+d&eacute;marches (tous mes pas) ? </ab>
+<ab n="5">Si
+j&rsquo;ai march&eacute; dans la vanit&eacute;, et si mon pied s&rsquo;est
+empress&eacute; vers la fraude (ruse), </ab>
+<ab n="6">que
+Dieu p&egrave;se mes actions dans une juste balance, et qu&rsquo;il
+connaisse ma simplicit&eacute;. </ab>
+<ab n="7">Si
+mes pas se sont d&eacute;tourn&eacute;s de la voie, si mon c&oelig;ur
+a suivi mes yeux, et si la (quelque) souillure s&rsquo;est attach&eacute;e
+&agrave; mes mains, </ab>
+<ab n="8">que
+je s&egrave;me, et qu&rsquo;un autre mange, et que ma race soit
+arrach&eacute;e (jusqu&rsquo;&agrave; la racine). </ab>
+<ab n="9">Si
+mon c&oelig;ur a &eacute;t&eacute; s&eacute;duit au sujet d&rsquo;une
+femme, et si j&rsquo;ai dress&eacute; des emb&ucirc;ches &agrave; la
+porte de mon ami, </ab>
+<ab n="10">que
+ma femme soit d&eacute;shonor&eacute;e par un autre, et qu&rsquo;elle
+soit expos&eacute;e &agrave; une honteuse prostitution. </ab>
+<ab n="11">Car
+c&rsquo;est l&agrave; (l&rsquo;adult&egrave;re est) un crime &eacute;norme
+et une tr&egrave;s grande iniquit&eacute;. </ab>
+<ab n="12">C&rsquo;est
+un feu qui d&eacute;vore jusqu&rsquo;&agrave; une perte enti&egrave;re,
+et qui d&eacute;racine les moindres rejetons. </ab>
+<ab n="13">(Si
+j&rsquo;ai d&eacute;daign&eacute; d&rsquo;entrer en jugement avec mon
+serviteur et avec ma servante, lorsqu&rsquo;ils disputaient contre
+moi ; </ab>
+<ab n="14">car
+que ferai-je, quand Dieu s&rsquo;&eacute;l&egrave;vera pour juger, et
+lorsqu&rsquo;il fera son enqu&ecirc;te, que r&eacute;pondrai-je ?)
+</ab>
+<ab n="15">Ce(lui)
+qui m&rsquo;a cr&eacute;&eacute; dans le sein de ma m&egrave;re ne
+l&rsquo;a-t-il pas cr&eacute;&eacute; aussi ? Et n&rsquo;est-ce pas
+le m&ecirc;me Dieu qui nous a form&eacute;s ? </ab>
+<ab n="16">Si
+j&rsquo;ai refus&eacute; aux pauvres ce qu&rsquo;ils voulaient, et si
+j&rsquo;ai fait attendre les yeux de la veuve ; </ab>
+<ab n="17">si
+j&rsquo;ai mang&eacute; seul mon pain, et si l&rsquo;orphelin n&rsquo;en
+a pas mang&eacute; : </ab>
+<ab n="18">(car
+la compassion a grandi avec moi d&egrave;s mon enfance, et est sortie
+avec moi du sein de ma m&egrave;re ; (.)
+</ab>
+<ab n="19">si
+j&rsquo;ai n&eacute;glig&eacute; ce qui p&eacute;rissait faute de
+v&ecirc;tement, et le pauvre d&eacute;pourvu de manteau ; </ab>
+<ab n="20">si
+ses membres (flancs) ne m&rsquo;ont pas b&eacute;ni, et s&rsquo;il
+n&rsquo;a pas &eacute;t&eacute; r&eacute;chauff&eacute; par les
+toisons de mes brebis ; </ab>
+<ab n="21">si
+j&rsquo;ai lev&eacute; la main sur l&rsquo;orphelin, alors m&ecirc;me
+que je me voyais le plus fort (sup&eacute;rieur) &agrave; la porte
+(de la ville), </ab>
+<ab n="22">que
+mon &eacute;paule tombe de sa jointure, et que mon bras se brise
+(enti&egrave;rement) avec ses os. </ab>
+<ab n="23">Car
+j&rsquo;ai toujours craint Dieu comme des flots bouillonnant contre
+moi, et je n&rsquo;en ai pu supporter le poids (de sa majest&eacute;).
+</ab>
+<ab n="24">Si
+j&rsquo;ai cru que l&rsquo;or &eacute;tait ma force, et si j&rsquo;ai
+dit &agrave; l&rsquo;or pur : Tu es ma confiance ; </ab>
+<ab n="25">si
+j&rsquo;ai mis ma joie dans mes richesses nombreuses, et dans les
+(tr&egrave;s) grands biens amass&eacute;s par ma main ; </ab>
+<ab n="26">si
+j&rsquo;ai regard&eacute; le soleil dans son &eacute;clat, et la lune
+dans sa marche brillante ; </ab>
+<ab n="27">si
+alors mon c&oelig;ur a ressenti une secr&egrave;te joie, et si j&rsquo;ai
+port&eacute; ma main &agrave; ma bouche pour la baiser, </ab>
+<ab n="28">ce
+qui est le comble de l&rsquo;iniquit&eacute;, et un reniement du Dieu
+tr&egrave;s haut ; </ab>
+<ab n="29">si
+je me suis r&eacute;joui de la ruine de celui qui me ha&iuml;ssait,
+si j&rsquo;ai &eacute;t&eacute; ravi de ce que le malheur l&rsquo;ait
+atteint ; </ab>
+<ab n="30">car
+je n&rsquo;ai pas
+abandonn&eacute; ma langue au p&eacute;ch&eacute;, pour faire des
+impr&eacute;cations contre lui (son &acirc;me) ; </ab>
+<ab n="31">si
+les gens de ma maison n&rsquo;ont pas dit : Qui nous donnera de sa
+chair, afin que nous en soyons rassasi&eacute;s ? </ab>
+<ab n="32">L&rsquo;&eacute;tranger
+n&rsquo;est pas
+demeur&eacute; dehors, ma porte a (toujours) &eacute;t&eacute;
+ouverte au voyageur. </ab>
+<ab n="33">Si
+j&rsquo;ai tenu mon p&eacute;ch&eacute; secret, comme font les
+hommes, et si j&rsquo;ai cach&eacute; mon iniquit&eacute; dans mon
+sein ; </ab>
+<ab n="34">si
+la grande multitude m&rsquo;a &eacute;pouvant&eacute;, ou si le
+m&eacute;pris de mes proches m&rsquo;a effray&eacute; ; si je ne suis
+pas au contraire demeur&eacute; dans le silence, sans franchir ma
+porte. </ab>
+<ab n="35">Qui
+me donnera quelqu&rsquo;un qui m&rsquo;&eacute;coute, que le
+Tout-Puissant entende mon d&eacute;sir, et que le juge
+&eacute;crive lui-m&ecirc;me son (un) livre, </ab>
+<ab n="36">afin
+que je le porte sur mon &eacute;paule, et que je m&rsquo;en ceigne
+comme d&rsquo;une couronne ? </ab>
+<ab n="37">A
+chacun de mes pas j&rsquo;en prononcerai les paroles, et je le
+pr&eacute;senterai comme &agrave; mon (un) prince. </ab>
+<ab n="38">Si
+ma terre crie contre moi, et qu&rsquo;avec elle ses sillons pleurent
+; </ab>
+<ab n="39">si
+j&rsquo;en ai mang&eacute; les fruits sans les payer, et si j&rsquo;ai
+afflig&eacute; le c&oelig;ur (l&rsquo;&acirc;me) de ceux qui l&rsquo;ont
+cultiv&eacute;e ; </ab>
+<ab n="40">qu&rsquo;au
+lieu de froment naissent pour moi des ronces, et des &eacute;pines au
+lieu d&rsquo;orge.
+</ab></div>
+<div type="chapter" n="32">
+<ab n="1">Or
+ces trois hommes omirent de r&eacute;pondre &agrave; Job, parce qu&rsquo;il
+se croyait (toujours) juste. </ab>
+<ab n="2">Et
+(Mais) Eliu, fils de Barachel, Buzite de la famille de Ram, s&rsquo;irrita
+et s&rsquo;indigna. Il s&rsquo;irrita contre Job, parce qu&rsquo;il
+se disait juste devant Dieu. </ab>
+<ab n="3">(Puis)
+Il s&rsquo;irrita aussi contre ses amis, parce qu&rsquo;ils n&rsquo;avaient
+pas trouv&eacute; de r&eacute;ponse raisonnable (contre Job), mais
+qu&rsquo;ils s&rsquo;&eacute;taient content&eacute;s de (le)
+condamner Job. </ab>
+<ab n="4">Eliu
+attendit donc que Job e&ucirc;t parl&eacute;, parce que ceux qui
+avaient la parole &eacute;taient plus &acirc;g&eacute;s. </ab>
+<ab n="5">Mais
+voyant qu&rsquo;ils n&rsquo;avaient pu tous trois r&eacute;pondre, il
+fut transport&eacute; de col&egrave;re. </ab>
+<ab n="6">Et
+Eliu, fils de Barachel, Buzite prit la parole et dit : Je suis plus
+jeune et vous &ecirc;tes plus &acirc;g&eacute;s ; c&rsquo;est
+pourquoi baissant la t&ecirc;te, j&rsquo;ai craint de vous indiquer
+mon avis (sentiment). </ab>
+<ab n="7">Car
+j&rsquo;esp&eacute;rais que l&rsquo;&acirc;ge plus (un &acirc;ge
+aussi) avanc&eacute; parlerait, et que le grand nombre des ann&eacute;es
+enseignerait la sagesse. </ab>
+<ab n="8">Mais,
+&agrave; ce que je vois, c&rsquo;est l&rsquo;Esprit
+qui est dans les hommes ; c&rsquo;est l&rsquo;inspiration du
+Tout-Puissant qui donne l&rsquo;intelligence. </ab>
+<ab n="9">Ceux
+qui ont v&eacute;cu longtemps ne sont pas les plus sages, et le
+jugement n&rsquo;est pas le partage exclusif des vieillards (ce ne
+sont pas les vieillards qui comprennent la justice). </ab>
+<ab n="10">Je
+dirai donc : Ecoutez-moi ; moi aussi je vous montrerai ma sagesse.
+</ab>
+<ab n="11">(Car)
+J&rsquo;ai attendu pendant que vous parliez ; j&rsquo;ai &eacute;t&eacute;
+attentif &agrave; votre sagesse (prudence) aussi longtemps que vous
+avez discut&eacute;. </ab>
+<ab n="12">Et
+tant que j&rsquo;ai cru que vous diriez quelque chose, j&rsquo;&eacute;coutais
+avec soin ; mais, &agrave; ce que je vois, nul d&rsquo;entre vous ne
+peut convaincre Job, ni r&eacute;pondre &agrave; ses discours.
+</ab>
+<ab n="13">N&rsquo;allez
+pas dire : Nous avons trouv&eacute; la sagesse ; c&rsquo;est Dieu qui
+l&rsquo;a rejet&eacute;, et non l&rsquo;homme. </ab>
+<ab n="14">Job
+ne m&rsquo;a pas adress&eacute; la parole ; et ce n&rsquo;est pas
+selon vos raisonnements (discours) que je lui r&eacute;pondrai. </ab>
+<ab n="15">Les
+voil&agrave; intimid&eacute;s (&eacute;pouvant&eacute;s), ils ne
+r&eacute;pondent plus rien ; ils se sont enlev&eacute; la parole.
+</ab>
+<ab n="16">Puis
+donc que j&rsquo;ai attendu et qu&rsquo;ils n&rsquo;ont pas
+parl&eacute;, et qu&rsquo;ils se tiennent l&agrave; sans pouvoir
+r&eacute;pondre davantage, </ab>
+<ab n="17">je
+parlerai aussi &agrave; mon tour, et je montrerai ma science </ab>
+<ab n="18">Car
+je suis plein de paroles, et mon esprit (une force) est comme en
+travail et me presse. </ab>
+<ab n="19">Ma
+poitrine (Mon estomac) est comme un vin nouveau qui n&rsquo;a pas
+d&rsquo;air, qui rompt les outres neuves. </ab>
+<ab n="20">Je
+parlerai donc pour respirer un peu ; j&rsquo;ouvrirai mes l&egrave;vres(,
+et je r&eacute;pondrai). </ab>
+<ab n="21">Je
+ne ferai acception de personne, et je n&rsquo;&eacute;galerai pas
+l&rsquo;homme &agrave; Dieu. </ab>
+<ab n="22">Car
+je ne sais combien de temps je subsisterai, et si celui qui m&rsquo;a
+cr&eacute;&eacute; ne m&rsquo;enl&egrave;vera pas bient&ocirc;t.</ab></div>
+<div type="chapter" n="33">
+<ab n="1">Ecoute
+donc, Job, mes paroles, et sois attentif &agrave; tous mes discours.
+</ab>
+<ab n="2">J&rsquo;ai
+ouvert la bouche, pour que ma langue parle dans ma gorge. </ab>
+<ab n="3">Mes
+discours sortiront d&rsquo;un c&oelig;ur simple, et mes l&egrave;vres
+ne prononceront que la pure v&eacute;rit&eacute; (un sentiment pur).
+</ab>
+<ab n="4">C&rsquo;est
+l&rsquo;Esprit de Dieu qui m&rsquo;a cr&eacute;&eacute;, et c&rsquo;est
+le souffle du Tout-Puissant qui m&rsquo;a donn&eacute; la vie. </ab>
+<ab n="5">Si
+tu le peux, r&eacute;ponds-moi, et tiens-toi ferme en face de moi.
+</ab>
+<ab n="6">Dieu
+m&rsquo;a fait aussi bien que toi, et moi aussi j&rsquo;ai &eacute;t&eacute;
+form&eacute; de la m&ecirc;me boue. </ab>
+<ab n="7">Mais
+il n&rsquo;y a rien (que ce qu&rsquo;il y a) de merveilleux en moi
+pour t&rsquo;&eacute;pouvanter (ne t&rsquo;&eacute;pouvante pas), et
+mon &eacute;loquence ne t&rsquo;accablera pas. </ab>
+<ab n="8">Tu
+as (donc) dit &agrave; mes oreilles, et j&rsquo;ai entendu le son de
+tes paroles : </ab>
+<ab n="9">Je
+suis pur et sans p&eacute;ch&eacute; ; je suis sans tache, et il n&rsquo;y
+a pas d&rsquo;iniquit&eacute; en moi. </ab>
+<ab n="10">Car
+Dieu a cherch&eacute; des sujets de plainte contre moi : c&rsquo;est
+pourquoi il a cru que j&rsquo;&eacute;tais son ennemi. </ab>
+<ab n="11">Il
+a mis mes pieds dans l&rsquo;entrave ; il a observ&eacute; tous mes
+sentiers. </ab>
+<ab n="12">C&rsquo;est
+donc en cela m&ecirc;me que tu n&rsquo;es pas juste. Car je te
+r&eacute;ponds que Dieu est plus grand que l&rsquo;homme.
+</ab>
+<ab n="13">Disputes-tu
+contre lui, parce qu&rsquo;il n&rsquo;a pas r&eacute;pondu &agrave;
+toutes tes paroles ? </ab>
+<ab n="14">Dieu
+parle une fois, et il ne r&eacute;p&egrave;te pas une seconde fois ce
+qu&rsquo;il a dit. </ab>
+<ab n="15">Pendant
+un songe, dans une vision de la nuit, lorsque le sommeil est tomb&eacute;
+sur les hommes et qu&rsquo;ils dorment dans leur lit </ab>
+<ab n="16">alors
+Dieu leur ouvre l&rsquo;oreille ; il les avertit et les instruit de
+ce qu&rsquo;ils doivent savoir (leur enseigne la science), </ab>
+<ab n="17">pour
+d&eacute;tourner (ainsi) l&rsquo;homme du mal qu&rsquo;il fait, et
+pour le d&eacute;livrer de l&rsquo;orgueil ; </ab>
+<ab n="18">pour
+tirer son &acirc;me de la corruption, et pour sauver sa vie du
+glaive. </ab>
+<ab n="19">Il
+le ch&acirc;tie aussi par la douleur sur sa couche, et il fait s&eacute;cher
+tous ses os. </ab>
+<ab n="20">En
+cet &eacute;tat (Durant sa vie), il a en horreur le pain, et la
+nourriture qu&rsquo;il trouvait auparavant d&eacute;licieuse (pour
+son &acirc;me). </ab>
+<ab n="21">(Toute)
+Sa chair se consume, et les os, qui &eacute;taient recouverts,
+paraissent &agrave; nu. </ab>
+<ab n="22">Son
+&acirc;me s&rsquo;approche du tombeau (de la corruption), et sa vie
+appartient aux exterminateurs (de tout ce qui pouvait lui donner la
+mort). </ab>
+<ab n="23">Si
+un ange choisi
+entre mille parle pour lui, et qu&rsquo;il annonce l&rsquo;&eacute;quit&eacute;
+de cet homme, </ab>
+<ab n="24">Dieu
+aura compassion de lui, et dira : D&eacute;livre-le, afin qu&rsquo;il
+ne descende pas
+dans la corruption ; j&rsquo;ai trouv&eacute; lieu de lui faire
+gr&acirc;ce. </ab>
+<ab n="25">Sa
+chair est consum&eacute;e par les souffrances ; qu&rsquo;il retourne
+aux jours de sa jeunesse. </ab>
+<ab n="26">Il
+priera Dieu, et Dieu lui sera propice (se laissera apaiser) ; il
+verra sa face avec un transport de joie, et Dieu rendra &agrave; cet
+homme sa justice. </ab>
+<ab n="27">Il
+regardera les hommes, et il dira : J&rsquo;ai p&eacute;ch&eacute;,
+j&rsquo;ai vraiment offens&eacute; Dieu, et je n&rsquo;ai pas &eacute;t&eacute;
+ch&acirc;ti&eacute; comme je le m&eacute;ritais. </ab>
+<ab n="28">Il
+a ainsi d&eacute;livr&eacute; son &acirc;me, afin qu&rsquo;elle ne
+tomb&acirc;t pas
+dans la mort, mais qu&rsquo;en vivant elle jou&icirc;t de la lumi&egrave;re.
+</ab>
+<ab n="29">Or
+Dieu fait toutes ces choses trois fois pour chacun des hommes, </ab>
+<ab n="30">pour
+rappeler leurs &acirc;mes de la corruption, et pour les &eacute;clairer
+(illuminer) de la lumi&egrave;re des vivants. </ab>
+<ab n="31">Job,
+sois attentif et &eacute;coute-moi, et garde le silence pendant que
+je parle. </ab>
+<ab n="32">Mais
+si tu as quelque chose &agrave; dire, r&eacute;ponds-moi, parle ; car
+je veux te donner lieu de te justifier. </ab>
+<ab n="33">Si
+tu n&rsquo;as rien &agrave; dire, &eacute;coute-moi ; garde le
+silence, et je t&rsquo;enseignerai la sagesse.</ab></div>
+<div type="chapter" n="34">
+<ab n="1">Eliu,
+continuant encore de parler, le fit en ces termes : </ab>
+<ab n="2">Sages,
+&eacute;coutez mes paroles ; savants, soyez attentifs. </ab>
+<ab n="3">Car
+l&rsquo;oreille juge les paroles, comme le palais juge les mets par
+le go&ucirc;t. </ab>
+<ab n="4">Convenons
+ensemble de ce qui est selon la justice, et voyons entre nous ce qui
+est le meilleur. </ab>
+<ab n="5">Car
+Job a dit : Je suis juste, et Dieu a renvers&eacute; mon droit. </ab>
+<ab n="6">Car
+la mani&egrave;re dont j&rsquo;ai &eacute;t&eacute; jug&eacute; est
+mensong&egrave;re : je suis perc&eacute; de fl&egrave;ches cuisantes
+sans avoir p&eacute;ch&eacute;. </ab>
+<ab n="7">O&ugrave;
+trouver un homme semblable &agrave; Job, qui boit le blasph&egrave;me
+(la d&eacute;rision) comme l&rsquo;eau ? </ab>
+<ab n="8">Il
+marche avec ceux qui commettent l&rsquo;iniquit&eacute;, et il se
+joint avec les impies. </ab>
+<ab n="9">Car
+il a dit : L&rsquo;homme ne saurait plaire &agrave; Dieu, quand m&ecirc;me
+il courrait avec lui. </ab>
+<ab n="10">Vous
+donc, hommes de sens, &eacute;coutez-moi. Loin de Dieu l&rsquo;impi&eacute;t&eacute;,
+et loin du Tout-Puissant l&rsquo;injustice. </ab>
+<ab n="11">Car
+il rendra &agrave; l&rsquo;homme selon ses &oelig;uvres, et il
+r&eacute;tribuera chacun selon ses voies. </ab>
+<ab n="12">Non,
+certes, Dieu ne condamne pas sans sujet, et le Tout-Puissant ne
+renverse pas la
+justice. </ab>
+<ab n="13">A
+quel autre a-t-il confi&eacute; le soin de la terre (Quel autre que
+lui a-t-il constitu&eacute; sur la terre) ? Et qui a-t-il &eacute;tabli
+pour gouverner le monde (l&rsquo;univers) qu&rsquo;il a cr&eacute;&eacute;
+? </ab>
+<ab n="14">S&rsquo;il
+regardait l&rsquo;homme dans sa rigueur (dirigeait vers lui son
+c&oelig;ur), il attirerait &agrave; soi l&rsquo;esprit qui l&rsquo;anime
+(son esprit et son souffle). </ab>
+<ab n="15">Toute
+chair p&eacute;rirait &agrave; la fois, et l&rsquo;homme retournerait
+en poussi&egrave;re. </ab>
+<ab n="16">Si
+donc tu as de l&rsquo;intelligence, &eacute;coute ce que l&rsquo;on
+te dit, et sois attentif &agrave; mes paroles. </ab>
+<ab n="17">Peut-on
+gu&eacute;rir ce qui n&rsquo;aime pas
+la justice ? et comment condamnes-tu avec tant de hardiesse celui
+qui est juste ? </ab>
+<ab n="18">Lui
+qui dit &agrave; un roi : Apostat ; qui appelle les grands : Impies ;
+</ab>
+<ab n="19">qui
+n&rsquo;a pas
+d&rsquo;&eacute;gard &agrave; la personne des princes ; qui n&rsquo;a
+pas de
+consid&eacute;ration pour le tyran lorsqu&rsquo;il dispute contre le
+pauvre ; car tous (les hommes) sont l&rsquo;&oelig;uvre de ses mains.
+</ab>
+<ab n="20">Ils
+mourront soudain, et au milieu de la nuit les peuples seront remplis
+de trouble ; ils passeront, et le violent sera emport&eacute; par une
+main invisible. </ab>
+<ab n="21">Car
+les yeux de Dieu sont sur les voies des hommes, et il consid&egrave;re
+tous leurs pas. </ab>
+<ab n="22">Il
+n&rsquo;y a pas de t&eacute;n&egrave;bres, il n&rsquo;y a pas d&rsquo;ombre
+de la mort o&ugrave; puissent se cacher ceux qui commettent
+l&rsquo;iniquit&eacute;. </ab>
+<ab n="23">Car
+il n&rsquo;est plus au pouvoir de l&rsquo;homme de venir en jugement
+devant Dieu. </ab>
+<ab n="24">Il
+en brisera une multitude innombrable, et il en &eacute;tablira
+d&rsquo;autres &agrave; leur place. </ab>
+<ab n="25">Car
+il conna&icirc;t leurs &oelig;uvres, et c&rsquo;est pour cela qu&rsquo;il
+r&eacute;pandra la nuit sur eux, et qu&rsquo;il les brisera. </ab>
+<ab n="26">Il
+les frappera (a frapp&eacute;s) comme des impies, &agrave; la vue de
+tout le monde : </ab>
+<ab n="27">eux
+qui se sont retir&eacute;s de lui comme &agrave; dessein (de propos
+d&eacute;lib&eacute;r&eacute;), et qui n&rsquo;ont pas voulu
+comprendre toutes ses voies, </ab>
+<ab n="28">pour
+faire monter jusqu&rsquo;&agrave; lui le cri de l&rsquo;indigent, et
+pour lui faire entendre la voix des pauvres. </ab>
+<ab n="29">Car,
+s&rsquo;il donne la paix, quel est celui qui le condamnera ? S&rsquo;il
+cache son visage, qui le contemplera, qu&rsquo;il s&rsquo;agisse des
+nations en g&eacute;n&eacute;ral, ou de tous les hommes ? </ab>
+<ab n="30">C&rsquo;est
+lui qui fait r&eacute;gner (un) l&rsquo;homme hypocrite, &agrave;
+cause des p&eacute;ch&eacute;s du peuple. </ab>
+<ab n="31">Puis
+donc que j&rsquo;ai parl&eacute; &agrave; Dieu, je ne t&rsquo;emp&ecirc;cherai
+pas non plus de le faire. </ab>
+<ab n="32">Si
+je me suis tromp&eacute;, enseigne-moi ; si ce que j&rsquo;ai dit
+n&rsquo;est pas juste, je n&rsquo;ajouterai rien de plus. </ab>
+<ab n="33">Dieu
+te demandera-t-il ton avis, si une chose t&rsquo;a d&eacute;plu
+(N&rsquo;est-ce pas &agrave; toi que Dieu demande compte de cette
+iniquit&eacute; qui t&rsquo;a d&eacute;plu) ? car c&rsquo;est toi qui
+as commenc&eacute; &agrave; parler, et non pas moi. Si tu sais
+quelque chose de meilleur, dis-le. </ab>
+<ab n="34">Que
+les (des) hommes intelligents me parlent, et que l&rsquo;homme sage
+m&rsquo;&eacute;coute. </ab>
+<ab n="35">Mais
+Job a parl&eacute; inconsid&eacute;r&eacute;ment, et il ne para&icirc;t
+pas de sagesse
+(science) dans ses discours. </ab>
+<ab n="36">Mon
+p&egrave;re, que
+Job soit &eacute;prouv&eacute; jusqu&rsquo;&agrave;
+la fin ; n&rsquo;&eacute;pargnez pas
+l&rsquo;homme d&rsquo;iniquit&eacute;. </ab>
+<ab n="37">Puisqu&rsquo;il
+ajoute le blasph&egrave;me &agrave; ses p&eacute;ch&eacute;s, qu&rsquo;il
+soit encore mis dans l&rsquo;angoisse parmi nous (press&eacute; par
+nos raisons), et ensuite qu&rsquo;il appelle Dieu en jugement par ses
+discours.</ab></div>
+<div type="chapter" n="35">
+<ab n="1">Eliu
+parla encore en ces termes : </ab>
+<ab n="2">Crois-tu
+avoir eu une pens&eacute;e raisonnable (&eacute;quitable), quand tu
+as dit : Je suis plus juste que Dieu ? </ab>
+<ab n="3">Car
+tu as dit : Ce qui est juste ne vous pla&icirc;t pas
+; ou quel avantage retirerez-vous si je p&egrave;che ? </ab>
+<ab n="4">Je
+r&eacute;pondrai donc &agrave; tes discours, et &agrave; tes amis
+aussi bien qu&rsquo;&agrave; toi. </ab>
+<ab n="5">Regarde
+le ciel, consid&egrave;re et contemple combien le firmament est plus
+haut que vous (toi). </ab>
+<ab n="6">Si
+tu p&egrave;ches, en quoi nuiras-tu &agrave; Dieu ? Et si tes
+iniquit&eacute;s se multiplient, que feras-tu contre lui ? </ab>
+<ab n="7">Et
+si tu es juste, que lui donneras-tu, ou que recevra-t-il de ta main ?
+</ab>
+<ab n="8">Ton
+impi&eacute;t&eacute; peut nuire &agrave; un homme semblable &agrave;
+toi, et ta justice peut servir au fils de (d&rsquo;un) l&rsquo;homme.
+</ab>
+<ab n="9">Ils
+crieront &agrave; cause de la multitude des calomniateurs, et ils
+g&eacute;miront &agrave; cause de la violence du bras des tyrans.
+</ab>
+<ab n="10">Et
+nul d&rsquo;eux ne dit : O&ugrave; est le Dieu qui m&rsquo;a cr&eacute;&eacute;,
+qui inspire des chants d&rsquo;all&eacute;gresse (cantiques) pendant
+la nuit ; </ab>
+<ab n="11">qui
+nous instruit plus que les b&ecirc;tes de la terre, et nous &eacute;claire
+plus (donne plus d&rsquo;intelligence) que les oiseaux du ciel ?
+</ab>
+<ab n="12">Ils
+crieront alors, et il ne les exaucera pas,
+&agrave; cause de l&rsquo;orgueil des m&eacute;chants. </ab>
+<ab n="13">Dieu
+n&rsquo;exauce donc pas
+sans raison (en vain), et le Tout-Puissant consid&egrave;re avec
+attention la cause de chacun. </ab>
+<ab n="14">Lors
+m&ecirc;me que tu as dit : Il ne consid&egrave;re pas,
+ta cause est (juge-toi toi-m&ecirc;me) devant lui, et attends-le.
+</ab>
+<ab n="15">Car
+maintenant il ne manifeste pas sa fureur, et il ne punit pas
+rigoureusement le crime. </ab>
+<ab n="16">C&rsquo;est
+donc en vain que Job ouvre la bouche, et qu&rsquo;il multiplie les
+paroles insens&eacute;es (que sans science il multiplie des paroles).</ab></div>
+<div type="chapter" n="36">
+<ab n="1">Eliu
+ajouta encore, et dit : </ab>
+<ab n="2">Supporte-moi
+(Ecoute-moi) un peu, et je t&rsquo;enseignerai ; car j&rsquo;ai
+encore &agrave; parler pour (en faveur de) Dieu. </ab>
+<ab n="3">Je
+prendrai ma science &agrave; sa source, et je prouverai que mon
+cr&eacute;ateur
+est juste. </ab>
+<ab n="4">Car
+il est certain qu&rsquo;il n&rsquo;y a pas de mensonge dans mes
+discours, et je te prouverai que ma science est parfaite. </ab>
+<ab n="5">Dieu
+ne rejette pas les puissants, puisqu&rsquo;il est puissant lui-m&ecirc;me
+; </ab>
+<ab n="6">mais
+il ne sauve pas les impies, et il fait justice aux pauvres. </ab>
+<ab n="7">Il
+ne retire pas ses yeux de dessus le juste, et il &eacute;tablit les
+rois pour toujours sur le tr&ocirc;ne, et ils y demeurent &eacute;lev&eacute;s.
+</ab>
+<ab n="8">Et
+s&rsquo;ils sont dans les cha&icirc;nes et resserr&eacute;s par les
+liens de la pauvret&eacute;, </ab>
+<ab n="9">il
+leur d&eacute;couvrira leurs &oelig;uvres et leurs crimes, parce
+qu&rsquo;ils ont &eacute;t&eacute; violents. </ab>
+<ab n="10">Il
+leur ouvrira aussi l&rsquo;oreille pour les reprendre, et il leur
+parlera, afin qu&rsquo;ils reviennent de leur iniquit&eacute;.
+</ab>
+<ab n="11">S&rsquo;ils
+&eacute;coutent et se soumettent, ils passeront leurs jours dans le
+bonheur, et leurs ann&eacute;es dans la gloire ; </ab>
+<ab n="12">mais
+s&rsquo;ils n&rsquo;&eacute;coutent pas, ils passeront par le glaive,
+et ils p&eacute;riront dans leur folie. </ab>
+<ab n="13">Ceux
+qui sont dissimul&eacute;s et doubles de c&oelig;ur (astucieux)
+provoquent la col&egrave;re de Dieu ; ils ne crieront pas
+lorsqu&rsquo;ils seront dans les cha&icirc;nes. </ab>
+<ab n="14">Leur
+&acirc;me mourra dans la tourmente, et leur vie aura le sort des
+eff&eacute;min&eacute;s. </ab>
+<ab n="15">Dieu
+(re)tirera le pauvre de l&rsquo;angoisse, et il lui ouvrira l&rsquo;oreille
+dans la tribulation. </ab>
+<ab n="16">Apr&egrave;s
+t&rsquo;avoir sauv&eacute; de l&rsquo;ab&icirc;me &eacute;troit et
+sans fond, il te mettra (tr&egrave;s) au large, et tu te reposeras &agrave;
+ta table charg&eacute;e de mets succulents. </ab>
+<ab n="17">Ta
+cause a &eacute;t&eacute; jug&eacute;e comme celle d&rsquo;un impie ;
+le ch&acirc;timent est ins&eacute;parable de ta cause (tu recevras
+selon la cause et le jugement, note). </ab>
+<ab n="18">Que
+la col&egrave;re ne t&rsquo;entra&icirc;ne donc pas &agrave; opprimer
+l&rsquo;innocent, et que la multitude des pr&eacute;sents ne te fasse
+pas d&eacute;vier (vers l&rsquo;injustice). </ab>
+<ab n="19">Abaisse,
+sans que l&rsquo;affliction t&rsquo;y oblige, ta grandeur et tous tes
+sentiments pr&eacute;somptueux (abaisse aussi les forts et les
+puissants). </ab>
+<ab n="20">Ne
+soupire pas apr&egrave;s la nuit, dans laquelle les peuples entrent
+tour &agrave; tour. </ab>
+<ab n="21">Garde-toi
+de te livrer &agrave; l&rsquo;iniquit&eacute;, car tu t&rsquo;es mis
+&agrave; la suivre apr&egrave;s &ecirc;tre tomb&eacute; dans la
+mis&egrave;re. </ab>
+<ab n="22">Vois,
+Dieu est sublime dans sa puissance, et personne ne lui est semblable
+parmi les l&eacute;gislateurs. </ab>
+<ab n="23">Qui
+pourra approfondir ses voies ? ou qui peut lui dire : Vous avez fait
+une injustice (iniquit&eacute;) ? </ab>
+<ab n="24">Souviens-toi
+que tu ne comprends pas (ignores) son &oelig;uvre, que les hommes
+c&eacute;l&egrave;brent par leurs chants. </ab>
+<ab n="25">Tous
+les hommes la voient, chacun la contemple de loin. </ab>
+<ab n="26">Certes,
+Dieu est grand ; il d&eacute;passe notre science ; le nombre de ses
+ann&eacute;es est innombrable (incalculable). </ab>
+<ab n="27">Il
+attire en haut les gouttes de pluie, et les fait retomber comme des
+torrents. </ab>
+<ab n="28">Elles
+se pr&eacute;cipitent des nu&eacute;es qui couvrent toute la face du
+ciel (voilent toutes les r&eacute;gions d&rsquo;en-haut). </ab>
+<ab n="29">Il
+&eacute;tend les nuages quand il veut (S&rsquo;il veut &eacute;tendre
+les nu&eacute;es), comme sa tente. </ab>
+<ab n="30">Il
+fait briller d&rsquo;en haut les &eacute;clairs,
+et il couvre (couvrira m&ecirc;me) la mer d&rsquo;une extr&eacute;mit&eacute;
+&agrave; l&rsquo;autre. </ab>
+<ab n="31">Par
+l&agrave; il juge les peuples, et il distribue la nourriture &agrave;
+un grand nombre d&rsquo;hommes. </ab>
+<ab n="32">Il
+cache la lumi&egrave;re dans ses mains, et il lui commande ensuite de
+para&icirc;tre de nouveau. </ab>
+<ab n="33">Il
+fait conna&icirc;tre &agrave; celui qui aime qu&rsquo;elle est son
+partage, et qu&rsquo;il pourra s&rsquo;&eacute;lever (peut monter)
+jusqu&rsquo;&agrave; elle.</ab></div>
+<div type="chapter" n="37">
+<ab n="1">C&rsquo;est
+pour cela que mon c&oelig;ur est saisi d&rsquo;effroi, et qu&rsquo;il
+bondit hors de sa place. </ab>
+<ab n="2">Ecoutez,
+&eacute;coutez (tr&egrave;s attentivement) sa voix terrible, et les
+sons qui sortent de sa bouche. </ab>
+<ab n="3">Il
+contemple toute la vo&ucirc;te des cieux, et sa lumi&egrave;re brille
+jusqu&rsquo;aux extr&eacute;mit&eacute;s de la terre. </ab>
+<ab n="4">Puis
+un rugissement retentit ; il tonne de sa voix majestueuse (grandeur),
+et on ne peut suivre sa trace lorsque sa voix s&rsquo;est fait
+entendre. </ab>
+<ab n="5">Dieu
+tonne avec sa voix d&rsquo;une fa&ccedil;on merveilleuse. Il fait des
+choses grandes et imp&eacute;n&eacute;trables. </ab>
+<ab n="6">Il
+commande &agrave; la neige de descendre sur la terre, et aux pluies
+de l&rsquo;hiver et aux averses imp&eacute;tueuses (fortes ond&eacute;es).
+</ab>
+<ab n="7">Il
+met le sceau sur la main de tous les hommes, afin que chacun
+reconnaisse ses &oelig;uvres. </ab>
+<ab n="8">La
+b&ecirc;te rentre dans sa tani&egrave;re, et elle demeure dans sa
+caverne (son antre). </ab>
+<ab n="9">La
+temp&ecirc;te sort de ses retraites, et le froid des r&eacute;gions
+du nord (d&rsquo;Arcturus). </ab>
+<ab n="10">Au
+souffle de Dieu la glace se durcit, et (de nouveau) les eaux
+s&rsquo;&eacute;coulent ensuite abondamment. </ab>
+<ab n="11">Le
+froment (bl&eacute;) d&eacute;sire les nu&eacute;es, et les nu&eacute;es
+r&eacute;pandent leur lumi&egrave;re. </ab>
+<ab n="12">Elles
+se dirigent en tous sens, partout o&ugrave; les conduit la volont&eacute;
+de celui qui les gouverne, pour accomplir tous ses ordres sur la
+surface du globe ; </ab>
+<ab n="13">soit
+dans une tribu, soit sur sa propre terre, soit en tout autre lieu, o&ugrave;
+sa mis&eacute;ricorde (de sa mis&eacute;ricorde que ce soit, o&ugrave;
+il) leur aura ordonn&eacute; de se trouver. </ab>
+<ab n="14">Job,
+&eacute;coute ces choses ; arr&ecirc;te-toi et consid&egrave;re les
+merveilles de Dieu. </ab>
+<ab n="15">Sais-tu
+quand Dieu a command&eacute; aux pluies de faire para&icirc;tre la
+lumi&egrave;re de ses nu&eacute;es ? </ab>
+<ab n="16">Connais-tu
+les grandes routes des nuages et la parfaite science (les sciences
+parfaites) ? </ab>
+<ab n="17">Tes
+v&ecirc;tements ne sont-ils pas chauds, lorsque le vent du midi
+souffle sur la terre ? </ab>
+<ab n="18">Tu
+as peut-&ecirc;tre cr&eacute;&eacute; avec lui les cieux, qui sont
+aussi solides que l&rsquo;airain fondu (en bronze). </ab>
+<ab n="19">Apprends-nous
+ce que nous pourrons lui dire ; car, pour nous, nous sommes
+envelopp&eacute;s de t&eacute;n&egrave;bres. </ab>
+<ab n="20">Qui
+lui rapportera ce que je dis ? L&rsquo;homme qui lui parlerait serait
+an&eacute;anti (sera absorb&eacute;). </ab>
+<ab n="21">Mais
+maintenant ils ne voient pas la lumi&egrave;re ; l&rsquo;air
+s&rsquo;&eacute;paissit tout &agrave; coup en nu&eacute;es, et un
+vent qui passe les dissipera. </ab>
+<ab n="22">L&rsquo;or
+vient de l&rsquo;aquilon, et c&rsquo;est une chose redoutable que de
+louer Dieu (la louange qu&rsquo;on donne &agrave; Dieu doit &ecirc;tre
+accompagn&eacute;e de crainte). </ab>
+<ab n="23">Nous
+ne pouvons le trouver (comprendre) dignement ; il est grand par la
+force, par l&rsquo;&eacute;quit&eacute; et par la justice, et on ne
+saurait le d&eacute;crire. </ab>
+<ab n="24">C&rsquo;est
+pourquoi les hommes doivent le craindre, et nul de ceux qui se
+croient sages n&rsquo;osera contempler sa grandeur.</ab></div>
+<div type="chapter" n="38">
+<ab n="1">Alors
+le Seigneur parla &agrave; Job du milieu d&rsquo;un tourbillon, et
+lui dit : </ab>
+<ab n="2">Quel
+est celui qui obscurcit les pens&eacute;es par des discours
+inconsid&eacute;r&eacute;s (m&ecirc;le des sentences &agrave; des
+discours maladroits) ? </ab>
+<ab n="3">Ceins
+tes reins comme un homme (de c&oelig;ur) ; je t&rsquo;interrogerai,
+et tu me r&eacute;pondras. </ab>
+<ab n="4">O&ugrave;
+&eacute;tais-tu quand je jetais les fondements de la terre ?
+Dis-le-moi, si tu as de l&rsquo;intelligence. </ab>
+<ab n="5">Sais-tu
+qui en a r&eacute;gl&eacute; les mesures, ou qui a tendu sur elle le
+cordeau ? </ab>
+<ab n="6">Sur
+quoi ses bases sont-elles affermies ? ou qui a pos&eacute; sa pierre
+angulaire, </ab>
+<ab n="7">tandis
+que les astres du matin me louaient ensemble, et que les fils de Dieu
+poussaient des cris de joie ? </ab>
+<ab n="8">Qui
+a (r)enferm&eacute; la mer avec des portes (digues), lorsqu&rsquo;elle
+s&rsquo;&eacute;lan&ccedil;ait comme (sortant) du (d&rsquo;un) sein
+maternel, </ab>
+<ab n="9">lorsque
+je lui donnais les nu&eacute;es pour v&ecirc;tement, et que je
+l&rsquo;enveloppais d&rsquo;obscurit&eacute; comme de langes d&rsquo;enfant
+? </ab>
+<ab n="10">Je
+l&rsquo;ai resserr&eacute;e dans mes limites ; je lui ai mis des
+barri&egrave;res et des portes (un verrou et une porte &agrave; deux
+battants) ; </ab>
+<ab n="11">et
+j&rsquo;ai dit : Tu viendras jusqu&rsquo;ici, et tu ne passeras pas
+plus loin, et tu briseras l&agrave; l&rsquo;orgueil de tes flots.
+</ab>
+<ab n="12">Est-ce
+toi qui, depuis ta naissance, as donn&eacute; des ordres &agrave;
+l&rsquo;&eacute;toile du matin, et qui as montr&eacute; sa place &agrave;
+l&rsquo;aurore ? </ab>
+<ab n="13">As-tu
+saisi les extr&eacute;mit&eacute;s de la terre, la secouant pour en
+rejeter (chasser) les impies ? </ab>
+<ab n="14">Elle
+se transforme alors comme l&rsquo;argile sous le cachet, et elle se
+montre comme couverte d&rsquo;un (demeurera comme un) v&ecirc;tement.
+</ab>
+<ab n="15">La
+lumi&egrave;re des impies leur sera enlev&eacute;e ; et leur bras,
+qui se l&egrave;ve, sera bris&eacute;. </ab>
+<ab n="16">Es-tu
+entr&eacute; jusqu&rsquo;au fond de la mer, et t&rsquo;es-tu promen&eacute;
+aux extr&eacute;mit&eacute;s de l&rsquo;ab&icirc;me ? </ab>
+<ab n="17">Les
+portes de la mort t&rsquo;ont-elles &eacute;t&eacute; ouvertes ? et
+as-tu vu ces (les) portes t&eacute;n&eacute;breuses ? </ab>
+<ab n="18">As-tu
+consid&eacute;r&eacute; l&rsquo;&eacute;tendue de la terre ?
+Indique-moi toutes ces choses si tu les connais. </ab>
+<ab n="19">Sur
+quelle route habite la lumi&egrave;re, et quelle est la demeure des
+t&eacute;n&egrave;bres, </ab>
+<ab n="20">afin
+que tu les conduises toutes deux &agrave; leurs limites, et que tu
+connaisses les sentiers de leur s&eacute;jour. </ab>
+<ab n="21">Savais-tu,
+alors, que tu devais na&icirc;tre, et connaissais-tu le nombre de tes
+jours ? </ab>
+<ab n="22">Es-tu
+entr&eacute; dans les tr&eacute;sors de la neige, ou as-tu contempl&eacute;
+(aper&ccedil;u) les tr&eacute;sors de la gr&ecirc;le, </ab>
+<ab n="23">que
+j&rsquo;ai pr&eacute;par&eacute;s pour le temps de l&rsquo;ennemi,
+pour le jour de la guerre et du combat ? </ab>
+<ab n="24">Par
+quelle voie la lumi&egrave;re se divise-t-elle, et la chaleur se
+r&eacute;pand-elle sur la terre ? </ab>
+<ab n="25">Qui
+a ouvert une route aux pluies imp&eacute;tueuses, et un passage au
+tonnerre &eacute;clatant, </ab>
+<ab n="26">pour
+faire pleuvoir dans une terre sans habitants, dans un d&eacute;sert
+o&ugrave; aucun mortel ne demeure ; </ab>
+<ab n="27">pour
+inonder les lieux solitaires (inaccessibles) et isol&eacute;s, et
+pour y faire germer l&rsquo;herbe verte ? </ab>
+<ab n="28">Qui
+est le p&egrave;re de la pluie, et qui a engendr&eacute; les gouttes
+de ros&eacute;e ? </ab>
+<ab n="29">Du
+sein de qui la glace est-elle sortie ? et qui a engendr&eacute; la
+gel&eacute;e du ciel ? </ab>
+<ab n="30">Les
+eaux se durcissent comme la pierre, et la surface de l&rsquo;ab&icirc;me
+devient solide. </ab>
+<ab n="31">Pourras-tu
+joindre ensemble les brillantes &eacute;toiles des Pl&eacute;iades,
+et d&eacute;tourner l&rsquo;Ours (Arcturus) de son cours ? </ab>
+<ab n="32">Est-ce
+toi qui fais para&icirc;tre en son temps l&rsquo;&eacute;toile du
+matin (Lucifer), et qui fais lever
+l&rsquo;&eacute;toile du soir sur les habitants (fils) de la terre ?
+</ab>
+<ab n="33">Connais-tu
+l&rsquo;ordre du ciel, et r&egrave;gles-tu son influence (en
+rendras-tu raison) sur la terre ? </ab>
+<ab n="34">El&egrave;veras-tu
+ta voix jusqu&rsquo;aux nu&eacute;es, et des torrents d&rsquo;eaux te
+(re)couvriront-ils ? </ab>
+<ab n="35">Lances-tu
+des tonnerres (foudres), et partent-ils &agrave; l&rsquo;instant ;
+et, revenant ensuite, te disent-ils : Nous voici ? </ab>
+<ab n="36">Qui
+a mis la sagesse dans le c&oelig;ur de l&rsquo;homme, ou qui a donn&eacute;
+au coq l&rsquo;intelligence ? </ab>
+<ab n="37">Qui
+exposera l&rsquo;arrangement
+(la conduite) des cieux, et qui fera taire leur harmonie (cesser el
+concert du ciel) ? </ab>
+<ab n="38">Quand
+la poussi&egrave;re se r&eacute;pand(ait)-elle sur la terre, et quand
+les mottes (gl&egrave;bes) se colleront-elles (durcissaient-elles)
+ensemble ? </ab>
+<ab n="39">Prendras-tu
+la proie pour la lionne, et rassasieras-tu la faim (empliras-tu
+l&rsquo;&acirc;me, note) de ses petits, </ab>
+<ab n="40">lorsqu&rsquo;ils
+sont couch&eacute;s dans leurs antres, et qu&rsquo;ils sont en
+embuscade dans leurs cavernes ? </ab>
+<ab n="41">Qui
+pr&eacute;pare au corbeau sa nourriture, lorsque ses petits courent
+&ccedil;&agrave; et l&agrave; et crient vers Dieu, parce qu&rsquo;ils
+n&rsquo;ont rien &agrave; manger ?</ab></div>
+<div type="chapter" n="39">
+<ab n="1">Connais-tu
+le temps o&ugrave; les ch&egrave;vres sauvages mettent bas dans les
+rochers, ou as-tu observ&eacute; l&rsquo;enfantement des biches ?
+</ab>
+<ab n="2">As-tu
+compt&eacute; les mois de leur port&eacute;e, et sais-tu le temps o&ugrave;
+elles enfantent ? </ab>
+<ab n="3">Elles
+se courbent pour faire sortir leur faon, et elles le mettent au jour
+en poussant des g&eacute;missements (hurlements). </ab>
+<ab n="4">Leurs
+petits se s&eacute;parent d&rsquo;elles et vont aux p&acirc;turages ;
+ils s&rsquo;&eacute;loignent et ne reviennent plus aupr&egrave;s
+d&rsquo;elles. </ab>
+<ab n="5">Qui
+a mis en libert&eacute; l&rsquo;&acirc;ne sauvage (l&rsquo;onagre),
+et qui a rompu ses liens ? </ab>
+<ab n="6">Je
+lui ai donn&eacute; une demeure dans le d&eacute;sert, et des tentes
+dans la terre sal&eacute;e. </ab>
+<ab n="7">Il
+m&eacute;prise le tumulte de la ville ; il n&rsquo;entend pas les
+cris d&rsquo;un ma&icirc;tre imp&eacute;rieux (exacteur). </ab>
+<ab n="8">Il
+regarde les montagnes o&ugrave; sont ses p&acirc;turages, et il
+cherche partout des herbages verts. </ab>
+<ab n="9">Le
+rhinoc&eacute;ros voudra-t-il te servir, et demeurera-t-il &agrave;
+ton &eacute;table ? </ab>
+<ab n="10">Lieras-tu
+le (un) rhinoc&eacute;ros avec une corde pour qu&rsquo;il laboure, et
+pour qu&rsquo;il brise derri&egrave;re toi les mottes des (gl&egrave;bes
+aux) vallons ? </ab>
+<ab n="11">Auras-tu
+confiance en sa grande rigueur (force), et lui abandonneras-tu tes
+travaux ? </ab>
+<ab n="12">Compteras-tu
+sur lui pour ramener ta r&eacute;colte (tes semailles) et pour
+l&rsquo;amasser dans ton aire ? </ab>
+<ab n="13">La
+plume (L&rsquo;aile) de l&rsquo;autruche est semblable &agrave; celle
+de la cigogne (du h&eacute;ron) et de l&rsquo;&eacute;pervier.
+</ab>
+<ab n="14">Lorsqu&rsquo;elle
+abandonne ses &oelig;ufs sur la terre, c&rsquo;est toi peut-&ecirc;tre
+qui les (r)&eacute;chaufferas dans la poussi&egrave;re ? </ab>
+<ab n="15">Elle
+oublie qu&rsquo;on les foulera aux pieds, ou que la b&ecirc;te
+sauvage les &eacute;crasera. </ab>
+<ab n="16">Elle
+est dure pour ses petits, comme s&rsquo;ils n&rsquo;&eacute;taient
+pas &agrave;
+elle. Elle a travaill&eacute; en vain (en les abandonnant) sans
+qu&rsquo;aucune crainte l&rsquo;y for&ccedil;&acirc;t. </ab>
+<ab n="17">Car
+Dieu l&rsquo;a priv&eacute;e de sagesse, et ne lui a pas
+donn&eacute; l&rsquo;intelligence. </ab>
+<ab n="18">Quand
+il le faut, elle &eacute;l&egrave;ve ses ailes : elle se rit du
+cheval et de son cavalier. </ab>
+<ab n="19">Est-ce
+toi qui donnes au cheval sa force, et qui lui fais pousser ses
+hennissements ? </ab>
+<ab n="20">Le
+feras-tu bondir comme les sauterelles ? La fiert&eacute; de son
+souffle r&eacute;pand (fait) la terreur. </ab>
+<ab n="21">Il
+creuse du pied la terre, il tressaille d&rsquo;audace, il s&rsquo;&eacute;lance
+au-devant des hommes arm&eacute;s. </ab>
+<ab n="22">Il
+d&eacute;daigne la peur, il ne recule pas devant le glaive. </ab>
+<ab n="23">Sur
+lui retentit le carquois, s&rsquo;agitent la lance et le bouclier.
+</ab>
+<ab n="24">Il
+&eacute;cume, il fr&eacute;mit, il d&eacute;vore la terre ; il ne se
+contient pas au bruit du clairon (qui sonne le retour). </ab>
+<ab n="25">D&egrave;s
+qu&rsquo;il entend la trompette, il dit : Allons ! De loin il flaire
+la bataille, la voix (l&rsquo;exhortation) des chefs et les cris
+(confus) des arm&eacute;es. </ab>
+<ab n="26">Est-ce
+par ta sagesse que l&rsquo;&eacute;pervier se couvre de plumes,
+&eacute;tendant ses ailes vers le midi ? </ab>
+<ab n="27">Est-ce
+par ton ordre que l&rsquo;aigle s&rsquo;&eacute;l&egrave;ve(ra), et
+qu&rsquo;il place(ra) son nid sur les hauteurs ? </ab>
+<ab n="28">Il
+demeure dans les rochers, dans les montagnes escarp&eacute;es et dans
+les rocs inaccessibles. </ab>
+<ab n="29">De
+l&agrave; il contemple sa proie, et ses yeux d&eacute;couvrent
+(voient) au loin. </ab>
+<ab n="30">Ses
+petits sucent le sang, et partout o&ugrave; se trouve un cadavre, il
+y fond aussit&ocirc;t. </ab>
+<ab n="31">Le
+Seigneur parla de nouveau &agrave; Job, et lui dit : </ab>
+<ab n="32">Ce(lui)
+qui dispute contre Dieu se r&eacute;duit-il si facilement au silence
+? Certes, quiconque reprend Dieu, doit lui r&eacute;pondre. </ab>
+<ab n="33">Job,
+r&eacute;pondant au Seigneur, lui dit : </ab>
+<ab n="34">Moi
+qui ai parl&eacute; avec l&eacute;g&egrave;ret&eacute; (l&eacute;g&egrave;rement),
+que puis-je r&eacute;pondre ? Je n&rsquo;ai qu&rsquo;&agrave; mettre
+(mettrai) ma main sur ma bouche. </ab>
+<ab n="35">J&rsquo;ai
+dit une chose, et puiss&eacute;-je ne l&rsquo;avoir pas dite, et une
+autre encore, et je n&rsquo;ajouterai rien de plus.</ab></div>
+<div type="chapter" n="40">
+<ab n="1">Le
+Seigneur, parlant &agrave; Job du milieu d&rsquo;un tourbillon, lui
+dit : </ab>
+<ab n="2">Ceins
+tes reins comme un homme (de c&oelig;ur) ; je t&rsquo;interrogerai,
+et r&eacute;ponds-moi. </ab>
+<ab n="3">Pr&eacute;tends-tu
+an&eacute;antir ma justice, et me condamneras-tu pour te justifier ?
+</ab>
+<ab n="4">As-tu
+un bras comme celui de Dieu ? et ta voix tonne-t-elle comme la sienne
+? </ab>
+<ab n="5">Rev&ecirc;ts-toi
+de magnificence (majest&eacute;), &eacute;l&egrave;ve-toi bien haut ;
+sois glorieux et pare-toi de v&ecirc;tements magnifiques. </ab>
+<ab n="6">Dissipe
+les superbes dans ta fureur, et d&rsquo;un regard humilie tout
+insolent (arrogant). </ab>
+<ab n="7">Jette
+les yeux sur tous les orgueilleux et confonds-les, et &eacute;crase
+sur place les impies. </ab>
+<ab n="8">Cache-les
+tous ensemble dans la poussi&egrave;re, et plonge leurs visages dans
+la fosse. </ab>
+<ab n="9">Et
+alors je confesserai que ta droite a le pouvoir de te sauver. </ab>
+<ab n="10">Voici
+B&eacute;h&eacute;moth, que j&rsquo;ai cr&eacute;&eacute; avec toi ;
+il mange l&rsquo;herbe (du foin) comme le b&oelig;uf. </ab>
+<ab n="11">Sa
+force est dans ses reins, et sa vigueur (vertu) dans le nombril de
+son ventre. </ab>
+<ab n="12">Il
+dresse sa queue comme un c&egrave;dre ; les nerfs de ses testicules
+(cuisses) sont entrelac&eacute;s. </ab>
+<ab n="13">Ses
+os sont comme des tubes (tuyaux) d&rsquo;airain ; ses cartilages,
+comme des lames de fer. </ab>
+<ab n="14">Il
+est &agrave; la t&ecirc;te des &oelig;uvres de Dieu ; celui qui l&rsquo;a
+fait dirige son glaive. </ab>
+<ab n="15">(C&rsquo;est
+pour lui que) Les montagnes lui produisent des herbages ; c&rsquo;est
+l&agrave; que se jouent toutes les b&ecirc;tes des champs. </ab>
+<ab n="16">Il
+dort sous l&rsquo;ombre, dans le secret des roseaux, et dans des
+lieux humides. </ab>
+<ab n="17">Les
+ombres couvrent son ombre ; les saules du torrent l&rsquo;environnent.
+</ab>
+<ab n="18">Il
+absorbera le fleuve et il ne s&rsquo;en &eacute;tonnera pas, et m&ecirc;me
+il se promet que le Jourdain coulera dans sa gueule (bouche). </ab>
+<ab n="19">On
+le prendra en face (par les yeux) comme avec un hame&ccedil;on, et on
+lui percera les narines avec des pieux. </ab>
+<ab n="20">Pourras-tu
+enlever L&eacute;viathan &agrave; l&rsquo;hame&ccedil;on, et lui lier
+la langue avec une corde ? </ab>
+<ab n="21">Lui
+passeras-tu un cercle aux narines, et lui perceras-tu la m&acirc;choire
+avec un anneau ? </ab>
+<ab n="22">Multipliera-t-il
+devant toi les pri&egrave;res, et te dira-t-il de douces paroles ?
+</ab>
+<ab n="23">Fera-t-il
+un pacte avec toi, et le recevras-tu comme un esclave perp&eacute;tuel
+? </ab>
+<ab n="24">(Te)
+Joueras-tu avec lui comme avec (d&rsquo;) un oiseau, et
+l&rsquo;attacheras-tu pour tes servantes ? </ab>
+<ab n="25">Les
+p&ecirc;cheurs associ&eacute;s (Des mais) le couperont-ils en
+morceaux ? et les marchands le diviseront-ils ? </ab>
+<ab n="26">Rempliras-tu
+tes filets de sa peau, et de sa t&ecirc;te le r&eacute;servoir &agrave;
+poissons ? </ab>
+<ab n="27">Mets
+la main sur lui ; souviens-toi de ce combat (la guerre), et n&rsquo;en
+parle plus (ne continue pas &agrave; parler). </ab>
+<ab n="28">On
+sera frustr&eacute; de l&rsquo;espoir de le prendre, et on sera
+terrass&eacute; &agrave; la vue de tous (Voil&agrave; que son espoir
+le trompera, et &agrave; la vue de tous il se pr&eacute;cipitera).</ab></div>
+<div type="chapter" n="41">
+<ab n="1">Je
+ne l&rsquo;exciterai pas
+comme par cruaut&eacute;. Car qui est-ce qui peut r&eacute;sister &agrave;
+mon visage ? </ab>
+<ab n="2">Qui
+m&rsquo;a donn&eacute; le premier, afin que je lui rende ? tout ce
+qui est sous le ciel est &agrave; moi. </ab>
+<ab n="3">Je
+ne l&rsquo;&eacute;pargnerai pas,
+malgr&eacute; les paroles puissantes (ses discours arrogants) et les
+pri&egrave;res les plus touchantes (ses paroles suppliantes). </ab>
+<ab n="4">Qui
+soul&egrave;vera le dessus de son armure (v&ecirc;tement), et qui
+entrera au milieu de sa gueule ? </ab>
+<ab n="5">Qui
+ouvrira l&rsquo;entr&eacute;e de ses m&acirc;choires ? La terreur
+habite autour de ses dents. </ab>
+<ab n="6">Son
+corps est semblable &agrave; des boucliers d&rsquo;airain fondu
+(jet&eacute;s en fonte), et couvert d&rsquo;&eacute;cailles qui se
+pressent. </ab>
+<ab n="7">L&rsquo;une
+est jointe &agrave; l&rsquo;autre, et (pas m&ecirc;me) le moindre
+souffle ne passe pas entre elles. </ab>
+<ab n="8">Elles
+adh&egrave;rent l&rsquo;une &agrave; l&rsquo;autre, et elles se
+tiennent sans se s&eacute;parer jamais. </ab>
+<ab n="9">Son
+&eacute;ternuement fait briller la lumi&egrave;re (l&rsquo;&eacute;clat
+du feu), et ses yeux sont comme la paupi&egrave;re de l&rsquo;aurore.
+</ab>
+<ab n="10">De
+sa gueule sortent des lampes, comme des torches ardentes (allum&eacute;es).
+</ab>
+<ab n="11">Une
+fum&eacute;e sort de ses narines comme d&rsquo;une chaudi&egrave;re
+qui bout sur un brasier (pot mis au feu et bouillant). </ab>
+<ab n="12">Son
+haleine allume des charbons, et la flamme sort de sa gueule (bouche).
+</ab>
+<ab n="13">Sa
+force r&eacute;side dans son cou, la famine marche devant lui. </ab>
+<ab n="14">Ses
+parties charnues tiennent ensemble ; la foudre tombera sur (Dieu
+lancera des foudres contre) lui sans qu&rsquo;elles changent de
+place. </ab>
+<ab n="15">Son
+c&oelig;ur est dur comme la pierre, et solide comme l&rsquo;enclume
+du forgeron (de marteleur). </ab>
+<ab n="16">Lorsqu&rsquo;il
+s&rsquo;avance, les (des) anges
+craignent, et dans leur frayeur ils se purifient. </ab>
+<ab n="17">Le
+glaive qui voudrait le frapper ne r&eacute;sisterait pas, non plus
+que le dard et la cuirasse ; </ab>
+<ab n="18">car
+il m&eacute;prise le fer comme de la paille, et l&rsquo;airain comme
+du bois pourri. </ab>
+<ab n="19">L&rsquo;archer
+ne le met pas en fuite ; les pierres de la fronde sont de la paille
+l&eacute;g&egrave;re pour lui. </ab>
+<ab n="20">Il
+regarde la massue (le marteau) comme du chaume, et se rit du dard
+lanc&eacute; (brandira la lance) contre lui. </ab>
+<ab n="21">Sous
+lui sont les rayons du soleil, et il s&rsquo;&eacute;tend sur l&rsquo;or
+comme sur la boue. </ab>
+<ab n="22">Il
+fait bouillir le fond de la mer comme une chaudi&egrave;re (un pot),
+et il la rend semblable &agrave; un vase de parfums (des essences) en
+&eacute;bullition. </ab>
+<ab n="23">(Un
+sentier r&eacute;pandra) La lumi&egrave;re brille derri&egrave;re lui
+; on croirait que l&rsquo;ab&icirc;me a la chevelure d&rsquo;un
+vieillard. </ab>
+<ab n="24">Il
+n&rsquo;y a pas de puissance sur la terre qui puisse lui &ecirc;tre
+compar&eacute;e, car il a &eacute;t&eacute; cr&eacute;&eacute; pour
+ne rien craindre (personne). </ab>
+<ab n="25">Il
+voit avec d&eacute;dain tout ce qui est &eacute;lev&eacute;
+(au-dessous de lui) ; c&rsquo;est lui qui est le roi de tous les fils
+de l&rsquo;orgueil.</ab></div>
+<div type="chapter" n="42">
+<ab n="1">Job
+r&eacute;pondit au Seigneur, et dit : </ab>
+<ab n="2">Je
+sais que vous pouvez toutes choses, et qu&rsquo;aucune pens&eacute;e
+ne vous est cach&eacute;e. </ab>
+<ab n="3">Quel
+est ce qui obscurcit mes desseins sans rien savoir (Quel est celui
+qui, dans son manque d&rsquo;intelligence, pr&eacute;tend cacher ses
+desseins &agrave; Dieu) ? En v&eacute;rit&eacute;, j&rsquo;ai parl&eacute;
+follement de choses qui d&eacute;passaient de beaucoup ma science.
+</ab>
+<ab n="4">Ecoutez,
+et je parlerai ; je vous interrogerai, et r&eacute;pondez-moi. </ab>
+<ab n="5">Mon
+oreille avait entendu parler de vous, mais maintenant c&rsquo;est mon
+&oelig;il qui vous voit. </ab>
+<ab n="6">C&rsquo;est
+pourquoi je m&rsquo;accuse moi-m&ecirc;me, et je fais p&eacute;nitence
+dans la poussi&egrave;re et dans la cendre. </ab>
+<ab n="7">Lorsque
+le Seigneur eut adress&eacute; &agrave; Job ces paroles, il dit &agrave;
+Eliphaz de Th&eacute;man : Ma fureur s&rsquo;est allum&eacute;e
+contre toi et contre tes deux amis, parce que vous n&rsquo;avez pas
+parl&eacute; devant moi avec droiture, comme mon serviteur Job.
+</ab>
+<ab n="8">Prenez
+donc (avec vous) sept taureaux et sept b&eacute;liers, et allez
+aupr&egrave;s de mon serviteur Job, et offrez pour vous un
+holocauste. (Or) Job mon serviteur priera pour vous ; je le recevrai
+favorablement, afin que cette folie (votre imprudence) ne vous soit
+pas imput&eacute;e
+; car vous ne m&rsquo;avez pas
+parl&eacute; avec droiture comme mon serviteur Job. </ab>
+<ab n="9">Eliphaz
+le Th&eacute;manite, Baldad le Suhite et Sophar le Naamathite s&rsquo;en
+all&egrave;rent donc, et firent ce que le Seigneur leur avait dit, et
+le Seigneur re&ccedil;ut Job favorablement. </ab>
+<ab n="10">Le
+Seigneur se laissa aussi toucher par la p&eacute;nitence de Job
+pendant qu&rsquo;il priait pour ses amis, et il lui rendit le double
+de tout ce qu&rsquo;il poss&eacute;dait auparavant. </ab>
+<ab n="11">(Alors)
+Tous ses fr&egrave;res, toutes ses s&oelig;urs et tous ceux qui
+l&rsquo;avaient connu autrefois, vinrent aupr&egrave;s de lui et
+mang&egrave;rent avec lui (du pain) dans sa maison. Ils t&eacute;moign&egrave;rent
+leur compassion pour (secou&egrave;rent la t&ecirc;te sur) lui, et
+ils le consol&egrave;rent de tout le mal que le Seigneur lui avait
+envoy&eacute; ; et ils donn&egrave;rent chacun une brebis et un
+pendant d&rsquo;oreille en or. </ab>
+<ab n="12">Quant
+au Seigneur, il b&eacute;nit plus encore les derni&egrave;res ann&eacute;es
+de Job que les premi&egrave;res ; et il eut quatorze mille brebis,
+six mille chameaux, mille paires de b&oelig;ufs et mille &acirc;nesses.
+</ab>
+<ab n="13">Il
+eut aussi sept fils et trois filles. </ab>
+<ab n="14">Et
+il nomma la premi&egrave;re (il appela le nom de l&rsquo;une) Jour,
+la seconde Casse,
+et la troisi&egrave;me Corne-d&rsquo;antimoine (Cornustibie). </ab>
+<ab n="15">Il
+n&rsquo;y eut pas
+dans toute la terre de femmes aussi belles que les filles de Job, et
+leur p&egrave;re leur donna une part d&rsquo;h&eacute;ritage comme &agrave;
+leurs fr&egrave;res. </ab>
+<ab n="16">Job
+v&eacute;cut apr&egrave;s cela cent quarante ans, et il vit ses fils
+et les fils de ses fils jusqu&rsquo;&agrave; la quatri&egrave;me
+g&eacute;n&eacute;ration, et il mourut &acirc;g&eacute; et plein de
+jours.</ab>
+</div>
+</div>
+
