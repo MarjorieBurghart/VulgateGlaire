@@ -1,440 +1,421 @@
-<!DOCTYPE definition [
-<!ENTITY rsquo "&#8217;">
-<!ENTITY eacute "é">
-<!ENTITY euml "ë">
-<!ENTITY acirc "â">
-<!ENTITY ecirc "ê">
-<!ENTITY agrave "à">
-<!ENTITY egrave "è">
-<!ENTITY ucirc "û">
-<!ENTITY ugrave "ù">
-<!ENTITY icirc "î">
-<!ENTITY ccedil "ç">
-<!ENTITY iuml "ï">
-<!ENTITY oelig "œ">
-<!ENTITY ocirc "ô">
-<!ENTITY uuml "ü">
-<!ENTITY Eacute "É">
-<!ENTITY nbsp "&#160;">
 
-]>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="book" xml:id="VULGFR_Jac">
 <div type="chapter" n="1">
 <ab n="1">Jacques,
-serviteur de Dieu et de Notre-Seigneur J&eacute;sus-Christ, aux douze
-tribus qui sont dispers&eacute;es, salut. </ab>
+serviteur de Dieu et de Notre-Seigneur Jésus-Christ, aux douze
+tribus qui sont dispersées, salut. </ab>
 <ab n="2">Regardez
-comme une grande joie (compl&egrave;te), mes fr&egrave;res, d&rsquo;&ecirc;tre
-en butte &agrave; diverses &eacute;preuves (de tomber en diverses
+comme une grande joie (complète), mes frères, d’être
+en butte à diverses épreuves (de tomber en diverses
 tentations), </ab>
 <ab n="3">sachant
-que l&rsquo;&eacute;preuve de votre foi produit la patience. </ab>
+que l’épreuve de votre foi produit la patience. </ab>
 <ab n="4">Mais
-la patience doit &ecirc;tre (rend) parfaite dans ses &oelig;uvres,
-afin que vous soyez parfaits et accomplis, ne laissant rien &agrave;
-d&eacute;sirer. </ab>
+la patience doit être (rend) parfaite dans ses œuvres,
+afin que vous soyez parfaits et accomplis, ne laissant rien à
+désirer. </ab>
 <ab n="5">Si
-quelqu&rsquo;un de vous manque de sagesse, qu&rsquo;il la demande &agrave;
-Dieu, qui donne &agrave; tous lib&eacute;ralement et sans rien
-reprocher ; et elle lui sera donn&eacute;e. </ab>
+quelqu’un de vous manque de sagesse, qu’il la demande à
+Dieu, qui donne à tous libéralement et sans rien
+reprocher ; et elle lui sera donnée. </ab>
 <ab n="6">Mais
-qu&rsquo;il demande avec foi, sans h&eacute;siter. Car celui qui
-h&eacute;site est semblable au flot de la mer, qui est agit&eacute;
-et pouss&eacute; de c&ocirc;t&eacute; et d&rsquo;autre par le vent.
+qu’il demande avec foi, sans hésiter. Car celui qui
+hésite est semblable au flot de la mer, qui est agité
+et poussé de côté et d’autre par le vent.
 </ab>
 <ab n="7">Que
-cet homme l&agrave; ne s&rsquo;imagine pas qu&rsquo;il recevra
+cet homme là ne s’imagine pas qu’il recevra
 quelque chose du Seigneur. </ab>
-<ab n="8">C&rsquo;est
-un homme &agrave; l&rsquo;esprit partag&eacute; (double d&rsquo;esprit,
+<ab n="8">C’est
+un homme à l’esprit partagé (double d’esprit,
 note), inconstant dans toutes ses voies. </ab>
 <ab n="9">Que
-le fr&egrave;re de condition humble se glorifie de son &eacute;l&eacute;vation
+le frère de condition humble se glorifie de son élévation
 ; </ab>
 <ab n="10">et
-le riche, au contraire, de son abaissement, parce qu&rsquo;il passera
-comme la fleur de l&rsquo;herbe. </ab>
+le riche, au contraire, de son abaissement, parce qu’il passera
+comme la fleur de l’herbe. </ab>
 <ab n="11">Car
-le soleil s&rsquo;est lev&eacute; br&ucirc;lant, et il a dess&eacute;ch&eacute;
-l&rsquo;herbe, et sa fleur est tomb&eacute;e, et la gr&acirc;ce de
-son aspect (charme de sa beaut&eacute;) a disparu ; ainsi le riche se
-fl&eacute;trira dans ses voies. </ab>
+le soleil s’est levé brûlant, et il a desséché
+l’herbe, et sa fleur est tombée, et la grâce de
+son aspect (charme de sa beauté) a disparu ; ainsi le riche se
+flétrira dans ses voies. </ab>
 <ab n="12">Heureux
-l&rsquo;homme qui souffre patiemment l&rsquo;&eacute;preuve, car,
-lorsqu&rsquo;il aura &eacute;t&eacute; &eacute;prouv&eacute;, il
-recevra la couronne de vie, que Dieu a promise &agrave; ceux qui
-l&rsquo;aiment. </ab>
+l’homme qui souffre patiemment l’épreuve, car,
+lorsqu’il aura été éprouvé, il
+recevra la couronne de vie, que Dieu a promise à ceux qui
+l’aiment. </ab>
 <ab n="13">Que
-nul, lorsqu&rsquo;il est tent&eacute;, ne dise que c&rsquo;est Dieu
+nul, lorsqu’il est tenté, ne dise que c’est Dieu
 qui le tente ; car Dieu ne tente pas pour le mal, et il ne tente
-lui-m&ecirc;me personne. </ab>
+lui-même personne. </ab>
 <ab n="14">Mais
-chacun est tent&eacute; par sa propre concupiscence, qui l&rsquo;emporte
-et le s&eacute;duit. </ab>
+chacun est tenté par sa propre concupiscence, qui l’emporte
+et le séduit. </ab>
 <ab n="15">Ensuite,
-lorsque la concupiscence a con&ccedil;u, elle enfante le p&eacute;ch&eacute;
-; et le p&eacute;ch&eacute;, &eacute;tant consomm&eacute;, engendre
+lorsque la concupiscence a conçu, elle enfante le péché
+; et le péché, étant consommé, engendre
 la mort. </ab>
 <ab n="16">Ne
-vous y trompez pas, mes fr&egrave;res bien-aim&eacute;s. </ab>
+vous y trompez pas, mes frères bien-aimés. </ab>
 <ab n="17">Toute
-gr&acirc;ce excellente et tout don parfait vient d&rsquo;en haut, et
-descend du P&egrave;re des lumi&egrave;res, chez qui il n&rsquo;y a
-pas de variation, ni d&rsquo;ombre, ni de changement. </ab>
+grâce excellente et tout don parfait vient d’en haut, et
+descend du Père des lumières, chez qui il n’y a
+pas de variation, ni d’ombre, ni de changement. </ab>
 <ab n="18">De
-sa propre volont&eacute; il nous a engendr&eacute;s par la parole de
-v&eacute;rit&eacute;, afin que nous soyons comme les pr&eacute;mices
-de ses cr&eacute;atures. </ab>
+sa propre volonté il nous a engendrés par la parole de
+vérité, afin que nous soyons comme les prémices
+de ses créatures. </ab>
 <ab n="19">Vous
-le savez, mes fr&egrave;res bien-aim&eacute;s. Que tout homme soit
-prompt &agrave; &eacute;couter, lent &agrave; parler, et lent &agrave;
-se mettre en col&egrave;re ; </ab>
+le savez, mes frères bien-aimés. Que tout homme soit
+prompt à écouter, lent à parler, et lent à
+se mettre en colère ; </ab>
 <ab n="20">car
-la col&egrave;re de l&rsquo;homme n&rsquo;accomplit pas la justice de
+la colère de l’homme n’accomplit pas la justice de
 Dieu. </ab>
-<ab n="21">C&rsquo;est
-pourquoi, rejetant toute souillure et tout exc&egrave;s de
-m&eacute;chancet&eacute;, recevez avec douceur la parole ent&eacute;e
-en vous, qui peut sauver vos &acirc;mes. </ab>
+<ab n="21">C’est
+pourquoi, rejetant toute souillure et tout excès de
+méchanceté, recevez avec douceur la parole entée
+en vous, qui peut sauver vos âmes. </ab>
 <ab n="22">Seulement,
 mettez cette parole en pratique, et ne vous contentez pas de
-l&rsquo;&eacute;couter, vous trompant vous-m&ecirc;mes. </ab>
+l’écouter, vous trompant vous-mêmes. </ab>
 <ab n="23">Car
-si quelqu&rsquo;un &eacute;coute la parole et ne la met pas en
-pratique, il est semblable &agrave; un homme qui regarde dans un
+si quelqu’un écoute la parole et ne la met pas en
+pratique, il est semblable à un homme qui regarde dans un
 miroir son visage naturel, </ab>
 <ab n="24">et
-qui, apr&egrave;s s&rsquo;&ecirc;tre regard&eacute;, s&rsquo;en va,
-et oublie aussit&ocirc;t quel (comment) il &eacute;tait. </ab>
+qui, après s’être regardé, s’en va,
+et oublie aussitôt quel (comment) il était. </ab>
 <ab n="25">Mais
-celui qui aura consid&eacute;r&eacute; attentivement la loi parfaite
-de la libert&eacute;, et qui l&rsquo;aura fait avec pers&eacute;v&eacute;rance,
-arrivant ainsi, non &agrave; &eacute;couter pour oublier, mais &agrave;
-pratiquer l&rsquo;&oelig;uvre prescrite, celui-l&agrave; trouvera le
-bonheur dans son activit&eacute;. </ab>
+celui qui aura considéré attentivement la loi parfaite
+de la liberté, et qui l’aura fait avec persévérance,
+arrivant ainsi, non à écouter pour oublier, mais à
+pratiquer l’œuvre prescrite, celui-là trouvera le
+bonheur dans son activité. </ab>
 <ab n="26">Si
-quelqu&rsquo;un croit &ecirc;tre religieux, et ne met pas un frein &agrave;
-sa langue, mais trompe son propre c&oelig;ur, la religion de cet
+quelqu’un croit être religieux, et ne met pas un frein à
+sa langue, mais trompe son propre cœur, la religion de cet
 homme est vaine. </ab>
 <ab n="27">La
-religion pure et sans tache devant Dieu notre P&egrave;re consiste &agrave;
-visiter les orphelins et les veuves dans leur tribulation, et &agrave;
-se conserver pur du si&egrave;cle pr&eacute;sent.
+religion pure et sans tache devant Dieu notre Père consiste à
+visiter les orphelins et les veuves dans leur tribulation, et à
+se conserver pur du siècle présent.
 </ab></div>
 <div type="chapter" n="2">
 <ab n="1">Mes
-fr&egrave;res, n&rsquo;associez aucune acception de personnes &agrave;
-la foi en Notre-Seigneur J&eacute;sus-Christ glorifi&eacute; (le
+frères, n’associez aucune acception de personnes à
+la foi en Notre-Seigneur Jésus-Christ glorifié (le
 Seigneur de la gloire). </ab>
 <ab n="2">Car
-s&rsquo;il entre dans votre assembl&eacute;e un homme ayant un anneau
-d&rsquo;or et un v&ecirc;tement magnifique, et qu&rsquo;il y entre
-aussi un pauvre avec un habit sordide (mal v&ecirc;tu), </ab>
+s’il entre dans votre assemblée un homme ayant un anneau
+d’or et un vêtement magnifique, et qu’il y entre
+aussi un pauvre avec un habit sordide (mal vêtu), </ab>
 <ab n="3">et
-que, tournant vos regards sur celui qui porte un v&ecirc;tement
-magnifique, vous lui disiez : Toi, assieds-toi &agrave; cette place
-d&rsquo;honneur (bien ici) ; et que vous disiez au pauvre : Toi,
-tiens-toi l&agrave; debout, ou : Assieds-toi au-dessous de mon
+que, tournant vos regards sur celui qui porte un vêtement
+magnifique, vous lui disiez : Toi, assieds-toi à cette place
+d’honneur (bien ici) ; et que vous disiez au pauvre : Toi,
+tiens-toi là debout, ou : Assieds-toi au-dessous de mon
 marchepied ; </ab>
 <ab n="4">ne
-faites-vous pas en vous-m&ecirc;mes des diff&eacute;rences, et
-n&rsquo;&ecirc;tes-vous pas des juges anim&eacute;s de pens&eacute;es
+faites-vous pas en vous-mêmes des différences, et
+n’êtes-vous pas des juges animés de pensées
 injustes ? </ab>
 <ab n="5">Ecoutez,
-mes fr&egrave;res bien-aim&eacute;s : Dieu n&rsquo;a-t-il pas choisi
-ceux qui sont pauvres selon le monde, pour qu&rsquo;ils soient riches
-dans la foi, et h&eacute;ritiers du royaume que Dieu a promis &agrave;
-ceux qui l&rsquo;aiment ? </ab>
+mes frères bien-aimés : Dieu n’a-t-il pas choisi
+ceux qui sont pauvres selon le monde, pour qu’ils soient riches
+dans la foi, et héritiers du royaume que Dieu a promis à
+ceux qui l’aiment ? </ab>
 <ab n="6">Et
-vous, vous avez d&eacute;shonor&eacute; le pauvre. Ne sont-ce pas les
-riches qui vous oppriment par leur puissance, et qui vous tra&icirc;nent
+vous, vous avez déshonoré le pauvre. Ne sont-ce pas les
+riches qui vous oppriment par leur puissance, et qui vous traînent
 devant les tribunaux ? </ab>
 <ab n="7">Ne
-sont-ce pas eux qui blasph&egrave;ment le beau nom qu&rsquo;on
+sont-ce pas eux qui blasphèment le beau nom qu’on
 prononce en vous nommant (sur vous) ? </ab>
 <ab n="8">Si
 cependant vous accomplissez la loi royale, selon les Ecritures : Tu
-aimeras ton prochain comme toi-m&ecirc;me, vous faites bien. </ab>
+aimeras ton prochain comme toi-même, vous faites bien. </ab>
 <ab n="9">Mais
-si vous faites acception des personnes, vous commettez un p&eacute;ch&eacute;,
-et vous &ecirc;tes condamn&eacute;s par la loi comme des
+si vous faites acception des personnes, vous commettez un péché,
+et vous êtes condamnés par la loi comme des
 transgresseurs. </ab>
 <ab n="10">Car
-quiconque aura observ&eacute; toute la loi, mais p&egrave;che contre
+quiconque aura observé toute la loi, mais pèche contre
 un seul point, est coupable de tous. </ab>
 <ab n="11">En
 effet, celui qui a dit : Tu ne commettras pas
-d&rsquo;adult&egrave;re, dit aussi : Tu ne tueras pas.
-Si donc tu ne commets pas d&rsquo;adult&egrave;re, mais que tu
+d’adultère, dit aussi : Tu ne tueras pas.
+Si donc tu ne commets pas d’adultère, mais que tu
 commettes un meurtre, tu es transgresseur de la loi. </ab>
 <ab n="12">Parlez
-et agissez comme devant &ecirc;tre jug&eacute;s par la loi de la
-libert&eacute;. </ab>
+et agissez comme devant être jugés par la loi de la
+liberté. </ab>
 <ab n="13">Car
-le jugement est sans mis&eacute;ricorde pour celui qui n&rsquo;a pas
-fait mis&eacute;ricorde ; mais la mis&eacute;ricorde s&rsquo;&eacute;l&egrave;ve
+le jugement est sans miséricorde pour celui qui n’a pas
+fait miséricorde ; mais la miséricorde s’élève
 au-dessus du jugement. </ab>
 <ab n="14">Mes
-fr&egrave;res, que sert-il &agrave; quelqu&rsquo;un de dire qu&rsquo;il
-a la foi, s&rsquo;il n&rsquo;a pas les &oelig;uvres ? Est-ce que la
+frères, que sert-il à quelqu’un de dire qu’il
+a la foi, s’il n’a pas les œuvres ? Est-ce que la
 foi peut (pourra) le sauver ? </ab>
 <ab n="15">Si
-un fr&egrave;re ou une soeur sont dans la nudit&eacute;, et qu&rsquo;ils
+un frère ou une soeur sont dans la nudité, et qu’ils
 manquent de la nourriture de chaque jour, </ab>
 <ab n="16">et
-que l&rsquo;un de vous leur dise : Allez en paix, chauffez-vous et
-rassasiez-vous, et que vous ne leur donniez pas ce qui est n&eacute;cessaire
+que l’un de vous leur dise : Allez en paix, chauffez-vous et
+rassasiez-vous, et que vous ne leur donniez pas ce qui est nécessaire
 au corps, a quoi cela servira-t-il ? </ab>
 <ab n="17">Il
-en est de m&ecirc;me de la foi : si elle n&rsquo;a pas les &oelig;uvres,
-elle est morte en elle-m&ecirc;me. </ab>
+en est de même de la foi : si elle n’a pas les œuvres,
+elle est morte en elle-même. </ab>
 <ab n="18">Mais
-quelqu&rsquo;un dira : Tu as la foi, et moi j&rsquo;ai les &oelig;uvres.
-Montre-moi ta foi sans les &oelig;uvres, et moi je te montrerai ma
-foi par les (mes) &oelig;uvres. </ab>
+quelqu’un dira : Tu as la foi, et moi j’ai les œuvres.
+Montre-moi ta foi sans les œuvres, et moi je te montrerai ma
+foi par les (mes) œuvres. </ab>
 <ab n="19">Tu
-crois qu&rsquo;il n&rsquo;y a qu&rsquo;un Dieu, tu fais bien ; les
-d&eacute;mons le croient aussi, et ils tremblent. </ab>
+crois qu’il n’y a qu’un Dieu, tu fais bien ; les
+démons le croient aussi, et ils tremblent. </ab>
 <ab n="20">Mais
-veux-tu savoir, &ocirc; homme vain, que la foi sans les &oelig;uvres
+veux-tu savoir, ô homme vain, que la foi sans les œuvres
 est morte ? </ab>
 <ab n="21">Abraham,
-notre p&egrave;re, ne fut-il pas justifi&eacute; par les &oelig;uvres,
-lorsqu&rsquo;il offrit son fils Isaac sur l&rsquo;autel ? </ab>
+notre père, ne fut-il pas justifié par les œuvres,
+lorsqu’il offrit son fils Isaac sur l’autel ? </ab>
 <ab n="22">Tu
-vois que la foi coop&eacute;rait &agrave; ses (ces) &oelig;uvres, et
-que par les &oelig;uvres sa foi fut rendue parfaite (loi fut
-consomm&eacute;e). </ab>
+vois que la foi coopérait à ses (ces) œuvres, et
+que par les œuvres sa foi fut rendue parfaite (loi fut
+consommée). </ab>
 <ab n="23">Et
-ainsi s&rsquo;accomplit cette parole de l&rsquo;Ecriture : Abraham
-crut &agrave; Dieu, et cela lui fut imput&eacute; &agrave; justice,
-et il fut appel&eacute; ami de Dieu. </ab>
+ainsi s’accomplit cette parole de l’Ecriture : Abraham
+crut à Dieu, et cela lui fut imputé à justice,
+et il fut appelé ami de Dieu. </ab>
 <ab n="24">Vous
-voyez que l&rsquo;homme est justifi&eacute; par les &oelig;uvres, et
+voyez que l’homme est justifié par les œuvres, et
 non par la foi seulement. </ab>
 <ab n="25">De
-m&ecirc;me aussi Rahab, la femme de mauvaise vie, ne fut-elle pas
-justifi&eacute;e par les &oelig;uvres, recevant les messagers, et les
+même aussi Rahab, la femme de mauvaise vie, ne fut-elle pas
+justifiée par les œuvres, recevant les messagers, et les
 renvoyant par un autre chemin ? </ab>
 <ab n="26">De
-m&ecirc;me, en effet, que le corps sans &acirc;me est mort, ainsi la
-foi sans les &oelig;uvres est morte.</ab></div>
+même, en effet, que le corps sans âme est mort, ainsi la
+foi sans les œuvres est morte.</ab></div>
 <div type="chapter" n="3">
 <ab n="1">Ne
-soyez pas nombreux &agrave; vous &eacute;riger en docteurs, mes
-fr&egrave;res, sachant que vous vous exposez &agrave; un jugement
-plus s&eacute;v&egrave;re. </ab>
+soyez pas nombreux à vous ériger en docteurs, mes
+frères, sachant que vous vous exposez à un jugement
+plus sévère. </ab>
 <ab n="2">Nous
-bronchons tous de bien des mani&egrave;res (faisons tous beaucoup de
-fautes). Si quelqu&rsquo;un ne bronche (p&egrave;che) pas dans ses
-paroles, c&rsquo;est un homme parfait, et il peut tenir en bride
-(m&ecirc;me) tout son corps. </ab>
+bronchons tous de bien des manières (faisons tous beaucoup de
+fautes). Si quelqu’un ne bronche (pèche) pas dans ses
+paroles, c’est un homme parfait, et il peut tenir en bride
+(même) tout son corps. </ab>
 <ab n="3">Si
-nous mettons un mors dans la bouche des chevaux, pour qu&rsquo;ils
-nous ob&eacute;issent, nous dirigeons aussi tout leur corps. </ab>
+nous mettons un mors dans la bouche des chevaux, pour qu’ils
+nous obéissent, nous dirigeons aussi tout leur corps. </ab>
 <ab n="4">Voyez
-aussi les navires : quoique si grands et pouss&eacute;s par des vents
-imp&eacute;tueux, ils sont dirig&eacute;s avec un petit gouvernail,
-selon la volont&eacute; de celui qui les conduit. </ab>
+aussi les navires : quoique si grands et poussés par des vents
+impétueux, ils sont dirigés avec un petit gouvernail,
+selon la volonté de celui qui les conduit. </ab>
 <ab n="5">Ainsi
-la langue n&rsquo;est qu&rsquo;un petit membre, et elle se vante de
-grandes choses. Voyez quelle grande for&ecirc;t un petit feu peut
+la langue n’est qu’un petit membre, et elle se vante de
+grandes choses. Voyez quelle grande forêt un petit feu peut
 incendier. </ab>
 <ab n="6">La
-langue aussi est un feu ; c&rsquo;est un monde d&rsquo;iniquit&eacute;.
-La langue est plac&eacute;e parmi nos membres ; elle souille tout le
-corps, elle embrase le cours de notre vie, embras&eacute;e elle-m&ecirc;me
-au feu de l&rsquo;enfer. </ab>
+langue aussi est un feu ; c’est un monde d’iniquité.
+La langue est placée parmi nos membres ; elle souille tout le
+corps, elle embrase le cours de notre vie, embrasée elle-même
+au feu de l’enfer. </ab>
 <ab n="7">Toutes
-les esp&egrave;ces de b&ecirc;tes sauvages, d&rsquo;oiseaux, de
-reptiles, et d&rsquo;autres animaux peuvent se dompter, et ont &eacute;t&eacute;
-dompt&eacute;s par la nature humaine ; </ab>
+les espèces de bêtes sauvages, d’oiseaux, de
+reptiles, et d’autres animaux peuvent se dompter, et ont été
+domptés par la nature humaine ; </ab>
 <ab n="8">mais
-la langue, aucun homme ne peut la dompter ; mal impossible &agrave;
-r&eacute;primer (inquiet), elle est pleine d&rsquo;un venin mortel.
+la langue, aucun homme ne peut la dompter ; mal impossible à
+réprimer (inquiet), elle est pleine d’un venin mortel.
 </ab>
 <ab n="9">Par
-elle nous b&eacute;nissons Dieu notre P&egrave;re, et par elle nous
-maudissons les hommes, qui ont &eacute;t&eacute; faits &agrave;
-l&rsquo;image de Dieu. </ab>
+elle nous bénissons Dieu notre Père, et par elle nous
+maudissons les hommes, qui ont été faits à
+l’image de Dieu. </ab>
 <ab n="10">De
-la m&ecirc;me bouche sortent la b&eacute;n&eacute;diction et la
-mal&eacute;diction. Il ne faut pas, mes fr&egrave;res, qu&rsquo;il en
+la même bouche sortent la bénédiction et la
+malédiction. Il ne faut pas, mes frères, qu’il en
 soit ainsi. </ab>
 <ab n="11">Est-ce
-que la source (fontaine) fait jaillir, par une m&ecirc;me ouverture,
-de l&rsquo;eau douce et de l&rsquo;eau am&egrave;re ? </ab>
+que la source (fontaine) fait jaillir, par une même ouverture,
+de l’eau douce et de l’eau amère ? </ab>
 <ab n="12">Est-ce
-qu&rsquo;un figuier, mes fr&egrave;res, peut produire des raisins, ou
-une vigne des figues ? Ainsi une source sal&eacute;e ne peut pas
+qu’un figuier, mes frères, peut produire des raisins, ou
+une vigne des figues ? Ainsi une source salée ne peut pas
 donner une eau douce. </ab>
 <ab n="13">Qui
-est sage et instruit parmi vous ? Qu&rsquo;il montre ses &oelig;uvres
+est sage et instruit parmi vous ? Qu’il montre ses œuvres
 par une bonne conduite, dans une sagesse pleine de douceur. </ab>
 <ab n="14">Mais
-si vous avez un z&egrave;le amer et s&rsquo;il y a un esprit de
-dispute dans vos c&oelig;urs, ne vous glorifiez pas et ne mentez pas
-contre la v&eacute;rit&eacute;. </ab>
+si vous avez un zèle amer et s’il y a un esprit de
+dispute dans vos cœurs, ne vous glorifiez pas et ne mentez pas
+contre la vérité. </ab>
 <ab n="15">Car
-une telle sagesse ne descend pas d&rsquo;en haut, mais elle est
+une telle sagesse ne descend pas d’en haut, mais elle est
 terrestre, animale, diabolique. </ab>
 <ab n="16">En
-effet, l&agrave; o&ugrave; il y a z&egrave;le amer (envie) et esprit
-de dispute, il y a du trouble (inconstance) et toute sorte d&rsquo;actions
+effet, là où il y a zèle amer (envie) et esprit
+de dispute, il y a du trouble (inconstance) et toute sorte d’actions
 mauvaises. </ab>
 <ab n="17">Mais
-la sagesse qui vient d&rsquo;en haut est premi&egrave;rement chaste,
-puis pacifique, mod&eacute;r&eacute;e, conciliante, c&eacute;dant au
-bien, pleine de mis&eacute;ricorde et de bons fruits, ne jugeant pas
-et n&rsquo;&eacute;tant pas dissimul&eacute;e. </ab>
+la sagesse qui vient d’en haut est premièrement chaste,
+puis pacifique, modérée, conciliante, cédant au
+bien, pleine de miséricorde et de bons fruits, ne jugeant pas
+et n’étant pas dissimulée. </ab>
 <ab n="18">Or
-le fruit de la justice est sem&eacute; dans la paix par ceux qui
+le fruit de la justice est semé dans la paix par ceux qui
 prodiguent la paix.</ab></div>
 <div type="chapter" n="4">
-<ab n="1">D&rsquo;o&ugrave;
-viennent les guerres et les querelles parmi vous ? N&rsquo;est-ce pas
+<ab n="1">D’où
+viennent les guerres et les querelles parmi vous ? N’est-ce pas
 de vos passions (convoitises), qui combattent dans vos membres ?
 </ab>
 <ab n="2">Vous
-convoitez et vous n&rsquo;obtenez pas ; vous tuez, et vous &ecirc;tes
+convoitez et vous n’obtenez pas ; vous tuez, et vous êtes
 envieux, et vous ne pouvez pas obtenir ; vous avez des querelles et
-vous faites la guerre, et vous n&rsquo;obtenez pas, parce que vous ne
+vous faites la guerre, et vous n’obtenez pas, parce que vous ne
 demandez pas. </ab>
 <ab n="3">Vous
 demandez, et vous ne recevez pas, parce que vous demandez mal, dans
 le but de satisfaire vos passions. </ab>
-<ab n="4">Adult&egrave;res,
-ne savez-vous pas que l&rsquo;amour de ce monde est inimiti&eacute;
-contre Dieu ? Par cons&eacute;quent quiconque veut &ecirc;tre ami de
-ce si&egrave;cle se constitue ennemi de Dieu. </ab>
+<ab n="4">Adultères,
+ne savez-vous pas que l’amour de ce monde est inimitié
+contre Dieu ? Par conséquent quiconque veut être ami de
+ce siècle se constitue ennemi de Dieu. </ab>
 <ab n="5">Pensez-vous
-que l&rsquo;Ecriture dise en vain : L&rsquo;Esprit qui habite en vous
-a-t-il des d&eacute;sirs qui portent &agrave; l&rsquo;envie ? </ab>
+que l’Ecriture dise en vain : L’Esprit qui habite en vous
+a-t-il des désirs qui portent à l’envie ? </ab>
 <ab n="6">Au
-contraire, il donne une plus grande gr&acirc;ce. C&rsquo;est pourquoi
-il dit : Dieu r&eacute;siste aux superbes, et il donne sa gr&acirc;ce
+contraire, il donne une plus grande grâce. C’est pourquoi
+il dit : Dieu résiste aux superbes, et il donne sa grâce
 aux humbles. </ab>
 <ab n="7">Soumettez-vous
-donc &agrave; Dieu ; mais r&eacute;sistez au diable, et il fuira
+donc à Dieu ; mais résistez au diable, et il fuira
 (loin) de vous. </ab>
 <ab n="8">Approchez-vous
-de Dieu, et il s&rsquo;approchera de vous. Lavez vos mains, p&eacute;cheurs
-; et purifiez vos c&oelig;urs, vous qui &ecirc;tes irr&eacute;solus
-(doubles d&rsquo;esprit, note). </ab>
+de Dieu, et il s’approchera de vous. Lavez vos mains, pécheurs
+; et purifiez vos cœurs, vous qui êtes irrésolus
+(doubles d’esprit, note). </ab>
 <ab n="9">Sentez
-votre mis&egrave;re, prenez le deuil et pleurez ; que votre rire se
+votre misère, prenez le deuil et pleurez ; que votre rire se
 change en pleurs, et votre joie en tristesse. </ab>
 <ab n="10">Humiliez-vous
-en pr&eacute;sence du Seigneur, et il vous &eacute;l&egrave;vera.
+en présence du Seigneur, et il vous élèvera.
 </ab>
 <ab n="11">Ne
 parlez pas mal
-les uns des autres, fr&egrave;res. Celui qui parle mal d&rsquo;un
-fr&egrave;re, ou qui juge son fr&egrave;re, parle mal de la loi, et
-juge la loi. Or, si tu juges la loi, tu n&rsquo;es pas observateur de
-la loi, mais tu t&rsquo;en fais le juge. </ab>
+les uns des autres, frères. Celui qui parle mal d’un
+frère, ou qui juge son frère, parle mal de la loi, et
+juge la loi. Or, si tu juges la loi, tu n’es pas observateur de
+la loi, mais tu t’en fais le juge. </ab>
 <ab n="12">(Il
-y a) Un seul est l&eacute;gislateur et un juge : Celui qui peut
+y a) Un seul est législateur et un juge : Celui qui peut
 sauver et perdre. </ab>
 <ab n="13">Mais
 qui es-tu, toi qui juges le prochain ? Et maintenant, vous qui dites
-: Aujourd&rsquo;hui ou demain nous irons dans telle ville ; nous y
-passerons une ann&eacute;e, nous trafiquerons, et nous ferons des
+: Aujourd’hui ou demain nous irons dans telle ville ; nous y
+passerons une année, nous trafiquerons, et nous ferons des
 (beaucoup de) profits ; </ab>
 <ab n="14">vous
-qui ne savez pas (m&ecirc;me) ce qui arrivera demain. </ab>
+qui ne savez pas (même) ce qui arrivera demain. </ab>
 <ab n="15">Car
-qu&rsquo;est-ce que votre vie ? C&rsquo;est une vapeur qui para&icirc;t
-pour un peu de temps, et qui ensuite s&rsquo;&eacute;vanouit. Vous
+qu’est-ce que votre vie ? C’est une vapeur qui paraît
+pour un peu de temps, et qui ensuite s’évanouit. Vous
 devriez dire au contraire : Si le Seigneur le veut, ou : Si nous
 vivons, nous ferons ceci ou cela. </ab>
 <ab n="16">Mais
 maintenant, vous vous glorifiez dans votre orgueil. Toute jactance de
 ce genre est mauvaise. </ab>
 <ab n="17">Celui
-donc qui sait le bien &agrave; faire et qui ne le fait pas est
-coupable de p&eacute;ch&eacute; (verset oubli&eacute;).</ab>
+donc qui sait le bien à faire et qui ne le fait pas est
+coupable de péché (verset oublié).</ab>
 </div>
 <div type="chapter" n="5">
 <ab n="1">A
-vous, maintenant, riches : pleurez, poussez des cris, &agrave; cause
-des malheurs (mis&egrave;res) qui viendront sur vous. </ab>
+vous, maintenant, riches : pleurez, poussez des cris, à cause
+des malheurs (misères) qui viendront sur vous. </ab>
 <ab n="2">Vos
-richesses sont pourries, et vos v&ecirc;tements sont rong&eacute;s
+richesses sont pourries, et vos vêtements sont rongés
 par les vers. </ab>
 <ab n="3">Votre
-or et votre argent se sont rouill&eacute;s, et leur rouille
-t&eacute;moignera contre vous, et d&eacute;vorera vos chairs comme un
-feu. Vous vous &ecirc;tes amass&eacute; un tr&eacute;sor de col&egrave;re
+or et votre argent se sont rouillés, et leur rouille
+témoignera contre vous, et dévorera vos chairs comme un
+feu. Vous vous êtes amassé un trésor de colère
 dans (pour) les derniers jours. </ab>
 <ab n="4">Voici,
-le salaire des ouvriers qui ont moissonn&eacute; vos champs, et dont
-vous les avez frustr&eacute;s, crie, et leur cri a p&eacute;n&eacute;tr&eacute;
-jusqu&rsquo;aux oreilles du Seigneur des arm&eacute;es (Sabaoth,
+le salaire des ouvriers qui ont moissonné vos champs, et dont
+vous les avez frustrés, crie, et leur cri a pénétré
+jusqu’aux oreilles du Seigneur des armées (Sabaoth,
 note). </ab>
 <ab n="5">Vous
-avez v&eacute;cu sur la terre dans les festins (volupt&eacute;s) et
-dans les d&eacute;lices ; vous avez rassasi&eacute; vos c&oelig;urs
+avez vécu sur la terre dans les festins (voluptés) et
+dans les délices ; vous avez rassasié vos cœurs
 (comme, note) au jour de carnage (de sacrifice, note). </ab>
 <ab n="6">Vous
-avez condamn&eacute; et vous avez tu&eacute; le Juste, et il ne vous
-a pas r&eacute;sist&eacute;. </ab>
+avez condamné et vous avez tué le Juste, et il ne vous
+a pas résisté. </ab>
 <ab n="7">Soyez
-donc patients, fr&egrave;res, jusqu&rsquo;&agrave; l&rsquo;av&egrave;nement
-du Seigneur. Voici, le laboureur attend le pr&eacute;cieux fruit de
-la terre, prenant patience jusqu&rsquo;&agrave; ce qu&rsquo;il ait
-re&ccedil;u les pluies (celui, note) de la premi&egrave;re et de la
-derni&egrave;re saison. </ab>
+donc patients, frères, jusqu’à l’avènement
+du Seigneur. Voici, le laboureur attend le précieux fruit de
+la terre, prenant patience jusqu’à ce qu’il ait
+reçu les pluies (celui, note) de la première et de la
+dernière saison. </ab>
 <ab n="8">Soyez
-donc patients, vous aussi, et affermissez vos c&oelig;urs, car
-l&rsquo;av&egrave;nement du Seigneur est proche. </ab>
+donc patients, vous aussi, et affermissez vos cœurs, car
+l’avènement du Seigneur est proche. </ab>
 <ab n="9">Ne
-vous plaignez pas les uns des autres, fr&egrave;res, afin que vous ne
-soyez pas jug&eacute;s. Voici, le juge est &agrave; la porte.
+vous plaignez pas les uns des autres, frères, afin que vous ne
+soyez pas jugés. Voici, le juge est à la porte.
 </ab>
 <ab n="10">Prenez,
-fr&egrave;res, pour mod&egrave;le de souffrance (mort cruelle) et de
-patience dans les afflictions les proph&egrave;tes qui ont parl&eacute;
+frères, pour modèle de souffrance (mort cruelle) et de
+patience dans les afflictions les prophètes qui ont parlé
 au nom du Seigneur. </ab>
 <ab n="11">Voici,
 nous appelons heureux ceux qui ont tenu bon (souffert). Vous avez
 entendu parler de la patience de Job, et vous avez vu la fin que le
-Seigneur lui a accord&eacute;e ; car le Seigneur est mis&eacute;ricordieux
+Seigneur lui a accordée ; car le Seigneur est miséricordieux
 et compatissant. </ab>
 <ab n="12">Mais
-avant tout, mes fr&egrave;res, ne jurez ni par le ciel, ni par la
+avant tout, mes frères, ne jurez ni par le ciel, ni par la
 terre, ni par tout autre genre de serment. Dites seulement : Oui, oui
 ; Non, non ; afin que vous ne tombiez pas sous le jugement.
 </ab>
-<ab n="13">Quelqu&rsquo;un
-parmi vous est-il dans la tristesse ? Qu&rsquo;il prie. Est-il dans
-la joie ? Qu&rsquo;il chante des cantiques. </ab>
-<ab n="14">Quelqu&rsquo;un
-parmi vous est-il malade ? Qu&rsquo;il appelle les pr&ecirc;tres de
-l&rsquo;Eglise, et qu&rsquo;ils prient sur lui, l&rsquo;oignant
-d&rsquo;huile au nom du Seigneur. </ab>
+<ab n="13">Quelqu’un
+parmi vous est-il dans la tristesse ? Qu’il prie. Est-il dans
+la joie ? Qu’il chante des cantiques. </ab>
+<ab n="14">Quelqu’un
+parmi vous est-il malade ? Qu’il appelle les prêtres de
+l’Eglise, et qu’ils prient sur lui, l’oignant
+d’huile au nom du Seigneur. </ab>
 <ab n="15">Et
-la pri&egrave;re de la foi sauvera le malade, et le Seigneur le
-soulagera ; et s&rsquo;il a commis des p&eacute;ch&eacute;s, ils lui
+la prière de la foi sauvera le malade, et le Seigneur le
+soulagera ; et s’il a commis des péchés, ils lui
 seront remis. </ab>
 <ab n="16">Confessez-vous
-donc r&eacute;ciproquement vos p&eacute;ch&eacute;s, et priez les uns
-pour les autres, afin que vous soyez gu&eacute;ris ; car la pri&egrave;re
+donc réciproquement vos péchés, et priez les uns
+pour les autres, afin que vous soyez guéris ; car la prière
 fervente du juste a beaucoup de puissance. </ab>
 <ab n="17">Elie
-&eacute;tait un homme sujet aux m&ecirc;mes faiblesses que nous ; et
-il pria avec instance pour qu&rsquo;il ne pl&ucirc;t pas sur la
+était un homme sujet aux mêmes faiblesses que nous ; et
+il pria avec instance pour qu’il ne plût pas sur la
 terre, et il ne plut pas durant trois ans et demi. </ab>
 <ab n="18">Puis
 il pria de nouveau, et le ciel donna de la pluie, et la terre donna
 son fruit. </ab>
 <ab n="19">Mes
-fr&egrave;res, si quelqu&rsquo;un d&rsquo;entre vous s&rsquo;&eacute;gare
-loin de la v&eacute;rit&eacute;, et qu&rsquo;un autre l&rsquo;y
-ram&egrave;ne, </ab>
-<ab n="20">qu&rsquo;il
-sache que celui qui ram&egrave;ne un p&eacute;cheur de la voie o&ugrave;
-il s&rsquo;&eacute;gare, sauvera son &acirc;me de la mort, et
-couvrira une multitude de p&eacute;ch&eacute;s.</ab>
+frères, si quelqu’un d’entre vous s’égare
+loin de la vérité, et qu’un autre l’y
+ramène, </ab>
+<ab n="20">qu’il
+sache que celui qui ramène un pécheur de la voie où
+il s’égare, sauvera son âme de la mort, et
+couvrira une multitude de péchés.</ab>
 </div>
 </div>

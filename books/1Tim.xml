@@ -1,322 +1,300 @@
-<!DOCTYPE definition [
-<!ENTITY rsquo "&#8217;">
-<!ENTITY lsquo "‘">
-<!ENTITY eacute "é">
-<!ENTITY euml "ë">
-<!ENTITY acirc "â">
-<!ENTITY ecirc "ê">
-<!ENTITY agrave "à">
-<!ENTITY egrave "è">
-<!ENTITY ucirc "û">
-<!ENTITY ugrave "ù">
-<!ENTITY icirc "î">
-<!ENTITY ccedil "ç">
-<!ENTITY iuml "ï">
-<!ENTITY oelig "œ">
-<!ENTITY ocirc "ô">
-<!ENTITY uuml "ü">
-<!ENTITY Eacute "É">
-<!ENTITY nbsp "&#160;">
-<!ENTITY OElig "Œ">
-<!ENTITY aelig "æ">
 
-]>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="book" xml:id="VULGFR_1Tim">
     <div type="chapter" n="1">
-        <ab n="1">Paul, ap&ocirc;tre de J&eacute;sus-Christ par ordre de Dieu notre sauveur, et
-            de J&eacute;sus-Christ notre esp&eacute;rance, </ab>
-        <ab n="2">&agrave; Timoth&eacute;e, mon cher fils dans la foi. Gr&acirc;ce,
-            mis&eacute;ricorde et paix, de la part de Dieu le P&egrave;re et du Christ J&eacute;sus
+        <ab n="1">Paul, apôtre de Jésus-Christ par ordre de Dieu notre sauveur, et
+            de Jésus-Christ notre espérance, </ab>
+        <ab n="2">à Timothée, mon cher fils dans la foi. Grâce,
+            miséricorde et paix, de la part de Dieu le Père et du Christ Jésus
             Notre Seigneur. </ab>
-        <ab n="3">Je t&rsquo;ai recommand&eacute;, en partant pour la Mac&eacute;doine, de
-            demeurer &agrave; Eph&egrave;se, afin d&rsquo;enjoindre &agrave; certaines personnes de
+        <ab n="3">Je t’ai recommandé, en partant pour la Macédoine, de
+            demeurer à Ephèse, afin d’enjoindre à certaines personnes de
             ne pas enseigner une autre doctrine, </ab>
-        <ab n="4">et de ne pas s&rsquo;appliquer &agrave; des fables et &agrave; des
-            g&eacute;n&eacute;alogies sans fin, qui favorisent bien plus les disputes que
-            l&rsquo;&eacute;difice de Dieu, lequel est bas&eacute; sur la foi. </ab>
-        <ab n="5">Car la fin du commandement, c&rsquo;est la charit&eacute; venant d&rsquo;un
-            c&oelig;ur pur, d&rsquo;une bonne conscience et d&rsquo;une foi sinc&egrave;re ; </ab>
-        <ab n="6">choses loin desquelles certaines personnes s&rsquo;&eacute;tant
-            &eacute;gar&eacute;es, se sont tourn&eacute;es vers de vains discours, </ab>
-        <ab n="7">voulant &ecirc;tre docteurs de la loi, et ne comprenant ni ce qu&rsquo;elles
-            disent, ni ce qu&rsquo;elles affirment. </ab>
-        <ab n="8">Or, nous savons que la loi est bonne, si l&rsquo;on en use selon
-            l&rsquo;esprit de la loi (l&eacute;gitimement), </ab>
-        <ab n="9">en reconnaissant que la loi n&rsquo;a pas &eacute;t&eacute; &eacute;tablie
-            pour le juste, mais pour les m&eacute;chants (injustes) et les rebelles, pour les impies
-            et les p&eacute;cheurs, pour les sc&eacute;l&eacute;rats et les profanes, pour les
-            meurtriers de leur p&egrave;re et de leur m&egrave;re, pour les homicides, </ab>
-        <ab n="10">les fornicateurs, les inf&acirc;mes (abominables), les voleurs
-            d&rsquo;hommes, les menteurs (et les parjures), et s&rsquo;il y a quelque autre chose
-            qui s&rsquo;oppose &agrave; la saine doctrine, </ab>
-        <ab n="11">laquelle est conforme &agrave; l&rsquo;&Eacute;vangile de la gloire du Dieu
-            bienheureux, dont la dispensation m&rsquo;a &eacute;t&eacute; confi&eacute;e. </ab>
-        <ab n="12">Je rends gr&acirc;ces &agrave; celui qui m&rsquo;a fortifi&eacute;, au Christ
-            J&eacute;sus Notre-Seigneur, de ce qu&rsquo;il m&rsquo;a jug&eacute; fid&egrave;le, en
-            m&rsquo;&eacute;tablissant dans le (son) minist&egrave;re, </ab>
-        <ab n="13">moi qui auparavant &eacute;tais un blasph&eacute;mateur, un
-            pers&eacute;cuteur et un oppresseur injurieux (outrageux) ; mais j&rsquo;ai obtenu
-            mis&eacute;ricorde de Dieu, parce que j&rsquo;ai agi par ignorance, dans
-            l&rsquo;incr&eacute;dulit&eacute;. </ab>
-        <ab n="14">Et (m&ecirc;me) la gr&acirc;ce de Notre-Seigneur a &eacute;t&eacute;
-            surabondante, en me remplissant de la foi et de la charit&eacute; qui est en
-            J&eacute;sus-Christ. </ab>
-        <ab n="15">C&rsquo;est une parole (v&eacute;rit&eacute;) certaine et absolument digne
-            d&rsquo;&ecirc;tre accept&eacute;e, que le Christ J&eacute;sus est venu en ce monde pour
-            sauver les p&eacute;cheurs, dont je suis le premier. </ab>
-        <ab n="16">Mais j&rsquo;ai pr&eacute;cis&eacute;ment obtenu mis&eacute;ricorde, afin que
-            le Christ J&eacute;sus f&icirc;t voir en moi le premier toute sa patience, pour que je
-            servisse d&rsquo;exemple &agrave; ceux qui croiront en lui, pour poss&eacute;der la vie
-            &eacute;ternelle. </ab>
-        <ab n="17">Au roi des si&egrave;cles, immortel, invisible, seul Dieu, honneur et gloire
-            dans les si&egrave;cles des si&egrave;cles ! Amen. </ab>
-        <ab n="18">Voil&agrave; la recommandation que je t&rsquo;adresse, mon fils
-            Timoth&eacute;e, conform&eacute;ment aux proph&eacute;ties faites autrefois &agrave; ton
-            sujet, afin que tu combattes, aid&eacute; par elles (en les accomplissant), le bon
+        <ab n="4">et de ne pas s’appliquer à des fables et à des
+            généalogies sans fin, qui favorisent bien plus les disputes que
+            l’édifice de Dieu, lequel est basé sur la foi. </ab>
+        <ab n="5">Car la fin du commandement, c’est la charité venant d’un
+            cœur pur, d’une bonne conscience et d’une foi sincère ; </ab>
+        <ab n="6">choses loin desquelles certaines personnes s’étant
+            égarées, se sont tournées vers de vains discours, </ab>
+        <ab n="7">voulant être docteurs de la loi, et ne comprenant ni ce qu’elles
+            disent, ni ce qu’elles affirment. </ab>
+        <ab n="8">Or, nous savons que la loi est bonne, si l’on en use selon
+            l’esprit de la loi (légitimement), </ab>
+        <ab n="9">en reconnaissant que la loi n’a pas été établie
+            pour le juste, mais pour les méchants (injustes) et les rebelles, pour les impies
+            et les pécheurs, pour les scélérats et les profanes, pour les
+            meurtriers de leur père et de leur mère, pour les homicides, </ab>
+        <ab n="10">les fornicateurs, les infâmes (abominables), les voleurs
+            d’hommes, les menteurs (et les parjures), et s’il y a quelque autre chose
+            qui s’oppose à la saine doctrine, </ab>
+        <ab n="11">laquelle est conforme à l’Évangile de la gloire du Dieu
+            bienheureux, dont la dispensation m’a été confiée. </ab>
+        <ab n="12">Je rends grâces à celui qui m’a fortifié, au Christ
+            Jésus Notre-Seigneur, de ce qu’il m’a jugé fidèle, en
+            m’établissant dans le (son) ministère, </ab>
+        <ab n="13">moi qui auparavant étais un blasphémateur, un
+            persécuteur et un oppresseur injurieux (outrageux) ; mais j’ai obtenu
+            miséricorde de Dieu, parce que j’ai agi par ignorance, dans
+            l’incrédulité. </ab>
+        <ab n="14">Et (même) la grâce de Notre-Seigneur a été
+            surabondante, en me remplissant de la foi et de la charité qui est en
+            Jésus-Christ. </ab>
+        <ab n="15">C’est une parole (vérité) certaine et absolument digne
+            d’être acceptée, que le Christ Jésus est venu en ce monde pour
+            sauver les pécheurs, dont je suis le premier. </ab>
+        <ab n="16">Mais j’ai précisément obtenu miséricorde, afin que
+            le Christ Jésus fît voir en moi le premier toute sa patience, pour que je
+            servisse d’exemple à ceux qui croiront en lui, pour posséder la vie
+            éternelle. </ab>
+        <ab n="17">Au roi des siècles, immortel, invisible, seul Dieu, honneur et gloire
+            dans les siècles des siècles ! Amen. </ab>
+        <ab n="18">Voilà la recommandation que je t’adresse, mon fils
+            Timothée, conformément aux prophéties faites autrefois à ton
+            sujet, afin que tu combattes, aidé par elles (en les accomplissant), le bon
             combat, </ab>
         <ab n="19">conservant la foi et une bonne conscience ; quelques-uns, la rejetant au
-            loin, ont fait naufrage par rapport &agrave; la foi. </ab>
-        <ab n="20">De ce nombre sont Hym&eacute;n&eacute;e et Alexandre, que j&rsquo;ai
-            livr&eacute;s &agrave; Satan, pour qu&rsquo;ils apprennent &agrave; ne plus
-            blasph&eacute;mer. </ab>
+            loin, ont fait naufrage par rapport à la foi. </ab>
+        <ab n="20">De ce nombre sont Hyménée et Alexandre, que j’ai
+            livrés à Satan, pour qu’ils apprennent à ne plus
+            blasphémer. </ab>
     </div>
     <div type="chapter" n="2">
-        <ab n="1">Je demande donc avant toutes choses que l&rsquo;on fasse des supplications,
-            des pri&egrave;res, des intercessions et des actions de gr&acirc;ces pour tous les
+        <ab n="1">Je demande donc avant toutes choses que l’on fasse des supplications,
+            des prières, des intercessions et des actions de grâces pour tous les
             hommes, </ab>
-        <ab n="2">pour les rois, et pour tous ceux qui sont &eacute;lev&eacute;s en
-            dignit&eacute;, afin que nous menions une vie paisible et tranquille, en toute
-            pi&eacute;t&eacute; et honn&ecirc;tet&eacute; (chastet&eacute;). </ab>
-        <ab n="3">Car cela est bon et agr&eacute;able devant Dieu notre Sauveur, </ab>
-        <ab n="4">qui veut que tous les hommes soient sauv&eacute;s, et qu&rsquo;ils parviennent
-            &agrave; la connaissance de la v&eacute;rit&eacute;. </ab>
-        <ab n="5">Car il y a un seul Dieu, et un seul m&eacute;diateur entre Dieu et les hommes,
-            l&rsquo;homme J&eacute;sus-Christ (le Christ J&eacute;sus homme), </ab>
-        <ab n="6">qui s&rsquo;est donn&eacute; lui-m&ecirc;me pour la r&eacute;demption de tous
-            : c&rsquo;est l&agrave; un t&eacute;moignage rendu en son temps, </ab>
-        <ab n="7">et pour lequel j&rsquo;ai &eacute;t&eacute; pr&eacute;dicateur et ap&ocirc;tre
-            (je dis la v&eacute;rit&eacute;, je ne mens pas), docteur des Gentils (nations) dans la
-            foi et la v&eacute;rit&eacute;. </ab>
+        <ab n="2">pour les rois, et pour tous ceux qui sont élevés en
+            dignité, afin que nous menions une vie paisible et tranquille, en toute
+            piété et honnêteté (chasteté). </ab>
+        <ab n="3">Car cela est bon et agréable devant Dieu notre Sauveur, </ab>
+        <ab n="4">qui veut que tous les hommes soient sauvés, et qu’ils parviennent
+            à la connaissance de la vérité. </ab>
+        <ab n="5">Car il y a un seul Dieu, et un seul médiateur entre Dieu et les hommes,
+            l’homme Jésus-Christ (le Christ Jésus homme), </ab>
+        <ab n="6">qui s’est donné lui-même pour la rédemption de tous
+            : c’est là un témoignage rendu en son temps, </ab>
+        <ab n="7">et pour lequel j’ai été prédicateur et apôtre
+            (je dis la vérité, je ne mens pas), docteur des Gentils (nations) dans la
+            foi et la vérité. </ab>
         <ab n="8">Je veux que les hommes prient en tout lieu, levant des mains pures, sans
-            col&egrave;re et sans contestations. </ab>
-        <ab n="9">De m&ecirc;me je veux que les femmes prient v&ecirc;tues d&rsquo;une
-            mani&egrave;re d&eacute;cente, qu&rsquo;elles se parent avec pudeur et r&eacute;serve,
-            et non de tresses ou d&rsquo;or, ou de perles, ou d&rsquo;habits somptueux, </ab>
-        <ab n="10">mais de bonnes &oelig;uvres, comme il convient &agrave; des femmes qui font
-            profession de pi&eacute;t&eacute;. </ab>
-        <ab n="11">Que la femme re&ccedil;oive l&rsquo;instruction en silence, avec une
-            enti&egrave;re soumission. </ab>
-        <ab n="12">Je ne permets pas &agrave; la femme d&rsquo;enseigner, ni de prendre
-            autorit&eacute; sur l&rsquo;homme ; mais elle doit demeurer dans le silence. </ab>
-        <ab n="13">Car Adam a &eacute;t&eacute; form&eacute; le premier, Eve ensuite. </ab>
-        <ab n="14">Et Adam n&rsquo;a pas &eacute;t&eacute; s&eacute;duit ; mais la femme, ayant
-            &eacute;t&eacute; s&eacute;duite, est tomb&eacute;e dans la transgression
-            (pr&eacute;varication). </ab>
-        <ab n="15">Cependant elle sera sauv&eacute;e par la maternit&eacute;, si elle
-            pers&eacute;v&egrave;re dans la foi, et la charit&eacute;, et la saintet&eacute;, unies
-            &agrave; la r&eacute;serve. </ab>
+            colère et sans contestations. </ab>
+        <ab n="9">De même je veux que les femmes prient vêtues d’une
+            manière décente, qu’elles se parent avec pudeur et réserve,
+            et non de tresses ou d’or, ou de perles, ou d’habits somptueux, </ab>
+        <ab n="10">mais de bonnes œuvres, comme il convient à des femmes qui font
+            profession de piété. </ab>
+        <ab n="11">Que la femme reçoive l’instruction en silence, avec une
+            entière soumission. </ab>
+        <ab n="12">Je ne permets pas à la femme d’enseigner, ni de prendre
+            autorité sur l’homme ; mais elle doit demeurer dans le silence. </ab>
+        <ab n="13">Car Adam a été formé le premier, Eve ensuite. </ab>
+        <ab n="14">Et Adam n’a pas été séduit ; mais la femme, ayant
+            été séduite, est tombée dans la transgression
+            (prévarication). </ab>
+        <ab n="15">Cependant elle sera sauvée par la maternité, si elle
+            persévère dans la foi, et la charité, et la sainteté, unies
+            à la réserve. </ab>
     </div>
     <div type="chapter" n="3">
-        <ab n="1">Cette parole (v&eacute;rit&eacute;) est certaine : si quelqu&rsquo;un
-            d&eacute;sire l&rsquo;&eacute;piscopat, il d&eacute;sire une &oelig;uvre excellente
+        <ab n="1">Cette parole (vérité) est certaine : si quelqu’un
+            désire l’épiscopat, il désire une œuvre excellente
             (bonne). </ab>
-        <ab n="2">Il faut donc que l&rsquo;&eacute;v&ecirc;que soit irr&eacute;prochable, mari
-            d&rsquo;une seule femme, sobre, prudent, grave, chaste, hospitalier, capable
-            d&rsquo;instruire ; </ab>
-        <ab n="3">qu&rsquo;il ne soit ni adonn&eacute; au vin, ni violent, mais
-            mod&eacute;r&eacute;, &eacute;loign&eacute; des querelles,
-            d&eacute;sint&eacute;ress&eacute; ; (mais surtout) </ab>
-        <ab n="4">qu&rsquo;il gouverne bien sa propre maison, qu&rsquo;il maintienne ses fils
-            dans la soumission et dans une parfaite honn&ecirc;tet&eacute; (chastet&eacute;). </ab>
-        <ab n="5">Car si quelqu&rsquo;un ne sait pas gouverner sa propre maison, comment
-            prendra-t-il soin de l&rsquo;&Eacute;glise de Dieu ? </ab>
-        <ab n="6">Qu&rsquo;il ne soit pas un n&eacute;ophyte, de peur qu&rsquo;enfl&eacute;
-            d&rsquo;orgueil, il ne tombe dans la m&ecirc;me condamnation que le diable. </ab>
-        <ab n="7">Il faut encore qu&rsquo;il ait un bon t&eacute;moignage de ceux du dehors,
-            afin de ne pas tomber dans l&rsquo;opprobre et dans le pi&egrave;ge du diable. </ab>
-        <ab n="8">De m&ecirc;me, que les diacres soient chastes (pudiques), qu&rsquo;ils ne
-            soient pas doubles en paroles, ni adonn&eacute;s &agrave; boire beaucoup de vin,
-            qu&rsquo;ils ne cherchent pas de gain honteux (sordide), </ab>
-        <ab n="9">qu&rsquo;ils gardent le myst&egrave;re de la foi dans une conscience pure. </ab>
-        <ab n="10">Qu&rsquo;ils soient, eux aussi, &eacute;prouv&eacute;s d&rsquo;abord, puis
-            admis au minist&egrave;re, s&rsquo;ils sont sans aucun reproche. </ab>
-        <ab n="11">Que les femmes de m&ecirc;me soient chastes (pudiques), exemptes de
-            m&eacute;disance, sobres, fid&egrave;les en toutes choses. </ab>
-        <ab n="12">Que les diacres soient mari&eacute;s &agrave; une seule femme, qu&rsquo;ils
+        <ab n="2">Il faut donc que l’évêque soit irréprochable, mari
+            d’une seule femme, sobre, prudent, grave, chaste, hospitalier, capable
+            d’instruire ; </ab>
+        <ab n="3">qu’il ne soit ni adonné au vin, ni violent, mais
+            modéré, éloigné des querelles,
+            désintéressé ; (mais surtout) </ab>
+        <ab n="4">qu’il gouverne bien sa propre maison, qu’il maintienne ses fils
+            dans la soumission et dans une parfaite honnêteté (chasteté). </ab>
+        <ab n="5">Car si quelqu’un ne sait pas gouverner sa propre maison, comment
+            prendra-t-il soin de l’Église de Dieu ? </ab>
+        <ab n="6">Qu’il ne soit pas un néophyte, de peur qu’enflé
+            d’orgueil, il ne tombe dans la même condamnation que le diable. </ab>
+        <ab n="7">Il faut encore qu’il ait un bon témoignage de ceux du dehors,
+            afin de ne pas tomber dans l’opprobre et dans le piège du diable. </ab>
+        <ab n="8">De même, que les diacres soient chastes (pudiques), qu’ils ne
+            soient pas doubles en paroles, ni adonnés à boire beaucoup de vin,
+            qu’ils ne cherchent pas de gain honteux (sordide), </ab>
+        <ab n="9">qu’ils gardent le mystère de la foi dans une conscience pure. </ab>
+        <ab n="10">Qu’ils soient, eux aussi, éprouvés d’abord, puis
+            admis au ministère, s’ils sont sans aucun reproche. </ab>
+        <ab n="11">Que les femmes de même soient chastes (pudiques), exemptes de
+            médisance, sobres, fidèles en toutes choses. </ab>
+        <ab n="12">Que les diacres soient mariés à une seule femme, qu’ils
             gouvernent bien leurs enfants et leurs propres maisons. </ab>
-        <ab n="13">Car ceux qui auront bien remplis leur minist&egrave;re s&rsquo;acquerront un
-            rang honorable et une grande assurance dans la foi qui est en J&eacute;sus-Christ. </ab>
-        <ab n="14">Je t&rsquo;&eacute;cris ces choses, tout en esp&eacute;rant d&rsquo;aller
-            bient&ocirc;t vers toi, </ab>
+        <ab n="13">Car ceux qui auront bien remplis leur ministère s’acquerront un
+            rang honorable et une grande assurance dans la foi qui est en Jésus-Christ. </ab>
+        <ab n="14">Je t’écris ces choses, tout en espérant d’aller
+            bientôt vers toi, </ab>
         <ab n="15">afin que, si je tardais, tu saches comment tu dois te conduire dans la maison
-            de Dieu, qui est l&rsquo;&Eacute;glise du Dieu vivant, la colonne et le fondement de la
-            v&eacute;rit&eacute;. </ab>
-        <ab n="16">Et sans contredit il est grand le myst&egrave;re de la pi&eacute;t&eacute;,
-            qui a &eacute;t&eacute; manifest&eacute; dans la chair, a &eacute;t&eacute;
-            l&eacute;gitim&eacute; par l&rsquo;Esprit, a &eacute;t&eacute; vu des
-            (d&eacute;voil&eacute; aux) anges, a &eacute;t&eacute; pr&ecirc;ch&eacute; aux nations,
-            a &eacute;t&eacute; cru dans le monde, a &eacute;t&eacute; &eacute;lev&eacute;
-            (re&ccedil;u) dans la gloire. </ab>
+            de Dieu, qui est l’Église du Dieu vivant, la colonne et le fondement de la
+            vérité. </ab>
+        <ab n="16">Et sans contredit il est grand le mystère de la piété,
+            qui a été manifesté dans la chair, a été
+            légitimé par l’Esprit, a été vu des
+            (dévoilé aux) anges, a été prêché aux nations,
+            a été cru dans le monde, a été élevé
+            (reçu) dans la gloire. </ab>
     </div>
     <div type="chapter" n="4">
-        <ab n="1">Mais l&rsquo;Esprit dit express&eacute;ment que, dans les temps qui viendront
-            (derniers temps), quelques-uns abandonneront la foi, s&rsquo;attachant &agrave; des
-            esprits d&rsquo;erreur et &agrave; des doctrines de d&eacute;mons, </ab>
-        <ab n="2">par suite de l&rsquo;hypocrisie d&rsquo;hommes prof&eacute;rant le mensonge et
-            dont la conscience porte la marque de l&rsquo;infamie (caut&eacute;ris&eacute;e), </ab>
-        <ab n="3">qui interdisent le mariage et ordonnent (ordonnant, note) de s&rsquo;abstenir
-            d&rsquo;aliments que Dieu a cr&eacute;&eacute;s pour que les fid&egrave;les et ceux qui
-            ont reconnu la v&eacute;rit&eacute; en usent avec action de gr&acirc;ces, </ab>
-        <ab n="4">Car tout ce que Dieu a cr&eacute;&eacute; est bon, et rien n&rsquo;est
-            &agrave; rejeter de ce qui se prend avec action de gr&acirc;ces, </ab>
-        <ab n="5">parce que c&rsquo;est sanctifi&eacute; par la parole de Dieu et la
-            pri&egrave;re. </ab>
-        <ab n="6">En exposant ces choses aux fr&egrave;res, tu seras un bon ministre du Christ
-            J&eacute;sus, nourri des paroles de la foi et de la bonne doctrine que tu as suivie avec
+        <ab n="1">Mais l’Esprit dit expressément que, dans les temps qui viendront
+            (derniers temps), quelques-uns abandonneront la foi, s’attachant à des
+            esprits d’erreur et à des doctrines de démons, </ab>
+        <ab n="2">par suite de l’hypocrisie d’hommes proférant le mensonge et
+            dont la conscience porte la marque de l’infamie (cautérisée), </ab>
+        <ab n="3">qui interdisent le mariage et ordonnent (ordonnant, note) de s’abstenir
+            d’aliments que Dieu a créés pour que les fidèles et ceux qui
+            ont reconnu la vérité en usent avec action de grâces, </ab>
+        <ab n="4">Car tout ce que Dieu a créé est bon, et rien n’est
+            à rejeter de ce qui se prend avec action de grâces, </ab>
+        <ab n="5">parce que c’est sanctifié par la parole de Dieu et la
+            prière. </ab>
+        <ab n="6">En exposant ces choses aux frères, tu seras un bon ministre du Christ
+            Jésus, nourri des paroles de la foi et de la bonne doctrine que tu as suivie avec
             soin. </ab>
-        <ab n="7">Quant aux fables insens&eacute;es et aux radotages (des vieilles femmes),
-            &eacute;vite-les, et exerce-toi &agrave; la pi&eacute;t&eacute;. </ab>
-        <ab n="8">Car l&rsquo;exercice corporel est utile &agrave; peu de chose ; mais la
-            pi&eacute;t&eacute; est utile &agrave; tout, ayant la promesse de la vie pr&eacute;sente
+        <ab n="7">Quant aux fables insensées et aux radotages (des vieilles femmes),
+            évite-les, et exerce-toi à la piété. </ab>
+        <ab n="8">Car l’exercice corporel est utile à peu de chose ; mais la
+            piété est utile à tout, ayant la promesse de la vie présente
             et de la vie future. </ab>
-        <ab n="9">C&rsquo;est l&agrave; une parole (v&eacute;rit&eacute;) certaine, et tout
-            &agrave; fait digne d&rsquo;&ecirc;tre re&ccedil;ue. </ab>
-        <ab n="10">Car c&rsquo;est pour cela que nous supportons les fatigues et les outrages
-            (nous sommes maudits), parce que nous esp&eacute;rons au Dieu vivant, qui est le Sauveur
-            de tous les hommes, principalement des fid&egrave;les. </ab>
+        <ab n="9">C’est là une parole (vérité) certaine, et tout
+            à fait digne d’être reçue. </ab>
+        <ab n="10">Car c’est pour cela que nous supportons les fatigues et les outrages
+            (nous sommes maudits), parce que nous espérons au Dieu vivant, qui est le Sauveur
+            de tous les hommes, principalement des fidèles. </ab>
         <ab n="11">Commande ces choses et enseigne-les. </ab>
-        <ab n="12">Que personne ne m&eacute;prise ta jeunesse ; mais sois un (le) mod&egrave;le
-            des fid&egrave;les dans les paroles, dans la conduite, dans la charit&eacute;, dans la
-            foi, dans la chastet&eacute;. </ab>
-        <ab n="13">Jusqu&rsquo;&agrave; ce que je vienne, applique-toi &agrave; la lecture,
-            &agrave; l&rsquo;exhortation et &agrave; l&rsquo;enseignement. </ab>
-        <ab n="14">Ne n&eacute;glige pas la gr&acirc;ce qui est en toi, qui t&rsquo;a
-            &eacute;t&eacute; donn&eacute;e, suivant une r&eacute;v&eacute;lation
-            proph&eacute;tique, lorsque les pr&ecirc;tres t&rsquo;impos&egrave;rent les mains. </ab>
-        <ab n="15">M&eacute;dite ces choses, sois tout en elles, afin que ton progr&egrave;s
-            soit manifeste &agrave; tous. </ab>
-        <ab n="16">Veille sur toi-m&ecirc;me et sur l&rsquo;enseignement ;
-            pers&eacute;v&egrave;re dans ces choses : car, en faisant cela, tu te sauveras
-            toi-m&ecirc;me et ceux qui t&rsquo;&eacute;coutent. </ab>
+        <ab n="12">Que personne ne méprise ta jeunesse ; mais sois un (le) modèle
+            des fidèles dans les paroles, dans la conduite, dans la charité, dans la
+            foi, dans la chasteté. </ab>
+        <ab n="13">Jusqu’à ce que je vienne, applique-toi à la lecture,
+            à l’exhortation et à l’enseignement. </ab>
+        <ab n="14">Ne néglige pas la grâce qui est en toi, qui t’a
+            été donnée, suivant une révélation
+            prophétique, lorsque les prêtres t’imposèrent les mains. </ab>
+        <ab n="15">Médite ces choses, sois tout en elles, afin que ton progrès
+            soit manifeste à tous. </ab>
+        <ab n="16">Veille sur toi-même et sur l’enseignement ;
+            persévère dans ces choses : car, en faisant cela, tu te sauveras
+            toi-même et ceux qui t’écoutent. </ab>
     </div>
     <div type="chapter" n="5">
-        <ab n="1">Ne reprends pas (durement) le vieillard, mais exhorte-le comme un p&egrave;re
-            ; les jeunes gens, comme des fr&egrave;res ; </ab>
-        <ab n="2">les femmes &acirc;g&eacute;es, comme des m&egrave;res ; les jeunes, comme des
-            s&oelig;urs, en toute chastet&eacute;. </ab>
+        <ab n="1">Ne reprends pas (durement) le vieillard, mais exhorte-le comme un père
+            ; les jeunes gens, comme des frères ; </ab>
+        <ab n="2">les femmes âgées, comme des mères ; les jeunes, comme des
+            sœurs, en toute chasteté. </ab>
         <ab n="3">Honore les veuves qui sont vraiment veuves. </ab>
-        <ab n="4">Si une veuve a des fils ou des petits-fils, qu&rsquo;elle (leur) apprenne
-            avant tout &agrave; gouverner sa (leur) maison et &agrave; rendre la pareille &agrave;
-            ses (leurs) parents ; car cela est agr&eacute;able &agrave; Dieu. </ab>
-        <ab n="5">Mais que celle qui est vraiment veuve et d&eacute;laiss&eacute;e,
-            esp&egrave;re en Dieu, et pers&eacute;v&egrave;re nuit et jour dans les supplications et
-            les pri&egrave;res. </ab>
-        <ab n="6">Car celle qui vit dans les d&eacute;lices est morte, quoique vivante. </ab>
-        <ab n="7">Rappelle-leur &eacute;galement cela, pour qu&rsquo;elles soient
-            irr&eacute;prochables. </ab>
-        <ab n="8">Si quelqu&rsquo;un n&rsquo;a pas soin des siens et surtout de ceux de sa
-            maison, il a reni&eacute; la foi, et il est pire qu&rsquo;un infid&egrave;le. </ab>
-        <ab n="9">Qu&rsquo;une veuve, pour &ecirc;tre admise, n&rsquo;ait pas moins de soixante
-            ans, qu&rsquo;elle ait &eacute;t&eacute; la femme d&rsquo;un seul mari, </ab>
-        <ab n="10">qu&rsquo;on rende t&eacute;moignage de ses bonnes &oelig;uvres : si elle a
-            &eacute;lev&eacute; des enfants, exerc&eacute; l&rsquo;hospitalit&eacute;, lav&eacute;
-            les pieds des saints, secouru les afflig&eacute;s, si elle s&rsquo;est appliqu&eacute;e
-            &agrave; toutes sortes de bonnes &oelig;uvres. </ab>
+        <ab n="4">Si une veuve a des fils ou des petits-fils, qu’elle (leur) apprenne
+            avant tout à gouverner sa (leur) maison et à rendre la pareille à
+            ses (leurs) parents ; car cela est agréable à Dieu. </ab>
+        <ab n="5">Mais que celle qui est vraiment veuve et délaissée,
+            espère en Dieu, et persévère nuit et jour dans les supplications et
+            les prières. </ab>
+        <ab n="6">Car celle qui vit dans les délices est morte, quoique vivante. </ab>
+        <ab n="7">Rappelle-leur également cela, pour qu’elles soient
+            irréprochables. </ab>
+        <ab n="8">Si quelqu’un n’a pas soin des siens et surtout de ceux de sa
+            maison, il a renié la foi, et il est pire qu’un infidèle. </ab>
+        <ab n="9">Qu’une veuve, pour être admise, n’ait pas moins de soixante
+            ans, qu’elle ait été la femme d’un seul mari, </ab>
+        <ab n="10">qu’on rende témoignage de ses bonnes œuvres : si elle a
+            élevé des enfants, exercé l’hospitalité, lavé
+            les pieds des saints, secouru les affligés, si elle s’est appliquée
+            à toutes sortes de bonnes œuvres. </ab>
         <ab n="11">Quant aux jeunes veuves, ne les admets pas ; car, lorsque la mollesse de leur
-            vie les a &eacute;loign&eacute;es du Christ, elles veulent se remarier, </ab>
-        <ab n="12">s&rsquo;attirant (ainsi) la condamnation, parce qu&rsquo;elles ont
-            viol&eacute; leur premi&egrave;re foi. </ab>
-        <ab n="13">Mais de plus, &eacute;tant oisives, elles apprennent &agrave; courir les
+            vie les a éloignées du Christ, elles veulent se remarier, </ab>
+        <ab n="12">s’attirant (ainsi) la condamnation, parce qu’elles ont
+            violé leur première foi. </ab>
+        <ab n="13">Mais de plus, étant oisives, elles apprennent à courir les
             maisons ; et non seulement elles sont oisives, mais encore bavardes et curieuses,
             parlant de choses dont on ne doit pas parler. </ab>
-        <ab n="14">Je veux donc que les jeunes veuves se marient, qu&rsquo;elles aient des
-            enfants, qu&rsquo;elles gouvernent leur m&eacute;nage, et qu&rsquo;elles ne donnent
-            &agrave; aucun (notre) adversaire occasion de m&eacute;dire de nous. </ab>
-        <ab n="15">Car d&eacute;j&agrave; quelques-unes se sont d&eacute;tourn&eacute;es pour
+        <ab n="14">Je veux donc que les jeunes veuves se marient, qu’elles aient des
+            enfants, qu’elles gouvernent leur ménage, et qu’elles ne donnent
+            à aucun (notre) adversaire occasion de médire de nous. </ab>
+        <ab n="15">Car déjà quelques-unes se sont détournées pour
             suivre Satan. </ab>
-        <ab n="16">Si quelque fid&egrave;le a des veuves dans sa famille, qu&rsquo;il les
-            assiste, et que l&rsquo;Eglise n&rsquo;en soit pas charg&eacute;e, afin qu&rsquo;elle
-            puisse suffire &agrave; celles qui sont vraiment veuves. </ab>
-        <ab n="17">Que les pr&ecirc;tres qui gouvernent bien soient jug&eacute;s dignes
-            d&rsquo;un double honneur, surtout ceux qui se donnent de la peine pour la
-            pr&eacute;dication et l&rsquo;enseignement. </ab>
-        <ab n="18">Car l&rsquo;Ecriture dit : Tu ne lieras pas la bouche au b&oelig;uf qui foule
+        <ab n="16">Si quelque fidèle a des veuves dans sa famille, qu’il les
+            assiste, et que l’Eglise n’en soit pas chargée, afin qu’elle
+            puisse suffire à celles qui sont vraiment veuves. </ab>
+        <ab n="17">Que les prêtres qui gouvernent bien soient jugés dignes
+            d’un double honneur, surtout ceux qui se donnent de la peine pour la
+            prédication et l’enseignement. </ab>
+        <ab n="18">Car l’Ecriture dit : Tu ne lieras pas la bouche au bœuf qui foule
             le grain ; et : Un ouvrier est digne de son salaire. </ab>
-        <ab n="19">Ne re&ccedil;ois pas d&rsquo;accusation contre un pr&ecirc;tre, si ce
-            n&rsquo;est sur la d&eacute;position de deux ou trois t&eacute;moins. </ab>
-        <ab n="20">Ceux qui p&egrave;chent, reprends-les devant tous, afin que les autres aussi
+        <ab n="19">Ne reçois pas d’accusation contre un prêtre, si ce
+            n’est sur la déposition de deux ou trois témoins. </ab>
+        <ab n="20">Ceux qui pèchent, reprends-les devant tous, afin que les autres aussi
             aient de la crainte. </ab>
-        <ab n="21">Je t&rsquo;adjure (te conjure) devant Dieu, devant le Christ J&eacute;sus et
-            les anges &eacute;lus, d&rsquo;observer ces choses sans pr&eacute;vention
-            (pr&eacute;jug&eacute;), et de ne rien faire par esprit de parti. </ab>
-        <ab n="22">N&rsquo;impose les mains &agrave; personne avec pr&eacute;cipitation, et ne
-            participe pas aux p&eacute;ch&eacute;s d&rsquo;autrui. Toi-m&ecirc;me, conserve-toi
+        <ab n="21">Je t’adjure (te conjure) devant Dieu, devant le Christ Jésus et
+            les anges élus, d’observer ces choses sans prévention
+            (préjugé), et de ne rien faire par esprit de parti. </ab>
+        <ab n="22">N’impose les mains à personne avec précipitation, et ne
+            participe pas aux péchés d’autrui. Toi-même, conserve-toi
             chaste. </ab>
-        <ab n="23">Ne continue pas &agrave; ne boire que de l&rsquo;eau, mais use d&rsquo;un peu
-            de vin, &agrave; cause de ton estomac et de tes fr&eacute;quentes maladies. </ab>
-        <ab n="24">Il y a des hommes dont les p&eacute;ch&eacute;s sont manifestes et devancent
-            le jugement ; il y en a d&rsquo;autres qui ne se d&eacute;couvrent
-            qu&rsquo;apr&egrave;s. </ab>
-        <ab n="25">De m&ecirc;me les bonnes &oelig;uvres sont manifestes ; et celles qui ne le
-            sont pas encore ne peuvent pas rester cach&eacute;es. </ab>
+        <ab n="23">Ne continue pas à ne boire que de l’eau, mais use d’un peu
+            de vin, à cause de ton estomac et de tes fréquentes maladies. </ab>
+        <ab n="24">Il y a des hommes dont les péchés sont manifestes et devancent
+            le jugement ; il y en a d’autres qui ne se découvrent
+            qu’après. </ab>
+        <ab n="25">De même les bonnes œuvres sont manifestes ; et celles qui ne le
+            sont pas encore ne peuvent pas rester cachées. </ab>
     </div>
     <div type="chapter" n="6">
-        <ab n="1">Que tous les esclaves qui sont sous le joug estiment leurs ma&icirc;tres
-            dignes de toute sorte d&rsquo;honneur, afin que le nom du Seigneur et la doctrine ne
-            soient pas blasph&eacute;m&eacute;s. </ab>
-        <ab n="2">Et que ceux qui ont des ma&icirc;tres croyants ne les m&eacute;prisent pas,
-            parce qu&rsquo;ils sont leurs fr&egrave;res ; mais qu&rsquo;ils les servent encore
-            mieux, parce que ceux dont ils re&ccedil;oivent les bienfaits sont croyants et
-            aim&eacute;s de Dieu. Enseigne ces choses et recommande-les. </ab>
-        <ab n="3">Si quelqu&rsquo;un enseigne autrement, et n&rsquo;acquiesce pas aux saines
-            paroles de Notre Seigneur J&eacute;sus-Christ, et &agrave; la doctrine qui est selon la
-            pi&eacute;t&eacute;, </ab>
-        <ab n="4">c&rsquo;est un orgueilleux, il ne sait rien, et il a la maladie des questions
-            oiseuses et des disputes de mots, d&rsquo;o&ugrave; naissent l&rsquo;envie (les
-            jalousies), les querelles, les m&eacute;disances (diffamations), les mauvais
-            soup&ccedil;ons, </ab>
-        <ab n="5">les vaines discussions d&rsquo;hommes qui ont l&rsquo;esprit corrompu et qui
-            sont priv&eacute;s de la v&eacute;rit&eacute;, qui consid&egrave;rent la
-            pi&eacute;t&eacute; comme une source de gain. </ab>
-        <ab n="6">C&rsquo;est, en effet, une grande source de gain que la pi&eacute;t&eacute;
+        <ab n="1">Que tous les esclaves qui sont sous le joug estiment leurs maîtres
+            dignes de toute sorte d’honneur, afin que le nom du Seigneur et la doctrine ne
+            soient pas blasphémés. </ab>
+        <ab n="2">Et que ceux qui ont des maîtres croyants ne les méprisent pas,
+            parce qu’ils sont leurs frères ; mais qu’ils les servent encore
+            mieux, parce que ceux dont ils reçoivent les bienfaits sont croyants et
+            aimés de Dieu. Enseigne ces choses et recommande-les. </ab>
+        <ab n="3">Si quelqu’un enseigne autrement, et n’acquiesce pas aux saines
+            paroles de Notre Seigneur Jésus-Christ, et à la doctrine qui est selon la
+            piété, </ab>
+        <ab n="4">c’est un orgueilleux, il ne sait rien, et il a la maladie des questions
+            oiseuses et des disputes de mots, d’où naissent l’envie (les
+            jalousies), les querelles, les médisances (diffamations), les mauvais
+            soupçons, </ab>
+        <ab n="5">les vaines discussions d’hommes qui ont l’esprit corrompu et qui
+            sont privés de la vérité, qui considèrent la
+            piété comme une source de gain. </ab>
+        <ab n="6">C’est, en effet, une grande source de gain que la piété
             avec le contentement. </ab>
-        <ab n="7">Car nous n&rsquo;avons rien apport&eacute; en ce monde, et il n&rsquo;est pas
-            douteux que nous n&rsquo;en pouvons rien emporter. </ab>
+        <ab n="7">Car nous n’avons rien apporté en ce monde, et il n’est pas
+            douteux que nous n’en pouvons rien emporter. </ab>
         <ab n="8">Si nous avons donc les aliments et de quoi nous couvrir, nous devons
-            &ecirc;tre satisfaits. </ab>
+            être satisfaits. </ab>
         <ab n="9">Car ceux qui veulent devenir riches tombent dans la tentation et dans le
-            pi&egrave;ge du diable, et en de nombreux d&eacute;sirs inutiles et pernicieux, qui
+            piège du diable, et en de nombreux désirs inutiles et pernicieux, qui
             plongent les hommes dans la ruine et la perdition. </ab>
-        <ab n="10">Car l&rsquo;amour de l&rsquo;argent est une (la) racine de tous les maux ; et
-            quelques uns, en &eacute;tant poss&eacute;d&eacute;s, se sont &eacute;gar&eacute;s de la
-            foi, et se sont embarrass&eacute;s en des peines nombreuses. </ab>
-        <ab n="11">Mais toi, &ocirc; homme de Dieu, fuis ces choses, et recherche la justice, la
-            pi&eacute;t&eacute;, la foi, la charit&eacute;, la patience, la douceur. </ab>
-        <ab n="12">Combats le bon combat de la foi ; saisis la vie &eacute;ternelle, &agrave;
-            laquelle tu as &eacute;t&eacute; appel&eacute;, et pour laquelle tu as fait ta belle
-            profession (glorieusement confess&eacute; la foi) en pr&eacute;sence de nombreux
-            t&eacute;moins. </ab>
-        <ab n="13">Je t&rsquo;ordonne devant Dieu, qui donne la vie &agrave; toutes choses, et
-            devant le Christ J&eacute;sus, qui a fait devant Ponce Pilate une si belle confession
-            (t&eacute;moignage &agrave; sa divine pr&eacute;dication), </ab>
-        <ab n="14">de garder le commandement sans tache et sans reproche, jusqu&rsquo;&agrave;
-            l&rsquo;av&egrave;nement de Notre Seigneur J&eacute;sus-Christ, </ab>
+        <ab n="10">Car l’amour de l’argent est une (la) racine de tous les maux ; et
+            quelques uns, en étant possédés, se sont égarés de la
+            foi, et se sont embarrassés en des peines nombreuses. </ab>
+        <ab n="11">Mais toi, ô homme de Dieu, fuis ces choses, et recherche la justice, la
+            piété, la foi, la charité, la patience, la douceur. </ab>
+        <ab n="12">Combats le bon combat de la foi ; saisis la vie éternelle, à
+            laquelle tu as été appelé, et pour laquelle tu as fait ta belle
+            profession (glorieusement confessé la foi) en présence de nombreux
+            témoins. </ab>
+        <ab n="13">Je t’ordonne devant Dieu, qui donne la vie à toutes choses, et
+            devant le Christ Jésus, qui a fait devant Ponce Pilate une si belle confession
+            (témoignage à sa divine prédication), </ab>
+        <ab n="14">de garder le commandement sans tache et sans reproche, jusqu’à
+            l’avènement de Notre Seigneur Jésus-Christ, </ab>
         <ab n="15">que manifestera en son temps le bienheureux et seul souverain, le Roi des
             rois et le Seigneur des seigneurs, </ab>
-        <ab n="16">qui seul poss&egrave;de l&rsquo;immortalit&eacute; et qui habite une
-            lumi&egrave;re inaccessible, que nul homme n&rsquo;a vu et ne peut voir, &agrave; qui
-            est l&rsquo;honneur et l&rsquo;empire &eacute;ternel. Amen. </ab>
-        <ab n="17">Ordonne aux riches de ce si&egrave;cle de ne pas &ecirc;tre orgueilleux, et
-            de ne pas mettre leur esp&eacute;rance dans les richesses incertaines, mais dans le Dieu
+        <ab n="16">qui seul possède l’immortalité et qui habite une
+            lumière inaccessible, que nul homme n’a vu et ne peut voir, à qui
+            est l’honneur et l’empire éternel. Amen. </ab>
+        <ab n="17">Ordonne aux riches de ce siècle de ne pas être orgueilleux, et
+            de ne pas mettre leur espérance dans les richesses incertaines, mais dans le Dieu
             vivant, qui nous fournit abondamment toutes choses pour en jouir ; </ab>
-        <ab n="18">de faire du bien, de devenir riches en bonnes &oelig;uvres, de donner de bon
-            c&oelig;ur, de faire part de leurs biens, </ab>
-        <ab n="19">de se faire un tr&eacute;sor plac&eacute; sur un fondement solide pour
-            l&rsquo;avenir, afin de saisir la v&eacute;ritable vie. </ab>
-        <ab n="20">O Timoth&eacute;e, garde le d&eacute;p&ocirc;t, en &eacute;vitant les
-            profanes nouveaut&eacute;s de paroles, et les contradictions d&rsquo;une science qui
+        <ab n="18">de faire du bien, de devenir riches en bonnes œuvres, de donner de bon
+            cœur, de faire part de leurs biens, </ab>
+        <ab n="19">de se faire un trésor placé sur un fondement solide pour
+            l’avenir, afin de saisir la véritable vie. </ab>
+        <ab n="20">O Timothée, garde le dépôt, en évitant les
+            profanes nouveautés de paroles, et les contradictions d’une science qui
             porte faussement ce nom ; </ab>
-        <ab n="21">quelques-uns, pour en avoir fait profession, se sont &eacute;gar&eacute;s de
-            la foi. Que la gr&acirc;ce soit avec toi ! Amen.</ab>
+        <ab n="21">quelques-uns, pour en avoir fait profession, se sont égarés de
+            la foi. Que la grâce soit avec toi ! Amen.</ab>
     </div>
 </div>

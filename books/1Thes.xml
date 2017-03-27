@@ -1,374 +1,352 @@
-<!DOCTYPE definition [
-<!ENTITY rsquo "&#8217;">
-<!ENTITY lsquo "‘">
-<!ENTITY eacute "é">
-<!ENTITY euml "ë">
-<!ENTITY acirc "â">
-<!ENTITY ecirc "ê">
-<!ENTITY agrave "à">
-<!ENTITY egrave "è">
-<!ENTITY ucirc "û">
-<!ENTITY ugrave "ù">
-<!ENTITY icirc "î">
-<!ENTITY ccedil "ç">
-<!ENTITY iuml "ï">
-<!ENTITY oelig "œ">
-<!ENTITY ocirc "ô">
-<!ENTITY uuml "ü">
-<!ENTITY Eacute "É">
-<!ENTITY nbsp "&#160;">
-<!ENTITY OElig "Œ">
-<!ENTITY aelig "æ">
 
-]>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="book" xml:id="VULGFR_1Thes">
 <div type="chapter" n="1">
 <ab n="1">Paul,
-Silvain et Timoth&eacute;e, &agrave; l&rsquo;Eglise des
-Thessaloniciens, qui est en Dieu le P&egrave;re, et dans le Seigneur
-J&eacute;sus-Christ. </ab>
+Silvain et Timothée, à l’Eglise des
+Thessaloniciens, qui est en Dieu le Père, et dans le Seigneur
+Jésus-Christ. </ab>
 <ab n="2">Que
-la gr&acirc;ce et la paix vous soient donn&eacute;es ! Nous rendons
-constamment gr&acirc;ces &agrave; Dieu pour vous tous, faisant
-mention de vous sans cesse dans nos pri&egrave;res, </ab>
+la grâce et la paix vous soient données ! Nous rendons
+constamment grâces à Dieu pour vous tous, faisant
+mention de vous sans cesse dans nos prières, </ab>
 <ab n="3">nous
-rappelant devant Dieu, notre P&egrave;re, l&rsquo;&oelig;uvre de
-votre foi, les travaux de votre charit&eacute;, et la fermet&eacute;
-de votre esp&eacute;rance en Notre-Seigneur J&eacute;sus-Christ.
+rappelant devant Dieu, notre Père, l’œuvre de
+votre foi, les travaux de votre charité, et la fermeté
+de votre espérance en Notre-Seigneur Jésus-Christ.
 </ab>
 <ab n="4">Nous
-savons, fr&egrave;res ch&eacute;ris de Dieu, que vous avez &eacute;t&eacute;
-&eacute;lus (quelle a &eacute;t&eacute; votre &eacute;lection), </ab>
+savons, frères chéris de Dieu, que vous avez été
+élus (quelle a été votre élection), </ab>
 <ab n="5">car
-notre Evangile ne vous a pas &eacute;t&eacute; pr&ecirc;ch&eacute;
+notre Evangile ne vous a pas été prêché
 seulement en paroles, mais aussi avec puissance (des miracles), avec
-l&rsquo;Esprit-Saint et une pleine conviction (grande pl&eacute;nitude
-de ses dons) ; vous savez, en effet, ce que nous avons &eacute;t&eacute;
-parmi vous, &agrave; cause de vous (pour votre bien). </ab>
+l’Esprit-Saint et une pleine conviction (grande plénitude
+de ses dons) ; vous savez, en effet, ce que nous avons été
+parmi vous, à cause de vous (pour votre bien). </ab>
 <ab n="6">Et
-vous-m&ecirc;mes vous &ecirc;tes devenus nos imitateurs, et ceux du
+vous-mêmes vous êtes devenus nos imitateurs, et ceux du
 Seigneur, recevant la parole au milieu de beaucoup de tribulations,
-avec la joie de l&rsquo;Esprit-Saint ; </ab>
+avec la joie de l’Esprit-Saint ; </ab>
 <ab n="7">de
-sorte que vous &ecirc;tes devenus un mod&egrave;le pour tous les
-croyants de la Mac&eacute;doine et de l&rsquo;Acha&iuml;e. </ab>
+sorte que vous êtes devenus un modèle pour tous les
+croyants de la Macédoine et de l’Achaïe. </ab>
 <ab n="8">Car
-(par vous) la parole du Seigneur a retenti de chez vous (s&rsquo;est
-r&eacute;pandue) non seulement dans la Mac&eacute;doine et dans
-l&rsquo;Acha&iuml;e, mais la foi que vous avez en Dieu s&rsquo;est
-fait conna&icirc;tre en tout lieu, de sorte que nous n&rsquo;avons
-pas besoin d&rsquo;en parler ; </ab>
+(par vous) la parole du Seigneur a retenti de chez vous (s’est
+répandue) non seulement dans la Macédoine et dans
+l’Achaïe, mais la foi que vous avez en Dieu s’est
+fait connaître en tout lieu, de sorte que nous n’avons
+pas besoin d’en parler ; </ab>
 <ab n="9">car
-ce sont eux-m&ecirc;mes qui racontent, (&agrave; notre sujet,) quel
-acc&egrave;s nous avons eu aupr&egrave;s de vous, et comment vous
-vous &ecirc;tes convertis &agrave; Dieu, abandonnant les idoles pour
+ce sont eux-mêmes qui racontent, (à notre sujet,) quel
+accès nous avons eu auprès de vous, et comment vous
+vous êtes convertis à Dieu, abandonnant les idoles pour
 servir le Dieu vivant et vrai, </ab>
 <ab n="10">et
-pour attendre du ciel son Fils, qu&rsquo;il a ressuscit&eacute; des
-morts, J&eacute;sus, qui nous a d&eacute;livr&eacute;s de la col&egrave;re
-&agrave; venir.
+pour attendre du ciel son Fils, qu’il a ressuscité des
+morts, Jésus, qui nous a délivrés de la colère
+à venir.
 </ab></div>
 <div type="chapter" n="2">
 <ab n="1">Car
-vous savez vous-m&ecirc;mes, fr&egrave;res, que notre arriv&eacute;e
-chez vous n&rsquo;a pas &eacute;t&eacute; vaine ; </ab>
+vous savez vous-mêmes, frères, que notre arrivée
+chez vous n’a pas été vaine ; </ab>
 <ab n="2">mais
-ayant souffert auparavant et ayant &eacute;t&eacute; accabl&eacute;s
-d&rsquo;outrages &agrave; Philippes, comme vous le savez, nous e&ucirc;mes
-confiance en notre Dieu, pour vous pr&ecirc;cher l&rsquo;Evangile de
+ayant souffert auparavant et ayant été accablés
+d’outrages à Philippes, comme vous le savez, nous eûmes
+confiance en notre Dieu, pour vous prêcher l’Evangile de
 Dieu parmi bien des combats (avec beaucoup de sollicitude). </ab>
 <ab n="3">Car
-(En effet) notre pr&eacute;dication n&rsquo;est bas&eacute;e ni sur
-l&rsquo;erreur, ni sur des motifs impurs, ni sur la fraude ; </ab>
+(En effet) notre prédication n’est basée ni sur
+l’erreur, ni sur des motifs impurs, ni sur la fraude ; </ab>
 <ab n="4">mais,
-selon que Dieu nous a jug&eacute;s dignes de nous confier l&rsquo;Evangile,
-ainsi nous parlons, non pour plaire aux hommes, mais &agrave; Dieu,
-qui sonde nos c&oelig;urs. </ab>
+selon que Dieu nous a jugés dignes de nous confier l’Evangile,
+ainsi nous parlons, non pour plaire aux hommes, mais à Dieu,
+qui sonde nos cœurs. </ab>
 <ab n="5">Car
 nous ne sommes jamais venus avec des paroles de flatterie, vous le
-savez, ni avec des pr&eacute;textes inspir&eacute;s par l&rsquo;avarice,
-Dieu en est t&eacute;moin ; </ab>
+savez, ni avec des prétextes inspirés par l’avarice,
+Dieu en est témoin ; </ab>
 <ab n="6">nous
-n&rsquo;avons pas recherch&eacute; non plus la gloire qui vient des
-hommes, ni (soit aupr&egrave;s) de vous, ni (soit aupr&egrave;s) des
+n’avons pas recherché non plus la gloire qui vient des
+hommes, ni (soit auprès) de vous, ni (soit auprès) des
 autres. </ab>
 <ab n="7">Bien
-que nous eussions pu nous imposer &agrave; vous comme ap&ocirc;tres
+que nous eussions pu nous imposer à vous comme apôtres
 du Christ, cependant nous sommes devenus comme de petits enfants au
 milieu de vous, comme une nourrice qui a soin de ses enfants. </ab>
 <ab n="8">Ainsi,
 dans notre affection pour vous, nous souhaitions ardemment de vous
-donner non seulement l&rsquo;Evangile de Dieu, mais aussi notre
-propre vie, tant vous nous &eacute;tiez devenus chers. </ab>
+donner non seulement l’Evangile de Dieu, mais aussi notre
+propre vie, tant vous nous étiez devenus chers. </ab>
 <ab n="9">Car
-vous vous rappelez, fr&egrave;res, notre travail et notre fatigue ;
-c&rsquo;est en travaillant nuit et jour, pour n&rsquo;&ecirc;tre &agrave;
-charge &agrave; aucun de vous, que nous avons pr&ecirc;ch&eacute;
-l&rsquo;Evangile de Dieu parmi vous. </ab>
+vous vous rappelez, frères, notre travail et notre fatigue ;
+c’est en travaillant nuit et jour, pour n’être à
+charge à aucun de vous, que nous avons prêché
+l’Evangile de Dieu parmi vous. </ab>
 <ab n="10">Vous
-&ecirc;tes t&eacute;moins, et Dieu l&rsquo;est aussi, que nous nous
-sommes conduits saintement, justement et d&rsquo;une mani&egrave;re
-irr&eacute;prochable envers vous qui avez embrass&eacute; la foi ;
+êtes témoins, et Dieu l’est aussi, que nous nous
+sommes conduits saintement, justement et d’une manière
+irréprochable envers vous qui avez embrassé la foi ;
 </ab>
 <ab n="11">et
 vous savez aussi comme nous avons agi envers chacun de vous,
-(traitant, note) comme un p&egrave;re envers ses enfants, </ab>
+(traitant, note) comme un père envers ses enfants, </ab>
 <ab n="12">vous
-exhortant, vous consolant, et vous conjurant de marcher d&rsquo;une
-mani&egrave;re digne de Dieu, qui vous a appel&eacute;s &agrave; son
-royaume et &agrave; sa gloire. </ab>
-<ab n="13">C&rsquo;est
-pourquoi nous aussi nous rendons continuellement gr&acirc;ces &agrave;
-Dieu de ce que, recevant la parole de Dieu pr&ecirc;ch&eacute;e par
-nous, vous l&rsquo;avez re&ccedil;ue, non comme une parole des
-hommes, mais ainsi qu&rsquo;elle l&rsquo;est v&eacute;ritablement,
+exhortant, vous consolant, et vous conjurant de marcher d’une
+manière digne de Dieu, qui vous a appelés à son
+royaume et à sa gloire. </ab>
+<ab n="13">C’est
+pourquoi nous aussi nous rendons continuellement grâces à
+Dieu de ce que, recevant la parole de Dieu prêchée par
+nous, vous l’avez reçue, non comme une parole des
+hommes, mais ainsi qu’elle l’est véritablement,
 comme la parole de Dieu, lequel agit en vous, qui avez cru. </ab>
 <ab n="14">Car,
-fr&egrave;res, vous &ecirc;tes devenus les imitateurs des Eglises de
-Dieu, qui, en Jud&eacute;e, sont (unies) &agrave; J&eacute;sus-Christ,
+frères, vous êtes devenus les imitateurs des Eglises de
+Dieu, qui, en Judée, sont (unies) à Jésus-Christ,
 puisque vous avez souffert, vous aussi, de la part de vos
-concitoyens, les m&ecirc;mes choses qu&rsquo;elles ont souffertes
+concitoyens, les mêmes choses qu’elles ont souffertes
 aussi de la part des Juifs, </ab>
 <ab n="15">qui
-ont tu&eacute; m&ecirc;me le Seigneur J&eacute;sus, et les proph&egrave;tes,
-et qui nous ont pers&eacute;cut&eacute;s &agrave; notre tour ; qui ne
-plaisent pas &agrave; Dieu, et qui sont les
+ont tué même le Seigneur Jésus, et les prophètes,
+et qui nous ont persécutés à notre tour ; qui ne
+plaisent pas à Dieu, et qui sont les
 ennemis de tous les hommes ; </ab>
 <ab n="16">nous
-emp&ecirc;chant de parler aux gentils (nations) pour qu&rsquo;ils
-(elles) soient sauv&eacute;s, afin de combler en tout temps la mesure
-de leurs p&eacute;ch&eacute;s ; car la col&egrave;re de Dieu est
-arriv&eacute;e sur eux d&eacute;finitivement. </ab>
+empêchant de parler aux gentils (nations) pour qu’ils
+(elles) soient sauvés, afin de combler en tout temps la mesure
+de leurs péchés ; car la colère de Dieu est
+arrivée sur eux définitivement. </ab>
 <ab n="17">Pour
-nous, mes fr&egrave;res, ayant &eacute;t&eacute; s&eacute;par&eacute;s
-de vous pour un peu de temps, de corps, non de c&oelig;ur, nous
-n&rsquo;avons fait que plus d&rsquo;efforts (mis le plus grand
-empressement) pour vous revoir face &agrave; face, le d&eacute;sirant
+nous, mes frères, ayant été séparés
+de vous pour un peu de temps, de corps, non de cœur, nous
+n’avons fait que plus d’efforts (mis le plus grand
+empressement) pour vous revoir face à face, le désirant
 ardemment. </ab>
 <ab n="18">En
-effet, nous avons voulu venir aupr&egrave;s de vous ; moi du moins,
-Paul, une et (ou) deux fois ; mais Satan nous en a emp&ecirc;ch&eacute;s.
+effet, nous avons voulu venir auprès de vous ; moi du moins,
+Paul, une et (ou) deux fois ; mais Satan nous en a empêchés.
 </ab>
 <ab n="19">Car
-quelle est notre esp&eacute;rance, ou notre joie, ou notre couronne
-de gloire ? N&rsquo;est-ce pas vous qui l&rsquo;&ecirc;tes devant
-Notre-Seigneur J&eacute;sus-Christ, pour son av&egrave;nement ?
+quelle est notre espérance, ou notre joie, ou notre couronne
+de gloire ? N’est-ce pas vous qui l’êtes devant
+Notre-Seigneur Jésus-Christ, pour son avènement ?
 </ab>
 <ab n="20">Oui,
-c&rsquo;est vous qui &ecirc;tes notre gloire et notre joie.
+c’est vous qui êtes notre gloire et notre joie.
 </ab></div>
 <div type="chapter" n="3">
-<ab n="1">C&rsquo;est
-pourquoi, n&rsquo;y tenant plus, j&rsquo;aimai (nous aimions) mieux
-rester &agrave; Ath&egrave;nes, seul(s) ; </ab>
+<ab n="1">C’est
+pourquoi, n’y tenant plus, j’aimai (nous aimions) mieux
+rester à Athènes, seul(s) ; </ab>
 <ab n="2">et
-j&rsquo;envoyai (nous envoy&acirc;mes) Timoth&eacute;e, notre fr&egrave;re
-et le ministre de Dieu dans l&rsquo;Evangile du Christ, pour vous
-fortifier et vous exhorter relativement &agrave; votre foi, </ab>
+j’envoyai (nous envoyâmes) Timothée, notre frère
+et le ministre de Dieu dans l’Evangile du Christ, pour vous
+fortifier et vous exhorter relativement à votre foi, </ab>
 <ab n="3">afin
-que personne ne f&ucirc;t &eacute;branl&eacute; dans les (ces)
-tribulations pr&eacute;sentes : car vous savez vous-m&ecirc;mes que
-nous sommes destin&eacute;s &agrave; cela. </ab>
+que personne ne fût ébranlé dans les (ces)
+tribulations présentes : car vous savez vous-mêmes que
+nous sommes destinés à cela. </ab>
 <ab n="4">Aussi,
-quand (lors m&ecirc;me que) nous &eacute;tions chez (pr&egrave;s de)
-vous, nous vous pr&eacute;disions que nous aurions &agrave; souffrir
-des tribulations, comme cela est arriv&eacute; en effet, ainsi que
+quand (lors même que) nous étions chez (près de)
+vous, nous vous prédisions que nous aurions à souffrir
+des tribulations, comme cela est arrivé en effet, ainsi que
 vous le savez. </ab>
-<ab n="5">C&rsquo;est
-pour cela que, n&rsquo;y tenant plus, je l&rsquo;envoyai pour
-m&rsquo;informer de votre foi, de peur que le tentateur ne vous e&ucirc;t
-tent&eacute;s, et que notre travail ne dev&icirc;nt inutile. </ab>
+<ab n="5">C’est
+pour cela que, n’y tenant plus, je l’envoyai pour
+m’informer de votre foi, de peur que le tentateur ne vous eût
+tentés, et que notre travail ne devînt inutile. </ab>
 <ab n="6">Mais
-Timoth&eacute;e, &eacute;tant revenu nagu&egrave;re de chez vous
-aupr&egrave;s de nous, nous a donn&eacute; des nouvelles de votre foi
-et de votre charit&eacute;, et du bon souvenir que vous avez toujours
-de nous, d&eacute;sirant nous voir, comme nous faisons aussi &agrave;
-votre &eacute;gard (le d&eacute;sirons nous-m&ecirc;mes) : </ab>
-<ab n="7">c&rsquo;est
-pourquoi nous avons &eacute;t&eacute; consol&eacute;s &agrave; votre
-sujet, mes fr&egrave;res, &agrave; cause de votre foi, malgr&eacute;
+Timothée, étant revenu naguère de chez vous
+auprès de nous, nous a donné des nouvelles de votre foi
+et de votre charité, et du bon souvenir que vous avez toujours
+de nous, désirant nous voir, comme nous faisons aussi à
+votre égard (le désirons nous-mêmes) : </ab>
+<ab n="7">c’est
+pourquoi nous avons été consolés à votre
+sujet, mes frères, à cause de votre foi, malgré
 toutes nos angoisses et toutes nos tribulations ; </ab>
 <ab n="8">car
 maintenant nous vivons, si vous demeurez fermes dans le Seigneur.
 </ab>
 <ab n="9">Aussi
-quelles actions de gr&acirc;ces pouvons-nous rendre &agrave; Dieu &agrave;
-votre sujet, pour toute la joie que nous ressentons &agrave; cause de
+quelles actions de grâces pouvons-nous rendre à Dieu à
+votre sujet, pour toute la joie que nous ressentons à cause de
 vous devant notre Dieu ? </ab>
 <ab n="10">Nuit
-et jour nous prions tr&egrave;s instamment, afin de vous revoir en
-personne, et de compl&eacute;ter ce qui manque encore &agrave; votre
+et jour nous prions très instamment, afin de vous revoir en
+personne, et de compléter ce qui manque encore à votre
 foi. </ab>
 <ab n="11">Que
-Dieu lui-m&ecirc;me, notre P&egrave;re, et Notre-Seigneur
-J&eacute;sus-Christ dirigent notre chemin vers vous ! (.) </ab>
+Dieu lui-même, notre Père, et Notre-Seigneur
+Jésus-Christ dirigent notre chemin vers vous ! (.) </ab>
 <ab n="12">Et
-vous-m&ecirc;mes, puisse le Seigneur vous faire cro&icirc;tre et
-abonder dans la charit&eacute; les uns envers les autres et envers
-tous, comme nous en sommes nous-m&ecirc;mes remplis pour vous. </ab>
+vous-mêmes, puisse le Seigneur vous faire croître et
+abonder dans la charité les uns envers les autres et envers
+tous, comme nous en sommes nous-mêmes remplis pour vous. </ab>
 <ab n="13">afin
-que vos c&oelig;urs soient affermis et rendus irr&eacute;prochables
-dans la saintet&eacute; devant Dieu et notre P&egrave;re, lors de
-l&rsquo;av&egrave;nement de Notre-Seigneur J&eacute;sus-Christ avec
+que vos cœurs soient affermis et rendus irréprochables
+dans la sainteté devant Dieu et notre Père, lors de
+l’avènement de Notre-Seigneur Jésus-Christ avec
 tous les (ses) saints. Amen.
 </ab></div>
 <div type="chapter" n="4">
 <ab n="1">Au
-reste, fr&egrave;res, nous vous demandons (prions) et vous conjurons
-dans le Seigneur J&eacute;sus, qu&rsquo;ayant appris de nous comment
-vous devez marcher et plaire &agrave; Dieu, vous marchiez ainsi, de
-mani&egrave;re &agrave; progresser de plus en plus. </ab>
+reste, frères, nous vous demandons (prions) et vous conjurons
+dans le Seigneur Jésus, qu’ayant appris de nous comment
+vous devez marcher et plaire à Dieu, vous marchiez ainsi, de
+manière à progresser de plus en plus. </ab>
 <ab n="2">En
-effet, vous savez quels pr&eacute;ceptes je (nous) vous ai (avons)
-donn&eacute;s de la part du Seigneur J&eacute;sus. </ab>
+effet, vous savez quels préceptes je (nous) vous ai (avons)
+donnés de la part du Seigneur Jésus. </ab>
 <ab n="3">Car
-la volont&eacute; de Dieu est que vous soyez saints ; que vous vous
+la volonté de Dieu est que vous soyez saints ; que vous vous
 absteniez de la fornication ; </ab>
 <ab n="4">que
-chacun de vous sache poss&eacute;der (le vase de, enlever, note) son
-corps dans la saintet&eacute; et l&rsquo;honn&ecirc;tet&eacute;, </ab>
+chacun de vous sache posséder (le vase de, enlever, note) son
+corps dans la sainteté et l’honnêteté, </ab>
 <ab n="5">et
-non en suivant les convoitises de la passion, comme les pa&iuml;ens
-(gentils eux-m&ecirc;mes), qui ne connaissent pas Dieu ; </ab>
+non en suivant les convoitises de la passion, comme les païens
+(gentils eux-mêmes), qui ne connaissent pas Dieu ; </ab>
 <ab n="6">et
-que personne &agrave; cet &eacute;gard ne trompe son fr&egrave;re, et
+que personne à cet égard ne trompe son frère, et
 ne lui fasse tort, parce que le Seigneur tire vengeance de toutes ces
-choses, comme nous l&rsquo;avons d&eacute;j&agrave; dit et attest&eacute;.
+choses, comme nous l’avons déjà dit et attesté.
 </ab>
 <ab n="7">Car
-Dieu ne nous a pas appel&eacute;s &agrave; l&rsquo;impuret&eacute;,
-mais &agrave; la sanctification. </ab>
+Dieu ne nous a pas appelés à l’impureté,
+mais à la sanctification. </ab>
 <ab n="8">Celui
-donc qui m&eacute;prise ces r&egrave;gles, ne m&eacute;prise pas un
-homme, mais Dieu, qui a aussi mis (nous a m&ecirc;me donn&eacute;)
+donc qui méprise ces règles, ne méprise pas un
+homme, mais Dieu, qui a aussi mis (nous a même donné)
 son Esprit-Saint en nous. </ab>
 <ab n="9">Quant
-&agrave; la charit&eacute; fraternelle, vous n&rsquo;avez pas besoin
-qu&rsquo;on vous en &eacute;crive, car vous-m&ecirc;mes vous avez
-appris de Dieu &agrave; vous aimer les uns les autres. </ab>
+à la charité fraternelle, vous n’avez pas besoin
+qu’on vous en écrive, car vous-mêmes vous avez
+appris de Dieu à vous aimer les uns les autres. </ab>
 <ab n="10">Aussi
-bien, vous le faites envers tous les fr&egrave;res dans la Mac&eacute;doine
-enti&egrave;re. Mais je vous exhorte, fr&egrave;res, &agrave; le
+bien, vous le faites envers tous les frères dans la Macédoine
+entière. Mais je vous exhorte, frères, à le
 faire de plus en plus, </ab>
 <ab n="11">et
-&agrave; vous appliquer &agrave; vivre tranquilles, et &agrave; vous
-occuper de vos affaires, et &agrave; travailler de vos mains, comme
-nous vous l&rsquo;avons ordonn&eacute;, de sorte que vous vous
-conduisiez honn&ecirc;tement envers ceux du dehors, et que vous
-n&rsquo;ayez besoin (&agrave; ne d&eacute;sirer rien) de personne.
+à vous appliquer à vivre tranquilles, et à vous
+occuper de vos affaires, et à travailler de vos mains, comme
+nous vous l’avons ordonné, de sorte que vous vous
+conduisiez honnêtement envers ceux du dehors, et que vous
+n’ayez besoin (à ne désirer rien) de personne.
 </ab>
 <ab n="12">Mais
-nous ne voulons pas, mes fr&egrave;res, que vous soyez dans
-l&rsquo;ignorance au sujet de ceux qui se sont endormis, afin que
-vous ne vous attristiez pas, comme les autres qui n&rsquo;ont pas
-d&rsquo;esp&eacute;rance. </ab>
+nous ne voulons pas, mes frères, que vous soyez dans
+l’ignorance au sujet de ceux qui se sont endormis, afin que
+vous ne vous attristiez pas, comme les autres qui n’ont pas
+d’espérance. </ab>
 <ab n="13">Car
-si nous croyons que J&eacute;sus est mort et ressuscit&eacute;,
-croyons aussi que Dieu am&egrave;nera avec J&eacute;sus ceux qui se
+si nous croyons que Jésus est mort et ressuscité,
+croyons aussi que Dieu amènera avec Jésus ceux qui se
 sont endormis en lui. </ab>
 <ab n="14">Car
-voici ce que nous vous d&eacute;clarons, d&rsquo;apr&egrave;s la
-parole du Seigneur : nous les vivants, qui sommes r&eacute;serv&eacute;s
-pour l&rsquo;av&egrave;nement du Seigneur, nous ne devancerons pas
+voici ce que nous vous déclarons, d’après la
+parole du Seigneur : nous les vivants, qui sommes réservés
+pour l’avènement du Seigneur, nous ne devancerons pas
 ceux qui se sont endormis. </ab>
 <ab n="15">Car
-le Seigneur lui-m&ecirc;me, au signal donn&eacute;, &agrave; la voix
-d&rsquo;un (de l&rsquo;) archange et au son de la trompette de Dieu,
+le Seigneur lui-même, au signal donné, à la voix
+d’un (de l’) archange et au son de la trompette de Dieu,
 descendra du ciel, et ceux qui seront morts dans le Christ
-ressusciteront d&rsquo;abord. </ab>
+ressusciteront d’abord. </ab>
 <ab n="16">Ensuite
-nous, les vivants, qui auront &eacute;t&eacute; laiss&eacute;s, nous
-serons enlev&eacute;s ensemble avec eux dans les nu&eacute;es, pour
-aller &agrave; la rencontre du Seigneur dans les airs ; et ainsi nous
+nous, les vivants, qui auront été laissés, nous
+serons enlevés ensemble avec eux dans les nuées, pour
+aller à la rencontre du Seigneur dans les airs ; et ainsi nous
 serons pour toujours avec le Seigneur. </ab>
 <ab n="17">Consolez-vous
 donc les uns les autres par ces paroles.
 </ab></div>
 <div type="chapter" n="5">
 <ab n="1">Quant
-aux temps et aux moments, mes fr&egrave;res, vous n&rsquo;avez pas
-besoin que nous vous en &eacute;crivions ; </ab>
+aux temps et aux moments, mes frères, vous n’avez pas
+besoin que nous vous en écrivions ; </ab>
 <ab n="2">car
-vous savez fort bien vous-m&ecirc;mes que le jour du Seigneur viendra
+vous savez fort bien vous-mêmes que le jour du Seigneur viendra
 comme un voleur dans la nuit. </ab>
 <ab n="3">En
-effet, lorsqu&rsquo;ils diront : Paix et s&ucirc;ret&eacute;, alors
+effet, lorsqu’ils diront : Paix et sûreté, alors
 une ruine soudaine les surprendra, comme font les douleurs de
-l&rsquo;enfantement pour une femme enceinte, et ils n&rsquo;&eacute;chapperont
+l’enfantement pour une femme enceinte, et ils n’échapperont
 pas. </ab>
 <ab n="4">Mais
-vous, fr&egrave;res, vous n&rsquo;&ecirc;tes pas dans les t&eacute;n&egrave;bres,
+vous, frères, vous n’êtes pas dans les ténèbres,
 pour que ce jour vous surprenne comme un voleur ; </ab>
 <ab n="5">car
-vous &ecirc;tes tous des enfants de la lumi&egrave;re et des enfants
+vous êtes tous des enfants de la lumière et des enfants
 du jour ; nous ne sommes pas enfants de la
-nuit, ni des t&eacute;n&egrave;bres. </ab>
+nuit, ni des ténèbres. </ab>
 <ab n="6">Ne
 dormons donc pas comme les autres ; mais veillons, et soyons sobres.
 </ab>
 <ab n="7">Car
-ceux qui dorment, dorment pendant la nuit ; et ceux qui s&rsquo;enivrent,
-s&rsquo;enivrent pendant la nuit. </ab>
+ceux qui dorment, dorment pendant la nuit ; et ceux qui s’enivrent,
+s’enivrent pendant la nuit. </ab>
 <ab n="8">Mais
-nous, qui sommes du jour, soyons sobres, ayant rev&ecirc;tu la
-cuirasse de la foi et de la charit&eacute;, et ayant pour casque
-l&rsquo;esp&eacute;rance du salut ; </ab>
+nous, qui sommes du jour, soyons sobres, ayant revêtu la
+cuirasse de la foi et de la charité, et ayant pour casque
+l’espérance du salut ; </ab>
 <ab n="9">car
-Dieu ne nous a pas destin&eacute;s &agrave; la col&egrave;re, mais &agrave;
-acqu&eacute;rir le salut par Notre-Seigneur J&eacute;sus-Christ,
+Dieu ne nous a pas destinés à la colère, mais à
+acquérir le salut par Notre-Seigneur Jésus-Christ,
 </ab>
 <ab n="10">qui
 est mort pour nous, afin que, soit que nous veillions, soit que nous
 dormions, nous vivions (ensemble) avec lui. </ab>
-<ab n="11">C&rsquo;est
-pourquoi consolez-vous mutuellement, et &eacute;difiez-vous les uns
-les autres, comme vous le faites d&rsquo;ailleurs. </ab>
+<ab n="11">C’est
+pourquoi consolez-vous mutuellement, et édifiez-vous les uns
+les autres, comme vous le faites d’ailleurs. </ab>
 <ab n="12">Nous
-vous prions, mes fr&egrave;res, d&rsquo;avoir de la consid&eacute;ration
+vous prions, mes frères, d’avoir de la considération
 pour ceux qui travaillent parmi vous, qui vous gouvernent dans le
 Seigneur, et qui vous avertissent (instruisent) ; </ab>
 <ab n="13">ayez
-pour eux une grande affection (charit&eacute; plus abondante), &agrave;
-cause de leur &oelig;uvre ; vivez en (conservez la) paix avec eux.
+pour eux une grande affection (charité plus abondante), à
+cause de leur œuvre ; vivez en (conservez la) paix avec eux.
 </ab>
 <ab n="14">Nous
-vous en prions, fr&egrave;res, reprenez ceux qui sont dans le
-d&eacute;sordre (les turbulents), consolez ceux qui sont abattus,
+vous en prions, frères, reprenez ceux qui sont dans le
+désordre (les turbulents), consolez ceux qui sont abattus,
 soutenez les faibles, soyez patients envers tous. </ab>
 <ab n="15">Prenez
-garde que personne rende &agrave; autrui le mal pour le mal ; mais
+garde que personne rende à autrui le mal pour le mal ; mais
 poursuivez toujours le bien, et entre vous, et envers tous. </ab>
 <ab n="16">Soyez
 toujours dans la joie. </ab>
 <ab n="17">Priez
 sans cesse. </ab>
 <ab n="18">Rendez
-gr&acirc;ces en toutes choses ; car c&rsquo;est l&agrave; ce que Dieu
-veut de vous tous en J&eacute;sus-Christ. </ab>
-<ab n="19">N&rsquo;&eacute;teignez
-pas l&rsquo;Esprit. </ab>
+grâces en toutes choses ; car c’est là ce que Dieu
+veut de vous tous en Jésus-Christ. </ab>
+<ab n="19">N’éteignez
+pas l’Esprit. </ab>
 <ab n="20">Ne
-m&eacute;prisez pas les proph&eacute;ties ; </ab>
+méprisez pas les prophéties ; </ab>
 <ab n="21">mais
 examinez toutes choses, retenez ce qui est bon. </ab>
 <ab n="22">Abstenez-vous
-de toute esp&egrave;ce (apparence) de mal. </ab>
+de toute espèce (apparence) de mal. </ab>
 <ab n="23">Que
-le Dieu de paix vous sanctifie lui-m&ecirc;me en toute mani&egrave;re,
-afin que tout votre esprit, votre &acirc;me et votre corps soient
-conserv&eacute;s irr&eacute;prochables lors de l&rsquo;av&egrave;nement
-de Notre-Seigneur J&eacute;sus-Christ. </ab>
+le Dieu de paix vous sanctifie lui-même en toute manière,
+afin que tout votre esprit, votre âme et votre corps soient
+conservés irréprochables lors de l’avènement
+de Notre-Seigneur Jésus-Christ. </ab>
 <ab n="24">Celui
-qui vous a appel&eacute;s est fid&egrave;le ; (aussi) c&rsquo;est lui
+qui vous a appelés est fidèle ; (aussi) c’est lui
 qui fera cela. </ab>
-<ab n="25">Fr&egrave;res,
+<ab n="25">Frères,
 priez pour nous. </ab>
 <ab n="26">Saluez
-tous les fr&egrave;res par un saint baiser. </ab>
+tous les frères par un saint baiser. </ab>
 <ab n="27">Je
 vous conjure par le Seigneur de faire en sorte que cette lettre soit
-lue &agrave; tous les saints fr&egrave;res. </ab>
+lue à tous les saints frères. </ab>
 <ab n="28">Que
-la gr&acirc;ce de Notre-Seigneur J&eacute;sus-Christ soit avec vous.
+la grâce de Notre-Seigneur Jésus-Christ soit avec vous.
 Amen.</ab></div>
 </div>

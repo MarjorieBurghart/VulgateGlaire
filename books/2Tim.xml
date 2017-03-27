@@ -1,335 +1,313 @@
-<!DOCTYPE definition [
-<!ENTITY rsquo "&#8217;">
-<!ENTITY lsquo "‘">
-<!ENTITY eacute "é">
-<!ENTITY euml "ë">
-<!ENTITY acirc "â">
-<!ENTITY ecirc "ê">
-<!ENTITY agrave "à">
-<!ENTITY egrave "è">
-<!ENTITY ucirc "û">
-<!ENTITY ugrave "ù">
-<!ENTITY icirc "î">
-<!ENTITY ccedil "ç">
-<!ENTITY iuml "ï">
-<!ENTITY oelig "œ">
-<!ENTITY ocirc "ô">
-<!ENTITY uuml "ü">
-<!ENTITY Eacute "É">
-<!ENTITY nbsp "&#160;">
-<!ENTITY OElig "Œ">
-<!ENTITY aelig "æ">
 
-]>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="book" xml:id="VULGFR_2Tim">
 <div type="chapter" n="1">
 <ab n="1">Paul,
-ap&ocirc;tre de J&eacute;sus-Christ par la volont&eacute; de Dieu,
-selon la promesse de (la) vie qui est dans le Christ J&eacute;sus, </ab>
-<ab n="2">&agrave;
-Timoth&eacute;e, son fils bien-aim&eacute;. Que la gr&acirc;ce, la
-mis&eacute;ricorde, la paix te soient donn&eacute;es de la part de
-Dieu le P&egrave;re et du Christ J&eacute;sus Notre Seigneur. </ab>
+apôtre de Jésus-Christ par la volonté de Dieu,
+selon la promesse de (la) vie qui est dans le Christ Jésus, </ab>
+<ab n="2">à
+Timothée, son fils bien-aimé. Que la grâce, la
+miséricorde, la paix te soient données de la part de
+Dieu le Père et du Christ Jésus Notre Seigneur. </ab>
 <ab n="3">Je
-rends gr&acirc;ces &agrave; Dieu, que je sers, comme mes anc&ecirc;tres,
+rends grâces à Dieu, que je sers, comme mes ancêtres,
 avec une conscience pure, lorsque je me souviens continuellement de
-toi dans mes pri&egrave;res nuit et jour, </ab>
-<ab n="4">d&eacute;sirant
-te voir, me rappelant tes larmes, afin d&rsquo;&ecirc;tre rempli de
+toi dans mes prières nuit et jour, </ab>
+<ab n="4">désirant
+te voir, me rappelant tes larmes, afin d’être rempli de
 joie ; </ab>
 <ab n="5">gardant
-le souvenir de cette foi sinc&egrave;re qui est en toi, qui habita
-d&rsquo;abord dans ton a&iuml;eule Lo&iuml;de, et dans ta m&egrave;re
-Eunice, et qui, j&rsquo;en suis s&ucirc;r, est aussi en toi. </ab>
-<ab n="6">C&rsquo;est
-pourquoi je t&rsquo;avertis de rallumer la gr&acirc;ce de Dieu, que
-tu as re&ccedil;ue par l&rsquo;imposition de mes mains. </ab>
+le souvenir de cette foi sincère qui est en toi, qui habita
+d’abord dans ton aïeule Loïde, et dans ta mère
+Eunice, et qui, j’en suis sûr, est aussi en toi. </ab>
+<ab n="6">C’est
+pourquoi je t’avertis de rallumer la grâce de Dieu, que
+tu as reçue par l’imposition de mes mains. </ab>
 <ab n="7">Car
-Dieu ne nous a pas donn&eacute; un esprit de timidit&eacute;, mais un
-esprit de force, d&rsquo;amour et de sagesse (mod&eacute;ration). </ab>
+Dieu ne nous a pas donné un esprit de timidité, mais un
+esprit de force, d’amour et de sagesse (modération). </ab>
 <ab n="8">Ne
-rougis donc pas du t&eacute;moignage &agrave; rendre &agrave; Notre
+rougis donc pas du témoignage à rendre à Notre
 Seigneur, ni de moi, son prisonnier ; mais souffre avec moi pour
-l&rsquo;Evangile, selon la force (puissance) de Dieu, </ab>
+l’Evangile, selon la force (puissance) de Dieu, </ab>
 <ab n="9">qui
-nous a sauv&eacute;s, et nous a appel&eacute;s par sa vocation
-sainte, non selon nos &oelig;uvres, mais selon son propre dessein, et
-selon la gr&acirc;ce qui nous a &eacute;t&eacute; donn&eacute;e dans
-le Christ J&eacute;sus avant les temps &eacute;ternels (commencement
-des si&egrave;cles). </ab>
+nous a sauvés, et nous a appelés par sa vocation
+sainte, non selon nos œuvres, mais selon son propre dessein, et
+selon la grâce qui nous a été donnée dans
+le Christ Jésus avant les temps éternels (commencement
+des siècles). </ab>
 <ab n="10">Et
-maintenant elle a &eacute;t&eacute; manifest&eacute;e par
-l&rsquo;apparition de notre Sauveur J&eacute;sus-Christ, qui a
-d&eacute;truit la mort, et mis en lumi&egrave;re la vie et
-l&rsquo;immortalit&eacute; par l&rsquo;Evangile, </ab>
+maintenant elle a été manifestée par
+l’apparition de notre Sauveur Jésus-Christ, qui a
+détruit la mort, et mis en lumière la vie et
+l’immortalité par l’Evangile, </ab>
 <ab n="11">pour
-lequel j&rsquo;ai &eacute;t&eacute; &eacute;tabli pr&eacute;dicateur,
-ap&ocirc;tre et docteur (ma&icirc;tre) des nations. </ab>
-<ab n="12">C&rsquo;est
-pour cette raison que je souffre ces choses ; mais je n&rsquo;en ai
-pas honte, car je sais en qui j&rsquo;ai cru, et je suis certain
-qu&rsquo;il est assez puissant pour garder mon d&eacute;p&ocirc;t
-jusqu&rsquo;&agrave; ce jour. </ab>
+lequel j’ai été établi prédicateur,
+apôtre et docteur (maître) des nations. </ab>
+<ab n="12">C’est
+pour cette raison que je souffre ces choses ; mais je n’en ai
+pas honte, car je sais en qui j’ai cru, et je suis certain
+qu’il est assez puissant pour garder mon dépôt
+jusqu’à ce jour. </ab>
 <ab n="13">Prends
-pour r&egrave;gle les saines paroles que tu as entendues de moi, dans
-la foi et la charit&eacute; (amour) qui est en J&eacute;sus-Christ.
+pour règle les saines paroles que tu as entendues de moi, dans
+la foi et la charité (amour) qui est en Jésus-Christ.
 </ab>
 <ab n="14">Garde
-le bon (pr&eacute;cieux) d&eacute;p&ocirc;t, par l&rsquo;Esprit-Saint
+le bon (précieux) dépôt, par l’Esprit-Saint
 qui habite en nous. </ab>
 <ab n="15">Tu
-sais que tous ceux qui sont en Asie se sont &eacute;loign&eacute;s de
-moi (m&rsquo;ont abandonn&eacute;) ; entre autres Phigelle et
-Hermog&egrave;ne. </ab>
+sais que tous ceux qui sont en Asie se sont éloignés de
+moi (m’ont abandonné) ; entre autres Phigelle et
+Hermogène. </ab>
 <ab n="16">Que
-le Seigneur fasse mis&eacute;ricorde &agrave; la maison d&rsquo;On&eacute;siphore,
-parce qu&rsquo;il m&rsquo;a souvent soulag&eacute;, et qu&rsquo;il
-n&rsquo;a pas rougi de ma cha&icirc;ne ; </ab>
+le Seigneur fasse miséricorde à la maison d’Onésiphore,
+parce qu’il m’a souvent soulagé, et qu’il
+n’a pas rougi de ma chaîne ; </ab>
 <ab n="17">au
-contraire, lorsqu&rsquo;il fut arriv&eacute; &agrave; Rome, il m&rsquo;a
-cherch&eacute; avec empressement, et m&rsquo;a trouv&eacute;. </ab>
+contraire, lorsqu’il fut arrivé à Rome, il m’a
+cherché avec empressement, et m’a trouvé. </ab>
 <ab n="18">Que
-le Seigneur lui donne de trouver mis&eacute;ricorde devant le
-Seigneur (lui) en ce jour-l&agrave; ; combien de services il m&rsquo;a
-rendus &agrave; Eph&egrave;se, tu le sais mieux que personne.</ab></div>
+le Seigneur lui donne de trouver miséricorde devant le
+Seigneur (lui) en ce jour-là ; combien de services il m’a
+rendus à Ephèse, tu le sais mieux que personne.</ab></div>
 <div type="chapter" n="2">
 <ab n="1">Toi
-donc, mon fils, fortifie-toi dans la gr&acirc;ce qui est dans le
-Christ J&eacute;sus, </ab>
+donc, mon fils, fortifie-toi dans la grâce qui est dans le
+Christ Jésus, </ab>
 <ab n="2">et
-ce que tu as appris de moi devant de nombreux t&eacute;moins,
-confie-le &agrave; des hommes fid&egrave;les, qui soient capables
-d&rsquo;en instruire d&rsquo;autres &agrave; leur tour. </ab>
+ce que tu as appris de moi devant de nombreux témoins,
+confie-le à des hommes fidèles, qui soient capables
+d’en instruire d’autres à leur tour. </ab>
 <ab n="3">Sache
-souffrir comme un bon soldat du Christ J&eacute;sus. </ab>
+souffrir comme un bon soldat du Christ Jésus. </ab>
 <ab n="4">Quiconque
-est enr&ocirc;l&eacute; au service de Dieu ne s&rsquo;embarrasse pas dans les affaires s&eacute;culi&egrave;res, s&rsquo;il
-veut (afin de) plaire &agrave; celui qui l&rsquo;a enr&ocirc;l&eacute;.
+est enrôlé au service de Dieu ne s’embarrasse pas dans les affaires séculières, s’il
+veut (afin de) plaire à celui qui l’a enrôlé.
 </ab>
 <ab n="5">De
-m&ecirc;me, celui qui combat dans la lice (l&rsquo;ar&egrave;ne)
-n&rsquo;est pas couronn&eacute; s&rsquo;il n&rsquo;a pas combattu
-selon les r&egrave;gles. </ab>
+même, celui qui combat dans la lice (l’arène)
+n’est pas couronné s’il n’a pas combattu
+selon les règles. </ab>
 <ab n="6">Il
-faut que le laboureur travaille d&rsquo;abord, pour recueillir des
-fruits (doit avoir la premi&egrave;re part des fruits). </ab>
+faut que le laboureur travaille d’abord, pour recueillir des
+fruits (doit avoir la première part des fruits). </ab>
 <ab n="7">Comprends
-(bien) ce que je dis ; car le Seigneur te donnera l&rsquo;intelligence
+(bien) ce que je dis ; car le Seigneur te donnera l’intelligence
 en toutes choses. </ab>
 <ab n="8">Souviens-toi
-que le Seigneur J&eacute;sus-Christ, de la race de David, est
-ressuscit&eacute; d&rsquo;entre les morts, selon mon Evangile, </ab>
+que le Seigneur Jésus-Christ, de la race de David, est
+ressuscité d’entre les morts, selon mon Evangile, </ab>
 <ab n="9">pour
-lequel je souffre, jusqu&rsquo;&agrave; porter les cha&icirc;nes
-comme un malfaiteur ; mais la parole de Dieu n&rsquo;est pas
-encha&icirc;n&eacute;e. </ab>
-<ab n="10">C&rsquo;est
-pourquoi je supporte tout pour les &eacute;lus, afin qu&rsquo;ils
-obtiennent aussi eux-m&ecirc;mes le salut qui est dans le Christ
-J&eacute;sus, avec la gloire du ciel. </ab>
+lequel je souffre, jusqu’à porter les chaînes
+comme un malfaiteur ; mais la parole de Dieu n’est pas
+enchaînée. </ab>
+<ab n="10">C’est
+pourquoi je supporte tout pour les élus, afin qu’ils
+obtiennent aussi eux-mêmes le salut qui est dans le Christ
+Jésus, avec la gloire du ciel. </ab>
 <ab n="11">Cette
-parole (v&eacute;rit&eacute;) est certaine ; car si nous sommes morts
+parole (vérité) est certaine ; car si nous sommes morts
 avec lui, nous vivrons aussi avec lui ; </ab>
 <ab n="12">si
-nous souffrons avec lui, nous r&egrave;gnerons aussi avec lui ; si
+nous souffrons avec lui, nous règnerons aussi avec lui ; si
 nous le renions, lui aussi nous reniera ; </ab>
 <ab n="13">si
-nous sommes infid&egrave;les (ne croyons pas), il demeure fid&egrave;le
-; il ne peut pas se renier lui-m&ecirc;me. </ab>
+nous sommes infidèles (ne croyons pas), il demeure fidèle
+; il ne peut pas se renier lui-même. </ab>
 <ab n="14">Donne
-ces avertissements, prenant le Seigneur &agrave; t&eacute;moin. Evite
-les disputes de mots ; car cela n&rsquo;est utile &agrave; rien, si
-ce n&rsquo;est &agrave; la ruine de ceux qui &eacute;coutent.
+ces avertissements, prenant le Seigneur à témoin. Evite
+les disputes de mots ; car cela n’est utile à rien, si
+ce n’est à la ruine de ceux qui écoutent.
 </ab>
 <ab n="15">Efforce-toi
-de te pr&eacute;senter devant Dieu comme un homme &eacute;prouv&eacute;,
-un ouvrier qui n&rsquo;a pas &agrave;
-rougir, qui dispense avec droiture la parole de la v&eacute;rit&eacute;.
+de te présenter devant Dieu comme un homme éprouvé,
+un ouvrier qui n’a pas à
+rougir, qui dispense avec droiture la parole de la vérité.
 </ab>
 <ab n="16">Evite
 les discours profanes et vains ; car ils font faire beaucoup de
-progr&egrave;s dans l&rsquo;impi&eacute;t&eacute;, </ab>
+progrès dans l’impiété, </ab>
 <ab n="17">et
-leur parole gagne comme la gangr&egrave;ne. De ce nombre est (sont)
-Hym&eacute;n&eacute;e et Phil&egrave;te, </ab>
+leur parole gagne comme la gangrène. De ce nombre est (sont)
+Hyménée et Philète, </ab>
 <ab n="18">qui
-sont d&eacute;chus de la v&eacute;rit&eacute;, en disant que la
-r&eacute;surrection est d&eacute;j&agrave; faite, et qui ont renvers&eacute;
+sont déchus de la vérité, en disant que la
+résurrection est déjà faite, et qui ont renversé
 (subverti) la foi de quelques-uns. </ab>
 <ab n="19">Mais
 le solide fondement de Dieu reste debout, muni de ce sceau : Le
-Seigneur conna&icirc;t ceux qui sont &agrave; lui : et encore : Que
-quiconque prononce le nom du Seigneur s&rsquo;&eacute;loigne de
-l&rsquo;iniquit&eacute;. </ab>
+Seigneur connaît ceux qui sont à lui : et encore : Que
+quiconque prononce le nom du Seigneur s’éloigne de
+l’iniquité. </ab>
 <ab n="20">Dans
-une grande maison il n&rsquo;y a pas seulement des vases d&rsquo;or
-et d&rsquo;argent, mais il y en a aussi de bois et de terre ; et les
-uns sont des vases d&rsquo;honneur, les autres pour un usage vil
-(d&rsquo;ignominie). </ab>
+une grande maison il n’y a pas seulement des vases d’or
+et d’argent, mais il y en a aussi de bois et de terre ; et les
+uns sont des vases d’honneur, les autres pour un usage vil
+(d’ignominie). </ab>
 <ab n="21">Si
-quelqu&rsquo;un donc se garde pur en se s&eacute;parant de ces
-hommes, il sera un vase d&rsquo;honneur, sanctifi&eacute; et utile au
-Seigneur, pr&eacute;par&eacute; pour toute bonne &oelig;uvre. </ab>
+quelqu’un donc se garde pur en se séparant de ces
+hommes, il sera un vase d’honneur, sanctifié et utile au
+Seigneur, préparé pour toute bonne œuvre. </ab>
 <ab n="22">Fuis
 les passions de la jeunesse ; mais recherche la justice, la foi,
-l&rsquo;esp&eacute;rance, la charit&eacute;, et la paix avec ceux qui
-invoquent le Seigneur d&rsquo;un c&oelig;ur pur. </ab>
+l’espérance, la charité, et la paix avec ceux qui
+invoquent le Seigneur d’un cœur pur. </ab>
 <ab n="23">Quant
-aux questions folles et sans sagesse (qui n&rsquo;apprennent rien),
-&eacute;vite-les, sachant qu&rsquo;elles engendrent des querelles.
+aux questions folles et sans sagesse (qui n’apprennent rien),
+évite-les, sachant qu’elles engendrent des querelles.
 </ab>
 <ab n="24">Or,
 il ne faut pas que le serviteur du Seigneur ait des querelles ; mais
-il doit &ecirc;tre doux envers tous, capable d&rsquo;instruire,
+il doit être doux envers tous, capable d’instruire,
 patient, </ab>
 <ab n="25">reprenant
-avec modestie ceux qui r&eacute;sistent &agrave; la v&eacute;rit&eacute;,
-dans l&rsquo;esp&eacute;rance que Dieu leur donnera le repentir
-(l&rsquo;esprit de p&eacute;nitence), pour conna&icirc;tre la v&eacute;rit&eacute;,
+avec modestie ceux qui résistent à la vérité,
+dans l’espérance que Dieu leur donnera le repentir
+(l’esprit de pénitence), pour connaître la vérité,
 </ab>
 <ab n="26">et
-que revenus &agrave; leur bon sens, ils sortiront des filets du
-diable qui les tient captifs pour en faire ce qu&rsquo;il veut.
+que revenus à leur bon sens, ils sortiront des filets du
+diable qui les tient captifs pour en faire ce qu’il veut.
 </ab></div>
 <div type="chapter" n="3">
 <ab n="1">Or,
 sache ceci, que dans les derniers jours il viendra des temps
-p&eacute;rilleux. </ab>
+périlleux. </ab>
 <ab n="2">Les
-hommes seront &eacute;pris d&rsquo;eux-m&ecirc;mes, cupides,
-hautains, orgueilleux, m&eacute;disants, n&rsquo;ob&eacute;issant pas
-&agrave; leurs parents, ingrats, impies, </ab>
+hommes seront épris d’eux-mêmes, cupides,
+hautains, orgueilleux, médisants, n’obéissant pas
+à leurs parents, ingrats, impies, </ab>
 <ab n="3">sans
 affection, ennemis de la paix (implacables), calomniateurs,
-intemp&eacute;rants (dissolus), durs, sans bont&eacute;, </ab>
-<ab n="4">tra&icirc;tres,
-insolents, enfl&eacute;s d&rsquo;orgueil, plus amateurs de la volupt&eacute;
+intempérants (dissolus), durs, sans bonté, </ab>
+<ab n="4">traîtres,
+insolents, enflés d’orgueil, plus amateurs de la volupté
 que de Dieu, </ab>
 <ab n="5">ayant
-l&rsquo;apparence de la pi&eacute;t&eacute;, mais en reniant la
-r&eacute;alit&eacute;. Evite ces hommes-l&agrave; : </ab>
+l’apparence de la piété, mais en reniant la
+réalité. Evite ces hommes-là : </ab>
 <ab n="6">car
-il y en a parmi eux qui se glissent dans les maisons, et qui tra&icirc;nent
-captives des (jeunes) femmes charg&eacute;es de p&eacute;ch&eacute;s
-et pouss&eacute;es par toute sorte de passions (d&eacute;sirs),
+il y en a parmi eux qui se glissent dans les maisons, et qui traînent
+captives des (jeunes) femmes chargées de péchés
+et poussées par toute sorte de passions (désirs),
 </ab>
 <ab n="7">apprenant
-toujours, et n&rsquo;arrivant jamais &agrave; la connaissance de la
-v&eacute;rit&eacute;. </ab>
+toujours, et n’arrivant jamais à la connaissance de la
+vérité. </ab>
 <ab n="8">De
-m&ecirc;me que Jann&egrave;s et Mambr&egrave;s r&eacute;sist&egrave;rent
-&agrave; Mo&iuml;se, de m&ecirc;me ceux-ci r&eacute;sistent &agrave;
-la v&eacute;rit&eacute; : hommes corrompus dans l&rsquo;esprit,
-pervertis dans (qui n&rsquo;ont pas &eacute;t&eacute; &eacute;prouv&eacute;s
+même que Jannès et Mambrès résistèrent
+à Moïse, de même ceux-ci résistent à
+la vérité : hommes corrompus dans l’esprit,
+pervertis dans (qui n’ont pas été éprouvés
 par) la foi. </ab>
 <ab n="9">Mais
-ils n&rsquo;iront pas plus avant ; car leur folie sera manifeste &agrave;
+ils n’iront pas plus avant ; car leur folie sera manifeste à
 tous, comme le fut celle de ces hommes. </ab>
 <ab n="10">Mais
-toi, tu as suivi mon enseignement, ma conduite, ma r&eacute;solution,
-ma foi, ma douceur, ma charit&eacute;, ma patience, </ab>
+toi, tu as suivi mon enseignement, ma conduite, ma résolution,
+ma foi, ma douceur, ma charité, ma patience, </ab>
 <ab n="11">mes
-pers&eacute;cutions, mes souffrances : celles qui me sont arriv&eacute;es
-&agrave; Antioche, &agrave; Icone et &agrave; Lystre ; tu sais
-quelles pers&eacute;cutions j&rsquo;ai endur&eacute;es, et le
-Seigneur m&rsquo;a d&eacute;livr&eacute; de toutes. </ab>
+persécutions, mes souffrances : celles qui me sont arrivées
+à Antioche, à Icone et à Lystre ; tu sais
+quelles persécutions j’ai endurées, et le
+Seigneur m’a délivré de toutes. </ab>
 <ab n="12">Aussi,
-tous ceux qui veulent vivre pieusement dans le Christ J&eacute;sus
-subiront la pers&eacute;cution. </ab>
+tous ceux qui veulent vivre pieusement dans le Christ Jésus
+subiront la persécution. </ab>
 <ab n="13">Mais
-les hommes m&eacute;chants et les s&eacute;ducteurs iront en
-empirant, s&rsquo;&eacute;garant et &eacute;garant les autres. </ab>
+les hommes méchants et les séducteurs iront en
+empirant, s’égarant et égarant les autres. </ab>
 <ab n="14">Pour
-toi, demeure ferme dans les choses que tu as apprises et qui t&rsquo;ont
-&eacute;t&eacute; confi&eacute;es, sachant de qui tu les as apprises,
+toi, demeure ferme dans les choses que tu as apprises et qui t’ont
+été confiées, sachant de qui tu les as apprises,
 </ab>
 <ab n="15">et
 que depuis ton enfance tu connais les saintes lettres, qui peuvent
-t&rsquo;instruire pour le salut, par la foi qui est en J&eacute;sus-Christ.
+t’instruire pour le salut, par la foi qui est en Jésus-Christ.
 </ab>
 <ab n="16">Toute
-l&rsquo;Ecriture divinement inspir&eacute;e est utile pour enseigner,
+l’Ecriture divinement inspirée est utile pour enseigner,
 pour reprendre, pour corriger, pour instruire dans la justice ;
 </ab>
 <ab n="17">afin
-que l&rsquo;homme de Dieu soit parfait, propre &agrave; toute sorte
+que l’homme de Dieu soit parfait, propre à toute sorte
 de bien.</ab></div>
 <div type="chapter" n="4">
 <ab n="1">Je
-t&rsquo;adjure (t&rsquo;en conjure), devant Dieu et J&eacute;sus-Christ,
-qui doit juger les vivants et les morts, par son av&egrave;nement et
-par son r&egrave;gne, </ab>
-<ab n="2">pr&ecirc;che
-la parole, insiste &agrave; temps et &agrave; contretemps, reprends,
+t’adjure (t’en conjure), devant Dieu et Jésus-Christ,
+qui doit juger les vivants et les morts, par son avènement et
+par son règne, </ab>
+<ab n="2">prêche
+la parole, insiste à temps et à contretemps, reprends,
 supplie, menace, en toute patience et toujours en instruisant. </ab>
 <ab n="3">Car
-il viendra un temps o&ugrave; les hommes ne supporteront plus la
-saine doctrine ; mais ils amasseront autour d&rsquo;eux des docteurs
-selon leurs d&eacute;sirs ; et &eacute;prouvant aux oreilles une vive
-d&eacute;mangeaison, </ab>
+il viendra un temps où les hommes ne supporteront plus la
+saine doctrine ; mais ils amasseront autour d’eux des docteurs
+selon leurs désirs ; et éprouvant aux oreilles une vive
+démangeaison, </ab>
 <ab n="4">ils
-d&eacute;tourneront l&rsquo;ou&iuml;e de la v&eacute;rit&eacute;, et
+détourneront l’ouïe de la vérité, et
 ils la tourneront vers des fables. </ab>
 <ab n="5">Mais
-toi, sois vigilant, travaille constamment, fais l&rsquo;&oelig;uvre
-d&rsquo;un &eacute;vang&eacute;liste, acquitte-toi pleinement de ton
-minist&egrave;re ; sois sobre. </ab>
+toi, sois vigilant, travaille constamment, fais l’œuvre
+d’un évangéliste, acquitte-toi pleinement de ton
+ministère ; sois sobre. </ab>
 <ab n="6">Car
-pour moi, je vais &ecirc;tre immol&eacute;, et le temps de ma
+pour moi, je vais être immolé, et le temps de ma
 dissolution approche. </ab>
-<ab n="7">J&rsquo;ai
-combattu le bon combat, j&rsquo;ai achev&eacute; ma course, j&rsquo;ai
-gard&eacute; la foi. </ab>
+<ab n="7">J’ai
+combattu le bon combat, j’ai achevé ma course, j’ai
+gardé la foi. </ab>
 <ab n="8">Reste
-la couronne de justice qui m&rsquo;est r&eacute;serv&eacute;e, que le
-Seigneur, le juste juge, me rendra en ce jour-l&agrave; ; et non
-seulement &agrave; moi, mais aussi &agrave; ceux qui aiment son
-av&egrave;nement. H&acirc;te-toi de venir bient&ocirc;t aupr&egrave;s
+la couronne de justice qui m’est réservée, que le
+Seigneur, le juste juge, me rendra en ce jour-là ; et non
+seulement à moi, mais aussi à ceux qui aiment son
+avènement. Hâte-toi de venir bientôt auprès
 de moi. </ab>
 <ab n="9">Car
-D&eacute;mas m&rsquo;a abandonn&eacute;, par amour pour le si&egrave;cle,
-et il est all&eacute; &agrave; Thessalonique ; </ab>
+Démas m’a abandonné, par amour pour le siècle,
+et il est allé à Thessalonique ; </ab>
 <ab n="10">Crescent,
 en Galatie ; Tite, en Dalmatie. </ab>
 <ab n="11">Luc
-est seul avec moi. Prends Marc, et am&egrave;ne-le avec toi ; car il
-m&rsquo;est utile pour le minist&egrave;re. </ab>
-<ab n="12">J&rsquo;ai
-envoy&eacute; Tychique &agrave; Eph&egrave;se. </ab>
+est seul avec moi. Prends Marc, et amène-le avec toi ; car il
+m’est utile pour le ministère. </ab>
+<ab n="12">J’ai
+envoyé Tychique à Ephèse. </ab>
 <ab n="13">Apporte,
-quand tu viendras, le manteau que j&rsquo;ai laiss&eacute; &agrave;
+quand tu viendras, le manteau que j’ai laissé à
 Troade chez Carpus, et les livres, et surtout les parchemins.
 </ab>
 <ab n="14">Alexandre,
-l&rsquo;ouvrier en cuivre, m&rsquo;a fait souffrir beaucoup de maux&nbsp;:
-le Seigneur lui rendra selon ses &oelig;uvres. </ab>
+l’ouvrier en cuivre, m’a fait souffrir beaucoup de maux&#160;:
+le Seigneur lui rendra selon ses œuvres. </ab>
 <ab n="15">Garde-toi
-aussi de lui, car il s&rsquo;est fortement oppos&eacute; &agrave; nos
+aussi de lui, car il s’est fortement opposé à nos
 paroles. </ab>
 <ab n="16">Lors
-de ma premi&egrave;re d&eacute;fense, nul ne m&rsquo;a assist&eacute;,
-mais tous m&rsquo;ont abandonn&eacute;. Que cela ne leur soit pas
-imput&eacute;. </ab>
+de ma première défense, nul ne m’a assisté,
+mais tous m’ont abandonné. Que cela ne leur soit pas
+imputé. </ab>
 <ab n="17">Mais
-le Seigneur m&rsquo;a assist&eacute; et m&rsquo;a fortifi&eacute;,
-afin que la pr&eacute;dication f&ucirc;t accomplie par moi et que
-tous les pa&iuml;ens (nations) l&rsquo;entendissent ; et (ainsi) j&rsquo;ai
-&eacute;t&eacute; d&eacute;livr&eacute; de la gueule du lion. </ab>
+le Seigneur m’a assisté et m’a fortifié,
+afin que la prédication fût accomplie par moi et que
+tous les païens (nations) l’entendissent ; et (ainsi) j’ai
+été délivré de la gueule du lion. </ab>
 <ab n="18">Le
-Seigneur m&rsquo;a d&eacute;livr&eacute; de toute action mauvaise, et
-il me sauvera en m&rsquo;admettant dans son royaume c&eacute;leste :
-&agrave; lui la gloire dans les si&egrave;cles des si&egrave;cles.
+Seigneur m’a délivré de toute action mauvaise, et
+il me sauvera en m’admettant dans son royaume céleste :
+à lui la gloire dans les siècles des siècles.
 Amen. </ab>
 <ab n="19">Salue
-Prisque et Aquila, et la famille d&rsquo;On&eacute;siphore. </ab>
+Prisque et Aquila, et la famille d’Onésiphore. </ab>
 <ab n="20">Eraste
-est demeur&eacute; &agrave; Corinthe. J&rsquo;ai laiss&eacute;
-Trophime malade &agrave; Milet. </ab>
-<ab n="21">H&acirc;te-toi
-de venir avant l&rsquo;hiver. Eubule, Pudens, Lin, Claudie et tous
-les fr&egrave;res te saluent. </ab>
+est demeuré à Corinthe. J’ai laissé
+Trophime malade à Milet. </ab>
+<ab n="21">Hâte-toi
+de venir avant l’hiver. Eubule, Pudens, Lin, Claudie et tous
+les frères te saluent. </ab>
 <ab n="22">Que
-le Seigneur J&eacute;sus-Christ soit avec ton esprit. La gr&acirc;ce
+le Seigneur Jésus-Christ soit avec ton esprit. La grâce
 soit avec vous. Amen. </ab>
 </div>
 </div>

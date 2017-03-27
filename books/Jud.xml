@@ -1,138 +1,119 @@
-<!DOCTYPE definition [
-<!ENTITY rsquo "&#8217;">
-<!ENTITY eacute "é">
-<!ENTITY euml "ë">
-<!ENTITY acirc "â">
-<!ENTITY ecirc "ê">
-<!ENTITY agrave "à">
-<!ENTITY egrave "è">
-<!ENTITY ucirc "û">
-<!ENTITY ugrave "ù">
-<!ENTITY icirc "î">
-<!ENTITY ccedil "ç">
-<!ENTITY iuml "ï">
-<!ENTITY oelig "œ">
-<!ENTITY ocirc "ô">
-<!ENTITY uuml "ü">
-<!ENTITY Eacute "É">
-<!ENTITY nbsp "&#160;">
 
-]>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="book" xml:id="VULGFR_Jud">
 <div type="chapter" n="1">
 <ab n="1">Jude,
-serviteur de J&eacute;sus-Christ et fr&egrave;re de Jacques, &agrave;
-ceux qui sont aim&eacute;s en Dieu le P&egrave;re, gard&eacute;s et
-appel&eacute;s par J&eacute;sus-Christ. </ab>
+serviteur de Jésus-Christ et frère de Jacques, à
+ceux qui sont aimés en Dieu le Père, gardés et
+appelés par Jésus-Christ. </ab>
 <ab n="2">Que
-la mis&eacute;ricorde, la paix et la charit&eacute; soient
-multipli&eacute;es en vous. </ab>
-<ab n="3">Bien-aim&eacute;s,
-comme je mettais tout mon z&egrave;le &agrave; vous &eacute;crire au
-sujet de votre salut commun, je me suis trouv&eacute; dans la
-n&eacute;cessit&eacute; de le faire, afin de vous exhorter &agrave;
-combattre pour la foi qui a &eacute;t&eacute; une fois pour toutes
+la miséricorde, la paix et la charité soient
+multipliées en vous. </ab>
+<ab n="3">Bien-aimés,
+comme je mettais tout mon zèle à vous écrire au
+sujet de votre salut commun, je me suis trouvé dans la
+nécessité de le faire, afin de vous exhorter à
+combattre pour la foi qui a été une fois pour toutes
 transmise aux saints. </ab>
 <ab n="4">Car
-il s&rsquo;est gliss&eacute; parmi vous certains hommes, depuis
-longtemps d&eacute;sign&eacute;s pour la condamnation (pour ce
-jugement), des impies qui changent la gr&acirc;ce de notre Dieu en
-dissolution (luxure), et qui renient notre seul Ma&icirc;tre et
-Seigneur J&eacute;sus-Christ. </ab>
+il s’est glissé parmi vous certains hommes, depuis
+longtemps désignés pour la condamnation (pour ce
+jugement), des impies qui changent la grâce de notre Dieu en
+dissolution (luxure), et qui renient notre seul Maître et
+Seigneur Jésus-Christ. </ab>
 <ab n="5">(Or)
 Je veux vous rappeler, quoique vous sachiez fort bien toutes choses,
-que J&eacute;sus, ayant d&eacute;livr&eacute; le peuple du pays
-d&rsquo;Egypte, fit ensuite p&eacute;rir ceux qui furent incr&eacute;dules
+que Jésus, ayant délivré le peuple du pays
+d’Egypte, fit ensuite périr ceux qui furent incrédules
 ; </ab>
 <ab n="6">et
-que les anges qui n&rsquo;ont pas conserv&eacute; leur dignit&eacute;,
-mais qui ont abandonn&eacute; leur propre demeure, ont &eacute;t&eacute;
-r&eacute;serv&eacute;s par lui pour le jugement du grand jour, li&eacute;s
-par des cha&icirc;nes &eacute;ternelles, dans les t&eacute;n&egrave;bres.
+que les anges qui n’ont pas conservé leur dignité,
+mais qui ont abandonné leur propre demeure, ont été
+réservés par lui pour le jugement du grand jour, liés
+par des chaînes éternelles, dans les ténèbres.
 </ab>
 <ab n="7">De
-m&ecirc;me, Sodome et Gomorrhe, et les villes voisines, qui se
-livr&egrave;rent comme eux &agrave; l&rsquo;impuret&eacute; et &agrave;
+même, Sodome et Gomorrhe, et les villes voisines, qui se
+livrèrent comme eux à l’impureté et à
 des vices contre nature, sont devant nous comme un exemple, subissant
-la peine du feu &eacute;ternel. </ab>
+la peine du feu éternel. </ab>
 <ab n="8">Pareillement,
-ces hommes souillent la chair ; de plus, ils m&eacute;prisent
-l&rsquo;autorit&eacute;, et insultent ceux qui sont &eacute;lev&eacute;s
-en dignit&eacute; (la majest&eacute;). </ab>
+ces hommes souillent la chair ; de plus, ils méprisent
+l’autorité, et insultent ceux qui sont élevés
+en dignité (la majesté). </ab>
 <ab n="9">Cependant
-l&rsquo;archange Michel, lorsqu&rsquo;il discutait avec le diable,
-lui disputant le corps de Mo&iuml;se, n&rsquo;osa pas porter contre
-lui un jugement injurieux ; mais dit : Que le Seigneur te r&eacute;prime
+l’archange Michel, lorsqu’il discutait avec le diable,
+lui disputant le corps de Moïse, n’osa pas porter contre
+lui un jugement injurieux ; mais dit : Que le Seigneur te réprime
 (commande) ! </ab>
 <ab n="10">Mais
-ceux-ci insultent tout ce qu&rsquo;ils ignorent ; quant &agrave;
-celles qu&rsquo;ils connaissent naturellement, comme les b&ecirc;tes
-brutes (muettes), ils s&rsquo;y corrompent. </ab>
+ceux-ci insultent tout ce qu’ils ignorent ; quant à
+celles qu’ils connaissent naturellement, comme les bêtes
+brutes (muettes), ils s’y corrompent. </ab>
 <ab n="11">Malheur
-&agrave; eux ! car ils ont suivi la voie de Ca&iuml;n ; ils se sont
-jet&eacute;s (rompu toute digue), pour un salaire, dans l&rsquo;erreur
-de Balaam, et ils ont p&eacute;ri dans la r&eacute;bellion de Cor&eacute;.
+à eux ! car ils ont suivi la voie de Caïn ; ils se sont
+jetés (rompu toute digue), pour un salaire, dans l’erreur
+de Balaam, et ils ont péri dans la rébellion de Coré.
 </ab>
 <ab n="12">Ils
-sont des taches (le d&eacute;shonneur) dans leurs repas de charit&eacute;,
-faisant bonne ch&egrave;re sans retenue, se repaissant eux-m&ecirc;mes
-; nu&eacute;es sans eau, emport&eacute;es &ccedil;&agrave; et l&agrave;
-par les vents ; arbres d&rsquo;automne, sans fruits, deux fois morts,
-d&eacute;racin&eacute;s ; </ab>
+sont des taches (le déshonneur) dans leurs repas de charité,
+faisant bonne chère sans retenue, se repaissant eux-mêmes
+; nuées sans eau, emportées çà et là
+par les vents ; arbres d’automne, sans fruits, deux fois morts,
+déracinés ; </ab>
 <ab n="13">vagues
-furieuses de la mer, qui rejettent l&rsquo;&eacute;cume de leurs
-infamies ; astres errants, auxquels une temp&ecirc;te t&eacute;n&eacute;breuse
-est r&eacute;serv&eacute;e pour l&rsquo;&eacute;ternit&eacute;.
+furieuses de la mer, qui rejettent l’écume de leurs
+infamies ; astres errants, auxquels une tempête ténébreuse
+est réservée pour l’éternité.
 </ab>
-<ab n="14">C&rsquo;est
-d&rsquo;eux qu&rsquo;a proph&eacute;tis&eacute; H&eacute;noch, le
-septi&egrave;me patriarche depuis Adam, lorsqu&rsquo;il a dit :
+<ab n="14">C’est
+d’eux qu’a prophétisé Hénoch, le
+septième patriarche depuis Adam, lorsqu’il a dit :
 Voici, le Seigneur est venu avec ses saintes myriades, </ab>
 <ab n="15">pour
 exercer un jugement contre tous (les hommes), et pour convaincre tous
-les impies de toutes les &oelig;uvres d&rsquo;impi&eacute;t&eacute;
-qu&rsquo;ils ont commises, et de toutes les dures paroles que ces
-p&eacute;cheurs impies ont prof&eacute;r&eacute;es contre lui (Dieu).
+les impies de toutes les œuvres d’impiété
+qu’ils ont commises, et de toutes les dures paroles que ces
+pécheurs impies ont proférées contre lui (Dieu).
 </ab>
 <ab n="16">Ce
-sont des m&eacute;contents qui murmurent (sans cesse), qui marchent
+sont des mécontents qui murmurent (sans cesse), qui marchent
 suivant leurs convoitises, dont la bouche prononce des paroles
-hautaines, et qui admirent les gens par int&eacute;r&ecirc;t. </ab>
+hautaines, et qui admirent les gens par intérêt. </ab>
 <ab n="17">Mais
-vous, bien-aim&eacute;s, rappelez-vous les choses qui ont &eacute;t&eacute;
-pr&eacute;dites par les Ap&ocirc;tres de Notre Seigneur J&eacute;sus-Christ
+vous, bien-aimés, rappelez-vous les choses qui ont été
+prédites par les Apôtres de Notre Seigneur Jésus-Christ
 ; </ab>
 <ab n="18">ils
-vous disaient qu&rsquo;au dernier temps il viendra des moqueurs
-(imposteurs), qui marcheront dans l&rsquo;impi&eacute;t&eacute;,
-suivant leurs convoitises (d&eacute;sirs dans l&rsquo;impi&eacute;t&eacute;).
+vous disaient qu’au dernier temps il viendra des moqueurs
+(imposteurs), qui marcheront dans l’impiété,
+suivant leurs convoitises (désirs dans l’impiété).
 </ab>
 <ab n="19">Ce
-sont eux qui se s&eacute;parent eux-m&ecirc;mes, &ecirc;tres sensuels
-(hommes de vie animale), n&rsquo;ayant pas l&rsquo;Esprit. </ab>
+sont eux qui se séparent eux-mêmes, êtres sensuels
+(hommes de vie animale), n’ayant pas l’Esprit. </ab>
 <ab n="20">Mais
-vous, bien-aim&eacute;s, vous &eacute;levant vous-m&ecirc;mes comme
-un &eacute;difice sur le fondement de votre sainte foi, et priant par
-l&rsquo;Esprit-Saint, </ab>
+vous, bien-aimés, vous élevant vous-mêmes comme
+un édifice sur le fondement de votre sainte foi, et priant par
+l’Esprit-Saint, </ab>
 <ab n="21">conservez-vous
-dans l&rsquo;amour de Dieu, attendant la mis&eacute;ricorde de Notre
-Seigneur J&eacute;sus-Christ, pour obtenir la vie &eacute;ternelle.
+dans l’amour de Dieu, attendant la miséricorde de Notre
+Seigneur Jésus-Christ, pour obtenir la vie éternelle.
 </ab>
 <ab n="22">Reprenez
-les uns, qui paraissent condamn&eacute;s (apr&egrave;s les avoir
+les uns, qui paraissent condamnés (après les avoir
 convaincus) ; </ab>
 <ab n="23">sauvez
-les autres, en les retirant du feu ; ayez pour les autres une piti&eacute;
-m&ecirc;l&eacute;e de crainte, ha&iuml;ssant jusqu&rsquo;&agrave; la
-tunique souill&eacute;e par la chair. </ab>
+les autres, en les retirant du feu ; ayez pour les autres une pitié
+mêlée de crainte, haïssant jusqu’à la
+tunique souillée par la chair. </ab>
 <ab n="24">A
-celui qui est puissant pour vous conserver sans p&eacute;ch&eacute;,
-et pour vous faire compara&icirc;tre devant sa gloire irr&eacute;prochables
-et dans l&rsquo;all&eacute;gresse, lors de l&rsquo;av&egrave;nement
-de Notre Seigneur J&eacute;sus-Christ, </ab>
-<ab n="25">&agrave;
-Dieu seul (au seul Dieu) notre Sauveur, par J&eacute;sus-Christ Notre
+celui qui est puissant pour vous conserver sans péché,
+et pour vous faire comparaître devant sa gloire irréprochables
+et dans l’allégresse, lors de l’avènement
+de Notre Seigneur Jésus-Christ, </ab>
+<ab n="25">à
+Dieu seul (au seul Dieu) notre Sauveur, par Jésus-Christ Notre
 Seigneur, gloire et magnificence, empire et force, avant tous les
-si&egrave;cles, et maintenant, et dans tous les si&egrave;cles des
-si&egrave;cles. Amen.</ab></div>
+siècles, et maintenant, et dans tous les siècles des
+siècles. Amen.</ab></div>
 </div>

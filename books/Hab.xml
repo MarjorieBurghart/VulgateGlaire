@@ -1,277 +1,258 @@
-<!DOCTYPE definition [
-<!ENTITY rsquo "&#8217;">
-<!ENTITY eacute "é">
-<!ENTITY euml "ë">
-<!ENTITY acirc "â">
-<!ENTITY ecirc "ê">
-<!ENTITY agrave "à">
-<!ENTITY egrave "è">
-<!ENTITY ucirc "û">
-<!ENTITY ugrave "ù">
-<!ENTITY icirc "î">
-<!ENTITY ccedil "ç">
-<!ENTITY iuml "ï">
-<!ENTITY oelig "œ">
-<!ENTITY ocirc "ô">
-<!ENTITY uuml "ü">
-<!ENTITY Eacute "É">
-<!ENTITY nbsp "&#160;">
 
-]>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="book" xml:id="VULGFR_Hab">
 <div type="chapter" n="1">
 <ab n="1">Oracle
-(Malheur accablant, note) r&eacute;v&eacute;l&eacute; &agrave;
-Habacuc, le proph&egrave;te. </ab>
+(Malheur accablant, note) révélé à
+Habacuc, le prophète. </ab>
 <ab n="2">Jusques
-&agrave; quand, Seigneur, crierai-je sans que vous m&rsquo;&eacute;coutiez
-? jusques &agrave; quand &eacute;l&egrave;verai-je ma voix vers vous,
+à quand, Seigneur, crierai-je sans que vous m’écoutiez
+? jusques à quand élèverai-je ma voix vers vous,
 souffrant violence, sans que vous me sauviez ? </ab>
 <ab n="3">Pourquoi
-me montrez-vous (m&rsquo;avez-vous montr&eacute;) l&rsquo;iniquit&eacute;
+me montrez-vous (m’avez-vous montré) l’iniquité
 et la douleur (peine), me faites-vous voir devant moi la rapine et
-l&rsquo;injustice ? Si l&rsquo;on juge d&rsquo;une affaire, c&rsquo;est
-la passion (l&rsquo;opposition) qui l&rsquo;emporte. </ab>
+l’injustice ? Si l’on juge d’une affaire, c’est
+la passion (l’opposition) qui l’emporte. </ab>
 <ab n="4">Aussi
-la loi est (a &eacute;t&eacute;) d&eacute;chir&eacute;e, et la
-justice (jugement) ne parvient pas &agrave; son terme ; parce que le
-m&eacute;chant pr&eacute;vaut contre le juste, (c&rsquo;est pourquoi)
-l&rsquo;on rend des jugements iniques. </ab>
+la loi est (a été) déchirée, et la
+justice (jugement) ne parvient pas à son terme ; parce que le
+méchant prévaut contre le juste, (c’est pourquoi)
+l’on rend des jugements iniques. </ab>
 <ab n="5">Jetez
-les yeux sur les nations, et voyez ; soyez surpris et frapp&eacute;s
-d&rsquo;&eacute;tonnement ; car il se produira (s&rsquo;est fait) de
-vos jours une chose que nul ne croira lorsqu&rsquo;elle sera
-racont&eacute;e. </ab>
+les yeux sur les nations, et voyez ; soyez surpris et frappés
+d’étonnement ; car il se produira (s’est fait) de
+vos jours une chose que nul ne croira lorsqu’elle sera
+racontée. </ab>
 <ab n="6">Car
-voici, je vais susciter les Chald&eacute;ens, nation cruelle et
-imp&eacute;tueuse (prompte), qui parcourt la surface de la terre,
-pour s&rsquo;emparer de demeures (tabernacles) qui ne sont point &agrave;
+voici, je vais susciter les Chaldéens, nation cruelle et
+impétueuse (prompte), qui parcourt la surface de la terre,
+pour s’emparer de demeures (tabernacles) qui ne sont point à
 elle. </ab>
 <ab n="7">Elle
-est effroyable et terrible, d&rsquo;elle-m&ecirc;me viennent son
+est effroyable et terrible, d’elle-même viennent son
 droit et sa puissance (sortiront le jugement et la charge). </ab>
 <ab n="8">Ses
-chevaux sont plus l&eacute;gers que les l&eacute;opards et plus
-rapides que les loups du soir ; ses cavaliers se r&eacute;pandent
-(r&eacute;pandront) partout ; ils viennent (viendront) de loin, ils
-vole(ro)nt comme l&rsquo;aigle qui fond sur sa proie (pour manger).
+chevaux sont plus légers que les léopards et plus
+rapides que les loups du soir ; ses cavaliers se répandent
+(répandront) partout ; ils viennent (viendront) de loin, ils
+vole(ro)nt comme l’aigle qui fond sur sa proie (pour manger).
 </ab>
 <ab n="9">Ils
-viendront tous au butin ; leur visage est (comme) un vent br&ucirc;lant,
+viendront tous au butin ; leur visage est (comme) un vent brûlant,
 et ils (r)assembleront les captifs comme le sable. </ab>
 <ab n="10">Il
 triomphera des rois, et il se rira des tyrans (princes) ; il se
-moquera de toutes les forteresses ; il leur opposera des lev&eacute;es
+moquera de toutes les forteresses ; il leur opposera des levées
 de terre, et il les prendra. </ab>
 <ab n="11">Alors
 son esprit changera, il passera et il tombera ; telle est la force
-qu&rsquo;il tiendra (tient) de son dieu. </ab>
-<ab n="12">N&rsquo;&ecirc;tes-vous
-pas d&egrave;s le commencement, Seigneur, mon Dieu et mon Saint (pour
+qu’il tiendra (tient) de son dieu. </ab>
+<ab n="12">N’êtes-vous
+pas dès le commencement, Seigneur, mon Dieu et mon Saint (pour
 que nous ne nous mourions pas) ? nous ne mourrons donc pas. Seigneur,
-vous avez &eacute;tabli ce peuple pour exercer vos jugements, et vous
-l&rsquo;avez rendu fort pour infliger vos ch&acirc;timents. </ab>
+vous avez établi ce peuple pour exercer vos jugements, et vous
+l’avez rendu fort pour infliger vos châtiments. </ab>
 <ab n="13">Vos
 yeux sont purs pour ne pas voir le mal, et vous ne pouvez (pourrez)
-regarder l&rsquo;iniquit&eacute;. Pourquoi donc regardez-vous ceux
-qui commettent l&rsquo;iniquit&eacute;, et demeurez-vous en silence
-pendant que l&rsquo;impie d&eacute;vore celui qui est plus juste que
+regarder l’iniquité. Pourquoi donc regardez-vous ceux
+qui commettent l’iniquité, et demeurez-vous en silence
+pendant que l’impie dévore celui qui est plus juste que
 lui ? </ab>
 <ab n="14">Et
 pourquoi traitez-vous les hommes comme les poissons de la mer, et
-comme les reptiles qui n&rsquo;ont pas de chef ? </ab>
+comme les reptiles qui n’ont pas de chef ? </ab>
 <ab n="15">Il
-les enl&egrave;ve tous (a tout enlev&eacute;) avec l&rsquo;hame&ccedil;on
-; il les (a) entra&icirc;ne(&eacute;s) dans son filet, et il les (a)
-amasse(&eacute;s) dans son rets. Aussi est-il (sur cela sera-t-il)
-dans la joie et dans l&rsquo;all&eacute;gresse. </ab>
-<ab n="16">C&rsquo;est
-pourquoi il immolera des victimes &agrave; son filet, et il
-sacrifiera &agrave; son rets, car c&rsquo;est par eux que sa portion
-est grasse (sa portion s&rsquo;est accrue) et que sa nourriture est
-(a &eacute;t&eacute;) exquise. </ab>
-<ab n="17">C&rsquo;est
-donc pour cela qu&rsquo;il &eacute;tend son filet, et qu&rsquo;il ne
-cesse (jamais) d&rsquo;&eacute;gorger les nations.</ab></div>
+les enlève tous (a tout enlevé) avec l’hameçon
+; il les (a) entraîne(és) dans son filet, et il les (a)
+amasse(és) dans son rets. Aussi est-il (sur cela sera-t-il)
+dans la joie et dans l’allégresse. </ab>
+<ab n="16">C’est
+pourquoi il immolera des victimes à son filet, et il
+sacrifiera à son rets, car c’est par eux que sa portion
+est grasse (sa portion s’est accrue) et que sa nourriture est
+(a été) exquise. </ab>
+<ab n="17">C’est
+donc pour cela qu’il étend son filet, et qu’il ne
+cesse (jamais) d’égorger les nations.</ab></div>
 <div type="chapter" n="2">
 <ab n="1">Je
-me tiendrai &agrave; mon poste de garde, et je demeurerai ferme sur
+me tiendrai à mon poste de garde, et je demeurerai ferme sur
 le rempart, et je regarderai attentivement pour voir ce qui me sera
-dit, et ce que je r&eacute;pondrai &agrave; celui qui me reprendra
-(m&rsquo;interpellera). </ab>
+dit, et ce que je répondrai à celui qui me reprendra
+(m’interpellera). </ab>
 <ab n="2">Alors
 le Seigneur me parla, et me dit : Ecris ce que tu vois, et marque-le
-sur des tablettes, afin qu&rsquo;on puisse le lire couramment (que ne
-s&rsquo;arr&ecirc;te pas celui qui la lira, note). </ab>
+sur des tablettes, afin qu’on puisse le lire couramment (que ne
+s’arrête pas celui qui la lira, note). </ab>
 <ab n="3">Car
-ce qui t&rsquo;a &eacute;t&eacute; r&eacute;v&eacute;l&eacute; est
-encore lointain ; mais cela para&icirc;tra enfin (&agrave; la fin) et
-ne mentira pas : si cela est diff&eacute;r&eacute;, attends-le, car
+ce qui t’a été révélé est
+encore lointain ; mais cela paraîtra enfin (à la fin) et
+ne mentira pas : si cela est différé, attends-le, car
 cela arrivera certainement et ne tardera pas. </ab>
 <ab n="4">Voici,
-celui qui est incr&eacute;dule n&rsquo;a(ura) pas (une) l&rsquo;&acirc;me
+celui qui est incrédule n’a(ura) pas (une) l’âme
 droite en lui ; mais le juste vivra par sa foi. </ab>
 <ab n="5">Comme
-le vin trompe celui qui en boit, ainsi l&rsquo;homme orgueilleux ne
-demeurera pas dans son &eacute;clat (ne sera pas honor&eacute;) ; il
-a dilat&eacute; son &acirc;me comme l&rsquo;enfer, il est comme la
-mort et n&rsquo;est pas rassasi&eacute; (se rassasie pas) ; il
-attire(ra) &agrave; soi (vers lui) toutes les nations, et r&eacute;unit(ra)
-aupr&egrave;s de lui tous les peuples. </ab>
+le vin trompe celui qui en boit, ainsi l’homme orgueilleux ne
+demeurera pas dans son éclat (ne sera pas honoré) ; il
+a dilaté son âme comme l’enfer, il est comme la
+mort et n’est pas rassasié (se rassasie pas) ; il
+attire(ra) à soi (vers lui) toutes les nations, et réunit(ra)
+auprès de lui tous les peuples. </ab>
 <ab n="6">Est-ce
 que tous ceux-ci ne le prendront pas (Ne le prendront-ils pas, note)
-comme un sujet de fable, de railleries et d&rsquo;&eacute;nigmes ? On
-dira : Malheur &agrave; celui qui accumule (des biens) ce qui n&rsquo;est
-pas &agrave; lui. Jusques &agrave; quand amassera-t-il contre lui une
-boue &eacute;paisse ? </ab>
+comme un sujet de fable, de railleries et d’énigmes ? On
+dira : Malheur à celui qui accumule (des biens) ce qui n’est
+pas à lui. Jusques à quand amassera-t-il contre lui une
+boue épaisse ? </ab>
 <ab n="7">Est-ce
-qu&rsquo;il ne s&rsquo;&eacute;l&egrave;vera pas soudain des hommes
-qui te mordront ? ne s&rsquo;&eacute;veilleront-ils pas pour te
-d&eacute;chirer, de sorte que tu sois leur proie ? </ab>
+qu’il ne s’élèvera pas soudain des hommes
+qui te mordront ? ne s’éveilleront-ils pas pour te
+déchirer, de sorte que tu sois leur proie ? </ab>
 <ab n="8">Parce
-que tu as d&eacute;pouill&eacute; des nations nombreuses, tous ceux
-qui seront rest&eacute;s d&rsquo;entre les peuples te d&eacute;pouilleront,
-&agrave; cause du sang des hommes (que tu as vers&eacute;), et des
-injustices exerc&eacute;es contre les terres de (de l&rsquo;iniquit&eacute;
+que tu as dépouillé des nations nombreuses, tous ceux
+qui seront restés d’entre les peuples te dépouilleront,
+à cause du sang des hommes (que tu as versé), et des
+injustices exercées contre les terres de (de l’iniquité
 que tu as commise sur le pays,) la ville, et contre tous ceux qui y
 habitent. </ab>
 <ab n="9">Malheur
-&agrave; celui qui amasse avec (les fruits d&rsquo;) une avarice
-criminelle pour sa maison, et pour mettre son nid dans un lieu &eacute;lev&eacute;,
-pensant qu&rsquo;il se garantira de la main du mal(heur) ! </ab>
+à celui qui amasse avec (les fruits d’) une avarice
+criminelle pour sa maison, et pour mettre son nid dans un lieu élevé,
+pensant qu’il se garantira de la main du mal(heur) ! </ab>
 <ab n="10">Tu
-as m&eacute;dit&eacute; (des desseins qui ont &eacute;t&eacute;) la
-honte pour (de) ta maison, tu as d&eacute;truit des peuples nombreux,
-et ton &acirc;me a p&eacute;ch&eacute;. </ab>
+as médité (des desseins qui ont été) la
+honte pour (de) ta maison, tu as détruit des peuples nombreux,
+et ton âme a péché. </ab>
 <ab n="11">Car
 la pierre criera de la muraille, et le bois qui lie la charpente du
-b&acirc;timent lui r&eacute;pondra. </ab>
+bâtiment lui répondra. </ab>
 <ab n="12">Malheur
-&agrave; celui qui b&acirc;tit une ville avec le sang, et qui fonde
-une ville dans (sur) l&rsquo;iniquit&eacute; ! (.) </ab>
-<ab n="13">N&rsquo;est-ce
-pas le Seigneur des arm&eacute;es qui fera cela ? Les peuples
-travailleront pour le feu, et les nations pour le n&eacute;ant, et
-elles seront &eacute;puis&eacute;es (p&eacute;riront). </ab>
+à celui qui bâtit une ville avec le sang, et qui fonde
+une ville dans (sur) l’iniquité ! (.) </ab>
+<ab n="13">N’est-ce
+pas le Seigneur des armées qui fera cela ? Les peuples
+travailleront pour le feu, et les nations pour le néant, et
+elles seront épuisées (périront). </ab>
 <ab n="14">Car
 la terre sera remplie de la connaissance de la gloire du Seigneur
-(sera remplie d&rsquo;ennemis), comme (le lit de) la mer (qui est
+(sera remplie d’ennemis), comme (le lit de) la mer (qui est
 couvert) par les eaux qui la couvrent. </ab>
 <ab n="15">Malheur
-&agrave; celui qui met du fiel dans le breuvage qu&rsquo;il donne &agrave;
-son ami, et qui l&rsquo;enivre pour voir sa nudit&eacute; ! </ab>
+à celui qui met du fiel dans le breuvage qu’il donne à
+son ami, et qui l’enivre pour voir sa nudité ! </ab>
 <ab n="16">Tu
-seras (a &eacute;t&eacute;) rempli d&rsquo;ignominie au lieu de
-gloire. Bois, toi aussi, et sois frapp&eacute; d&rsquo;assoupissement.
-Le calice de la droite du Seigneur t&rsquo;entourera, et un
-vomissement d&rsquo;ignominie couvrira (viendra sur) ta gloire. </ab>
+seras (a été) rempli d’ignominie au lieu de
+gloire. Bois, toi aussi, et sois frappé d’assoupissement.
+Le calice de la droite du Seigneur t’entourera, et un
+vomissement d’ignominie couvrira (viendra sur) ta gloire. </ab>
 <ab n="17">Car
-l&rsquo;outrage fait au (commis sur le) Liban retombera sur toi, et
-les ravages des b&ecirc;tes farouches (exerc&eacute; sur les animaux)
-les effrayeront, &agrave; cause du sang des hommes et des injustices
+l’outrage fait au (commis sur le) Liban retombera sur toi, et
+les ravages des bêtes farouches (exercé sur les animaux)
+les effrayeront, à cause du sang des hommes et des injustices
 commises contre la terre, et la ville, et tous ceux qui y habitent.
 </ab>
 <ab n="18">A
-quoi sert la statue (une image taill&eacute;e au ciseau) qu&rsquo;un
-sculpteur a faite, ou l&rsquo;image fausse qui se coule en fonte (une
-statue jet&eacute;e en fonte et une image fausse) ? Cependant
-l&rsquo;ouvrier esp&egrave;re en son ouvrage et dans les idoles
-muettes qu&rsquo;il a form&eacute;es (pour faire des simulacres
+quoi sert la statue (une image taillée au ciseau) qu’un
+sculpteur a faite, ou l’image fausse qui se coule en fonte (une
+statue jetée en fonte et une image fausse) ? Cependant
+l’ouvrier espère en son ouvrage et dans les idoles
+muettes qu’il a formées (pour faire des simulacres
 muets). </ab>
 <ab n="19">Malheur
-&agrave; celui qui dit au bois : R&eacute;veille-toi ; et &agrave; la
-pierre muette : L&egrave;ve-toi ! Cette pierre pourra-t-elle
-instruire ? Voici, elle est couverte d&rsquo;or et d&rsquo;argent, et
-il n&rsquo;y a pas du tout de souffle (vie) dans ses entrailles.
+à celui qui dit au bois : Réveille-toi ; et à la
+pierre muette : Lève-toi ! Cette pierre pourra-t-elle
+instruire ? Voici, elle est couverte d’or et d’argent, et
+il n’y a pas du tout de souffle (vie) dans ses entrailles.
 </ab>
 <ab n="20">Mais
 le Seigneur habite dans son temple saint : que toute la terre se
 taise devant lui ! (.)</ab></div>
 <div type="chapter" n="3">
-<ab n="1">Pri&egrave;re
-du proph&egrave;te Habacuc pour les ignorances. </ab>
+<ab n="1">Prière
+du prophète Habacuc pour les ignorances. </ab>
 <ab n="2">Seigneur,
-j&rsquo;ai entendu votre parole, et j&rsquo;ai &eacute;t&eacute;
-saisi de crainte. Seigneur, faites vivre (vivifiez) votre &oelig;uvre
-au milieu des ann&eacute;es ; vous la ferez conna&icirc;tre au milieu
-des ann&eacute;es : lorsque vous serez irrit&eacute;, vous vous
-souviendrez de la mis&eacute;ricorde. </ab>
+j’ai entendu votre parole, et j’ai été
+saisi de crainte. Seigneur, faites vivre (vivifiez) votre œuvre
+au milieu des années ; vous la ferez connaître au milieu
+des années : lorsque vous serez irrité, vous vous
+souviendrez de la miséricorde. </ab>
 <ab n="3">Dieu
 viendra du sud (midi), et le saint
 de la montagne de Pharan : Sa gloire a couvert les cieux, et la terre
 est pleine de sa louange. </ab>
 <ab n="4">Son
-&eacute;clat est (sera) comme la lumi&egrave;re, des rayons sont dans
-ses mains ; c&rsquo;est l&agrave; que sa force est cach&eacute;e.
+éclat est (sera) comme la lumière, des rayons sont dans
+ses mains ; c’est là que sa force est cachée.
 </ab>
 <ab n="5">Devant
-lui marche (ira) la mort, et le diable pr&eacute;c&egrave;de ses pas
+lui marche (ira) la mort, et le diable précède ses pas
 (sortira devant ses pieds). </ab>
 <ab n="6">Il
-s&rsquo;est arr&ecirc;t&eacute;, et il a mesur&eacute; la terre ; il
-a regard&eacute;, et il a fait fondre (dissip&eacute;) les nations ;
-les montagnes s&eacute;culaires ont &eacute;t&eacute; bris&eacute;es
-; les collines du monde ont &eacute;t&eacute; abaiss&eacute;es sous
-les pas de son &eacute;ternit&eacute;. </ab>
-<ab n="7">J&rsquo;ai
-vu (dans la d&eacute;tresse) les tentes de l&rsquo;Ethiopie
-(renvers&eacute;es pour son iniquit&eacute;), les pavillons de Madian
-sont dans l&rsquo;&eacute;pouvante. </ab>
+s’est arrêté, et il a mesuré la terre ; il
+a regardé, et il a fait fondre (dissipé) les nations ;
+les montagnes séculaires ont été brisées
+; les collines du monde ont été abaissées sous
+les pas de son éternité. </ab>
+<ab n="7">J’ai
+vu (dans la détresse) les tentes de l’Ethiopie
+(renversées pour son iniquité), les pavillons de Madian
+sont dans l’épouvante. </ab>
 <ab n="8">Est-ce
-comme (contre) les fleuves que vous &ecirc;tes irrit&eacute;,
+comme (contre) les fleuves que vous êtes irrité,
 Seigneur ? Votre fureur est-elle contre les fleuves, ou votre
 indignation contre la mer ? Vous qui monte(re)z sur vos chevaux, et
 qui donne(re)z le salut par vos chars. </ab>
-<ab n="9">(Pr&eacute;parant,)
-Vous pr&eacute;parerez votre arc, selon les serments que vous avez
+<ab n="9">(Préparant,)
+Vous préparerez votre arc, selon les serments que vous avez
 faits aux tribus ; vous diviserez les fleuves de la terre. </ab>
 <ab n="10">Les
-montagnes vous ont vu, et elles ont &eacute;t&eacute; prises de
-douleur ; les masses (des) d&rsquo;eaux se sont &eacute;coul&eacute;es
-; l&rsquo;ab&icirc;me a fait retentir sa voix, il a lev&eacute; ses
+montagnes vous ont vu, et elles ont été prises de
+douleur ; les masses (des) d’eaux se sont écoulées
+; l’abîme a fait retentir sa voix, il a levé ses
 mains en haut. </ab>
 <ab n="11">Le
-soleil et la lune se sont arr&ecirc;t&eacute;s dans leur demeure, ils
-marche(ro)nt &agrave; la lueur de vos fl&egrave;ches, &agrave;
-l&rsquo;&eacute;clat de votre lance foudroyante. </ab>
+soleil et la lune se sont arrêtés dans leur demeure, ils
+marche(ro)nt à la lueur de vos flèches, à
+l’éclat de votre lance foudroyante. </ab>
 <ab n="12">Dans
-votre col&egrave;re (fr&eacute;missement), vous foulerez aux pieds la
-terre ; dans votre fureur, vous &eacute;pouvanterez les nations.
+votre colère (frémissement), vous foulerez aux pieds la
+terre ; dans votre fureur, vous épouvanterez les nations.
 </ab>
 <ab n="13">Vous
-&ecirc;tes sorti pour le salut de votre peuple, pour le sauver avec
-votre Christ ; vous avez frapp&eacute; le fa&icirc;te (chef) de la
-maison de l&rsquo;impie, vous l&rsquo;avez ruin&eacute;e de fond en
+êtes sorti pour le salut de votre peuple, pour le sauver avec
+votre Christ ; vous avez frappé le faîte (chef) de la
+maison de l’impie, vous l’avez ruinée de fond en
 comble. </ab>
 <ab n="14">Vous
 avez maudit son sceptre et le chef de ses guerriers, qui venaient
-comme un tourbillon pour me disperser ; ils &eacute;taient dans
-l&rsquo;all&eacute;gresse (exultation), comme celui qui d&eacute;vore
+comme un tourbillon pour me disperser ; ils étaient dans
+l’allégresse (exultation), comme celui qui dévore
 le pauvre en secret. </ab>
 <ab n="15">Vous
-avez fait un chemin &agrave; vos chevaux &agrave; travers la mer, &agrave;
+avez fait un chemin à vos chevaux à travers la mer, à
 travers la boue des grandes eaux. </ab>
-<ab n="16">J&rsquo;ai
-entendu, et mes entrailles ont &eacute;t&eacute; &eacute;mues ; mes
-l&egrave;vres ont trembl&eacute; (fr&eacute;mi) &agrave; cette voix.
-Que la pourriture entre dans mes os, et qu&rsquo;elle me consume
+<ab n="16">J’ai
+entendu, et mes entrailles ont été émues ; mes
+lèvres ont tremblé (frémi) à cette voix.
+Que la pourriture entre dans mes os, et qu’elle me consume
 au-dedans de (abonde sous) moi, afin que je sois en repos au jour de
-l&rsquo;affliction, et que je me joigne &agrave; notre peuple pr&ecirc;t
-&agrave; marcher avec vous (ceint, note). </ab>
+l’affliction, et que je me joigne à notre peuple prêt
+à marcher avec vous (ceint, note). </ab>
 <ab n="17">Car
 le figuier ne fleurira point, et les vignes ne pousseront (germeront)
-pas ; le fruit de l&rsquo;olivier mentira (trompera l&rsquo;attente),
+pas ; le fruit de l’olivier mentira (trompera l’attente),
 et les champs ne donneront pas de nourriture (grains) ; les brebis
-(le troupeau de menu b&eacute;tail) seront(a) enlev&eacute;(es) aux
-bergeries, et il n&rsquo;y aura plus de b&oelig;ufs (de troupeau de
-gros b&eacute;tail) dans les &eacute;tables. </ab>
+(le troupeau de menu bétail) seront(a) enlevé(es) aux
+bergeries, et il n’y aura plus de bœufs (de troupeau de
+gros bétail) dans les étables. </ab>
 <ab n="18">Mais
-moi je me r&eacute;jouirai dans le Seigneur, et je tressaillirai
-d&rsquo;all&eacute;gresse en Dieu mon sauveur (J&eacute;sus, note).
+moi je me réjouirai dans le Seigneur, et je tressaillirai
+d’allégresse en Dieu mon sauveur (Jésus, note).
 </ab>
 <ab n="19">Le
 Seigneur Dieu est ma force, et il rendra mes pieds comme ceux des
-cerfs, et vainqueur, il me ram&egrave;nera sur mes montagnes
+cerfs, et vainqueur, il me ramènera sur mes montagnes
 (hauteurs), pour lui chanter des psaumes.</ab>
 </div>
 </div>

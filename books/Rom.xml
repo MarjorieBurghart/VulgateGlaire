@@ -1,1734 +1,1712 @@
-<!DOCTYPE definition [
-<!ENTITY rsquo "&#8217;">
-<!ENTITY lsquo "‘">
-<!ENTITY eacute "é">
-<!ENTITY euml "ë">
-<!ENTITY acirc "â">
-<!ENTITY ecirc "ê">
-<!ENTITY agrave "à">
-<!ENTITY egrave "è">
-<!ENTITY ucirc "û">
-<!ENTITY ugrave "ù">
-<!ENTITY icirc "î">
-<!ENTITY ccedil "ç">
-<!ENTITY iuml "ï">
-<!ENTITY oelig "œ">
-<!ENTITY ocirc "ô">
-<!ENTITY uuml "ü">
-<!ENTITY Eacute "É">
-<!ENTITY nbsp "&#160;">
-<!ENTITY OElig "Œ">
-<!ENTITY aelig "æ">
 
-]>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="book" xml:id="VULGFR_Rom">
 <div type="chapter" n="1">
 <ab n="1">Paul,
-serviteur de J&eacute;sus-Christ, appel&eacute; Ap&ocirc;tre, mis &agrave;
-part pour l&rsquo;Evangile de Dieu, </ab>
+serviteur de Jésus-Christ, appelé Apôtre, mis à
+part pour l’Evangile de Dieu, </ab>
 <ab n="2">que
-Dieu avait promis auparavant par ses proph&egrave;tes dans les
+Dieu avait promis auparavant par ses prophètes dans les
 saintes Ecritures </ab>
 <ab n="3">touchant
-son Fils, qui lui est n&eacute; de la race de David, selon la chair ;
+son Fils, qui lui est né de la race de David, selon la chair ;
 </ab>
 <ab n="4">qui
-a &eacute;t&eacute; pr&eacute;destin&eacute; comme Fils de Dieu avec
-puissance, selon l&rsquo;esprit de saintet&eacute; (sanctification),
-par sa r&eacute;surrection d&rsquo;entre les morts ; J&eacute;sus-Christ
+a été prédestiné comme Fils de Dieu avec
+puissance, selon l’esprit de sainteté (sanctification),
+par sa résurrection d’entre les morts ; Jésus-Christ
 notre Seigneur ; </ab>
 <ab n="5">par
-qui nous avons re&ccedil;u la gr&acirc;ce et l&rsquo;apostolat, pour
-faire ob&eacute;ir &agrave; la foi toutes les nations en son nom ;
+qui nous avons reçu la grâce et l’apostolat, pour
+faire obéir à la foi toutes les nations en son nom ;
 </ab>
 <ab n="6">au
-rang desquelles vous &ecirc;tes aussi, ayant &eacute;t&eacute;
-appel&eacute;s par J&eacute;sus-Christ : </ab>
-<ab n="7">&agrave;
-tous ceux qui sont &agrave; Rome, bien-aim&eacute;s de Dieu, appel&eacute;s
-saints. Que la gr&acirc;ce et la paix vous soient donn&eacute;es par
-Dieu, notre P&egrave;re, et par le Seigneur J&eacute;sus-Christ ! </ab>
+rang desquelles vous êtes aussi, ayant été
+appelés par Jésus-Christ : </ab>
+<ab n="7">à
+tous ceux qui sont à Rome, bien-aimés de Dieu, appelés
+saints. Que la grâce et la paix vous soient données par
+Dieu, notre Père, et par le Seigneur Jésus-Christ ! </ab>
 <ab n="8">En
-premier lieu, je rends gr&acirc;ces &agrave; mon Dieu par
-J&eacute;sus-Christ pour vous tous, de ce que votre foi est renomm&eacute;e
-(annonc&eacute;e) dans le monde entier. </ab>
+premier lieu, je rends grâces à mon Dieu par
+Jésus-Christ pour vous tous, de ce que votre foi est renommée
+(annoncée) dans le monde entier. </ab>
 <ab n="9">Car
-le Dieu que je sers en mon esprit dans l&rsquo;Evangile de son Fils
-m&rsquo;est t&eacute;moin que je fais sans cesse mention de vous
+le Dieu que je sers en mon esprit dans l’Evangile de son Fils
+m’est témoin que je fais sans cesse mention de vous
 </ab>
 <ab n="10">dans
-(toutes) mes pri&egrave;res, demandant continuellement que je puisse
-avoir enfin, par sa volont&eacute;, quelque voie favorable pour aller
+(toutes) mes prières, demandant continuellement que je puisse
+avoir enfin, par sa volonté, quelque voie favorable pour aller
 vers vous. </ab>
 <ab n="11">Car
-je d&eacute;sire vous voir, pour vous communiquer quelque gr&acirc;ce
+je désire vous voir, pour vous communiquer quelque grâce
 spirituelle, afin de vous affermir ; </ab>
-<ab n="12">c&rsquo;est-&agrave;-dire
+<ab n="12">c’est-à-dire
 afin que, chez vous, nous recevions une consolation mutuelle par la
-foi qui nous est commune, &agrave; vous et &agrave; moi. </ab>
+foi qui nous est commune, à vous et à moi. </ab>
 <ab n="13">Aussi
-je ne veux pas que vous ignoriez, mes fr&egrave;res, que je me suis
-souvent propos&eacute; d&rsquo;aller chez vous (j&rsquo;en ai &eacute;t&eacute;
-emp&ecirc;ch&eacute; jusqu&rsquo;&agrave; pr&eacute;sent), pour
+je ne veux pas que vous ignoriez, mes frères, que je me suis
+souvent proposé d’aller chez vous (j’en ai été
+empêché jusqu’à présent), pour
 obtenir aussi quelque fruit parmi vous, comme parmi les autres
 nations. </ab>
 <ab n="14">Je
 me dois aux Grecs et aux barbares, aux savants (sages) et aux
 ignorants (simples). </ab>
 <ab n="15">Ainsi,
-autant qu&rsquo;il d&eacute;pend de moi, j&rsquo;ai &agrave; c&oelig;ur
-de vous annoncer l&rsquo;Evangile, &agrave; vous aussi qui &ecirc;tes
-&agrave; Rome. </ab>
+autant qu’il dépend de moi, j’ai à cœur
+de vous annoncer l’Evangile, à vous aussi qui êtes
+à Rome. </ab>
 <ab n="16">En
 effet, je ne rougis pas de
-l&rsquo;Evangile ; car il est une force (la force) de Dieu, pour le
-salut de tout croyant, premi&egrave;rement du Juif, puis du Grec.
+l’Evangile ; car il est une force (la force) de Dieu, pour le
+salut de tout croyant, premièrement du Juif, puis du Grec.
 </ab>
 <ab n="17">Car
-la justice de Dieu y est r&eacute;v&eacute;l&eacute;e par la foi et
-pour la foi, ainsi qu&rsquo;il est &eacute;crit : Le juste vivra par
+la justice de Dieu y est révélée par la foi et
+pour la foi, ainsi qu’il est écrit : Le juste vivra par
 la foi. </ab>
 <ab n="18">En
-effet, la col&egrave;re de Dieu se r&eacute;v&egrave;le (&eacute;clatant)
-du haut du ciel contre toute l&rsquo;impi&eacute;t&eacute; et
-l&rsquo;injustice de ces hommes qui retiennent la v&eacute;rit&eacute;
-de Dieu dans l&rsquo;injustice ; </ab>
+effet, la colère de Dieu se révèle (éclatant)
+du haut du ciel contre toute l’impiété et
+l’injustice de ces hommes qui retiennent la vérité
+de Dieu dans l’injustice ; </ab>
 <ab n="19">car
-ce que l&rsquo;on conna&icirc;t sur Dieu est manifeste pour eux, Dieu
-le leur ayant fait conna&icirc;tre. </ab>
+ce que l’on connaît sur Dieu est manifeste pour eux, Dieu
+le leur ayant fait connaître. </ab>
 <ab n="20">En
 effet, ses perfections invisibles sont devenues visibles depuis la
-cr&eacute;ation du monde, (par la connaissance que ses &oelig;uvres
-en donnent&nbsp;?) ; de m&ecirc;me sa puissance &eacute;ternelle et
-sa divinit&eacute; : de sorte qu&rsquo;ils sont inexcusables, </ab>
+création du monde, (par la connaissance que ses œuvres
+en donnent&#160;?) ; de même sa puissance éternelle et
+sa divinité : de sorte qu’ils sont inexcusables, </ab>
 <ab n="21">parce
-qu&rsquo;ayant connu Dieu, ils ne l&rsquo;ont pas
-glorifi&eacute;
-comme Dieu, et ne lui ont pas rendu gr&acirc;ces ; mais ils se sont
-&eacute;gar&eacute;s dans leurs pens&eacute;es, et leur c&oelig;ur
-insens&eacute; a &eacute;t&eacute; obscurci. </ab>
+qu’ayant connu Dieu, ils ne l’ont pas
+glorifié
+comme Dieu, et ne lui ont pas rendu grâces ; mais ils se sont
+égarés dans leurs pensées, et leur cœur
+insensé a été obscurci. </ab>
 <ab n="22">Ainsi,
-en disant qu&rsquo;ils &eacute;taient sages, ils sont devenus fous,
+en disant qu’ils étaient sages, ils sont devenus fous,
 </ab>
 <ab n="23">et
-ils ont chang&eacute; la gloire du Dieu incorruptible contre une
-image repr&eacute;sentant l&rsquo;homme corruptible, et les oiseaux,
-et les quadrup&egrave;des, et les reptiles. </ab>
-<ab n="24">C&rsquo;est
-pourquoi Dieu les a livr&eacute;s aux d&eacute;sirs de leur(s)
-c&oelig;ur(s), &agrave; l&rsquo;impuret&eacute;, en sorte qu&rsquo;ils
-ont d&eacute;shonor&eacute; eux-m&ecirc;mes leurs propres corps :
+ils ont changé la gloire du Dieu incorruptible contre une
+image représentant l’homme corruptible, et les oiseaux,
+et les quadrupèdes, et les reptiles. </ab>
+<ab n="24">C’est
+pourquoi Dieu les a livrés aux désirs de leur(s)
+cœur(s), à l’impureté, en sorte qu’ils
+ont déshonoré eux-mêmes leurs propres corps :
 </ab>
 <ab n="25">eux
-qui ont chang&eacute; la v&eacute;rit&eacute; de Dieu en mensonge, et
-qui ont ador&eacute; et servi la cr&eacute;ature au lieu du Cr&eacute;ateur,
-qui est b&eacute;ni dans tous les si&egrave;cles. Amen. </ab>
-<ab n="26">C&rsquo;est
-pourquoi Dieu les a livr&eacute;s &agrave; des passions honteuses ;
-car leurs femmes ont chang&eacute; l&rsquo;usage naturel en celui qui
+qui ont changé la vérité de Dieu en mensonge, et
+qui ont adoré et servi la créature au lieu du Créateur,
+qui est béni dans tous les siècles. Amen. </ab>
+<ab n="26">C’est
+pourquoi Dieu les a livrés à des passions honteuses ;
+car leurs femmes ont changé l’usage naturel en celui qui
 est contre la nature. </ab>
 <ab n="27">De
-m&ecirc;me aussi les hommes, abandonnant l&rsquo;usage naturel de la
-femme, se sont embras&eacute;s dans leurs d&eacute;sirs les uns pour
-les autres, les hommes commettant l&rsquo;infamie avec les hommes, et
-recevant en eux-m&ecirc;mes le salaire d&ucirc; &agrave; leur
-&eacute;garement. </ab>
+même aussi les hommes, abandonnant l’usage naturel de la
+femme, se sont embrasés dans leurs désirs les uns pour
+les autres, les hommes commettant l’infamie avec les hommes, et
+recevant en eux-mêmes le salaire dû à leur
+égarement. </ab>
 <ab n="28">Et
-comme ils n&rsquo;ont pas montr&eacute; qu&rsquo;ils avaient la
-connaissance de Dieu, Dieu les a livr&eacute;s &agrave; un sens
-r&eacute;prouv&eacute;, de sorte qu&rsquo;ils ont fait des choses qui
+comme ils n’ont pas montré qu’ils avaient la
+connaissance de Dieu, Dieu les a livrés à un sens
+réprouvé, de sorte qu’ils ont fait des choses qui
 ne conviennent pas : </ab>
 <ab n="29">remplis
-de toute iniquit&eacute;, de malice, de fornication, d&rsquo;avarice,
-de m&eacute;chancet&eacute; ; pleins d&rsquo;envie, de meurtre, de
-querelle, de ruse, de malignit&eacute; ; d&eacute;lateurs,
+de toute iniquité, de malice, de fornication, d’avarice,
+de méchanceté ; pleins d’envie, de meurtre, de
+querelle, de ruse, de malignité ; délateurs,
 </ab>
-<ab n="30">m&eacute;disants,
-ha&iuml;s de Dieu, insolents (violents), orgueilleux, hautains,
-inventeurs du mal, d&eacute;sob&eacute;issants &agrave; leurs
+<ab n="30">médisants,
+haïs de Dieu, insolents (violents), orgueilleux, hautains,
+inventeurs du mal, désobéissants à leurs
 parents, </ab>
 <ab n="31">inintelligents,
-dissolus, sans affection, sans loyaut&eacute;, sans mis&eacute;ricorde.
+dissolus, sans affection, sans loyauté, sans miséricorde.
 </ab>
 <ab n="32">Ayant
-connu la justice de Dieu, ils n&rsquo;ont pas compris que ceux qui
+connu la justice de Dieu, ils n’ont pas compris que ceux qui
 font de telles choses sont dignes de mort, et non seulement ceux qui
 les font, mais encore ceux qui approuvent ceux qui les font.
 </ab></div>
 <div type="chapter" n="2">
-<ab n="1">C&rsquo;est
-pourquoi tu es inexcusable, &ocirc; homme, qui que tu sois, qui juges
-les autres ; car en jugeant autrui, tu te condamnes toi-m&ecirc;me,
-puisque tu fais les choses m&ecirc;mes que tu juges. </ab>
+<ab n="1">C’est
+pourquoi tu es inexcusable, ô homme, qui que tu sois, qui juges
+les autres ; car en jugeant autrui, tu te condamnes toi-même,
+puisque tu fais les choses mêmes que tu juges. </ab>
 <ab n="2">Car
 nous savons que le jugement de Dieu contre ceux qui se conduisent
-ainsi est conforme &agrave; la v&eacute;rit&eacute;. </ab>
+ainsi est conforme à la vérité. </ab>
 <ab n="3">Penses-tu
-(donc), &ocirc; homme, qui juges ceux qui font de telles choses, et
-qui les fais toi-m&ecirc;me, que tu &eacute;chapperas au jugement de
+(donc), ô homme, qui juges ceux qui font de telles choses, et
+qui les fais toi-même, que tu échapperas au jugement de
 Dieu ? </ab>
 <ab n="4">Est-ce
-que tu m&eacute;prises les richesses de sa bont&eacute;, de sa
-patience et de sa longanimit&eacute; ? Ignores-tu que la bont&eacute;
-de Dieu t&rsquo;invite &agrave; la p&eacute;nitence ? </ab>
+que tu méprises les richesses de sa bonté, de sa
+patience et de sa longanimité ? Ignores-tu que la bonté
+de Dieu t’invite à la pénitence ? </ab>
 <ab n="5">Cependant,
-par ton endurcissement et par ton c&oelig;ur imp&eacute;nitent, tu
-t&rsquo;amasses un tr&eacute;sor de col&egrave;re pour le jour de la
-col&egrave;re et de la manifestation du juste jugement de Dieu, </ab>
+par ton endurcissement et par ton cœur impénitent, tu
+t’amasses un trésor de colère pour le jour de la
+colère et de la manifestation du juste jugement de Dieu, </ab>
 <ab n="6">qui
-rendra &agrave; chacun selon ses &oelig;uvres : </ab>
-<ab n="7">&agrave;
-ceux qui, par la pers&eacute;v&eacute;rance dans les bonnes &oelig;uvres,
-cherchent la gloire, l&rsquo;honneur et l&rsquo;immortalit&eacute;,
-la vie &eacute;ternelle ; </ab>
+rendra à chacun selon ses œuvres : </ab>
+<ab n="7">à
+ceux qui, par la persévérance dans les bonnes œuvres,
+cherchent la gloire, l’honneur et l’immortalité,
+la vie éternelle ; </ab>
 <ab n="8">mais
-&agrave; ceux qui ont l&rsquo;esprit de dispute, et qui ne se rendent
-pas &agrave; la v&eacute;rit&eacute;, mais qui suivent l&rsquo;iniquit&eacute;,
-la col&egrave;re et l&rsquo;indignation. </ab>
+à ceux qui ont l’esprit de dispute, et qui ne se rendent
+pas à la vérité, mais qui suivent l’iniquité,
+la colère et l’indignation. </ab>
 <ab n="9">Tribulation
-et angoisse sur toute &acirc;me d&rsquo;homme qui fait (le) mal : sur
-le Juif d&rsquo;abord, puis sur le Grec. </ab>
+et angoisse sur toute âme d’homme qui fait (le) mal : sur
+le Juif d’abord, puis sur le Grec. </ab>
 <ab n="10">Mais
 gloire et honneur et paix sur quiconque fait le bien : sur le Juif
-d&rsquo;abord, puis sur le Grec. </ab>
+d’abord, puis sur le Grec. </ab>
 <ab n="11">Car
 Dieu ne fait pas acception
 de(s) personnes. </ab>
 <ab n="12">Et
-ainsi tous ceux qui auront p&eacute;ch&eacute; sans avoir la loi,
-p&eacute;riront sans la loi ; et tous ceux qui auront p&eacute;ch&eacute;,
-ayant la loi, seront jug&eacute;s par la loi. </ab>
+ainsi tous ceux qui auront péché sans avoir la loi,
+périront sans la loi ; et tous ceux qui auront péché,
+ayant la loi, seront jugés par la loi. </ab>
 <ab n="13">[Car
 ce ne sont pas ceux qui entendent la loi qui sont justes devant Dieu
 ; mais ce sont ceux qui accomplissent (les observateurs de) la loi
-qui seront justifi&eacute;s. </ab>
+qui seront justifiés. </ab>
 <ab n="14">Lors
-donc que les pa&iuml;ens (gentils), qui n&rsquo;ont pas la loi, font
-naturellement ce que prescrit la loi, tout en n&rsquo;ayant pas
+donc que les païens (gentils), qui n’ont pas la loi, font
+naturellement ce que prescrit la loi, tout en n’ayant pas
 la loi, ils se
-tiennent &agrave; eux-m&ecirc;mes lieu de loi&nbsp;: </ab>
+tiennent à eux-mêmes lieu de loi&#160;: </ab>
 <ab n="15">Ils
-montrent que l&rsquo;&oelig;uvre de la loi est &eacute;crite dans
-leur c&oelig;ur, leur conscience leur rendant t&eacute;moignage, et
-leurs pens&eacute;es les accusant, ou m&ecirc;me les d&eacute;fendant
-tour &agrave; tour.] </ab>
+montrent que l’œuvre de la loi est écrite dans
+leur cœur, leur conscience leur rendant témoignage, et
+leurs pensées les accusant, ou même les défendant
+tour à tour.] </ab>
 <ab n="16">(on
-le verra) Au jour o&ugrave;, selon mon Evangile, Dieu jugera par
-J&eacute;sus-Christ les actions secr&egrave;tes des hommes. </ab>
+le verra) Au jour où, selon mon Evangile, Dieu jugera par
+Jésus-Christ les actions secrètes des hommes. </ab>
 <ab n="17">Mais
 toi, qui portes le nom de Juif, qui te reposes sur la loi, qui te
 glorifies en Dieu, </ab>
 <ab n="18">qui
-connais sa volont&eacute;, et qui, instruit par la loi, sais
+connais sa volonté, et qui, instruit par la loi, sais
 discerner ce qui est (le) plus utile, </ab>
 <ab n="19">tu
-te flattes d&rsquo;&ecirc;tre le guide des aveugles, la lumi&egrave;re
-de ceux qui sont dans les t&eacute;n&egrave;bres, </ab>
+te flattes d’être le guide des aveugles, la lumière
+de ceux qui sont dans les ténèbres, </ab>
 <ab n="20">le
-docteur des ignorants, le ma&icirc;tre des enfants, d&rsquo;avoir
-dans la loi la r&egrave;gle de la science et de la v&eacute;rit&eacute;.
+docteur des ignorants, le maître des enfants, d’avoir
+dans la loi la règle de la science et de la vérité.
 </ab>
 <ab n="21">Toi
-donc, qui instruis les autres, tu ne t&rsquo;instruis pas toi-m&ecirc;me
-; tu pr&ecirc;ches qu&rsquo;on ne doit pas voler, et tu voles ; </ab>
+donc, qui instruis les autres, tu ne t’instruis pas toi-même
+; tu prêches qu’on ne doit pas voler, et tu voles ; </ab>
 <ab n="22">tu
-dis de ne pas commettre d&rsquo;adult&egrave;res, et tu commets
-l&rsquo;adult&egrave;re ; tu as en abomination les idoles, et tu fais
-des sacril&egrave;ges ; </ab>
+dis de ne pas commettre d’adultères, et tu commets
+l’adultère ; tu as en abomination les idoles, et tu fais
+des sacrilèges ; </ab>
 <ab n="23">tu
-te glorifies dans la loi, et tu d&eacute;shonores Dieu par la
+te glorifies dans la loi, et tu déshonores Dieu par la
 transgression de la loi. </ab>
 <ab n="24">Car
-le nom de Dieu est blasph&eacute;m&eacute; &agrave; cause de vous
-parmi les nations, ainsi qu&rsquo;il est &eacute;crit. </ab>
+le nom de Dieu est blasphémé à cause de vous
+parmi les nations, ainsi qu’il est écrit. </ab>
 <ab n="25">(A
-la v&eacute;rit&eacute;,) La circoncision est utile, sans doute, si
+la vérité,) La circoncision est utile, sans doute, si
 tu accomplis la loi ; mais si tu transgresses la loi, avec ta
 circoncision tu deviens incirconcis. </ab>
 <ab n="26">Si
-donc l&rsquo;incirconcis observe les ordonnances de la loi, son
+donc l’incirconcis observe les ordonnances de la loi, son
 incirconcision ne sera-t-elle pas tenue pour circoncision ? </ab>
 <ab n="27">Et
-(bien plus) l&rsquo;incirconcis de nature, qui accomplit la loi, ne
+(bien plus) l’incirconcis de nature, qui accomplit la loi, ne
 te jugera-t-il pas, toi qui, avec la lettre de la loi et la
 circoncision, es un violateur de la loi ? </ab>
 <ab n="28">Car
-le Juif, ce n&rsquo;est pas celui qui l&rsquo;est au dehors ; et la
-circoncision n&rsquo;est pas celle qui para&icirc;t au dehors, dans
+le Juif, ce n’est pas celui qui l’est au dehors ; et la
+circoncision n’est pas celle qui paraît au dehors, dans
 la chair : </ab>
 <ab n="29">mais
-le Juif est celui qui l&rsquo;est int&eacute;rieurement, et la
-circoncision est celle du c&oelig;ur, qui a lieu selon l&rsquo;esprit,
+le Juif est celui qui l’est intérieurement, et la
+circoncision est celle du cœur, qui a lieu selon l’esprit,
 et non selon la lettre ; de ce Juif la louange ne vient pas des
 hommes, mais de Dieu.
 </ab></div>
 <div type="chapter" n="3">
 <ab n="1">Quelle
-est donc la pr&eacute;rogative du Juif ? ou quelle est l&rsquo;utilit&eacute;
+est donc la prérogative du Juif ? ou quelle est l’utilité
 de la circoncision ? </ab>
 <ab n="2">Elles
-sont grandes de toutes mani&egrave;res ; et premi&egrave;rement en ce
-que les oracles de Dieu ont &eacute;t&eacute; confi&eacute;s aux
+sont grandes de toutes manières ; et premièrement en ce
+que les oracles de Dieu ont été confiés aux
 Juifs. </ab>
-<ab n="3">Qu&rsquo;importe,
-en effet, si quelques-uns d&rsquo;entre eux n&rsquo;ont pas cru ?
-Leur incr&eacute;dulit&eacute; an&eacute;antira-t-elle la fid&eacute;lit&eacute;
+<ab n="3">Qu’importe,
+en effet, si quelques-uns d’entre eux n’ont pas cru ?
+Leur incrédulité anéantira-t-elle la fidélité
 de Dieu ? Non, certes (sans doute). </ab>
 <ab n="4">Dieu
-est v&eacute;ridique, et tout homme est menteur, selon ce qu&rsquo;il
-est &eacute;crit : Afin que vous soyez reconnu fid&egrave;le dans vos
-paroles, et que vous triomphiez lorsqu&rsquo;on vous juge. </ab>
+est véridique, et tout homme est menteur, selon ce qu’il
+est écrit : Afin que vous soyez reconnu fidèle dans vos
+paroles, et que vous triomphiez lorsqu’on vous juge. </ab>
 <ab n="5">Mais
-si notre iniquit&eacute; met en relief la justice de Dieu, que
-dirons-nous ? Dieu n&rsquo;est-il pas injuste en laissant agir sa
-col&egrave;re ? </ab>
+si notre iniquité met en relief la justice de Dieu, que
+dirons-nous ? Dieu n’est-il pas injuste en laissant agir sa
+colère ? </ab>
 <ab n="6">(Je
-parle &agrave; la mani&egrave;re des hommes.) Non, certes (pas
+parle à la manière des hommes.) Non, certes (pas
 du tout) ;
 autrement, comment Dieu jugerait-il ce monde ? </ab>
 <ab n="7">Car
-si, par mon mensonge (infid&eacute;lit&eacute;), la v&eacute;rit&eacute;
-de Dieu a &eacute;clat&eacute; davantage pour sa gloire, pourquoi
-suis-je moi-m&ecirc;me encore jug&eacute; comme p&eacute;cheur ? </ab>
+si, par mon mensonge (infidélité), la vérité
+de Dieu a éclaté davantage pour sa gloire, pourquoi
+suis-je moi-même encore jugé comme pécheur ? </ab>
 <ab n="8">Et
-pourquoi ne ferions-nous pas le mal afin qu&rsquo;il en arrive du
+pourquoi ne ferions-nous pas le mal afin qu’il en arrive du
 bien (comme quelques-uns, qui nous calomnient, nous accusent de dire)
 ? Leur condamnation est juste. </ab>
 <ab n="9">Quoi
-donc ? L&rsquo;emportons-nous sur eux ? Nullement ; car nous avons
-d&eacute;j&agrave; prouv&eacute; que les Juifs et les Grecs sont tous
-sous l&rsquo;empire du p&eacute;ch&eacute; ; </ab>
+donc ? L’emportons-nous sur eux ? Nullement ; car nous avons
+déjà prouvé que les Juifs et les Grecs sont tous
+sous l’empire du péché ; </ab>
 <ab n="10">selon
-qu&rsquo;il est &eacute;crit : Il n&rsquo;y a pas un seul juste.
+qu’il est écrit : Il n’y a pas un seul juste.
 </ab>
 <ab n="11">Nul
-n&rsquo;est intelligent (ne comprend), personne ne cherche Dieu.
+n’est intelligent (ne comprend), personne ne cherche Dieu.
 </ab>
 <ab n="12">Ils
-se sont tous &eacute;gar&eacute;s, ils sont tous devenus inutiles ;
-il n&rsquo;y en a pas qui
-fasse le bien, il n&rsquo;y en a pas un seul. </ab>
+se sont tous égarés, ils sont tous devenus inutiles ;
+il n’y en a pas qui
+fasse le bien, il n’y en a pas un seul. </ab>
 <ab n="13">Leur
-gosier est un s&eacute;pulcre ouvert ; ils se sont servis de leurs
-langues pour tromper ; un venin d&rsquo;aspic est sous leurs l&egrave;vres.
+gosier est un sépulcre ouvert ; ils se sont servis de leurs
+langues pour tromper ; un venin d’aspic est sous leurs lèvres.
 </ab>
 <ab n="14">Leur
-bouche est pleine de mal&eacute;diction et d&rsquo;amertume. </ab>
+bouche est pleine de malédiction et d’amertume. </ab>
 <ab n="15">Leurs
-pieds sont agiles pour r&eacute;pandre le sang. </ab>
+pieds sont agiles pour répandre le sang. </ab>
 <ab n="16">La
-d&eacute;solation et le malheur sont sur leurs voies, </ab>
+désolation et le malheur sont sur leurs voies, </ab>
 <ab n="17">et
 ils ne connaissent pas le
 chemin de la paix. </ab>
 <ab n="18">La
-crainte de Dieu n&rsquo;est pas devant les (leurs) yeux. </ab>
+crainte de Dieu n’est pas devant les (leurs) yeux. </ab>
 <ab n="19">Or
-nous savons que tout ce que dit la loi, elle le dit &agrave; ceux qui
-sont sous la loi, afin que toute bouche soit ferm&eacute;e, et que
-tout le monde devienne soumis &agrave; Dieu ; </ab>
+nous savons que tout ce que dit la loi, elle le dit à ceux qui
+sont sous la loi, afin que toute bouche soit fermée, et que
+tout le monde devienne soumis à Dieu ; </ab>
 <ab n="20">car
-nulle chair ne sera justifi&eacute;e devant lui par les &oelig;uvres
-de la loi, puisque c&rsquo;est par la loi que vient la connaissance
-du p&eacute;ch&eacute;. </ab>
+nulle chair ne sera justifiée devant lui par les œuvres
+de la loi, puisque c’est par la loi que vient la connaissance
+du péché. </ab>
 <ab n="21">Mais
-maintenant, sans la loi, a &eacute;t&eacute; manifest&eacute;e la
-justice de Dieu, &agrave; laquelle la loi et les proph&egrave;tes
-rendent t&eacute;moignage. </ab>
+maintenant, sans la loi, a été manifestée la
+justice de Dieu, à laquelle la loi et les prophètes
+rendent témoignage. </ab>
 <ab n="22">Or
-la justice de Dieu par la foi en J&eacute;sus-Christ est pour tous
-ceux et sur tous ceux qui croient en lui. Car il n&rsquo;y a pas de
+la justice de Dieu par la foi en Jésus-Christ est pour tous
+ceux et sur tous ceux qui croient en lui. Car il n’y a pas de
 distinction, </ab>
 <ab n="23">parce
-que tous ont p&eacute;ch&eacute;, et ont besoin de la gloire de Dieu,
+que tous ont péché, et ont besoin de la gloire de Dieu,
 </ab>
-<ab n="24">&eacute;tant
-justifi&eacute;s gratuitement par sa gr&acirc;ce, par la r&eacute;demption
-qui est en J&eacute;sus-Christ. </ab>
-<ab n="25">C&rsquo;est
-lui que Dieu avait destin&eacute; &agrave; &ecirc;tre une victime de
+<ab n="24">étant
+justifiés gratuitement par sa grâce, par la rédemption
+qui est en Jésus-Christ. </ab>
+<ab n="25">C’est
+lui que Dieu avait destiné à être une victime de
 propitiation, par la foi en son sang, pour manifester sa justice par
-le pardon des p&eacute;ch&eacute;s pass&eacute;s, </ab>
+le pardon des péchés passés, </ab>
 <ab n="26">que
-Dieu a support&eacute;s (avec tant de patience) ; pour manifester,
-dis-je, sa justice dans le temps pr&eacute;sent, montrant qu&rsquo;il
-est juste, et qu&rsquo;il justifie celui qui a la foi en
-J&eacute;sus-Christ. </ab>
-<ab n="27">O&ugrave;
+Dieu a supportés (avec tant de patience) ; pour manifester,
+dis-je, sa justice dans le temps présent, montrant qu’il
+est juste, et qu’il justifie celui qui a la foi en
+Jésus-Christ. </ab>
+<ab n="27">Où
 est donc le sujet de te glorifier ? Il est exclu. Par quelle loi ?
-celle des &oelig;uvres ? Non ; mais par la loi de la foi. </ab>
+celle des œuvres ? Non ; mais par la loi de la foi. </ab>
 <ab n="28">Car
-nous estimons (reconnaissons) que l&rsquo;homme est justifi&eacute;
-par la foi, sans les &oelig;uvres de la loi. </ab>
+nous estimons (reconnaissons) que l’homme est justifié
+par la foi, sans les œuvres de la loi. </ab>
 <ab n="29">Dieu
-est-il seulement le Dieu des Juifs ? ne l&rsquo;est-il pas aussi des
-pa&iuml;ens (gentils) ? Oui, il l&rsquo;est aussi des pa&iuml;ens
+est-il seulement le Dieu des Juifs ? ne l’est-il pas aussi des
+païens (gentils) ? Oui, il l’est aussi des païens
 (gentils). </ab>
 <ab n="30">Car
-il n&rsquo;y a qu&rsquo;un seul Dieu, qui justifie les circoncis par
+il n’y a qu’un seul Dieu, qui justifie les circoncis par
 la foi, et les incirconcis par la foi. </ab>
-<ab n="31">D&eacute;truisons-nous
-donc la loi par la foi ? Loin de l&agrave; ! au contraire, nous
-&eacute;tablissons la loi.
+<ab n="31">Détruisons-nous
+donc la loi par la foi ? Loin de là ! au contraire, nous
+établissons la loi.
 </ab></div>
 <div type="chapter" n="4">
 <ab n="1">Quel
-avantage dirons-nous donc qu&rsquo;Abraham, notre p&egrave;re, a
+avantage dirons-nous donc qu’Abraham, notre père, a
 obtenu selon la chair ? </ab>
 <ab n="2">Car
-si Abraham a &eacute;t&eacute; justifi&eacute; par les &oelig;uvres,
+si Abraham a été justifié par les œuvres,
 il a sujet de se glorifier, mais non devant Dieu. </ab>
 <ab n="3">En
-effet, que dit l&rsquo;Ecriture ? Abraham crut &agrave; Dieu, et cela
-lui fut imput&eacute; &agrave; justice. </ab>
+effet, que dit l’Ecriture ? Abraham crut à Dieu, et cela
+lui fut imputé à justice. </ab>
 <ab n="4">Or
-&agrave; celui qui fait une &oelig;uvre, le salaire est imput&eacute;,
-non comme une gr&acirc;ce, mais comme une dette. </ab>
+à celui qui fait une œuvre, le salaire est imputé,
+non comme une grâce, mais comme une dette. </ab>
 <ab n="5">Et
-&agrave; celui qui ne fait pas d&rsquo;&oelig;uvres, mais qui croit
-en celui qui justifie l&rsquo;impie, sa foi lui est imput&eacute;e &agrave;
-justice, selon le d&eacute;cret de la gr&acirc;ce de Dieu. </ab>
-<ab n="6">C&rsquo;est
-ainsi que David parle du bonheur de l&rsquo;homme agr&eacute;able &agrave;
-Dieu, &agrave; qui la justice est imput&eacute;e sans les &oelig;uvres
+à celui qui ne fait pas d’œuvres, mais qui croit
+en celui qui justifie l’impie, sa foi lui est imputée à
+justice, selon le décret de la grâce de Dieu. </ab>
+<ab n="6">C’est
+ainsi que David parle du bonheur de l’homme agréable à
+Dieu, à qui la justice est imputée sans les œuvres
 : </ab>
 <ab n="7">Heureux
-ceux dont les iniquit&eacute;s sont pardonn&eacute;es, et dont les
-p&eacute;ch&eacute;s sont couverts. </ab>
+ceux dont les iniquités sont pardonnées, et dont les
+péchés sont couverts. </ab>
 <ab n="8">Heureux
-l&rsquo;homme &agrave; qui Dieu (le Seigneur) n&rsquo;a pas
-imput&eacute; de
-p&eacute;ch&eacute;. </ab>
+l’homme à qui Dieu (le Seigneur) n’a pas
+imputé de
+péché. </ab>
 <ab n="9">Or
-ce bonheur (cette b&eacute;atitude) est-il seulement pour les
+ce bonheur (cette béatitude) est-il seulement pour les
 circoncis, ou est-il aussi pour les incirconcis ? Car nous disons que
-la foi d&rsquo;Abraham lui fut imput&eacute;e &agrave; justice.
+la foi d’Abraham lui fut imputée à justice.
 </ab>
 <ab n="10">Comment
-(Quand) donc lui a-t-elle &eacute;t&eacute; imput&eacute;e ? Est-ce
-apr&egrave;s sa circoncision, ou lorsqu&rsquo;il &eacute;tait
-incirconcis ? Ce n&rsquo;est pas apr&egrave;s la circoncision, mais
-lorsqu&rsquo;il &eacute;tait incirconcis. </ab>
+(Quand) donc lui a-t-elle été imputée ? Est-ce
+après sa circoncision, ou lorsqu’il était
+incirconcis ? Ce n’est pas après la circoncision, mais
+lorsqu’il était incirconcis. </ab>
 <ab n="11">Et
-il re&ccedil;ut le signe de la circoncision comme sceau de la justice
-qu&rsquo;il avait obtenue par la foi, lorsqu&rsquo;il &eacute;tait
-encore incirconcis ; afin d&rsquo;&ecirc;tre le p&egrave;re de tous
-ceux qui croient n&rsquo;&eacute;tant pas circoncis, pour que leur
-foi leur soit aussi imput&eacute;e &agrave; justice ; </ab>
+il reçut le signe de la circoncision comme sceau de la justice
+qu’il avait obtenue par la foi, lorsqu’il était
+encore incirconcis ; afin d’être le père de tous
+ceux qui croient n’étant pas circoncis, pour que leur
+foi leur soit aussi imputée à justice ; </ab>
 <ab n="12">et
-d&rsquo;&ecirc;tre le p&egrave;re des circoncis, qui non seulement
-ont re&ccedil;u la circoncision, mais encore qui suivent les traces
-de la foi que notre p&egrave;re Abraham eut lorsqu&rsquo;il &eacute;tait
+d’être le père des circoncis, qui non seulement
+ont reçu la circoncision, mais encore qui suivent les traces
+de la foi que notre père Abraham eut lorsqu’il était
 encore incirconcis. </ab>
 <ab n="13">En
-effet, ce n&rsquo;est pas par
-la loi qu&rsquo;a &eacute;t&eacute; faite &agrave; Abraham, ou &agrave;
-sa post&eacute;rit&eacute;, la promesse d&rsquo;avoir le monde pour
-h&eacute;ritage ; mais c&rsquo;est par la justice de la foi. </ab>
+effet, ce n’est pas par
+la loi qu’a été faite à Abraham, ou à
+sa postérité, la promesse d’avoir le monde pour
+héritage ; mais c’est par la justice de la foi. </ab>
 <ab n="14">Car
-si les h&eacute;ritiers le sont par la loi, la foi est rendue vaine,
+si les héritiers le sont par la loi, la foi est rendue vaine,
 la promesse est abolie. </ab>
 <ab n="15">En
-effet, la loi produit la col&egrave;re, puisque, l&agrave; o&ugrave;
-il n&rsquo;y a pas de loi, il n&rsquo;y a pas de transgression
-(pr&eacute;varication). </ab>
-<ab n="16">C&rsquo;est
-donc par la foi que vient l&rsquo;h&eacute;ritage (la promesse), afin
-qu&rsquo;elle soit gratuite et assur&eacute;e &agrave; toute la
-post&eacute;rit&eacute; d&rsquo;Abraham, non seulement &agrave; celle
-qui a re&ccedil;u la loi, mais encore &agrave; celle qui a la foi
-d&rsquo;Abraham, notre p&egrave;re &agrave; tous. </ab>
+effet, la loi produit la colère, puisque, là où
+il n’y a pas de loi, il n’y a pas de transgression
+(prévarication). </ab>
+<ab n="16">C’est
+donc par la foi que vient l’héritage (la promesse), afin
+qu’elle soit gratuite et assurée à toute la
+postérité d’Abraham, non seulement à celle
+qui a reçu la loi, mais encore à celle qui a la foi
+d’Abraham, notre père à tous. </ab>
 <ab n="17">(selon
-qu&rsquo;il est &eacute;crit : Je t&rsquo;ai &eacute;tabli le p&egrave;re
-de nations nombreuses) ; il l&rsquo;est devant Dieu, auquel il a cru,
+qu’il est écrit : Je t’ai établi le père
+de nations nombreuses) ; il l’est devant Dieu, auquel il a cru,
 qui rend la vie aux morts, et qui appelle les choses qui ne sont pas,
 comme celles qui sont. </ab>
 <ab n="18">Ayant
-esp&eacute;r&eacute; contre l&rsquo;esp&eacute;rance (m&ecirc;me), il
-a cru qu&rsquo;il deviendrait le p&egrave;re de nations nombreuses,
-selon qu&rsquo;il lui avait &eacute;t&eacute; dit : Telle sera ta
-post&eacute;rit&eacute;. </ab>
+espéré contre l’espérance (même), il
+a cru qu’il deviendrait le père de nations nombreuses,
+selon qu’il lui avait été dit : Telle sera ta
+postérité. </ab>
 <ab n="19">Il
-ne s&rsquo;affaiblit pas dans sa foi, et il ne consid&eacute;ra pas
-que son corps &eacute;tait
-us&eacute;, puisqu&rsquo;il avait d&eacute;j&agrave; pr&egrave;s de
-cent ans, et que Sara n&rsquo;&eacute;tait plus en &eacute;tat
-d&rsquo;avoir des enfants. </ab>
+ne s’affaiblit pas dans sa foi, et il ne considéra pas
+que son corps était
+usé, puisqu’il avait déjà près de
+cent ans, et que Sara n’était plus en état
+d’avoir des enfants. </ab>
 <ab n="20">Il
-n&rsquo;h&eacute;sita pas, par d&eacute;fiance, au sujet de la
-promesse, rendant gloire &agrave; Dieu, </ab>
-<ab n="21">tr&egrave;s
-pleinement persuad&eacute; qu&rsquo;il est puissant pour faire tout
-ce qu&rsquo;il a promis. </ab>
-<ab n="22">C&rsquo;est
-pourquoi cela lui a &eacute;t&eacute; imput&eacute; &agrave; justice.
+n’hésita pas, par défiance, au sujet de la
+promesse, rendant gloire à Dieu, </ab>
+<ab n="21">très
+pleinement persuadé qu’il est puissant pour faire tout
+ce qu’il a promis. </ab>
+<ab n="22">C’est
+pourquoi cela lui a été imputé à justice.
 </ab>
 <ab n="23">Mais
-ce n&rsquo;est pas pour lui seul qu&rsquo;il est &eacute;crit que
-cela a &eacute;t&eacute; imput&eacute; &agrave; justice ; </ab>
-<ab n="24">c&rsquo;est
-aussi pour nous, &agrave; qui cela sera imput&eacute; de m&ecirc;me ;
-pour nous qui croyons en celui qui a ressuscit&eacute; d&rsquo;entre
-les morts J&eacute;sus-Christ Notre Seigneur, </ab>
+ce n’est pas pour lui seul qu’il est écrit que
+cela a été imputé à justice ; </ab>
+<ab n="24">c’est
+aussi pour nous, à qui cela sera imputé de même ;
+pour nous qui croyons en celui qui a ressuscité d’entre
+les morts Jésus-Christ Notre Seigneur, </ab>
 <ab n="25">lequel
-a &eacute;t&eacute; livr&eacute; pour nos p&eacute;ch&eacute;s, et
-qui est ressuscit&eacute; pour notre justification.</ab></div>
+a été livré pour nos péchés, et
+qui est ressuscité pour notre justification.</ab></div>
 <div type="chapter" n="5">
 <ab n="1">Etant
-donc justifi&eacute;s par la foi, ayons (nous avons) la paix avec
-Dieu par Notre-Seigneur J&eacute;sus-Christ, </ab>
-<ab n="2">&agrave;
-qui nous devons aussi d&rsquo;avoir acc&egrave;s par la foi &agrave;
-cette gr&acirc;ce, dans laquelle nous demeurons fermes (nous sommes
-&eacute;tablis), et de nous glorifier dans l&rsquo;esp&eacute;rance
+donc justifiés par la foi, ayons (nous avons) la paix avec
+Dieu par Notre-Seigneur Jésus-Christ, </ab>
+<ab n="2">à
+qui nous devons aussi d’avoir accès par la foi à
+cette grâce, dans laquelle nous demeurons fermes (nous sommes
+établis), et de nous glorifier dans l’espérance
 de la gloire des enfants de Dieu. </ab>
 <ab n="3">Et
-non seulement cela, mais nous nous glorifions m&ecirc;me dans les
-afflictions (tribulations), sachant que l&rsquo;affliction
+non seulement cela, mais nous nous glorifions même dans les
+afflictions (tribulations), sachant que l’affliction
 (tribulation) produit la patience ; </ab>
 <ab n="4">la
-patience l&rsquo;&eacute;preuve, et l&rsquo;&eacute;preuve
-l&rsquo;esp&eacute;rance&nbsp;; </ab>
+patience l’épreuve, et l’épreuve
+l’espérance&#160;; </ab>
 <ab n="5
 ">(or
-l&rsquo;esp&eacute;rance ne confond pas,) parce que l&rsquo;amour (la
-charit&eacute;) de Dieu a &eacute;t&eacute; r&eacute;pandu dans nos
-c&oelig;urs par l&rsquo;Esprit-Saint, qui nous a &eacute;t&eacute;
-donn&eacute;. </ab>
+l’espérance ne confond pas,) parce que l’amour (la
+charité) de Dieu a été répandu dans nos
+cœurs par l’Esprit-Saint, qui nous a été
+donné. </ab>
 <ab n="6">Car
-pourquoi, lorsque nous &eacute;tions encore faibles (infirmes), le
-Christ est-il mort, au temps marqu&eacute;, pour les impies ? </ab>
+pourquoi, lorsque nous étions encore faibles (infirmes), le
+Christ est-il mort, au temps marqué, pour les impies ? </ab>
 <ab n="7">Car
-&agrave; peine quelqu&rsquo;un mourrait-il pour un juste ; peut-&ecirc;tre,
-n&eacute;anmoins, quelqu&rsquo;un se r&eacute;soudrait-il &agrave;
+à peine quelqu’un mourrait-il pour un juste ; peut-être,
+néanmoins, quelqu’un se résoudrait-il à
 mourir pour un homme de bien. </ab>
 <ab n="8">Mais
-Dieu fait &eacute;clater (t&eacute;moigne) son amour pour nous en ce
-que, lorsque nous &eacute;tions encore des p&eacute;cheurs, (au temps
-marqu&eacute;) </ab>
+Dieu fait éclater (témoigne) son amour pour nous en ce
+que, lorsque nous étions encore des pécheurs, (au temps
+marqué) </ab>
 <ab n="9">le
 Christ est mort pour nous. A plus forte raison donc, maintenant que
-nous avons &eacute;t&eacute; justifi&eacute;s dans son sang,
-serons-nous sauv&eacute;s par lui de la col&egrave;re. </ab>
+nous avons été justifiés dans son sang,
+serons-nous sauvés par lui de la colère. </ab>
 <ab n="10">En
-effet, si, lorsque nous &eacute;tions ennemis, nous avons &eacute;t&eacute;
-r&eacute;concili&eacute;s avec Dieu par la mort de son Fils, &agrave;
-plus forte raison, &eacute;tant r&eacute;concili&eacute;s,
-serons-nous sauv&eacute;s par sa vie. </ab>
+effet, si, lorsque nous étions ennemis, nous avons été
+réconciliés avec Dieu par la mort de son Fils, à
+plus forte raison, étant réconciliés,
+serons-nous sauvés par sa vie. </ab>
 <ab n="11">Et
 non seulement cela, mais encore nous nous glorifions en Dieu par
-Notre-Seigneur J&eacute;sus-Christ, par qui maintenant nous avons
-obtenu la r&eacute;conciliation. </ab>
-<ab n="12">C&rsquo;est
-pourquoi, de m&ecirc;me que par un seul homme le p&eacute;ch&eacute;
-est entr&eacute; dans ce monde, et par le p&eacute;ch&eacute; la
-mort, ainsi la mort a pass&eacute; dans tous les hommes, par celui en
-qui tous ont p&eacute;ch&eacute;. </ab>
+Notre-Seigneur Jésus-Christ, par qui maintenant nous avons
+obtenu la réconciliation. </ab>
+<ab n="12">C’est
+pourquoi, de même que par un seul homme le péché
+est entré dans ce monde, et par le péché la
+mort, ainsi la mort a passé dans tous les hommes, par celui en
+qui tous ont péché. </ab>
 <ab n="13">Car
-jusqu&rsquo;&agrave; la loi le p&eacute;ch&eacute; &eacute;tait dans
-le monde ; mais le p&eacute;ch&eacute; n&rsquo;&eacute;tait pas
-imput&eacute;, puisque la loi n&rsquo;existait pas. </ab>
+jusqu’à la loi le péché était dans
+le monde ; mais le péché n’était pas
+imputé, puisque la loi n’existait pas. </ab>
 <ab n="14">Cependant
-la mort a r&eacute;gn&eacute; depuis Adam jusqu&rsquo;&agrave; Mo&iuml;se,
-m&ecirc;me sur ceux qui n&rsquo;avaient pas p&eacute;ch&eacute; par
-une transgression semblable &agrave; celle d&rsquo;Adam, qui est la
+la mort a régné depuis Adam jusqu’à Moïse,
+même sur ceux qui n’avaient pas péché par
+une transgression semblable à celle d’Adam, qui est la
 figure de celui qui devait venir. </ab>
 <ab n="15">Mais
-il n&rsquo;en est pas du don comme du p&eacute;ch&eacute; : car si,
-par le p&eacute;ch&eacute; d&rsquo;un seul, beaucoup sont morts, &agrave;
-plus forte raison la gr&acirc;ce et le don de Dieu se sont-ils
-r&eacute;pandus abondamment sur un grand nombre par la gr&acirc;ce
-d&rsquo;un seul homme, J&eacute;sus-Christ. </ab>
+il n’en est pas du don comme du péché : car si,
+par le péché d’un seul, beaucoup sont morts, à
+plus forte raison la grâce et le don de Dieu se sont-ils
+répandus abondamment sur un grand nombre par la grâce
+d’un seul homme, Jésus-Christ. </ab>
 <ab n="16">Et
-il n&rsquo;en est pas du don comme du p&eacute;ch&eacute; unique
+il n’en est pas du don comme du péché unique
 (venu par un seul) ; car le jugement est devenu condamnation pour un
-seul p&eacute;ch&eacute; (vient d&rsquo;un seul), tandis que la gr&acirc;ce
-est devenue (de la) justification apr&egrave;s (d&eacute;livre de)
+seul péché (vient d’un seul), tandis que la grâce
+est devenue (de la) justification après (délivre de)
 des fautes nombreuses. </ab>
 <ab n="17">Si
-donc, par la faute d&rsquo;un seul, la mort a r&eacute;gn&eacute; par
-ce seul homme, &agrave; plus forte raison ceux qui re&ccedil;oivent
-l&rsquo;abondance de la gr&acirc;ce, et du don, et de la justice,
-r&eacute;gneront-ils dans la vie par un seul, J&eacute;sus-Christ.
+donc, par la faute d’un seul, la mort a régné par
+ce seul homme, à plus forte raison ceux qui reçoivent
+l’abondance de la grâce, et du don, et de la justice,
+régneront-ils dans la vie par un seul, Jésus-Christ.
 </ab>
 <ab n="18">Ainsi
-donc, de m&ecirc;me que par la faute d&rsquo;un seul, la condamnation
-atteint tous les hommes, de m&ecirc;me, par la justice d&rsquo;un
-seul, la justification qui donne la vie s&rsquo;&eacute;tend &agrave;
+donc, de même que par la faute d’un seul, la condamnation
+atteint tous les hommes, de même, par la justice d’un
+seul, la justification qui donne la vie s’étend à
 tous les hommes. </ab>
 <ab n="19">Car,
-comme beaucoup sont devenus p&eacute;cheurs par la d&eacute;sob&eacute;issance
-d&rsquo;un seul homme, de m&ecirc;me beaucoup seront rendus justes
-par l&rsquo;ob&eacute;issance d&rsquo;un seul. </ab>
+comme beaucoup sont devenus pécheurs par la désobéissance
+d’un seul homme, de même beaucoup seront rendus justes
+par l’obéissance d’un seul. </ab>
 <ab n="20">Or
-la loi est survenue pour que la faute abond&acirc;t ; mais l&agrave;
-o&ugrave; la faute a abond&eacute;, la gr&acirc;ce a surabond&eacute;,
+la loi est survenue pour que la faute abondât ; mais là
+où la faute a abondé, la grâce a surabondé,
 </ab>
 <ab n="21">afin
-que, comme le p&eacute;ch&eacute; a r&eacute;gn&eacute; pour la mort,
-de m&ecirc;me la gr&acirc;ce r&eacute;gn&acirc;t aussi par la justice
-pour la vie &eacute;ternelle, par J&eacute;sus-Christ Notre-Seigneur.
+que, comme le péché a régné pour la mort,
+de même la grâce régnât aussi par la justice
+pour la vie éternelle, par Jésus-Christ Notre-Seigneur.
 </ab></div>
 <div type="chapter" n="6">
 <ab n="1">Que
-dirons-nous ? Demeurerons-nous dans le p&eacute;ch&eacute; pour que
-la gr&acirc;ce abonde ? </ab>
+dirons-nous ? Demeurerons-nous dans le péché pour que
+la grâce abonde ? </ab>
 <ab n="2">Loin
-de l&agrave; ! Car nous qui sommes morts au p&eacute;ch&eacute;,
+de là ! Car nous qui sommes morts au péché,
 comment vivrions-nous encore en lui ? </ab>
 <ab n="3">Ignorez-vous
-que nous tous qui avons &eacute;t&eacute; baptis&eacute;s en
-J&eacute;sus-Christ, c&rsquo;est en sa mort que nous avons &eacute;t&eacute;
-baptis&eacute;s ? </ab>
+que nous tous qui avons été baptisés en
+Jésus-Christ, c’est en sa mort que nous avons été
+baptisés ? </ab>
 <ab n="4">Car
-nous avons &eacute;t&eacute; ensevelis avec lui par le bapt&ecirc;me
-pour mourir, afin que, comme le Christ est ressuscit&eacute; d&rsquo;entre
-les morts par la gloire du P&egrave;re, de m&ecirc;me nous aussi nous
+nous avons été ensevelis avec lui par le baptême
+pour mourir, afin que, comme le Christ est ressuscité d’entre
+les morts par la gloire du Père, de même nous aussi nous
 marchions dans une vie nouvelle. </ab>
 <ab n="5">Car
-si nous avons &eacute;t&eacute; faits une m&ecirc;me plante avec lui
-par une mort semblable &agrave; la sienne, nous le serons aussi par
-une r&eacute;surrection semblable ; </ab>
+si nous avons été faits une même plante avec lui
+par une mort semblable à la sienne, nous le serons aussi par
+une résurrection semblable ; </ab>
 <ab n="6">sachant
-que notre vieil homme a &eacute;t&eacute; crucifi&eacute; avec lui,
-afin que le corps du p&eacute;ch&eacute; soit d&eacute;truit, et que
-d&eacute;sormais nous ne soyons plus esclaves du p&eacute;ch&eacute;.
+que notre vieil homme a été crucifié avec lui,
+afin que le corps du péché soit détruit, et que
+désormais nous ne soyons plus esclaves du péché.
 </ab>
 <ab n="7">Car
-celui qui est mort est justifi&eacute; du p&eacute;ch&eacute;. </ab>
+celui qui est mort est justifié du péché. </ab>
 <ab n="8">Or,
 si nous sommes morts avec le Christ, nous croyons que nous vivrons
 aussi avec le Christ, </ab>
 <ab n="9">sachant
-que le Christ ressuscit&eacute; d&rsquo;entre les morts ne meurt
-plus, que la mort n&rsquo;aura plus d&rsquo;empire sur lui. </ab>
+que le Christ ressuscité d’entre les morts ne meurt
+plus, que la mort n’aura plus d’empire sur lui. </ab>
 <ab n="10">Car
-en tant qu&rsquo;il est mort pour le p&eacute;ch&eacute;, il est mort
-une fois pour toutes ; mais en tant qu&rsquo;il vit, il vit pour
+en tant qu’il est mort pour le péché, il est mort
+une fois pour toutes ; mais en tant qu’il vit, il vit pour
 Dieu. </ab>
 <ab n="11">Vous
-donc aussi, regardez-vous comme morts au p&eacute;ch&eacute;, et
-comme vivants pour (&agrave;) Dieu en J&eacute;sus-Christ Notre
+donc aussi, regardez-vous comme morts au péché, et
+comme vivants pour (à) Dieu en Jésus-Christ Notre
 Seigneur. </ab>
 <ab n="12">Que
-le p&eacute;ch&eacute; ne r&egrave;gne donc pas dans
-votre corps mortel, en sorte que vous ob&eacute;issiez &agrave; ses
+le péché ne règne donc pas dans
+votre corps mortel, en sorte que vous obéissiez à ses
 convoitises. </ab>
 <ab n="13">Et
-n&rsquo;abandonnez pas vos membres au p&eacute;ch&eacute; comme des
-armes d&rsquo;iniquit&eacute; ; mais donnez-vous &agrave; Dieu comme
-devenus vivants, de morts que vous &eacute;tiez, et donnez &agrave;
+n’abandonnez pas vos membres au péché comme des
+armes d’iniquité ; mais donnez-vous à Dieu comme
+devenus vivants, de morts que vous étiez, et donnez à
 Dieu vos membres comme des armes (instruments) de justice. </ab>
 <ab n="14">Car
-le p&eacute;ch&eacute; n&rsquo;aura pas d&rsquo;empire
-sur vous, puisque vous n&rsquo;&ecirc;tes plus sous la loi, mais sous
-la gr&acirc;ce. </ab>
+le péché n’aura pas d’empire
+sur vous, puisque vous n’êtes plus sous la loi, mais sous
+la grâce. </ab>
 <ab n="15">Quoi
-donc ! P&eacute;cherons-nous parce que nous ne sommes plus sous la
-loi, mais sous la gr&acirc;ce ? Loin de l&agrave; ! </ab>
+donc ! Pécherons-nous parce que nous ne sommes plus sous la
+loi, mais sous la grâce ? Loin de là ! </ab>
 <ab n="16">Ne
-savez-vous pas que lorsque vous vous faites les esclaves de quelqu&rsquo;un
-pour lui ob&eacute;ir, vous &ecirc;tes esclaves de celui &agrave; qui
-vous ob&eacute;issez, soit du p&eacute;ch&eacute; pour y trouver la
-mort, soit de l&rsquo;ob&eacute;issance pour y trouver la justice ?
+savez-vous pas que lorsque vous vous faites les esclaves de quelqu’un
+pour lui obéir, vous êtes esclaves de celui à qui
+vous obéissez, soit du péché pour y trouver la
+mort, soit de l’obéissance pour y trouver la justice ?
 </ab>
 <ab n="17">Mais
-gr&acirc;ces soient rendues &agrave; Dieu de ce qu&rsquo;apr&egrave;s
-avoir &eacute;t&eacute; esclaves du p&eacute;ch&eacute;, vous avez
-ob&eacute;i (du fond) de c&oelig;ur au mod&egrave;le de doctrine sur
-lequel vous avez &eacute;t&eacute; form&eacute;s. </ab>
+grâces soient rendues à Dieu de ce qu’après
+avoir été esclaves du péché, vous avez
+obéi (du fond) de cœur au modèle de doctrine sur
+lequel vous avez été formés. </ab>
 <ab n="18">Ainsi,
-ayant &eacute;t&eacute; affranchis du p&eacute;ch&eacute;, vous &ecirc;tes
+ayant été affranchis du péché, vous êtes
 devenus esclaves de la justice. </ab>
 <ab n="19">Je
-parle &agrave; la mani&egrave;re des hommes, &agrave; cause de la
-faiblesse de votre chair. Car de m&ecirc;me que vous avez livr&eacute;
-vos membres au service de l&rsquo;impuret&eacute; et de l&rsquo;iniquit&eacute;,
-pour commettre l&rsquo;iniquit&eacute;, livrez-les de m&ecirc;me
+parle à la manière des hommes, à cause de la
+faiblesse de votre chair. Car de même que vous avez livré
+vos membres au service de l’impureté et de l’iniquité,
+pour commettre l’iniquité, livrez-les de même
 maintenant au service de la justice, pour votre sanctification.
 </ab>
 <ab n="20">Car,
-lorsque vous &eacute;tiez esclaves du p&eacute;ch&eacute;, vous &eacute;tiez
-libres &agrave; l&rsquo;&eacute;gard de la justice. </ab>
+lorsque vous étiez esclaves du péché, vous étiez
+libres à l’égard de la justice. </ab>
 <ab n="21">Quel
-fruit avez-vous donc tir&eacute; alors des choses dont vous rougissez
-maintenant ? Car leur fin, c&rsquo;est la mort. </ab>
+fruit avez-vous donc tiré alors des choses dont vous rougissez
+maintenant ? Car leur fin, c’est la mort. </ab>
 <ab n="22">Mais
-maintenant, affranchis du p&eacute;ch&eacute; et devenus esclaves de
+maintenant, affranchis du péché et devenus esclaves de
 Dieu, vous avez pour fruit la sanctification, et pour fin la vie
-&eacute;ternelle. </ab>
+éternelle. </ab>
 <ab n="23">Car
-la solde du p&eacute;ch&eacute;, c&rsquo;est la mort ; mais la gr&acirc;ce
-de Dieu, c&rsquo;est la vie &eacute;ternelle en J&eacute;sus-Christ
+la solde du péché, c’est la mort ; mais la grâce
+de Dieu, c’est la vie éternelle en Jésus-Christ
 Notre Seigneur.
 </ab></div>
 <div type="chapter" n="7">
 <ab n="1">Ignorez-vous,
-mes fr&egrave;res (car je parle &agrave; des personnes (ceux) qui
-connaissent la loi), que la loi a de l&rsquo;autorit&eacute; sur
-l&rsquo;homme aussi longtemps (que pendant le temps) qu&rsquo;il vit
+mes frères (car je parle à des personnes (ceux) qui
+connaissent la loi), que la loi a de l’autorité sur
+l’homme aussi longtemps (que pendant le temps) qu’il vit
 ? </ab>
 <ab n="2">Ainsi
-une femme mari&eacute;e est li&eacute;e par la loi &agrave; son mari,
-tant qu&rsquo;il est vivant ; mais si son mari meurt, elle est
-d&eacute;gag&eacute;e de la loi qui la liait &agrave; son mari. </ab>
+une femme mariée est liée par la loi à son mari,
+tant qu’il est vivant ; mais si son mari meurt, elle est
+dégagée de la loi qui la liait à son mari. </ab>
 <ab n="3">Si
-donc, du vivant de son mari, elle se donne &agrave; un autre homme,
-elle sera appel&eacute;e adult&egrave;re ; mais si son mari meurt,
-elle est affranchie de la loi, de sorte qu&rsquo;elle n&rsquo;est pas
-adult&egrave;re si
-elle se donne &agrave; un autre homme. </ab>
-<ab n="4">C&rsquo;est
-pourquoi, mes fr&egrave;res, vous aussi vous &ecirc;tes morts &agrave;
-la loi par le corps du Christ, afin d&rsquo;appartenir &agrave; un
-autre qui est ressuscit&eacute; des morts, afin que nous produisions
+donc, du vivant de son mari, elle se donne à un autre homme,
+elle sera appelée adultère ; mais si son mari meurt,
+elle est affranchie de la loi, de sorte qu’elle n’est pas
+adultère si
+elle se donne à un autre homme. </ab>
+<ab n="4">C’est
+pourquoi, mes frères, vous aussi vous êtes morts à
+la loi par le corps du Christ, afin d’appartenir à un
+autre qui est ressuscité des morts, afin que nous produisions
 des fruits pour Dieu. </ab>
 <ab n="5">Car
-lorsque nous &eacute;tions dans la chair, les passions coupables,
-excit&eacute;es par la loi, agissaient dans nos membres, et leur
+lorsque nous étions dans la chair, les passions coupables,
+excitées par la loi, agissaient dans nos membres, et leur
 faisaient produire des fruits pour la mort. </ab>
 <ab n="6">Mais
-maintenant nous avons &eacute;t&eacute; d&eacute;gag&eacute;s de la
-loi de mort dans laquelle nous &eacute;tions retenus ; de sorte que
-nous servons dans la nouveaut&eacute; de l&rsquo;esprit, et non dans
-la v&eacute;tust&eacute; de la lettre. </ab>
+maintenant nous avons été dégagés de la
+loi de mort dans laquelle nous étions retenus ; de sorte que
+nous servons dans la nouveauté de l’esprit, et non dans
+la vétusté de la lettre. </ab>
 <ab n="7">Que
-dirons-nous donc ? La loi est-elle p&eacute;ch&eacute; ? Loin de l&agrave;
-! Mais je n&rsquo;ai connu le p&eacute;ch&eacute; que par la loi ;
-car je n&rsquo;aurais pas connu la concupiscence, si la loi n&rsquo;e&ucirc;t
+dirons-nous donc ? La loi est-elle péché ? Loin de là
+! Mais je n’ai connu le péché que par la loi ;
+car je n’aurais pas connu la concupiscence, si la loi n’eût
 dit : Tu ne convoiteras pas. </ab>
 <ab n="8">Mais
-le p&eacute;ch&eacute;, ayant saisi l&rsquo;occasion, a produit en
+le péché, ayant saisi l’occasion, a produit en
 moi par le commandement toutes sortes de convoitises (toute
-concupiscence) ; car, sans la loi, le p&eacute;ch&eacute; &eacute;tait
+concupiscence) ; car, sans la loi, le péché était
 mort. </ab>
 <ab n="9">Et
 moi, je vivais autrefois sans loi ; mais quand le commandement est
-venu, le p&eacute;ch&eacute; a repris la vie, </ab>
+venu, le péché a repris la vie, </ab>
 <ab n="10">et
-moi, je suis mort ; et il s&rsquo;est trouv&eacute; que le
-commandement, qui devait me donner la vie, m&rsquo;a donn&eacute; la
+moi, je suis mort ; et il s’est trouvé que le
+commandement, qui devait me donner la vie, m’a donné la
 mort. </ab>
 <ab n="11">Car
-le p&eacute;ch&eacute;, ayant pris occasion du commandement, m&rsquo;a
-s&eacute;duit, et par lui m&rsquo;a fait mourir. </ab>
+le péché, ayant pris occasion du commandement, m’a
+séduit, et par lui m’a fait mourir. </ab>
 <ab n="12">Ainsi
 la loi est sainte, et le commandement est saint, juste et bon. </ab>
 <ab n="13">Ce
-qui est bon est-il donc devenu pour moi la mort ? Loin de l&agrave; !
-Mais le p&eacute;ch&eacute;, pour se manifester comme p&eacute;ch&eacute;,
-m&rsquo;a caus&eacute; la mort par une chose bonne, afin que, par le
-commandement, le p&eacute;ch&eacute; dev&icirc;nt une source
-extr&ecirc;mement abondante de p&eacute;ch&eacute;s. </ab>
+qui est bon est-il donc devenu pour moi la mort ? Loin de là !
+Mais le péché, pour se manifester comme péché,
+m’a causé la mort par une chose bonne, afin que, par le
+commandement, le péché devînt une source
+extrêmement abondante de péchés. </ab>
 <ab n="14">Car
 nous savons que la loi est spirituelle ; mais moi, je suis charnel,
-vendu (comme esclave) au p&eacute;ch&eacute;. </ab>
+vendu (comme esclave) au péché. </ab>
 <ab n="15">Car
 je ne sais pas ce que je fais ; le bien que je veux, je ne le fais
 pas ; mais le mal que je hais, je le fais. </ab>
 <ab n="16">Or,
-si je fais ce que je ne veux pas, je consens &agrave; la loi,
-reconnaissant qu&rsquo;elle est bonne. </ab>
+si je fais ce que je ne veux pas, je consens à la loi,
+reconnaissant qu’elle est bonne. </ab>
 <ab n="17">Ainsi
-ce n&rsquo;est plus moi qui fais cela, mais c&rsquo;est le p&eacute;ch&eacute;
+ce n’est plus moi qui fais cela, mais c’est le péché
 qui habite en moi. </ab>
 <ab n="18">Car
-je sais que le bien n&rsquo;habite pas en moi, c&rsquo;est-&agrave;-dire,
-dans ma chair : en effet, vouloir est &agrave; ma port&eacute;e ;
+je sais que le bien n’habite pas en moi, c’est-à-dire,
+dans ma chair : en effet, vouloir est à ma portée ;
 mais accomplir ce qui est bon, je ne le puis. </ab>
 <ab n="19">Car
 je ne fais pas le bien que je veux ; mais je fais le mal que je ne
 veux pas. </ab>
 <ab n="20">Or
-si je fais ce que je ne veux pas, ce n&rsquo;est plus moi qui le fais
-; mais c&rsquo;est le p&eacute;ch&eacute; qui habite en moi.
+si je fais ce que je ne veux pas, ce n’est plus moi qui le fais
+; mais c’est le péché qui habite en moi.
 </ab>
 <ab n="21">Lorsque
-je veux faire le bien, je trouve donc cette loi : le mal r&eacute;side
+je veux faire le bien, je trouve donc cette loi : le mal réside
 en moi. </ab>
 <ab n="22">Car
-je me complais dans la loi de Dieu, selon l&rsquo;homme int&eacute;rieur
+je me complais dans la loi de Dieu, selon l’homme intérieur
 ; </ab>
 <ab n="23">mais
 je vois dans mes membres une autre loi, qui lutte contre la loi de
-mon esprit, et qui me rend captif sous la loi du p&eacute;ch&eacute;
+mon esprit, et qui me rend captif sous la loi du péché
 qui est dans mes membres. </ab>
 <ab n="24">Malheureux
-homme que je suis ! qui me d&eacute;livrera de ce corps de (cette)
+homme que je suis ! qui me délivrera de ce corps de (cette)
 mort ? </ab>
 <ab n="25">La
-gr&acirc;ce de Dieu, par J&eacute;sus-Christ Notre Seigneur. Ainsi
-donc, moi-m&ecirc;me je suis soumis par l&rsquo;esprit &agrave; la
-loi de Dieu ; mais par la chair, &agrave; la loi du p&eacute;ch&eacute;.
+grâce de Dieu, par Jésus-Christ Notre Seigneur. Ainsi
+donc, moi-même je suis soumis par l’esprit à la
+loi de Dieu ; mais par la chair, à la loi du péché.
 </ab></div>
 <div type="chapter" n="8">
 <ab n="1">Il
-n&rsquo;y a donc maintenant aucune condamnation pour ceux qui sont en
-J&eacute;sus-Christ, qui ne marchent pas selon la chair. </ab>
+n’y a donc maintenant aucune condamnation pour ceux qui sont en
+Jésus-Christ, qui ne marchent pas selon la chair. </ab>
 <ab n="2">En
-effet, la loi de l&rsquo;esprit de vie en (qui est) J&eacute;sus-Christ
-m&rsquo;a d&eacute;livr&eacute; de la loi du p&eacute;ch&eacute; et
+effet, la loi de l’esprit de vie en (qui est) Jésus-Christ
+m’a délivré de la loi du péché et
 de la mort. </ab>
 <ab n="3">Car,
-chose impossible &agrave; la loi parce qu&rsquo;elle &eacute;tait
+chose impossible à la loi parce qu’elle était
 affaiblie par la chair, Dieu, en envoyant son propre Fils dans une
-chair semblable &agrave; celle du p&eacute;ch&eacute;, a condamn&eacute;
-&agrave; cause du p&eacute;ch&eacute; le p&eacute;ch&eacute; dans la
+chair semblable à celle du péché, a condamné
+à cause du péché le péché dans la
 chair, </ab>
 <ab n="4">afin
-que la justice de la loi f&ucirc;t accomplie en nous, qui ne marchons
-pas selon la chair, mais selon l&rsquo;esprit. </ab>
+que la justice de la loi fût accomplie en nous, qui ne marchons
+pas selon la chair, mais selon l’esprit. </ab>
 <ab n="5">Car
-ceux qui sont selon la chair go&ucirc;tent les choses de la chair ;
-mais ceux qui sont selon l&rsquo;esprit go&ucirc;tent les (ont le
-sentiment des) choses de l&rsquo;esprit. </ab>
+ceux qui sont selon la chair goûtent les choses de la chair ;
+mais ceux qui sont selon l’esprit goûtent les (ont le
+sentiment des) choses de l’esprit. </ab>
 <ab n="6">Or
-la prudence de la chair c&rsquo;est la mort, tandis que la prudence
-de l&rsquo;esprit c&rsquo;est la vie et la paix. </ab>
+la prudence de la chair c’est la mort, tandis que la prudence
+de l’esprit c’est la vie et la paix. </ab>
 <ab n="7">Car
-la sagesse de la chair est ennemie de Dieu, parce qu&rsquo;elle n&rsquo;est
-pas soumise &agrave; la loi de Dieu, et elle ne peut pas l&rsquo;&ecirc;tre.
+la sagesse de la chair est ennemie de Dieu, parce qu’elle n’est
+pas soumise à la loi de Dieu, et elle ne peut pas l’être.
 </ab>
 <ab n="8">Ceux
-donc qui sont dans la chair ne peuvent pas plaire &agrave; Dieu.
+donc qui sont dans la chair ne peuvent pas plaire à Dieu.
 </ab>
 <ab n="9">Pour
-vous, vous n&rsquo;&ecirc;tes pas dans la chair, mais dans l&rsquo;esprit
-; si toutefois l&rsquo;Esprit de Dieu habite en vous. Car si
-quelqu&rsquo;un n&rsquo;a pas l&rsquo;Esprit du Christ, il ne lui
+vous, vous n’êtes pas dans la chair, mais dans l’esprit
+; si toutefois l’Esprit de Dieu habite en vous. Car si
+quelqu’un n’a pas l’Esprit du Christ, il ne lui
 appartient pas. </ab>
 <ab n="10">Mais
-si le Christ est en vous, (quoique) le corps, il est vrai, est mort &agrave;
-cause du p&eacute;ch&eacute; ; (mais) l&rsquo;esprit est vivant &agrave;
+si le Christ est en vous, (quoique) le corps, il est vrai, est mort à
+cause du péché ; (mais) l’esprit est vivant à
 cause de la justice (justification). </ab>
 <ab n="11">Et
-si l&rsquo;Esprit de celui qui a ressuscit&eacute; J&eacute;sus
-d&rsquo;entre les morts habite en vous, celui qui a ressuscit&eacute;
-J&eacute;sus-Christ d&rsquo;entre les morts donnera aussi la vie &agrave;
+si l’Esprit de celui qui a ressuscité Jésus
+d’entre les morts habite en vous, celui qui a ressuscité
+Jésus-Christ d’entre les morts donnera aussi la vie à
 vos corps mortels, par son Esprit qui habite en vous. </ab>
 <ab n="12">Ainsi,
-mes fr&egrave;res, nous ne sommes pas redevables
-&agrave; la chair, pour vivre selon la chair. </ab>
+mes frères, nous ne sommes pas redevables
+à la chair, pour vivre selon la chair. </ab>
 <ab n="13">Car
-si vous vivez selon la chair, vous mourrez ; mais si par l&rsquo;esprit
-vous faites mourir les &oelig;uvres de la chair, vous vivrez. </ab>
+si vous vivez selon la chair, vous mourrez ; mais si par l’esprit
+vous faites mourir les œuvres de la chair, vous vivrez. </ab>
 <ab n="14">Car
-tous ceux qui sont conduits par l&rsquo;Esprit de Dieu sont enfants
+tous ceux qui sont conduits par l’Esprit de Dieu sont enfants
 de Dieu. </ab>
 <ab n="15">Aussi
-vous n&rsquo;avez pas re&ccedil;u l&rsquo;esprit de servitude, pour
-&ecirc;tre encore dans la crainte ; mais vous avez re&ccedil;u
-l&rsquo;esprit de l&rsquo;adoption des enfants, par lequel nous
-crions : Abba ! P&egrave;re ! </ab>
-<ab n="16">L&rsquo;Esprit
-lui-m&ecirc;me rend t&eacute;moignage &agrave; notre esprit que nous
+vous n’avez pas reçu l’esprit de servitude, pour
+être encore dans la crainte ; mais vous avez reçu
+l’esprit de l’adoption des enfants, par lequel nous
+crions : Abba ! Père ! </ab>
+<ab n="16">L’Esprit
+lui-même rend témoignage à notre esprit que nous
 sommes enfants de Dieu. </ab>
 <ab n="17">Et
-si nous sommes enfants, nous sommes aussi h&eacute;ritiers :
-h&eacute;ritiers de Dieu, et coh&eacute;ritiers du Christ, pourvu
-toutefois que nous souffrions avec lui, afin d&rsquo;&ecirc;tre
-glorifi&eacute;s avec lui. </ab>
+si nous sommes enfants, nous sommes aussi héritiers :
+héritiers de Dieu, et cohéritiers du Christ, pourvu
+toutefois que nous souffrions avec lui, afin d’être
+glorifiés avec lui. </ab>
 <ab n="18">Car
-j&rsquo;estime que les souffrances du temps pr&eacute;sent n&rsquo;ont
-pas de proportion avec la gloire &agrave; venir qui sera manifest&eacute;e
+j’estime que les souffrances du temps présent n’ont
+pas de proportion avec la gloire à venir qui sera manifestée
 en nous. </ab>
 <ab n="19">Aussi
-la cr&eacute;ature attend-elle d&rsquo;une vive attente la
+la créature attend-elle d’une vive attente la
 manifestation des enfants de Dieu. </ab>
 <ab n="20">Car
-la cr&eacute;ature a &eacute;t&eacute; assujettie &agrave; la vanit&eacute;,
-non pas volontairement, mais &agrave; cause de celui qui l&rsquo;(y)
-a assujettie avec esp&eacute;rance ; </ab>
+la créature a été assujettie à la vanité,
+non pas volontairement, mais à cause de celui qui l’(y)
+a assujettie avec espérance ; </ab>
 <ab n="21">en
-effet, la cr&eacute;ature aussi sera elle-m&ecirc;me d&eacute;livr&eacute;e
-de cet asservissement &agrave; la corruption, pour participer &agrave;
-la glorieuse libert&eacute; des enfants de Dieu. </ab>
+effet, la créature aussi sera elle-même délivrée
+de cet asservissement à la corruption, pour participer à
+la glorieuse liberté des enfants de Dieu. </ab>
 <ab n="22">Car
-nous savons que toute cr&eacute;ature g&eacute;mit et est dans le
-travail de l&rsquo;enfantement jusqu&rsquo;&agrave; cette heure. </ab>
+nous savons que toute créature gémit et est dans le
+travail de l’enfantement jusqu’à cette heure. </ab>
 <ab n="23">Et
-non seulement elle(s), mais nous aussi, qui avons les pr&eacute;mices
-de l&rsquo;Esprit, nous aussi nous g&eacute;missons en nous-m&ecirc;mes,
-attendant l&rsquo;adoption des enfants de Dieu, la r&eacute;demption
+non seulement elle(s), mais nous aussi, qui avons les prémices
+de l’Esprit, nous aussi nous gémissons en nous-mêmes,
+attendant l’adoption des enfants de Dieu, la rédemption
 de notre corps. </ab>
 <ab n="24">Car
-c&rsquo;est en esp&eacute;rance que nous sommes (avons &eacute;t&eacute;)
-sauv&eacute;s. Or l&rsquo;esp&eacute;rance que l&rsquo;on voit n&rsquo;est
-plus de l&rsquo;esp&eacute;rance ; car ce qu&rsquo;on voit, peut-on
-l&rsquo;esp&eacute;rer ? </ab>
+c’est en espérance que nous sommes (avons été)
+sauvés. Or l’espérance que l’on voit n’est
+plus de l’espérance ; car ce qu’on voit, peut-on
+l’espérer ? </ab>
 <ab n="25">Mais
-si nous esp&eacute;rons ce que nous ne voyons pas, nous l&rsquo;attendons
+si nous espérons ce que nous ne voyons pas, nous l’attendons
 avec patience. </ab>
 <ab n="26">De
-m&ecirc;me aussi l&rsquo;Esprit vient en aide &agrave; notre
+même aussi l’Esprit vient en aide à notre
 faiblesse : car nous ne savons pas ce que nous devons demander dans
-nos pri&egrave;res ; mais l&rsquo;Esprit lui-m&ecirc;me interc&egrave;de
-pour nous par des g&eacute;missements ineffables (in&eacute;narrables,
+nos prières ; mais l’Esprit lui-même intercède
+pour nous par des gémissements ineffables (inénarrables,
 note). </ab>
 <ab n="27">Et
-celui qui scrute les c&oelig;urs conna&icirc;t les d&eacute;sirs de
-l&rsquo;Esprit, parce que c&rsquo;est selon Dieu qu&rsquo;il
-interc&egrave;de pour les saints. </ab>
+celui qui scrute les cœurs connaît les désirs de
+l’Esprit, parce que c’est selon Dieu qu’il
+intercède pour les saints. </ab>
 <ab n="28">Or
-nous savons que toutes choses coop&egrave;rent au bien de ceux qui
-aiment Dieu, de ceux qui sont appel&eacute;s (&agrave; &ecirc;tre)
-saints selon son d&eacute;cret. </ab>
+nous savons que toutes choses coopèrent au bien de ceux qui
+aiment Dieu, de ceux qui sont appelés (à être)
+saints selon son décret. </ab>
 <ab n="29">Car
-ceux qu&rsquo;il a connus par sa prescience, il les a aussi
-pr&eacute;destin&eacute;s &agrave; devenir conformes &agrave; l&rsquo;image
-de son Fils, afin qu&rsquo;il fut lui-m&ecirc;me le premier-n&eacute;
-entre des fr&egrave;res nombreux. </ab>
+ceux qu’il a connus par sa prescience, il les a aussi
+prédestinés à devenir conformes à l’image
+de son Fils, afin qu’il fut lui-même le premier-né
+entre des frères nombreux. </ab>
 <ab n="30">Et
-ceux qu&rsquo;il a pr&eacute;destin&eacute;s, il les a aussi appel&eacute;s
-; et ceux qu&rsquo;il a appel&eacute;s, il les a aussi justifi&eacute;s
-; et ceux qu&rsquo;il a justifi&eacute;s, il les a aussi glorifi&eacute;s.
+ceux qu’il a prédestinés, il les a aussi appelés
+; et ceux qu’il a appelés, il les a aussi justifiés
+; et ceux qu’il a justifiés, il les a aussi glorifiés.
 </ab>
 <ab n="31">Que
-dirons-nous donc apr&egrave;s cela ? Si Dieu est pour nous, qui sera
+dirons-nous donc après cela ? Si Dieu est pour nous, qui sera
 contre nous ? </ab>
 <ab n="32">Lui
-qui n&rsquo;a (m&ecirc;me) pas &eacute;pargn&eacute; son propre Fils,
-mais qui l&rsquo;a livr&eacute; pour nous tous, comment ne nous
+qui n’a (même) pas épargné son propre Fils,
+mais qui l’a livré pour nous tous, comment ne nous
 donnera-t-il pas aussi toutes choses avec lui ? </ab>
 <ab n="33">Qui
-accusera les &eacute;lus de Dieu ? C&rsquo;est Dieu qui justifie.
+accusera les élus de Dieu ? C’est Dieu qui justifie.
 </ab>
 <ab n="34">Qui
-les condamnera ? C&rsquo;est le Christ J&eacute;sus qui est mort pour
-eux ; bien plus, qui est ressuscit&eacute;, qui est &agrave; la
-droite de Dieu, et qui interc&egrave;de pour nous. </ab>
+les condamnera ? C’est le Christ Jésus qui est mort pour
+eux ; bien plus, qui est ressuscité, qui est à la
+droite de Dieu, et qui intercède pour nous. </ab>
 <ab n="35">Qui
-donc nous s&eacute;parera de l&rsquo;amour du Christ ? Sera-ce la
-tribulation, ou l&rsquo;angoisse, ou la faim, ou la nudit&eacute;, ou
-le p&eacute;ril, ou la pers&eacute;cution, ou le glaive ? </ab>
+donc nous séparera de l’amour du Christ ? Sera-ce la
+tribulation, ou l’angoisse, ou la faim, ou la nudité, ou
+le péril, ou la persécution, ou le glaive ? </ab>
 <ab n="36">(Selon
-qu&rsquo;il est &eacute;crit : A cause de vous, nous sommes mis &agrave;
-mort tout le jour ; on nous regarde comme des brebis destin&eacute;es
-&agrave; la boucherie.) </ab>
+qu’il est écrit : A cause de vous, nous sommes mis à
+mort tout le jour ; on nous regarde comme des brebis destinées
+à la boucherie.) </ab>
 <ab n="37">Mais
-en tout cela nous demeurons victorieux, par celui qui nous a aim&eacute;s.
+en tout cela nous demeurons victorieux, par celui qui nous a aimés.
 </ab>
 <ab n="38">Car
 je suis certain que ni la mort, ni la vie, ni les anges, ni les
-principaut&eacute;s, ni les puissances, ni les choses pr&eacute;sentes,
-ni les choses &agrave; venir, ni la violence, </ab>
+principautés, ni les puissances, ni les choses présentes,
+ni les choses à venir, ni la violence, </ab>
 <ab n="39">ni
-ce qu&rsquo;il y a de plus &eacute;lev&eacute;, ni ce qu&rsquo;il y a
-de plus profond, ni aucune autre cr&eacute;ature, ne pourra nous
-s&eacute;parer de l&rsquo;amour de Dieu, manifest&eacute; dans le
-Christ J&eacute;sus Notre Seigneur.
+ce qu’il y a de plus élevé, ni ce qu’il y a
+de plus profond, ni aucune autre créature, ne pourra nous
+séparer de l’amour de Dieu, manifesté dans le
+Christ Jésus Notre Seigneur.
 </ab></div>
 <div type="chapter" n="9">
 <ab n="1">Je
-dis la v&eacute;rit&eacute; devant (dans) le Christ ; je ne mens pas,
-ma conscience me rendant (ce) t&eacute;moignage par l&rsquo;Esprit-Saint.
+dis la vérité devant (dans) le Christ ; je ne mens pas,
+ma conscience me rendant (ce) témoignage par l’Esprit-Saint.
 </ab>
-<ab n="2">J&rsquo;&eacute;prouve
+<ab n="2">J’éprouve
 une grande tristesse, et il y a une douleur continuelle dans mon
-c&oelig;ur. </ab>
+cœur. </ab>
 <ab n="3">Car
-je voudrais (ardemment) &ecirc;tre anath&egrave;me, s&eacute;par&eacute;
-du Christ pour mes fr&egrave;res, qui sont mes proches selon la
+je voudrais (ardemment) être anathème, séparé
+du Christ pour mes frères, qui sont mes proches selon la
 chair, </ab>
 <ab n="4">qui
-sont Isra&eacute;lites, &agrave; qui appartiennent l&rsquo;adoption
-des enfants, et la gloire, et l&rsquo;alliance, la loi, et le culte,
+sont Israélites, à qui appartiennent l’adoption
+des enfants, et la gloire, et l’alliance, la loi, et le culte,
 et les promesses ; </ab>
 <ab n="5">de
-qui les patriarches sont les p&egrave;res, et desquels est issu selon
-la chair le Christ, qui est au-dessus de tout, Dieu b&eacute;ni dans
-tous les si&egrave;cles. Amen. </ab>
+qui les patriarches sont les pères, et desquels est issu selon
+la chair le Christ, qui est au-dessus de tout, Dieu béni dans
+tous les siècles. Amen. </ab>
 <ab n="6">Ce
-n&rsquo;est pas que la parole de Dieu soit rest&eacute;e sans effet.
-Car tous ceux qui descendent d&rsquo;Isra&euml;l ne sont pas
-Isra&eacute;lites ; </ab>
+n’est pas que la parole de Dieu soit restée sans effet.
+Car tous ceux qui descendent d’Israël ne sont pas
+Israélites ; </ab>
 <ab n="7">et
-ceux qui sont de la race d&rsquo;Abraham ne sont pas tous ses enfants
-; mais (Dieu lui dit) : C&rsquo;est d&rsquo;Isaac que sortira la race
-(ta post&eacute;rit&eacute;) (qui portera ton nom). </ab>
-<ab n="8">C&rsquo;est-&agrave;-dire
+ceux qui sont de la race d’Abraham ne sont pas tous ses enfants
+; mais (Dieu lui dit) : C’est d’Isaac que sortira la race
+(ta postérité) (qui portera ton nom). </ab>
+<ab n="8">C’est-à-dire
 que ce ne sont pas les enfants de la chair qui sont enfants de Dieu ;
-mais ce sont les enfants de la promesse qui sont regard&eacute;s
-comme la post&eacute;rit&eacute;. </ab>
+mais ce sont les enfants de la promesse qui sont regardés
+comme la postérité. </ab>
 <ab n="9">Voici,
-en effet, les termes de la promesse : Vers ce m&ecirc;me temps, je
+en effet, les termes de la promesse : Vers ce même temps, je
 viendrai, et Sara aura un fils. </ab>
 <ab n="10">Et
-non seulement elle, mais aussi R&eacute;becca, qui con&ccedil;ut en
-m&ecirc;me temps deux fils d&rsquo;Isaac, notre p&egrave;re. </ab>
+non seulement elle, mais aussi Rébecca, qui conçut en
+même temps deux fils d’Isaac, notre père. </ab>
 <ab n="11">Car
-avant qu&rsquo;ils fussent n&eacute;s ou qu&rsquo;ils eussent fait ni
-aucun bien ni aucun mal (afin que le d&eacute;cret de Dieu demeur&acirc;t
-ferme selon son &eacute;lection), </ab>
+avant qu’ils fussent nés ou qu’ils eussent fait ni
+aucun bien ni aucun mal (afin que le décret de Dieu demeurât
+ferme selon son élection), </ab>
 <ab n="12">non
-pas &agrave; cause de leurs &oelig;uvres, mais &agrave; cause de
-l&rsquo;appel de Dieu, il lui fut dit : L&rsquo;a&icirc;n&eacute;
+pas à cause de leurs œuvres, mais à cause de
+l’appel de Dieu, il lui fut dit : L’aîné
 sera assujetti au plus jeune, </ab>
 <ab n="13">selon
-qu&rsquo;il est &eacute;crit : J&rsquo;ai aim&eacute; Jacob, et j&rsquo;ai
-ha&iuml; Esa&uuml;. </ab>
+qu’il est écrit : J’ai aimé Jacob, et j’ai
+haï Esaü. </ab>
 <ab n="14">Que
-dirons-nous donc ? Est-ce qu&rsquo;il y a en Dieu de l&rsquo;injustice
-? Loin de l&agrave; ! </ab>
+dirons-nous donc ? Est-ce qu’il y a en Dieu de l’injustice
+? Loin de là ! </ab>
 <ab n="15">Car
-il dit &agrave; Mo&iuml;se : Je ferai mis&eacute;ricorde &agrave; qui
-je fais mis&eacute;ricorde, et j&rsquo;aurai piti&eacute; de qui j&rsquo;ai
-piti&eacute;. </ab>
+il dit à Moïse : Je ferai miséricorde à qui
+je fais miséricorde, et j’aurai pitié de qui j’ai
+pitié. </ab>
 <ab n="16">Ainsi
-donc, cela ne d&eacute;pend ni de celui qui veut, ni de celui qui
-court, mais de Dieu qui fait mis&eacute;ricorde. </ab>
+donc, cela ne dépend ni de celui qui veut, ni de celui qui
+court, mais de Dieu qui fait miséricorde. </ab>
 <ab n="17">Car
-l&rsquo;Ecriture dit au pharaon : C&rsquo;est pour cela m&ecirc;me
-que je t&rsquo;ai suscit&eacute;, pour montrer en toi ma puissance,
-et pour que mon nom soit annonc&eacute; dans toute la terre. </ab>
+l’Ecriture dit au pharaon : C’est pour cela même
+que je t’ai suscité, pour montrer en toi ma puissance,
+et pour que mon nom soit annoncé dans toute la terre. </ab>
 <ab n="18">Il
-fait donc mis&eacute;ricorde &agrave; qui il veut, et il endurcit qui
+fait donc miséricorde à qui il veut, et il endurcit qui
 il veut. </ab>
 <ab n="19">Tu
-me diras : pourquoi se plaint-il encore ? car qui est-ce qui r&eacute;siste
-&agrave; sa volont&eacute; ? </ab>
+me diras : pourquoi se plaint-il encore ? car qui est-ce qui résiste
+à sa volonté ? </ab>
 <ab n="20">O
-homme, qui es-tu, pour contester avec Dieu ? Le vase d&rsquo;argile
-dit-il &agrave; celui qui l&rsquo;a form&eacute; : Pourquoi m&rsquo;as-tu
+homme, qui es-tu, pour contester avec Dieu ? Le vase d’argile
+dit-il à celui qui l’a formé : Pourquoi m’as-tu
 fait ainsi ? </ab>
 <ab n="21">Le
-potier n&rsquo;a-t-il pas le pouvoir de faire de la m&ecirc;me masse
-d&rsquo;argile un vase pour un usage honorable, et un autre pour un
+potier n’a-t-il pas le pouvoir de faire de la même masse
+d’argile un vase pour un usage honorable, et un autre pour un
 usage vil ? </ab>
 <ab n="22">Que
-dire, si Dieu, voulant montrer sa col&egrave;re, et faire conna&icirc;tre
-sa puissance, a support&eacute; avec une grande patience (extr&ecirc;me)
-les vases de col&egrave;re pr&ecirc;ts pour la perdition, </ab>
+dire, si Dieu, voulant montrer sa colère, et faire connaître
+sa puissance, a supporté avec une grande patience (extrême)
+les vases de colère prêts pour la perdition, </ab>
 <ab n="23">afin
 de manifester les richesses de sa gloire sur les vases de
-mis&eacute;ricorde, qu&rsquo;il a pr&eacute;par&eacute;s pour sa
+miséricorde, qu’il a préparés pour sa
 gloire ? </ab>
 <ab n="24">Ainsi
-nous a-t-il appel&eacute;s non seulement d&rsquo;entre les Juifs,
-mais aussi d&rsquo;entre les pa&iuml;ens (gentils), </ab>
+nous a-t-il appelés non seulement d’entre les Juifs,
+mais aussi d’entre les païens (gentils), </ab>
 <ab n="25">comme
-il dit dans Os&eacute;e : J&rsquo;appellerai mon peuple celui qui
-n&rsquo;&eacute;tait pas mon peuple ; et bien-aim&eacute;e celle qui
-n&rsquo;&eacute;tait pas la bien-aim&eacute;e, et objet de
-mis&eacute;ricorde celle qui n&rsquo;avait pas obtenu mis&eacute;ricorde.
+il dit dans Osée : J’appellerai mon peuple celui qui
+n’était pas mon peuple ; et bien-aimée celle qui
+n’était pas la bien-aimée, et objet de
+miséricorde celle qui n’avait pas obtenu miséricorde.
 </ab>
 <ab n="26">Et
-il arrivera que dans le lieu o&ugrave; il leur avait &eacute;t&eacute;
-dit : Vous n&rsquo;&ecirc;tes pas mon peuple, l&agrave; m&ecirc;me
-ils seront appel&eacute;s les enfants du Dieu vivant. </ab>
-<ab n="27">Isa&iuml;e,
-de son c&ocirc;t&eacute;, s&rsquo;&eacute;crie au sujet d&rsquo;Isra&euml;l
-: Quand le nombre des enfants d&rsquo;Isra&euml;l serait comme le
-sable de la mer, un reste seulement sera sauv&eacute;. </ab>
+il arrivera que dans le lieu où il leur avait été
+dit : Vous n’êtes pas mon peuple, là même
+ils seront appelés les enfants du Dieu vivant. </ab>
+<ab n="27">Isaïe,
+de son côté, s’écrie au sujet d’Israël
+: Quand le nombre des enfants d’Israël serait comme le
+sable de la mer, un reste seulement sera sauvé. </ab>
 <ab n="28">Car
-le Seigneur accomplira compl&egrave;tement et promptement il
-l&rsquo;accomplira promptement sur la terre. </ab>
+le Seigneur accomplira complètement et promptement il
+l’accomplira promptement sur la terre. </ab>
 <ab n="29">Et
-comme Isa&iuml;e avait dit auparavant : Si le Seigneur des arm&eacute;es
-(Sabaoth) ne nous avait laiss&eacute; une post&eacute;rit&eacute;
-(rejeton), nous serions devenus comme Sodome, et nous aurions &eacute;t&eacute;
-semblables &agrave; Gomorrhe. </ab>
+comme Isaïe avait dit auparavant : Si le Seigneur des armées
+(Sabaoth) ne nous avait laissé une postérité
+(rejeton), nous serions devenus comme Sodome, et nous aurions été
+semblables à Gomorrhe. </ab>
 <ab n="30">Que
-dirons-nous donc ? Que les pa&iuml;ens (gentils), qui ne cherchaient
-pas la justice, ont embrass&eacute; la justice, mais la justice qui
+dirons-nous donc ? Que les païens (gentils), qui ne cherchaient
+pas la justice, ont embrassé la justice, mais la justice qui
 vient de la foi ; </ab>
 <ab n="31">et
-qu&rsquo;Isra&euml;l, en cherchant la loi de la justice, n&rsquo;est
+qu’Israël, en cherchant la loi de la justice, n’est
 pas parvenu
-&agrave; la loi de la justice. </ab>
+à la loi de la justice. </ab>
 <ab n="32">Pourquoi
-? Parce qu&rsquo;ils l&rsquo;ont cherch&eacute;e, non par la foi,
-mais comme par les &oelig;uvres ; car ils se sont heurt&eacute;s
-contre la pierre d&rsquo;achoppement, </ab>
+? Parce qu’ils l’ont cherchée, non par la foi,
+mais comme par les œuvres ; car ils se sont heurtés
+contre la pierre d’achoppement, </ab>
 <ab n="33">selon
-qu&rsquo;il est &eacute;crit : Voici, je mets dans Sion une pierre
-d&rsquo;achoppement et une pierre de scandale ; et tous ceux qui
+qu’il est écrit : Voici, je mets dans Sion une pierre
+d’achoppement et une pierre de scandale ; et tous ceux qui
 croiront en lui ne seront pas confondus.
 </ab></div>
 <div type="chapter" n="10">
-<ab n="1">(Assur&eacute;ment,)
-Mes fr&egrave;res, le d&eacute;sir de mon c&oelig;ur et la
-supplication que j&rsquo;adresse &agrave; Dieu ont pour objet leur
+<ab n="1">(Assurément,)
+Mes frères, le désir de mon cœur et la
+supplication que j’adresse à Dieu ont pour objet leur
 salut. </ab>
 <ab n="2">Car
-je leur rends le t&eacute;moignage qu&rsquo;ils ont du z&egrave;le
+je leur rends le témoignage qu’ils ont du zèle
 pour Dieu, mais non selon la science ; </ab>
 <ab n="3">car,
-ne connaissant pas la justice de Dieu, et cherchant &agrave; &eacute;tablir
-la leur, ils ne se sont pas soumis &agrave; la justice de Dieu. </ab>
+ne connaissant pas la justice de Dieu, et cherchant à établir
+la leur, ils ne se sont pas soumis à la justice de Dieu. </ab>
 <ab n="4">En
-effet, la fin de la loi, c&rsquo;est le Christ, pour la justification
+effet, la fin de la loi, c’est le Christ, pour la justification
 de tous ceux qui croient. </ab>
 <ab n="5">Aussi
-Mo&iuml;se a-t-il &eacute;crit, touchant la justice qui vient de la
+Moïse a-t-il écrit, touchant la justice qui vient de la
 loi, que quiconque la pratiquera y trouvera la vie. </ab>
 <ab n="6">Mais
-quant &agrave; la justice qui vient de la foi, il en parle ainsi : Ne
-dis pas en ton c&oelig;ur : Qui montera au ciel ? c&rsquo;est-&agrave;-dire,
+quant à la justice qui vient de la foi, il en parle ainsi : Ne
+dis pas en ton cœur : Qui montera au ciel ? c’est-à-dire,
 pour en faire descendre le Christ ; </ab>
 <ab n="7">ou
-qui descendra dans l&rsquo;ab&icirc;me ? c&rsquo;est-&agrave;-dire,
-pour rappeler le Christ d&rsquo;entre les morts. </ab>
+qui descendra dans l’abîme ? c’est-à-dire,
+pour rappeler le Christ d’entre les morts. </ab>
 <ab n="8">Mais
-que dit l&rsquo;Ecriture ? Pr&egrave;s de toi est la parole, dans ta
-bouche et dans ton c&oelig;ur ; c&rsquo;est-&agrave;-dire la parole
-de la foi, que nous pr&ecirc;chons ; </ab>
+que dit l’Ecriture ? Près de toi est la parole, dans ta
+bouche et dans ton cœur ; c’est-à-dire la parole
+de la foi, que nous prêchons ; </ab>
 <ab n="9">car
-si tu confesses de ta bouche le Seigneur J&eacute;sus, et si tu crois
-dans ton c&oelig;ur que Dieu l&rsquo;a ressuscit&eacute; d&rsquo;entre
-les morts, tu seras sauv&eacute;. </ab>
+si tu confesses de ta bouche le Seigneur Jésus, et si tu crois
+dans ton cœur que Dieu l’a ressuscité d’entre
+les morts, tu seras sauvé. </ab>
 <ab n="10">Car
-c&rsquo;est en croyant du c&oelig;ur que l&rsquo;on est justifi&eacute;
-(on croit de c&oelig;ur pour la justice), et c&rsquo;est en
-confessant de la bouche qu&rsquo;on est sauv&eacute;. </ab>
+c’est en croyant du cœur que l’on est justifié
+(on croit de cœur pour la justice), et c’est en
+confessant de la bouche qu’on est sauvé. </ab>
 <ab n="11">En
-effet, l&rsquo;Ecriture dit : Quiconque croit en lui ne sera pas
+effet, l’Ecriture dit : Quiconque croit en lui ne sera pas
 confondu. </ab>
 <ab n="12">Car
-il n&rsquo;y a pas de distinction entre le Juif et le Grec,
-puisqu&rsquo;ils ont tous un m&ecirc;me Seigneur, riche pour tous
-ceux qui l&rsquo;invoquent. </ab>
+il n’y a pas de distinction entre le Juif et le Grec,
+puisqu’ils ont tous un même Seigneur, riche pour tous
+ceux qui l’invoquent. </ab>
 <ab n="13">Car
-quiconque invoquera le nom du Seigneur sera sauv&eacute;. </ab>
+quiconque invoquera le nom du Seigneur sera sauvé. </ab>
 <ab n="14">Mais
-comment invoqueront-ils celui auquel ils n&rsquo;ont pas cru ? ou
-comment croiront-ils en celui dont ils n&rsquo;ont pas entendu parler
-? et comment en entendront-ils parler, s&rsquo;il n&rsquo;y a pas de
-pr&eacute;dicateur ? </ab>
+comment invoqueront-ils celui auquel ils n’ont pas cru ? ou
+comment croiront-ils en celui dont ils n’ont pas entendu parler
+? et comment en entendront-ils parler, s’il n’y a pas de
+prédicateur ? </ab>
 <ab n="15">Et
-comment les pr&eacute;dicateurs pr&ecirc;cheront-ils, s&rsquo;ils ne
-sont pas envoy&eacute;s ? ainsi qu&rsquo;il est &eacute;crit : Qu&rsquo;ils
+comment les prédicateurs prêcheront-ils, s’ils ne
+sont pas envoyés ? ainsi qu’il est écrit : Qu’ils
 sont beaux, les pieds de ceux qui annoncent la paix, de ceux qui
 annoncent la bonne nouvelle ! </ab>
 <ab n="16">Mais
-tous n&rsquo;ob&eacute;issent pas &agrave; la bonne nouvelle. Aussi
-Isa&iuml;e dit-il : Seigneur, qui a cru &agrave; notre pr&eacute;dication
+tous n’obéissent pas à la bonne nouvelle. Aussi
+Isaïe dit-il : Seigneur, qui a cru à notre prédication
 ? </ab>
 <ab n="17">La
-foi donc vient de ce qu&rsquo;on a entendu, et l&rsquo;on entend
-gr&acirc;ce &agrave; la parole du Christ. </ab>
+foi donc vient de ce qu’on a entendu, et l’on entend
+grâce à la parole du Christ. </ab>
 <ab n="18">Mais
-je dis : Est-ce qu&rsquo;ils n&rsquo;ont pas entendu ? Certes, leur
-voix est all&eacute;e par toute la terre, et leurs paroles jusqu&rsquo;aux
-extr&eacute;mit&eacute;s du monde. </ab>
+je dis : Est-ce qu’ils n’ont pas entendu ? Certes, leur
+voix est allée par toute la terre, et leurs paroles jusqu’aux
+extrémités du monde. </ab>
 <ab n="19">Mais
-je dis encore : Est-ce qu&rsquo;Isra&euml;l n&rsquo;a rien connu ?
-Mo&iuml;se le premier a dit : Je vous rendrai jaloux d&rsquo;un
-peuple qui n&rsquo;en est pas un, et je provoquerai votre col&egrave;re
-contre une nation insens&eacute;e. </ab>
+je dis encore : Est-ce qu’Israël n’a rien connu ?
+Moïse le premier a dit : Je vous rendrai jaloux d’un
+peuple qui n’en est pas un, et je provoquerai votre colère
+contre une nation insensée. </ab>
 <ab n="20">Mais
-Isa&iuml;e s&rsquo;enhardit jusqu&rsquo;&agrave; dire : J&rsquo;ai
-&eacute;t&eacute; trouv&eacute; par ceux qui ne me cherchaient pas ;
-je me suis manifest&eacute; ouvertement &agrave; ceux qui ne me
+Isaïe s’enhardit jusqu’à dire : J’ai
+été trouvé par ceux qui ne me cherchaient pas ;
+je me suis manifesté ouvertement à ceux qui ne me
 demandaient pas. </ab>
 <ab n="21">Mais
-&agrave; Isra&euml;l il dit : Tout le jour j&rsquo;ai tendu mes mains
-&agrave; un (ce) peuple incr&eacute;dule et qui contredit.</ab></div>
+à Israël il dit : Tout le jour j’ai tendu mes mains
+à un (ce) peuple incrédule et qui contredit.</ab></div>
 <div type="chapter" n="11">
 <ab n="1">Je
-dis donc : Est-ce que Dieu a rejet&eacute; son peuple ? Loin de l&agrave;
-! Car moi aussi je suis Isra&eacute;lite, de la race d&rsquo;Abraham,
+dis donc : Est-ce que Dieu a rejeté son peuple ? Loin de là
+! Car moi aussi je suis Israélite, de la race d’Abraham,
 de la tribu de Benjamin. </ab>
 <ab n="2">Dieu
-n&rsquo;a pas rejet&eacute; son peuple, qu&rsquo;il a connu d&rsquo;avance.
-Ne savez-vous pas ce que dit l&rsquo;Ecriture au sujet d&rsquo;Elie ?
-comment il interpelle Dieu contre Isra&euml;l ? </ab>
+n’a pas rejeté son peuple, qu’il a connu d’avance.
+Ne savez-vous pas ce que dit l’Ecriture au sujet d’Elie ?
+comment il interpelle Dieu contre Israël ? </ab>
 <ab n="3">Seigneur,
-ils ont tu&eacute; vos proph&egrave;tes, ils ont renvers&eacute; vos
-autels ; et moi je suis demeur&eacute; seul, et ils cherchent &agrave;
-m&rsquo;&ocirc;ter la vie. </ab>
+ils ont tué vos prophètes, ils ont renversé vos
+autels ; et moi je suis demeuré seul, et ils cherchent à
+m’ôter la vie. </ab>
 <ab n="4">Mais
-que lui dit la divine r&eacute;ponse ? Je me suis r&eacute;serv&eacute;
-sept mille hommes, qui n&rsquo;ont pas fl&eacute;chi le genou devant
+que lui dit la divine réponse ? Je me suis réservé
+sept mille hommes, qui n’ont pas fléchi le genou devant
 Baal. </ab>
 <ab n="5">De
-m&ecirc;me donc en ce temps aussi, selon l&rsquo;&eacute;lection de
-la gr&acirc;ce un reste a &eacute;t&eacute; sauv&eacute;. </ab>
+même donc en ce temps aussi, selon l’élection de
+la grâce un reste a été sauvé. </ab>
 <ab n="6">Mais
-si c&rsquo;est par gr&acirc;ce, ce n&rsquo;est donc pas
-par les &oelig;uvres
-; autrement la gr&acirc;ce ne serait plus la gr&acirc;ce. </ab>
+si c’est par grâce, ce n’est donc pas
+par les œuvres
+; autrement la grâce ne serait plus la grâce. </ab>
 <ab n="7">Que
-dirons-nous donc ? Ce que cherchait Isra&euml;l, il ne l&rsquo;a pas
-trouv&eacute; ; mais les &eacute;lus l&rsquo;ont trouv&eacute;, et
-les autres ont &eacute;t&eacute; aveugl&eacute;s ; </ab>
+dirons-nous donc ? Ce que cherchait Israël, il ne l’a pas
+trouvé ; mais les élus l’ont trouvé, et
+les autres ont été aveuglés ; </ab>
 <ab n="8">selon
-qu&rsquo;il est &eacute;crit : Dieu leur a donn&eacute; un esprit
-d&rsquo;assoupissement, des yeux pour ne pas voir, et des oreilles
-pour ne pas entendre ; (cela jusqu&rsquo;&agrave; ce jour). </ab>
+qu’il est écrit : Dieu leur a donné un esprit
+d’assoupissement, des yeux pour ne pas voir, et des oreilles
+pour ne pas entendre ; (cela jusqu’à ce jour). </ab>
 <ab n="9">Et
-David dit : Que leur table devienne pour eux un filet, un pi&egrave;ge,
-une occasion de chute (scandale) et un ch&acirc;timent (r&eacute;tribution).
+David dit : Que leur table devienne pour eux un filet, un piège,
+une occasion de chute (scandale) et un châtiment (rétribution).
 </ab>
 <ab n="10">Que
 leurs yeux soient obscurcis pour ne pas voir, et tenez toujours
-le(ur) dos courb&eacute;. </ab>
+le(ur) dos courbé. </ab>
 <ab n="11">Je
-dis donc : Ne se sont-ils heurt&eacute;s que pour tomber ? Loin de l&agrave;
-! Mais par leur faute, le salut est venu aux pa&iuml;ens (gentils),
-de mani&egrave;re &agrave; exciter leur &eacute;mulation. </ab>
+dis donc : Ne se sont-ils heurtés que pour tomber ? Loin de là
+! Mais par leur faute, le salut est venu aux païens (gentils),
+de manière à exciter leur émulation. </ab>
 <ab n="12">Si
-leur faute a &eacute;t&eacute; la richesse du monde, et leur
-diminution la richesse des pa&iuml;ens, combien plus en sera-t-il de
-leur pl&eacute;nitude ! (?) </ab>
+leur faute a été la richesse du monde, et leur
+diminution la richesse des païens, combien plus en sera-t-il de
+leur plénitude ! (?) </ab>
 <ab n="13">Car
-je vous le dis, &agrave; vous, pa&iuml;ens (gentils) : Tant que je
-serai l&rsquo;ap&ocirc;tre des gentils, j&rsquo;honorerai mon
-minist&egrave;re, </ab>
+je vous le dis, à vous, païens (gentils) : Tant que je
+serai l’apôtre des gentils, j’honorerai mon
+ministère, </ab>
 <ab n="14">dans
-l&rsquo;espoir de provoquer l&rsquo;&eacute;mulation de ceux de ma
-chair, et d&rsquo;en sauver quelques-uns. </ab>
+l’espoir de provoquer l’émulation de ceux de ma
+chair, et d’en sauver quelques-uns. </ab>
 <ab n="15">Car
-si leur perte a &eacute;t&eacute; la r&eacute;conciliation du monde,
-que sera leur admission, sinon une r&eacute;surrection (d&rsquo;entre
+si leur perte a été la réconciliation du monde,
+que sera leur admission, sinon une résurrection (d’entre
 les morts) ? </ab>
 <ab n="16">Si
-les pr&eacute;mices sont saintes, la masse l&rsquo;est aussi ; et si
+les prémices sont saintes, la masse l’est aussi ; et si
 la racine est sainte, les branches le sont aussi. </ab>
 <ab n="17">Si
-quelques-unes des branches (rameaux) ont &eacute;t&eacute; bris&eacute;es,
-et si toi, qui &eacute;tais un olivier sauvage, tu as &eacute;t&eacute;
-ent&eacute; parmi elles, et mis en participation avec la racine et la
-s&egrave;ve de l&rsquo;olivier, </ab>
+quelques-unes des branches (rameaux) ont été brisées,
+et si toi, qui étais un olivier sauvage, tu as été
+enté parmi elles, et mis en participation avec la racine et la
+sève de l’olivier, </ab>
 <ab n="18">ne
-te glorifie pas aux d&eacute;pens des branches (rameaux). Si tu te
-glorifies, sache que ce n&rsquo;est pas toi qui portes la racine,
+te glorifie pas aux dépens des branches (rameaux). Si tu te
+glorifies, sache que ce n’est pas toi qui portes la racine,
 mais que la racine te porte. </ab>
 <ab n="19">Mais,
-diras-tu, les branches (rameaux) ont &eacute;t&eacute; bris&eacute;es,
-afin que je fusse ent&eacute;. </ab>
+diras-tu, les branches (rameaux) ont été brisées,
+afin que je fusse enté. </ab>
 <ab n="20">Bien,
-c&rsquo;est &agrave; cause de leur incr&eacute;dulit&eacute; qu&rsquo;elles
-ont &eacute;t&eacute; bris&eacute;es ; et toi, tu subsistes par la
-foi. Ne t&rsquo;enorgueillis pas, mais crains. </ab>
+c’est à cause de leur incrédulité qu’elles
+ont été brisées ; et toi, tu subsistes par la
+foi. Ne t’enorgueillis pas, mais crains. </ab>
 <ab n="21">Car
-si Dieu n&rsquo;a pas &eacute;pargn&eacute; les branches (rameaux)
-naturelles, il ne t&rsquo;&eacute;pargnera peut-&ecirc;tre pas non
+si Dieu n’a pas épargné les branches (rameaux)
+naturelles, il ne t’épargnera peut-être pas non
 plus. </ab>
 <ab n="22">Vois
-donc la bont&eacute; et la s&eacute;v&eacute;rit&eacute; de Dieu : Sa
-s&eacute;v&eacute;rit&eacute; envers ceux qui sont tomb&eacute;s ;
-envers toi la bont&eacute; de Dieu, si tu demeures ferme dans cette
-bont&eacute; ; autrement tu seras retranch&eacute;, toi aussi. </ab>
+donc la bonté et la sévérité de Dieu : Sa
+sévérité envers ceux qui sont tombés ;
+envers toi la bonté de Dieu, si tu demeures ferme dans cette
+bonté ; autrement tu seras retranché, toi aussi. </ab>
 <ab n="23">Eux
-de m&ecirc;me, s&rsquo;ils ne persistent pas dans l&rsquo;incr&eacute;dulit&eacute;,
-ils seront ent&eacute;s ; car Dieu est puissant pour les enter de
+de même, s’ils ne persistent pas dans l’incrédulité,
+ils seront entés ; car Dieu est puissant pour les enter de
 nouveau. </ab>
 <ab n="24">En
-effet, si tu as &eacute;t&eacute; coup&eacute; sur un olivier sauvage
-de sa nature, et ent&eacute;, contre ta nature, sur l&rsquo;olivier
-franc, &agrave; combien plus forte raison ceux qui sont les branches
-(rameaux) naturelles seront-ils ent&eacute;s sur leur propre olivier
+effet, si tu as été coupé sur un olivier sauvage
+de sa nature, et enté, contre ta nature, sur l’olivier
+franc, à combien plus forte raison ceux qui sont les branches
+(rameaux) naturelles seront-ils entés sur leur propre olivier
 ? </ab>
 <ab n="25">Car
-je ne veux pas, mes fr&egrave;res, que vous ignoriez ce myst&egrave;re
+je ne veux pas, mes frères, que vous ignoriez ce mystère
 (afin que vous ne soyez pas sages
-&agrave; vos propres yeux) : c&rsquo;est qu&rsquo;une partie d&rsquo;Isra&euml;l
-est tomb&eacute;e dans l&rsquo;aveuglement, jusqu&rsquo;&agrave; ce
-que la pl&eacute;nitude des pa&iuml;ens (gentils) soit entr&eacute;e,
+à vos propres yeux) : c’est qu’une partie d’Israël
+est tombée dans l’aveuglement, jusqu’à ce
+que la plénitude des païens (gentils) soit entrée,
 </ab>
 <ab n="26">et
-qu&rsquo;ainsi tout Isra&euml;l soit sauv&eacute;, selon qu&rsquo;il
-est &eacute;crit : De Sion viendra un lib&eacute;rateur, et il
-&eacute;loignera l&rsquo;impi&eacute;t&eacute; de Jacob ; </ab>
+qu’ainsi tout Israël soit sauvé, selon qu’il
+est écrit : De Sion viendra un libérateur, et il
+éloignera l’impiété de Jacob ; </ab>
 <ab n="27">et
-c&rsquo;est l&agrave; l&rsquo;alliance que je ferai avec eux, lorsque
-j&rsquo;enl&egrave;verai leurs p&eacute;ch&eacute;s. </ab>
+c’est là l’alliance que je ferai avec eux, lorsque
+j’enlèverai leurs péchés. </ab>
 <ab n="28">Il
-est vrai qu&rsquo;en ce qui concerne l&rsquo;Evangile, ils sont
-ennemis &agrave; cause de vous ; mais, en ce qui concerne l&rsquo;&eacute;lection,
-ils sont aim&eacute;s &agrave; cause de leurs p&egrave;res. </ab>
+est vrai qu’en ce qui concerne l’Evangile, ils sont
+ennemis à cause de vous ; mais, en ce qui concerne l’élection,
+ils sont aimés à cause de leurs pères. </ab>
 <ab n="29">Car
 Dieu ne se repent pas de ses dons et de son appel. </ab>
 <ab n="30">De
-m&ecirc;me donc qu&rsquo;autrefois vous-m&ecirc;mes vous n&rsquo;avez
-pas cru &agrave; Dieu, et que vous avez maintenant obtenu mis&eacute;ricorde
-&agrave; cause de leur incr&eacute;dulit&eacute; ; </ab>
+même donc qu’autrefois vous-mêmes vous n’avez
+pas cru à Dieu, et que vous avez maintenant obtenu miséricorde
+à cause de leur incrédulité ; </ab>
 <ab n="31">eux
-de m&ecirc;me n&rsquo;ont pas cru maintenant, &agrave; cause de la
-mis&eacute;ricorde dont vous avez &eacute;t&eacute; l&rsquo;objet,
-afin qu&rsquo;eux aussi ils obtiennent mis&eacute;ricorde. </ab>
+de même n’ont pas cru maintenant, à cause de la
+miséricorde dont vous avez été l’objet,
+afin qu’eux aussi ils obtiennent miséricorde. </ab>
 <ab n="32">Car
-Dieu a tout enferm&eacute; dans l&rsquo;incr&eacute;dulit&eacute;,
-afin de faire mis&eacute;ricorde &agrave; tous. </ab>
+Dieu a tout enfermé dans l’incrédulité,
+afin de faire miséricorde à tous. </ab>
 <ab n="33">O
 profondeur des richesses de la sagesse et de la science de Dieu ! Que
-ses jugements sont incompr&eacute;hensibles, et ses voies
-imp&eacute;n&eacute;trables ! </ab>
+ses jugements sont incompréhensibles, et ses voies
+impénétrables ! </ab>
 <ab n="34">Car
-qui a connu la pens&eacute;e du Seigneur ? ou qui a &eacute;t&eacute;
+qui a connu la pensée du Seigneur ? ou qui a été
 son conseiller ? </ab>
 <ab n="35">Ou
-qui lui a donn&eacute; le premier, et recevra de lui en retour ?
+qui lui a donné le premier, et recevra de lui en retour ?
 </ab>
 <ab n="36">Car
-c&rsquo;est de lui, et par lui, et en lui que sont toutes choses ; &agrave;
-lui la gloire dans tous les si&egrave;cles. Amen.
+c’est de lui, et par lui, et en lui que sont toutes choses ; à
+lui la gloire dans tous les siècles. Amen.
 </ab></div>
 <div type="chapter" n="12">
 <ab n="1">Je
-vous conjure donc, mes fr&egrave;res, par la mis&eacute;ricorde de
-Dieu, d&rsquo;offrir vos corps comme une hostie vivante, sainte,
-agr&eacute;able &agrave; Dieu ; ce sera votre culte raisonnable. </ab>
+vous conjure donc, mes frères, par la miséricorde de
+Dieu, d’offrir vos corps comme une hostie vivante, sainte,
+agréable à Dieu ; ce sera votre culte raisonnable. </ab>
 <ab n="2">Ne
-vous conformez pas &agrave; ce si&egrave;cle ; mais transformez-vous
+vous conformez pas à ce siècle ; mais transformez-vous
 par le renouvellement de votre esprit, afin que vous reconnaissiez
-quelle est la volont&eacute; de Dieu, volont&eacute; qui est bonne,
-agr&eacute;able et parfaite. </ab>
+quelle est la volonté de Dieu, volonté qui est bonne,
+agréable et parfaite. </ab>
 <ab n="3">Car
-je dis par la gr&acirc;ce qui m&rsquo;a &eacute;t&eacute; donn&eacute;e,
-&agrave; tous ceux qui sont parmi vous, de n&rsquo;avoir pas
-d&rsquo;eux-m&ecirc;mes une meilleure opinion qu&rsquo;ils ne doivent
-(sages qu&rsquo;il ne le faut), mais d&rsquo;avoir des sentiments
-modestes, selon la mesure de la foi que Dieu a d&eacute;partie &agrave;
+je dis par la grâce qui m’a été donnée,
+à tous ceux qui sont parmi vous, de n’avoir pas
+d’eux-mêmes une meilleure opinion qu’ils ne doivent
+(sages qu’il ne le faut), mais d’avoir des sentiments
+modestes, selon la mesure de la foi que Dieu a départie à
 chacun. </ab>
 <ab n="4">Car,
 comme dans un seul corps nous avons plusieurs membres, et que tous
-les membres n&rsquo;ont pas la m&ecirc;me fonction, </ab>
+les membres n’ont pas la même fonction, </ab>
 <ab n="5">ainsi,
-quoique nombreux, nous sommes un seul corps dans le Christ, &eacute;tant
+quoique nombreux, nous sommes un seul corps dans le Christ, étant
 tous en particulier les membres les uns des autres. </ab>
 <ab n="6">Nous
-avons toutefois des dons diff&eacute;rents, selon la gr&acirc;ce qui
-nous a &eacute;t&eacute; accord&eacute;e : soit le don de proph&eacute;tie,
-selon l&rsquo;analogie de la foi ; </ab>
+avons toutefois des dons différents, selon la grâce qui
+nous a été accordée : soit le don de prophétie,
+selon l’analogie de la foi ; </ab>
 <ab n="7">soit
-le minist&egrave;re, pour s&rsquo;exercer au minist&egrave;re ; soit
-l&rsquo;enseignement, pour celui qui enseigne ; </ab>
-<ab n="8">l&rsquo;exhortation,
-pour celui qui exhorte ; la simplicit&eacute;, pour celui qui
-distribue (l&rsquo;aum&ocirc;ne) ; la sollicitude, pour celui qui
-pr&eacute;side ; la joie, pour celui qui exerce la mis&eacute;ricorde.
+le ministère, pour s’exercer au ministère ; soit
+l’enseignement, pour celui qui enseigne ; </ab>
+<ab n="8">l’exhortation,
+pour celui qui exhorte ; la simplicité, pour celui qui
+distribue (l’aumône) ; la sollicitude, pour celui qui
+préside ; la joie, pour celui qui exerce la miséricorde.
 </ab>
 <ab n="9">Que
-la charit&eacute; soit sans d&eacute;guisement ; ayez le mal en
+la charité soit sans déguisement ; ayez le mal en
 horreur, attachez-vous fortement au bien. </ab>
 <ab n="10">Aimez-vous
-mutuellement d&rsquo;une affection fraternelle ; pr&eacute;venez-vous
-par des &eacute;gards r&eacute;ciproques. </ab>
+mutuellement d’une affection fraternelle ; prévenez-vous
+par des égards réciproques. </ab>
 <ab n="11">Ayez
-du z&egrave;le, (et non de la paresse) ; soyez fervents d&rsquo;esprit,
+du zèle, (et non de la paresse) ; soyez fervents d’esprit,
 servez le Seigneur. </ab>
 <ab n="12">Soyez
-joyeux dans l&rsquo;esp&eacute;rance, patients dans l&rsquo;affliction,
-pers&eacute;v&eacute;rants dans la pri&egrave;re. </ab>
+joyeux dans l’espérance, patients dans l’affliction,
+persévérants dans la prière. </ab>
 <ab n="13">Prenez
-part aux n&eacute;cessit&eacute;s des saints, exercez l&rsquo;hospitalit&eacute;
+part aux nécessités des saints, exercez l’hospitalité
 avec empressement. </ab>
-<ab n="14">B&eacute;nissez
-ceux qui vous pers&eacute;cutent ; b&eacute;nissez, et ne maudissez
+<ab n="14">Bénissez
+ceux qui vous persécutent ; bénissez, et ne maudissez
 pas. </ab>
-<ab n="15">R&eacute;jouissez-vous
-avec ceux qui se r&eacute;jouissent, pleurez avec ceux qui pleurent.
+<ab n="15">Réjouissez-vous
+avec ceux qui se réjouissent, pleurez avec ceux qui pleurent.
 </ab>
 <ab n="16">Ayez
-les m&ecirc;mes sentiments les uns envers les autres ; n&rsquo;aspirez
-pas &agrave; ce qui est &eacute;lev&eacute;, mais accommodez-vous &agrave;
+les mêmes sentiments les uns envers les autres ; n’aspirez
+pas à ce qui est élevé, mais accommodez-vous à
 ce qui est plus humble. Ne soyez pas sages
-&agrave; vos propres yeux. </ab>
+à vos propres yeux. </ab>
 <ab n="17">Ne
-rendez &agrave; personne le mal pour le mal ; ayez soin de faire le
+rendez à personne le mal pour le mal ; ayez soin de faire le
 bien, non seulement devant Dieu, mais aussi devant tous les hommes.
 </ab>
-<ab n="18">S&rsquo;il
-est possible, autant que cela d&eacute;pend de vous, ayez la paix
+<ab n="18">S’il
+est possible, autant que cela dépend de vous, ayez la paix
 avec tous les hommes. </ab>
 <ab n="19">Ne
-vous vengez pas vous-m&ecirc;mes,
-mes bien-aim&eacute;s, mais laissez agir la col&egrave;re ; car il
-est &eacute;crit : A moi la vengeance ; c&rsquo;est moi qui
-r&eacute;tribuerai, dit le Seigneur. </ab>
+vous vengez pas vous-mêmes,
+mes bien-aimés, mais laissez agir la colère ; car il
+est écrit : A moi la vengeance ; c’est moi qui
+rétribuerai, dit le Seigneur. </ab>
 <ab n="20">Mais
-si ton ennemi a faim, donne-lui &agrave; manger ; s&rsquo;il a soif,
-donne-lui &agrave; boire. Car, en agissant ainsi, tu amasseras des
-charbons de feu sur sa t&ecirc;te. </ab>
+si ton ennemi a faim, donne-lui à manger ; s’il a soif,
+donne-lui à boire. Car, en agissant ainsi, tu amasseras des
+charbons de feu sur sa tête. </ab>
 <ab n="21">Ne
 te laisse pas vaincre
-par le mal ; mais travaille &agrave; vaincre le mal par le bien.
+par le mal ; mais travaille à vaincre le mal par le bien.
 </ab></div>
 <div type="chapter" n="13">
 <ab n="1">Que
-toute personne soit soumise aux autorit&eacute;s sup&eacute;rieures :
-car il n&rsquo;y a pas d&rsquo;autorit&eacute; qui ne vienne de Dieu,
-et celles qui existent ont &eacute;t&eacute; institu&eacute;es par
+toute personne soit soumise aux autorités supérieures :
+car il n’y a pas d’autorité qui ne vienne de Dieu,
+et celles qui existent ont été instituées par
 Dieu. </ab>
-<ab n="2">C&rsquo;est
-pourquoi celui qui r&eacute;siste &agrave; l&rsquo;autorit&eacute;
-r&eacute;siste &agrave; l&rsquo;ordre &eacute;tabli par Dieu ; et
-ceux qui r&eacute;sistent attirent la condamnation sur eux-m&ecirc;mes.
+<ab n="2">C’est
+pourquoi celui qui résiste à l’autorité
+résiste à l’ordre établi par Dieu ; et
+ceux qui résistent attirent la condamnation sur eux-mêmes.
 </ab>
 <ab n="3">Car
-les princes ne sont pas &agrave; craindre pour les bonnes actions,
-mais pour les mauvaises. Veux-tu ne pas craindre les autorit&eacute;s
-? fais le bien, et tu recevras d&rsquo;elles des &eacute;loges. </ab>
+les princes ne sont pas à craindre pour les bonnes actions,
+mais pour les mauvaises. Veux-tu ne pas craindre les autorités
+? fais le bien, et tu recevras d’elles des éloges. </ab>
 <ab n="4">Car
 le prince est le ministre de Dieu, pour ton bien. Mais si tu fais le
-mal, crains ; car ce n&rsquo;est pas en vain qu&rsquo;il porte
-l&rsquo;&eacute;p&eacute;e. En effet, il est le ministre de Dieu pour
-le venger, en montrant sa col&egrave;re &agrave; celui qui fait le
+mal, crains ; car ce n’est pas en vain qu’il porte
+l’épée. En effet, il est le ministre de Dieu pour
+le venger, en montrant sa colère à celui qui fait le
 mal. </ab>
 <ab n="5">Il
-est donc n&eacute;cessaire de vous soumettre, non seulement par
-crainte de la col&egrave;re, mais aussi par conscience. </ab>
-<ab n="6">C&rsquo;est
-aussi pour cela que vous payez les imp&ocirc;ts (le tribut) ; car les
-princes sont les ministres de Dieu, le servant en cela m&ecirc;me.
+est donc nécessaire de vous soumettre, non seulement par
+crainte de la colère, mais aussi par conscience. </ab>
+<ab n="6">C’est
+aussi pour cela que vous payez les impôts (le tribut) ; car les
+princes sont les ministres de Dieu, le servant en cela même.
 </ab>
 <ab n="7">Rendez
-donc &agrave; tous ce qui leur est d&ucirc; : le tribut &agrave; qui
-vous devez le tribut, l&rsquo;imp&ocirc;t &agrave; qui vous devez
-l&rsquo;imp&ocirc;t, la crainte &agrave; qui vous devez la crainte,
-l&rsquo;honneur &agrave; qui vous devez l&rsquo;honneur. </ab>
+donc à tous ce qui leur est dû : le tribut à qui
+vous devez le tribut, l’impôt à qui vous devez
+l’impôt, la crainte à qui vous devez la crainte,
+l’honneur à qui vous devez l’honneur. </ab>
 <ab n="8">Ne
-soyez les d&eacute;biteurs de personne, si ce n&rsquo;est de vous
+soyez les débiteurs de personne, si ce n’est de vous
 aimer les uns les autres ; car celui qui aime le prochain a accompli
 la loi. </ab>
 <ab n="9">En
-effet, ces commandements : Tu ne commettras pas d&rsquo;adult&egrave;re,
-tu ne tueras pas, tu ne d&eacute;roberas pas, tu ne porteras pas de
-faux t&eacute;moignage, tu ne convoiteras pas, et s&rsquo;il y a
-quelque autre commandement, tout se r&eacute;sume dans cette parole :
-Tu aimeras ton prochain comme toi-m&ecirc;me. </ab>
-<ab n="10">L&rsquo;amour
-du prochain ne fait pas de mal. L&rsquo;amour est donc
-l&rsquo;accomplissement de la loi. </ab>
+effet, ces commandements : Tu ne commettras pas d’adultère,
+tu ne tueras pas, tu ne déroberas pas, tu ne porteras pas de
+faux témoignage, tu ne convoiteras pas, et s’il y a
+quelque autre commandement, tout se résume dans cette parole :
+Tu aimeras ton prochain comme toi-même. </ab>
+<ab n="10">L’amour
+du prochain ne fait pas de mal. L’amour est donc
+l’accomplissement de la loi. </ab>
 <ab n="11">(Faites
-cela,) sachant le temps o&ugrave; nous sommes, car il est d&eacute;j&agrave;
-l&rsquo;heure de nous r&eacute;veiller du sommeil ; maintenant, en
-effet, le salut est plus proche de nous que lorsque nous avons re&ccedil;u
-(embrass&eacute;) la foi. </ab>
+cela,) sachant le temps où nous sommes, car il est déjà
+l’heure de nous réveiller du sommeil ; maintenant, en
+effet, le salut est plus proche de nous que lorsque nous avons reçu
+(embrassé) la foi. </ab>
 <ab n="12">La
-nuit est (d&eacute;j&agrave; fort) avanc&eacute;e, le jour approche.
-Rejetons donc les &oelig;uvres de t&eacute;n&egrave;bres, et
-rev&ecirc;tons-nous des armes de lumi&egrave;re. </ab>
+nuit est (déjà fort) avancée, le jour approche.
+Rejetons donc les œuvres de ténèbres, et
+revêtons-nous des armes de lumière. </ab>
 <ab n="13">Comme
-en plein jour, marchons avec honn&ecirc;tet&eacute;, non pas dans les
-exc&egrave;s de table et dans l&rsquo;ivrognerie, non pas dans les
-impudicit&eacute;s et les dissolutions, non pas dans les querelles et
-dans l&rsquo;envie ; </ab>
+en plein jour, marchons avec honnêteté, non pas dans les
+excès de table et dans l’ivrognerie, non pas dans les
+impudicités et les dissolutions, non pas dans les querelles et
+dans l’envie ; </ab>
 <ab n="14">mais
-rev&ecirc;tez-vous du Seigneur J&eacute;sus-Christ, et ne vous
-pr&eacute;occupez pas de la chair pour satisfaire ses d&eacute;sirs.</ab></div>
+revêtez-vous du Seigneur Jésus-Christ, et ne vous
+préoccupez pas de la chair pour satisfaire ses désirs.</ab></div>
 <div type="chapter" n="14">
 <ab n="1">Accueillez
 celui qui est faible dans la foi, sans contester les opinions. </ab>
 <ab n="2">Car
-l&rsquo;un croit pouvoir manger de tout ; l&rsquo;autre, qui est
-faible, ne mange que des l&eacute;gumes. </ab>
+l’un croit pouvoir manger de tout ; l’autre, qui est
+faible, ne mange que des légumes. </ab>
 <ab n="3">Que
-celui qui mange ne m&eacute;prise pas celui
+celui qui mange ne méprise pas celui
 qui ne mange pas ; et que celui qui ne mange pas ne juge pas
 celui qui mange :
-car Dieu l&rsquo;a pris &agrave; son service. </ab>
+car Dieu l’a pris à son service. </ab>
 <ab n="4">Qui
-es-tu, toi qui juges le serviteur d&rsquo;autrui ? S&rsquo;il demeure
-ferme, ou s&rsquo;il tombe, cela regarde son ma&icirc;tre ; mais il
-demeurera ferme, car Dieu est puissant pour l&rsquo;affermir. </ab>
+es-tu, toi qui juges le serviteur d’autrui ? S’il demeure
+ferme, ou s’il tombe, cela regarde son maître ; mais il
+demeurera ferme, car Dieu est puissant pour l’affermir. </ab>
 <ab n="5">De
-m&ecirc;me, l&rsquo;un met de la diff&eacute;rence entre les jours,
-l&rsquo;autre consid&egrave;re tous les jours comme &eacute;gaux. Que
+même, l’un met de la différence entre les jours,
+l’autre considère tous les jours comme égaux. Que
 chacun abonde en son sens. </ab>
 <ab n="6">Celui
 qui distingue les jours, les distingue pour le Seigneur ; celui qui
-mange, le fait pour le Seigneur, car il rend gr&acirc;ces &agrave;
+mange, le fait pour le Seigneur, car il rend grâces à
 Dieu ; et celui qui ne mange pas, le fait pour le Seigneur, et il
-rend gr&acirc;ces &agrave; Dieu. </ab>
+rend grâces à Dieu. </ab>
 <ab n="7">Car
-aucun de nous ne vit pour lui-m&ecirc;me, et aucun ne meurt pour
-lui-m&ecirc;me. </ab>
+aucun de nous ne vit pour lui-même, et aucun ne meurt pour
+lui-même. </ab>
 <ab n="8">Mais,
-soit que nous vivions, c&rsquo;est pour le Seigneur que nous vivons ;
-soit que nous mourions, c&rsquo;est pour le Seigneur que nous
+soit que nous vivions, c’est pour le Seigneur que nous vivons ;
+soit que nous mourions, c’est pour le Seigneur que nous
 mourons. Soit donc que nous vivions, soit que nous mourions, nous
 sommes au Seigneur. </ab>
 <ab n="9">Car
-c&rsquo;est pour cela que le Christ est mort et qu&rsquo;il est
-ressuscit&eacute;, afin de dominer sur les morts et sur les vivants.
+c’est pour cela que le Christ est mort et qu’il est
+ressuscité, afin de dominer sur les morts et sur les vivants.
 </ab>
 <ab n="10">Mais
-toi, pourquoi juges-tu ton fr&egrave;re ? et toi, (ou) pourquoi
-m&eacute;prises-tu ton fr&egrave;re ? puisque nous compara&icirc;trons
+toi, pourquoi juges-tu ton frère ? et toi, (ou) pourquoi
+méprises-tu ton frère ? puisque nous comparaîtrons
 tous devant le tribunal du Christ. </ab>
 <ab n="11">Car
-il est &eacute;crit : Aussi vrai que je vis, dit le Seigneur, tout
-genou fl&eacute;chira devant moi, et toute langue rendra gloire &agrave;
+il est écrit : Aussi vrai que je vis, dit le Seigneur, tout
+genou fléchira devant moi, et toute langue rendra gloire à
 (confessera) Dieu. </ab>
 <ab n="12">Ainsi
-chacun de nous rendra compte &agrave; Dieu pour soi-m&ecirc;me. </ab>
+chacun de nous rendra compte à Dieu pour soi-même. </ab>
 <ab n="13">Ne
-nous jugeons donc plus les uns les autres ; mais jugez plut&ocirc;t
-que vous ne devez pas placer devant votre fr&egrave;re une pierre
-d&rsquo;achoppement ou de scandale. </ab>
+nous jugeons donc plus les uns les autres ; mais jugez plutôt
+que vous ne devez pas placer devant votre frère une pierre
+d’achoppement ou de scandale. </ab>
 <ab n="14">Je
-sais et je suis persuad&eacute; dans le Seigneur J&eacute;sus que
-rien n&rsquo;est impur en soi-m&ecirc;me, et qu&rsquo;une chose n&rsquo;est
-impure que pour celui qui l&rsquo;estime impure. </ab>
+sais et je suis persuadé dans le Seigneur Jésus que
+rien n’est impur en soi-même, et qu’une chose n’est
+impure que pour celui qui l’estime impure. </ab>
 <ab n="15">Mais
-si pour un aliment tu attristes ton fr&egrave;re, d&egrave;s lors tu
-ne te conduis plus selon la charit&eacute;. Ne va pas, par ta
+si pour un aliment tu attristes ton frère, dès lors tu
+ne te conduis plus selon la charité. Ne va pas, par ta
 nourriture, perdre celui pour qui le Christ est mort. </ab>
 <ab n="16">Que
 le bien dont nous jouissons ne soit donc pas une occasion de
-blasph&egrave;me ! </ab>
+blasphème ! </ab>
 <ab n="17">Car
 le royaume de Dieu ne consiste pas dans le manger et dans le boire,
-mais dans la justice, la paix et la joie que donne l&rsquo;Esprit-Saint
+mais dans la justice, la paix et la joie que donne l’Esprit-Saint
 ; </ab>
 <ab n="18">et
-celui qui sert le Christ de cette mani&egrave;re pla&icirc;t &agrave;
-Dieu et est approuv&eacute; des hommes. </ab>
+celui qui sert le Christ de cette manière plaît à
+Dieu et est approuvé des hommes. </ab>
 <ab n="19">Ainsi
-donc, recherchons ce qui contribue &agrave; la paix, et observons les
-uns envers les autres ce qui peut &eacute;difier. </ab>
+donc, recherchons ce qui contribue à la paix, et observons les
+uns envers les autres ce qui peut édifier. </ab>
 <ab n="20">Ne
-va pas, pour un aliment, d&eacute;truire l&rsquo;&oelig;uvre de Dieu.
-A la v&eacute;rit&eacute; toutes choses sont pures ; mais un homme
-fait le mal, lorsqu&rsquo;en mangeant il est une pierre
-d&rsquo;achoppement. </ab>
+va pas, pour un aliment, détruire l’œuvre de Dieu.
+A la vérité toutes choses sont pures ; mais un homme
+fait le mal, lorsqu’en mangeant il est une pierre
+d’achoppement. </ab>
 <ab n="21">Il
 est bien (bon) de ne pas manger de viande, et ne pas boire de vin, et
-de s&rsquo;abstenir de ce qui choque, scandalise, ou affaiblit ton
-fr&egrave;re. </ab>
+de s’abstenir de ce qui choque, scandalise, ou affaiblit ton
+frère. </ab>
 <ab n="22">As-tu
-la foi ? Garde-la en toi-m&ecirc;me devant Dieu. Heureux celui qui ne
-se condamne pas lui-m&ecirc;me dans ce qu&rsquo;il approuve ! </ab>
+la foi ? Garde-la en toi-même devant Dieu. Heureux celui qui ne
+se condamne pas lui-même dans ce qu’il approuve ! </ab>
 <ab n="23">Mais
 celui qui a des doutes (fait une distinction) et qui mange est
-condamn&eacute;, parce qu&rsquo;il n&rsquo;agit pas selon la foi
-(n&rsquo;est pas de bonne foi). Or tout ce qui ne se fait pas
+condamné, parce qu’il n’agit pas selon la foi
+(n’est pas de bonne foi). Or tout ce qui ne se fait pas
 selon la foi est
-p&eacute;ch&eacute;.
+péché.
 </ab></div>
 <div type="chapter" n="15">
 <ab n="1">Nous
 devons donc, nous qui sommes plus forts, supporter les faiblesses des
-infirmes, et ne pas nous complaire en nous-m&ecirc;mes. </ab>
+infirmes, et ne pas nous complaire en nous-mêmes. </ab>
 <ab n="2">Que
-chacun de vous plaise &agrave; (ait de la complaisance pour) son
-prochain en ce qui est bien, pour l&rsquo;&eacute;dification ; </ab>
+chacun de vous plaise à (ait de la complaisance pour) son
+prochain en ce qui est bien, pour l’édification ; </ab>
 <ab n="3">car
-le Christ ne s&rsquo;est pas complu en lui-m&ecirc;me, mais, ainsi
-qu&rsquo;il est &eacute;crit : Les outrages de ceux qui t&rsquo;outragent
-(outrageaient) sont retomb&eacute;s sur moi. </ab>
+le Christ ne s’est pas complu en lui-même, mais, ainsi
+qu’il est écrit : Les outrages de ceux qui t’outragent
+(outrageaient) sont retombés sur moi. </ab>
 <ab n="4">Car
-tout ce qui est &eacute;crit a &eacute;t&eacute; &eacute;crit pour
+tout ce qui est écrit a été écrit pour
 notre instruction, afin que, par la patience et par la consolation
-que donnent les Ecritures, nous poss&eacute;dions l&rsquo;esp&eacute;rance.
+que donnent les Ecritures, nous possédions l’espérance.
 </ab>
 <ab n="5">Que
-le Dieu de patience et de consolation vous donne (donc) d&rsquo;&ecirc;tre
-unis de sentiment les uns avec les autres, selon J&eacute;sus-Christ,
+le Dieu de patience et de consolation vous donne (donc) d’être
+unis de sentiment les uns avec les autres, selon Jésus-Christ,
 </ab>
 <ab n="6">afin
-que, d&rsquo;un m&ecirc;me c&oelig;ur et d&rsquo;une m&ecirc;me
-bouche, vous honoriez Dieu, le P&egrave;re de Notre Seigneur
-J&eacute;sus-Christ. </ab>
-<ab n="7">C&rsquo;est
+que, d’un même cœur et d’une même
+bouche, vous honoriez Dieu, le Père de Notre Seigneur
+Jésus-Christ. </ab>
+<ab n="7">C’est
 pourquoi accueillez-vous (soutenez-vous) les uns les autres, comme le
 Christ vous a accueillis (soutenus) pour la gloire de Dieu. </ab>
 <ab n="8">Car
-je d&eacute;clare que le Christ J&eacute;sus a &eacute;t&eacute; le
+je déclare que le Christ Jésus a été le
 serviteur des circoncis (ministre de la circoncision), pour montrer
-(justifier) la v&eacute;racit&eacute; de Dieu, pour confirmer les
-promesses faites &agrave; nos p&egrave;res ; </ab>
+(justifier) la véracité de Dieu, pour confirmer les
+promesses faites à nos pères ; </ab>
 <ab n="9">et
-afin que les pa&iuml;ens (nations) glorifient Dieu de sa mis&eacute;ricorde,
-selon qu&rsquo;il est &eacute;crit : C&rsquo;est pour cela, Seigneur,
+afin que les païens (nations) glorifient Dieu de sa miséricorde,
+selon qu’il est écrit : C’est pour cela, Seigneur,
 que je vous louerai (confesserai) parmi les nations, et que je
-chanterai &agrave; la gloire de votre nom. </ab>
+chanterai à la gloire de votre nom. </ab>
 <ab n="10">Il
-est dit encore : R&eacute;jouissez-vous, nations, avec son peuple.
+est dit encore : Réjouissez-vous, nations, avec son peuple.
 </ab>
 <ab n="11">Et
-encore : Louez le Seigneur, vous, toutes les nations ; c&eacute;l&eacute;brez-le,
+encore : Louez le Seigneur, vous, toutes les nations ; célébrez-le,
 vous, tous les peuples. </ab>
-<ab n="12">Isa&iuml;e
-dit aussi : Il para&icirc;tra, le rejeton (la racine) de Jess&eacute;,
-celui qui s&rsquo;&eacute;l&egrave;vera pour r&eacute;gner sur les
-nations ; les nations esp&eacute;reront en lui. </ab>
+<ab n="12">Isaïe
+dit aussi : Il paraîtra, le rejeton (la racine) de Jessé,
+celui qui s’élèvera pour régner sur les
+nations ; les nations espéreront en lui. </ab>
 <ab n="13">Que
-le Dieu de l&rsquo;esp&eacute;rance vous remplisse de toute joie et
-de paix dans la foi, afin que vous abondiez dans l&rsquo;esp&eacute;rance
-et dans la force (vertu) de l&rsquo;Esprit-Saint. </ab>
+le Dieu de l’espérance vous remplisse de toute joie et
+de paix dans la foi, afin que vous abondiez dans l’espérance
+et dans la force (vertu) de l’Esprit-Saint. </ab>
 <ab n="14">Pour
-moi, mes fr&egrave;res, je suis certain, en ce qui vous concerne, que
-vous &ecirc;tes pleins de charit&eacute;, remplis de toute science,
-et qu&rsquo;ainsi vous pouvez vous avertir les uns les autres.
+moi, mes frères, je suis certain, en ce qui vous concerne, que
+vous êtes pleins de charité, remplis de toute science,
+et qu’ainsi vous pouvez vous avertir les uns les autres.
 </ab>
 <ab n="15">Cependant
-je vous ai &eacute;crit, mes fr&egrave;res, avec quelque hardiesse
-(certains &eacute;gards), comme pour raviver vos souvenirs, selon la
-gr&acirc;ce que Dieu m&rsquo;a donn&eacute;e, </ab>
+je vous ai écrit, mes frères, avec quelque hardiesse
+(certains égards), comme pour raviver vos souvenirs, selon la
+grâce que Dieu m’a donnée, </ab>
 <ab n="16">pour
-&ecirc;tre le ministre du Christ J&eacute;sus parmi les pa&iuml;ens
-(nations), exer&ccedil;ant la sacrificature (saintet&eacute;) de
-l&rsquo;Evangile de Dieu, afin que l&rsquo;oblation des pa&iuml;ens
-(gentils) lui soit agr&eacute;able (accept&eacute;e), &eacute;tant
-sanctifi&eacute;e par l&rsquo;Esprit-Saint. </ab>
-<ab n="17">J&rsquo;ai
-donc sujet de me glorifier dans le Christ J&eacute;sus, aupr&egrave;s
+être le ministre du Christ Jésus parmi les païens
+(nations), exerçant la sacrificature (sainteté) de
+l’Evangile de Dieu, afin que l’oblation des païens
+(gentils) lui soit agréable (acceptée), étant
+sanctifiée par l’Esprit-Saint. </ab>
+<ab n="17">J’ai
+donc sujet de me glorifier dans le Christ Jésus, auprès
 de Dieu. </ab>
 <ab n="18">Car
-je n&rsquo;oserais parler de choses que le Christ n&rsquo;aurait pas
-faites par moi pour amener les pa&iuml;ens (gentils) &agrave;
-l&rsquo;ob&eacute;issance, par la parole et par les &oelig;uvres,
+je n’oserais parler de choses que le Christ n’aurait pas
+faites par moi pour amener les païens (gentils) à
+l’obéissance, par la parole et par les œuvres,
 </ab>
 <ab n="19">par
 la puissance (vertu) des miracles et des prodiges, par la puissance
-de l&rsquo;Esprit-Saint ; de sorte que, depuis J&eacute;rusalem et
-les pays voisins jusqu&rsquo;&agrave; l&rsquo;Illyrie, j&rsquo;ai
-annonc&eacute; partout l&rsquo;Evangile du Christ. </ab>
+de l’Esprit-Saint ; de sorte que, depuis Jérusalem et
+les pays voisins jusqu’à l’Illyrie, j’ai
+annoncé partout l’Evangile du Christ. </ab>
 <ab n="20">Mais
-j&rsquo;ai eu soin de pr&ecirc;cher cet Evangile dans les lieux o&ugrave;
-le Christ n&rsquo;avait pas encore &eacute;t&eacute; nomm&eacute;,
-afin de ne pas b&acirc;tir
-sur le fondement d&rsquo;autrui ; mais, comme il est &eacute;crit :
+j’ai eu soin de prêcher cet Evangile dans les lieux où
+le Christ n’avait pas encore été nommé,
+afin de ne pas bâtir
+sur le fondement d’autrui ; mais, comme il est écrit :
 </ab>
 <ab n="21">Ceux
-&agrave; qui il n&rsquo;avait pas &eacute;t&eacute;
-annonc&eacute; verront ; et ceux qui n&rsquo;avaient pas entendu
+à qui il n’avait pas été
+annoncé verront ; et ceux qui n’avaient pas entendu
 parler de lui comprendront. </ab>
-<ab n="22">C&rsquo;est
-ce qui m&rsquo;a souvent emp&ecirc;ch&eacute; d&rsquo;aller vers
-vous, et je ne n&rsquo;ai pas pu jusqu&rsquo;&agrave; pr&eacute;sent.
+<ab n="22">C’est
+ce qui m’a souvent empêché d’aller vers
+vous, et je ne n’ai pas pu jusqu’à présent.
 </ab>
 <ab n="23">Mais
-maintenant n&rsquo;ayant plus rien &agrave; faire dans ces contr&eacute;es,
-et &eacute;prouvant depuis plusieurs ann&eacute;es le d&eacute;sir
-d&rsquo;aller vers vous, </ab>
+maintenant n’ayant plus rien à faire dans ces contrées,
+et éprouvant depuis plusieurs années le désir
+d’aller vers vous, </ab>
 <ab n="24">lorsque
-je partirai pour l&rsquo;Espagne, j&rsquo;esp&egrave;re vous voir en
-passant, et y &ecirc;tre conduit par vous, apr&egrave;s avoir d&rsquo;abord
+je partirai pour l’Espagne, j’espère vous voir en
+passant, et y être conduit par vous, après avoir d’abord
 un peu joui de vous. </ab>
 <ab n="25">Mais
-maintenant je vais &agrave; J&eacute;rusalem pour servir les saints.
+maintenant je vais à Jérusalem pour servir les saints.
 </ab>
 <ab n="26">Car
-la Mac&eacute;doine et l&rsquo;Acha&iuml;e ont trouv&eacute; bon de
-faire une collecte pour les pauvres d&rsquo;entre les saints qui sont
-&agrave; J&eacute;rusalem. </ab>
+la Macédoine et l’Achaïe ont trouvé bon de
+faire une collecte pour les pauvres d’entre les saints qui sont
+à Jérusalem. </ab>
 <ab n="27">Cela
 leur a plu, et, en effet, elles leur sont redevables. Car si les
-pa&iuml;ens (gentils) ont particip&eacute; &agrave; leurs biens
+païens (gentils) ont participé à leurs biens
 spirituels, ils doivent aussi leur faire part de leurs biens
 temporels. </ab>
 <ab n="28">Lors
-donc que j&rsquo;aurai achev&eacute; cette affaire, et que je leur
-aurai remis ce fruit des collectes, je partirai pour l&rsquo;Espagne,
+donc que j’aurai achevé cette affaire, et que je leur
+aurai remis ce fruit des collectes, je partirai pour l’Espagne,
 en passant par chez vous. </ab>
 <ab n="29">Or
-je sais qu&rsquo;en venant &agrave; vous, je viendrai avec une
-abondante b&eacute;n&eacute;diction de l&rsquo;Evangile du Christ.
+je sais qu’en venant à vous, je viendrai avec une
+abondante bénédiction de l’Evangile du Christ.
 </ab>
 <ab n="30">Je
-vous conjure donc, fr&egrave;res, par Notre Seigneur J&eacute;sus-Christ,
-et par la charit&eacute; du Saint-Esprit, de m&rsquo;aider par les
-pri&egrave;res que vous ferez &agrave; Dieu pour moi, </ab>
+vous conjure donc, frères, par Notre Seigneur Jésus-Christ,
+et par la charité du Saint-Esprit, de m’aider par les
+prières que vous ferez à Dieu pour moi, </ab>
 <ab n="31">afin
-que je sois d&eacute;livr&eacute; des incr&eacute;dules qui sont en
-Jud&eacute;e, et que l&rsquo;offrande que je suis honor&eacute; de
-porter &agrave; J&eacute;rusalem soit bien re&ccedil;ue des saints,
+que je sois délivré des incrédules qui sont en
+Judée, et que l’offrande que je suis honoré de
+porter à Jérusalem soit bien reçue des saints,
 </ab>
 <ab n="32">en
-sorte que j&rsquo;arrive chez vous avec joie, si c&rsquo;est la
-volont&eacute; de Dieu, et que je me repose avec vous. </ab>
+sorte que j’arrive chez vous avec joie, si c’est la
+volonté de Dieu, et que je me repose avec vous. </ab>
 <ab n="33">Que
 le Dieu de paix soit avec vous tous ! Amen.
 </ab></div>
 <div type="chapter" n="16">
 <ab n="1">Je
-vous recommande Ph&oelig;b&eacute;, notre s&oelig;ur, diaconesse de
-l&rsquo;&eacute;glise de Cenchr&eacute;e, </ab>
+vous recommande Phœbé, notre sœur, diaconesse de
+l’église de Cenchrée, </ab>
 <ab n="2">afin
-que vous la receviez dans le Seigneur d&rsquo;une mani&egrave;re
-digne des saints, et que vous l&rsquo;assistiez dans toutes les
-choses o&ugrave; elle pourrait avoir besoin de vous ; car elle en a
-elle-m&ecirc;me assist&eacute; beaucoup, et moi en particulier.
+que vous la receviez dans le Seigneur d’une manière
+digne des saints, et que vous l’assistiez dans toutes les
+choses où elle pourrait avoir besoin de vous ; car elle en a
+elle-même assisté beaucoup, et moi en particulier.
 </ab>
 <ab n="3">Saluez
-Prisque et Aquila, mes collaborateurs en J&eacute;sus-Christ, </ab>
+Prisque et Aquila, mes collaborateurs en Jésus-Christ, </ab>
 <ab n="4">qui,
-pour me sauver la vie, ont expos&eacute; leur t&ecirc;te, et &agrave;
-qui je ne suis pas seul &agrave; rendre gr&acirc;ces, mais aussi
-toutes les Eglises des pa&iuml;ens (gentils). </ab>
+pour me sauver la vie, ont exposé leur tête, et à
+qui je ne suis pas seul à rendre grâces, mais aussi
+toutes les Eglises des païens (gentils). </ab>
 <ab n="5">Saluez
-aussi l&rsquo;Eglise qui est dans leur maison. Saluez Ep&eacute;n&egrave;te,
-qui m&rsquo;est cher et qui a &eacute;t&eacute; les pr&eacute;mices
-de l&rsquo;Asie dans le Christ. </ab>
+aussi l’Eglise qui est dans leur maison. Saluez Epénète,
+qui m’est cher et qui a été les prémices
+de l’Asie dans le Christ. </ab>
 <ab n="6">Saluez
-Marie, qui a beaucoup travaill&eacute; pour vous. </ab>
+Marie, qui a beaucoup travaillé pour vous. </ab>
 <ab n="7">Saluez
-Andronique et Junie, mes parents et mes compagnons de captivit&eacute;,
-qui sont illustres parmi les ap&ocirc;tres, et qui m&ecirc;me ont &eacute;t&eacute;
+Andronique et Junie, mes parents et mes compagnons de captivité,
+qui sont illustres parmi les apôtres, et qui même ont été
 au Christ avant moi. </ab>
 <ab n="8">Saluez
-Ampliat, qui m&rsquo;est tr&egrave;s cher dans le Seigneur. </ab>
+Ampliat, qui m’est très cher dans le Seigneur. </ab>
 <ab n="9">Saluez
-Urbain, notre collaborateur dans le Christ J&eacute;sus, et Stachys,
-qui m&rsquo;est cher. </ab>
+Urbain, notre collaborateur dans le Christ Jésus, et Stachys,
+qui m’est cher. </ab>
 <ab n="10">Saluez
-Apelle, qui est fid&egrave;le dans le Christ. </ab>
+Apelle, qui est fidèle dans le Christ. </ab>
 <ab n="11">Saluez
-ceux de la maison d&rsquo;Aristobule. Saluez H&eacute;rodion, mon
+ceux de la maison d’Aristobule. Saluez Hérodion, mon
 parent. Saluez ceux de la maison de Narcisse qui sont au Seigneur.
 </ab>
 <ab n="12">Saluez
-Triph&aelig;ne et Triphose, qui travaillent pour le Seigneur. Saluez
-la tr&egrave;s ch&egrave;re Perside, qui a beaucoup travaill&eacute;
+Triphæne et Triphose, qui travaillent pour le Seigneur. Saluez
+la très chère Perside, qui a beaucoup travaillé
 pour le Seigneur. </ab>
 <ab n="13">Saluez
-Rufus, l&rsquo;&eacute;lu du Seigneur, et sa m&egrave;re, qui est
+Rufus, l’élu du Seigneur, et sa mère, qui est
 aussi la mienne. </ab>
 <ab n="14">Saluez
-Asyncrite, Phl&eacute;gon, Hermas, Patrobe, Herm&egrave;s, et les
-fr&egrave;res qui sont avec eux. </ab>
+Asyncrite, Phlégon, Hermas, Patrobe, Hermès, et les
+frères qui sont avec eux. </ab>
 <ab n="15">Saluez
-Philologue et Julie, N&eacute;r&eacute;e et sa s&oelig;ur, et
+Philologue et Julie, Nérée et sa sœur, et
 Olympiade, et tous les saints qui sont avec eux. </ab>
 <ab n="16">Saluez-vous
 les uns les autres par un saint baiser. Toutes les Eglises du Christ
 vous saluent. </ab>
 <ab n="17">Je
-vous exhorte, fr&egrave;res, &agrave; prendre garde &agrave; ceux qui
+vous exhorte, frères, à prendre garde à ceux qui
 causent des divisions et des scandales contre la doctrine que vous
-avez apprise, et &agrave; vous &eacute;loigner d&rsquo;eux. </ab>
+avez apprise, et à vous éloigner d’eux. </ab>
 <ab n="18">Car
-ces hommes-l&agrave; ne servent pas le
+ces hommes-là ne servent pas le
 Christ Notre Seigneur, mais leur ventre ; et par des paroles douces
-et flatteuses, ils s&eacute;duisent les c&oelig;urs des simples. </ab>
+et flatteuses, ils séduisent les cœurs des simples. </ab>
 <ab n="19">En
-effet, votre ob&eacute;issance s&rsquo;est fait conna&icirc;tre en
-tout lieu. Je me r&eacute;jouis donc &agrave; votre sujet ; mais je
-d&eacute;sire que vous soyez sages pour le bien, et simples en ce qui
+effet, votre obéissance s’est fait connaître en
+tout lieu. Je me réjouis donc à votre sujet ; mais je
+désire que vous soyez sages pour le bien, et simples en ce qui
 concerne le mal. </ab>
 <ab n="20">Que
-le Dieu de paix &eacute;crase bient&ocirc;t Satan sous vos pieds !
-Que la gr&acirc;ce de Notre Seigneur J&eacute;sus-Christ soit avec
+le Dieu de paix écrase bientôt Satan sous vos pieds !
+Que la grâce de Notre Seigneur Jésus-Christ soit avec
 vous ! </ab>
-<ab n="21">Timoth&eacute;e,
+<ab n="21">Timothée,
 mon collaborateur, vous salue ; comme aussi Lucius, Jason et
 Sosipater, mes parents. </ab>
 <ab n="22">Je
-vous salue dans le Seigneur, moi Tertius, qui ait &eacute;crit cette
+vous salue dans le Seigneur, moi Tertius, qui ait écrit cette
 lettre. </ab>
-<ab n="23">Ca&iuml;us,
-mon h&ocirc;te, et toute l&rsquo;Eglise vous saluent. Eraste,
-tr&eacute;sorier de la ville, vous salue, ainsi que notre fr&egrave;re
+<ab n="23">Caïus,
+mon hôte, et toute l’Eglise vous saluent. Eraste,
+trésorier de la ville, vous salue, ainsi que notre frère
 Quartus. </ab>
 <ab n="24">Que
-la gr&acirc;ce de Notre Seigneur J&eacute;sus-Christ soit avec vous
+la grâce de Notre Seigneur Jésus-Christ soit avec vous
 (tous). Amen. </ab>
 <ab n="25">A
 celui qui est puissant pour vous affermir dans mon Evangile et dans
-la pr&eacute;dication de J&eacute;sus-Christ, conform&eacute;ment &agrave;
-la r&eacute;v&eacute;lation du myst&egrave;re cach&eacute; durant de
-longs si&egrave;cles </ab>
+la prédication de Jésus-Christ, conformément à
+la révélation du mystère caché durant de
+longs siècles </ab>
 <ab n="26">(mais
-manifest&eacute; maintenant par les &eacute;crits des proph&egrave;tes,
-selon l&rsquo;ordre du Dieu &eacute;ternel, pour qu&rsquo;on ob&eacute;isse
-&agrave; la foi), et connu de toutes les nations, </ab>
-<ab n="27">&agrave;
-Dieu, seul sage, honneur et gloire par J&eacute;sus-Christ dans les
-si&egrave;cles des si&egrave;cles. Amen.</ab>
+manifesté maintenant par les écrits des prophètes,
+selon l’ordre du Dieu éternel, pour qu’on obéisse
+à la foi), et connu de toutes les nations, </ab>
+<ab n="27">à
+Dieu, seul sage, honneur et gloire par Jésus-Christ dans les
+siècles des siècles. Amen.</ab>
 </div>
 </div>

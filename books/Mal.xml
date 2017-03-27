@@ -1,303 +1,283 @@
-<!DOCTYPE definition [
-<!ENTITY rsquo "&#8217;">
-<!ENTITY eacute "é">
-<!ENTITY euml "ë">
-<!ENTITY acirc "â">
-<!ENTITY ecirc "ê">
-<!ENTITY agrave "à">
-<!ENTITY egrave "è">
-<!ENTITY ucirc "û">
-<!ENTITY ugrave "ù">
-<!ENTITY icirc "î">
-<!ENTITY ccedil "ç">
-<!ENTITY iuml "ï">
-<!ENTITY oelig "œ">
-<!ENTITY ocirc "ô">
-<!ENTITY uuml "ü">
-<!ENTITY Eacute "É">
-<!ENTITY nbsp "&#160;">
-
-]>
 
 <div xmlns="http://www.tei-c.org/ns/1.0" type="book" xml:id="VULGFR_Mal">
 <div type="chapter" n="1">
 <ab n="1">Fardeau
-(Malheur accablant, note) de la parole du Seigneur adress&eacute;e &agrave;
-Isra&euml;l par l&rsquo;interm&eacute;diaire (l&rsquo;entremise) de
+(Malheur accablant, note) de la parole du Seigneur adressée à
+Israël par l’intermédiaire (l’entremise) de
 Malachie. </ab>
 <ab n="2">Je
-vous ai aim&eacute;s, dit le Seigneur ; et vous avez dit : En quoi
-nous avez-vous aim&eacute;s ? Esa&uuml; n&rsquo;&eacute;tait-il pas
-fr&egrave;re de Jacob ? dit le Seigneur, et j&rsquo;ai aim&eacute;
+vous ai aimés, dit le Seigneur ; et vous avez dit : En quoi
+nous avez-vous aimés ? Esaü n’était-il pas
+frère de Jacob ? dit le Seigneur, et j’ai aimé
 Jacob, </ab>
 <ab n="3">et
-(mais) j&rsquo;ai eu de la haine pour (ha&iuml;) Esa&uuml; ; et j&rsquo;ai
-fait de ses montagnes une solitude, et j&rsquo;ai livr&eacute; son
-h&eacute;ritage aux dragons du d&eacute;sert. </ab>
+(mais) j’ai eu de la haine pour (haï) Esaü ; et j’ai
+fait de ses montagnes une solitude, et j’ai livré son
+héritage aux dragons du désert. </ab>
 <ab n="4">Que
-si l&rsquo;Idum&eacute;e dit : Nous avons &eacute;t&eacute; d&eacute;truits,
-mais nous reviendrons, et nous reb&acirc;tirons ce qui a &eacute;t&eacute;
-d&eacute;truit ; ainsi parle le Seigneur des arm&eacute;es : Ils
-b&acirc;tiront, et moi je d&eacute;truirai ; et on les appellera pays
-(bornes) d&rsquo;impi&eacute;t&eacute;, et peuple contre lequel le
-Seigneur est irrit&eacute; &agrave; jamais. </ab>
+si l’Idumée dit : Nous avons été détruits,
+mais nous reviendrons, et nous rebâtirons ce qui a été
+détruit ; ainsi parle le Seigneur des armées : Ils
+bâtiront, et moi je détruirai ; et on les appellera pays
+(bornes) d’impiété, et peuple contre lequel le
+Seigneur est irrité à jamais. </ab>
 <ab n="5">Vos
-yeux le verront, et vous direz : Que le Seigneur soit glorifi&eacute;
-sur (par del&agrave;) les fronti&egrave;res d&rsquo;Isra&euml;l ! </ab>
+yeux le verront, et vous direz : Que le Seigneur soit glorifié
+sur (par delà) les frontières d’Israël ! </ab>
 <ab n="6">Le
-fils honore son p&egrave;re, et le serviteur son seigneur. Si donc je
-suis votre P&egrave;re, o&ugrave; est l&rsquo;honneur qui m&rsquo;est
-d&ucirc; ? et si je suis le Seigneur, o&ugrave; est la crainte qu&rsquo;on
-a de moi ? dit le Seigneur des arm&eacute;es. Je m&rsquo;adresse &agrave;
-vous, pr&ecirc;tres, qui m&eacute;prisez mon nom, et qui dites : En
-quoi avons-nous m&eacute;pris&eacute; votre nom ? </ab>
+fils honore son père, et le serviteur son seigneur. Si donc je
+suis votre Père, où est l’honneur qui m’est
+dû ? et si je suis le Seigneur, où est la crainte qu’on
+a de moi ? dit le Seigneur des armées. Je m’adresse à
+vous, prêtres, qui méprisez mon nom, et qui dites : En
+quoi avons-nous méprisé votre nom ? </ab>
 <ab n="7">Vous
-offrez sur mon autel un pain souill&eacute;, et vous dites : En quoi
-vous avons-nous d&eacute;shonor&eacute; ? En ce que vous avez dit :
-La table du Seigneur est m&eacute;pris&eacute;e. </ab>
+offrez sur mon autel un pain souillé, et vous dites : En quoi
+vous avons-nous déshonoré ? En ce que vous avez dit :
+La table du Seigneur est méprisée. </ab>
 <ab n="8">Si
-vous offrez une victime aveugle pour &ecirc;tre immol&eacute;e,
-n&rsquo;est-ce pas mal ? et si vous en offrez une boiteuse ou malade,
-n&rsquo;est-ce pas mal ? Offre(z)-la &agrave; votre (ton) gouverneur,
-et vous (tu) verrez(as) si elle lui pla&icirc;t, ou s&rsquo;il vous
-(te) recevra favorablement (s&rsquo;il accueillera ta face, note),
-dit le Seigneur des arm&eacute;es. </ab>
+vous offrez une victime aveugle pour être immolée,
+n’est-ce pas mal ? et si vous en offrez une boiteuse ou malade,
+n’est-ce pas mal ? Offre(z)-la à votre (ton) gouverneur,
+et vous (tu) verrez(as) si elle lui plaît, ou s’il vous
+(te) recevra favorablement (s’il accueillera ta face, note),
+dit le Seigneur des armées. </ab>
 <ab n="9">Et
-maintenant offrez vos pri&egrave;res devant Dieu, afin qu&rsquo;il
-ait piti&eacute; de vous (car c&rsquo;est votre main qui a fait
-cela), et qu&rsquo;il (pour voir si de quelque mani&egrave;re il)
-vous re&ccedil;oive favorablement, dit le Seigneur des arm&eacute;es.
+maintenant offrez vos prières devant Dieu, afin qu’il
+ait pitié de vous (car c’est votre main qui a fait
+cela), et qu’il (pour voir si de quelque manière il)
+vous reçoive favorablement, dit le Seigneur des armées.
 </ab>
 <ab n="10">Qui
-est celui d&rsquo;entre vous qui ferme(ra) les portes, et qui
-allume(ra) le feu sur mon autel gratuitement ? Je n&rsquo;ai point
-d&rsquo;affection pour vous, dit le Seigneur des arm&eacute;es, et je
-ne recevrai pas de pr&eacute;sent de votre main. </ab>
+est celui d’entre vous qui ferme(ra) les portes, et qui
+allume(ra) le feu sur mon autel gratuitement ? Je n’ai point
+d’affection pour vous, dit le Seigneur des armées, et je
+ne recevrai pas de présent de votre main. </ab>
 <ab n="11">Car,
-depuis le lever du soleil jusqu&rsquo;au couchant, mon nom est grand
-parmi les nations, et en tout lieu on sacrifie et l&rsquo;on offre &agrave;
+depuis le lever du soleil jusqu’au couchant, mon nom est grand
+parmi les nations, et en tout lieu on sacrifie et l’on offre à
 mon nom une oblation pure ; car mon nom est grand parmi les nations,
-dit le Seigneur des arm&eacute;es. </ab>
+dit le Seigneur des armées. </ab>
 <ab n="12">Et
-vous, vous l&rsquo;avez d&eacute;shonor&eacute;, en disant : La table
-du Seigneur est souill&eacute;e, et ce que l&rsquo;on offre dessus
-est m&eacute;prisable, aussi bien que le feu qui le d&eacute;vore.
+vous, vous l’avez déshonoré, en disant : La table
+du Seigneur est souillée, et ce que l’on offre dessus
+est méprisable, aussi bien que le feu qui le dévore.
 </ab>
 <ab n="13">Et
-vous avez dit : C&rsquo;est (Voil&agrave;, note) de notre travail ;
-et vous l&rsquo;avez rendu digne de m&eacute;pris (avez souffl&eacute;
-dessus, note), dit le Seigneur des arm&eacute;es ; vous (m&rsquo;)avez
-amen&eacute; des victimes boiteuses et malades, fruit de vos rapines,
-et vous (me) les avez offertes en pr&eacute;sent : est-ce que je les
+vous avez dit : C’est (Voilà, note) de notre travail ;
+et vous l’avez rendu digne de mépris (avez soufflé
+dessus, note), dit le Seigneur des armées ; vous (m’)avez
+amené des victimes boiteuses et malades, fruit de vos rapines,
+et vous (me) les avez offertes en présent : est-ce que je les
 recevrai de votre main ? dit le Seigneur. </ab>
 <ab n="14">Maudit
-soit le trompeur (fourbe) qui a dans son troupeau un m&acirc;le, et
-qui, apr&egrave;s avoir fait un v&oelig;u, sacrifie au Seigneur une
-b&ecirc;te malade ! Car je suis le grand roi, dit le Seigneur des
-arm&eacute;es, et mon nom est redoutable parmi les nations.</ab></div>
+soit le trompeur (fourbe) qui a dans son troupeau un mâle, et
+qui, après avoir fait un vœu, sacrifie au Seigneur une
+bête malade ! Car je suis le grand roi, dit le Seigneur des
+armées, et mon nom est redoutable parmi les nations.</ab></div>
 <div type="chapter" n="2">
 <ab n="1">Maintenant
-&agrave; vous cet ordre, &ocirc; pr&ecirc;tres. </ab>
+à vous cet ordre, ô prêtres. </ab>
 <ab n="2">Si
-vous ne voulez pas &eacute;couter, et si vous ne voulez pas appliquer
-votre c&oelig;ur &agrave; rendre gloire &agrave; mon nom, dit le
-Seigneur des arm&eacute;es, j&rsquo;enverrai sur vous l&rsquo;indigence,
-et je maudirai vos b&eacute;n&eacute;dictions ; oui, je les maudirai,
-parce que vous n&rsquo;y avez pas appliqu&eacute; votre c&oelig;ur
-(pris &agrave; c&oelig;ur mes paroles). </ab>
+vous ne voulez pas écouter, et si vous ne voulez pas appliquer
+votre cœur à rendre gloire à mon nom, dit le
+Seigneur des armées, j’enverrai sur vous l’indigence,
+et je maudirai vos bénédictions ; oui, je les maudirai,
+parce que vous n’y avez pas appliqué votre cœur
+(pris à cœur mes paroles). </ab>
 <ab n="3">Voici,
-je vous enl&egrave;verai l&rsquo;&eacute;paule des victimes, et je
+je vous enlèverai l’épaule des victimes, et je
 vous jetterai au visage les ordures de vos sacrifices solennels, et
-elles vous emporteront avec elles (elles s&rsquo;attacheront &agrave;
+elles vous emporteront avec elles (elles s’attacheront à
 vous). </ab>
 <ab n="4">Et
-vous saurez que je vous ai envoy&eacute; cet ordre, afin que mon
-alliance (f&ucirc;t) avec L&eacute;vi subsist&acirc;t, dit le
-Seigneur des arm&eacute;es. </ab>
-<ab n="5">J&rsquo;ai
-fait avec lui une alliance de vie et de paix ; je lui ai donn&eacute;
-la crainte, et il m&rsquo;a craint, et il a trembl&eacute; devant ma
+vous saurez que je vous ai envoyé cet ordre, afin que mon
+alliance (fût) avec Lévi subsistât, dit le
+Seigneur des armées. </ab>
+<ab n="5">J’ai
+fait avec lui une alliance de vie et de paix ; je lui ai donné
+la crainte, et il m’a craint, et il a tremblé devant ma
 face. </ab>
 <ab n="6">La
-loi de v&eacute;rit&eacute; a &eacute;t&eacute; dans sa bouche, et
-l&rsquo;iniquit&eacute; n&rsquo;a pas &eacute;t&eacute; trouv&eacute;e
-sur ses l&egrave;vres ; il a march&eacute; avec moi dans la paix et
-dans l&rsquo;&eacute;quit&eacute;, et il a d&eacute;tourn&eacute;
-beaucoup d&rsquo;hommes de l&rsquo;iniquit&eacute;. </ab>
+loi de vérité a été dans sa bouche, et
+l’iniquité n’a pas été trouvée
+sur ses lèvres ; il a marché avec moi dans la paix et
+dans l’équité, et il a détourné
+beaucoup d’hommes de l’iniquité. </ab>
 <ab n="7">Car
-les l&egrave;vres du pr&ecirc;tre garderont la science, et c&rsquo;est
-de sa bouche que l&rsquo;on demandera la loi, parce qu&rsquo;il est
-l&rsquo;ange du Seigneur des arm&eacute;es. </ab>
+les lèvres du prêtre garderont la science, et c’est
+de sa bouche que l’on demandera la loi, parce qu’il est
+l’ange du Seigneur des armées. </ab>
 <ab n="8">Mais
-vous, vous vous &ecirc;tes &eacute;cart&eacute;s de la voie, et vous
-avez &eacute;t&eacute; pour beaucoup une occasion de scandale dans la
-loi ; vous avez rendu nulle (vaine) l&rsquo;alliance de L&eacute;vi,
-dit le Seigneur des arm&eacute;es. </ab>
-<ab n="9">C&rsquo;est
-pourquoi, moi aussi, je vous ai rendu vils et m&eacute;prisables
-(abjects) pour tous les peuples, parce que vous n&rsquo;avez pas
-gard&eacute; mes voies, et que vous avez eu &eacute;gard aux
-personnes &agrave; propos de la loi. </ab>
-<ab n="10">N&rsquo;avons-nous
-pas tous un seul P&egrave;re ? un m&ecirc;me Dieu ne nous a-t-il pas
-cr&eacute;&eacute; ? Pourquoi donc chacun de nous m&eacute;prise-t-il
-son fr&egrave;re, en violant l&rsquo;alliance de nos p&egrave;res ?
+vous, vous vous êtes écartés de la voie, et vous
+avez été pour beaucoup une occasion de scandale dans la
+loi ; vous avez rendu nulle (vaine) l’alliance de Lévi,
+dit le Seigneur des armées. </ab>
+<ab n="9">C’est
+pourquoi, moi aussi, je vous ai rendu vils et méprisables
+(abjects) pour tous les peuples, parce que vous n’avez pas
+gardé mes voies, et que vous avez eu égard aux
+personnes à propos de la loi. </ab>
+<ab n="10">N’avons-nous
+pas tous un seul Père ? un même Dieu ne nous a-t-il pas
+créé ? Pourquoi donc chacun de nous méprise-t-il
+son frère, en violant l’alliance de nos pères ?
 </ab>
 <ab n="11">Juda
-a transgress&eacute;, et l&rsquo;abomination a &eacute;t&eacute;
-commise dans Isra&euml;l et dans J&eacute;rusalem ; car Juda a
-souill&eacute; le peuple consacr&eacute; au (la sanctification du)
-Seigneur, et qui lui &eacute;tait cher (qu&rsquo;il a aim&eacute;e),
-et il a &eacute;pous&eacute; la fille d&rsquo;un dieu &eacute;tranger.
+a transgressé, et l’abomination a été
+commise dans Israël et dans Jérusalem ; car Juda a
+souillé le peuple consacré au (la sanctification du)
+Seigneur, et qui lui était cher (qu’il a aimée),
+et il a épousé la fille d’un dieu étranger.
 </ab>
 <ab n="12">Le
-Seigneur retranchera (perdra enti&egrave;rement) des tentes de Jacob
-l&rsquo;homme qui aura fait cela, qu&rsquo;il soit ma&icirc;tre ou
-disciple, et quelques dons qu&rsquo;il offre au Seigneur des arm&eacute;es.
+Seigneur retranchera (perdra entièrement) des tentes de Jacob
+l’homme qui aura fait cela, qu’il soit maître ou
+disciple, et quelques dons qu’il offre au Seigneur des armées.
 </ab>
 <ab n="13">Voici
-encore ce que vous avez fait : Vous avez couvert l&rsquo;autel du
-Seigneur de larmes, de pleurs et de cris ; c&rsquo;est pourquoi je ne
+encore ce que vous avez fait : Vous avez couvert l’autel du
+Seigneur de larmes, de pleurs et de cris ; c’est pourquoi je ne
 regarderai plus les sacrifices, et je ne recevrai de votre main rien
-qui puisse m&rsquo;apaiser. </ab>
+qui puisse m’apaiser. </ab>
 <ab n="14">Et
-vous avez dit : Pour quel motif ? Parce que le Seigneur a &eacute;t&eacute;
-t&eacute;moin entre toi et l&rsquo;&eacute;pouse de ta jeunesse, que
-tu as m&eacute;pris&eacute;e, bien qu&rsquo;elle f&ucirc;t ta
-compagne et l&rsquo;&eacute;pouse de ton alliance. </ab>
-<ab n="15">N&rsquo;est-elle
-pas l&rsquo;ouvrage du m&ecirc;me Dieu, et n&rsquo;est-ce pas son
-souffle qui l&rsquo;a anim&eacute;e ? Et que demande cet auteur
-unique, sinon une race d&rsquo;enfants de Dieu ? Conservez donc votre
-esprit, et ne m&eacute;prise pas la femme de ta jeunesse. </ab>
+vous avez dit : Pour quel motif ? Parce que le Seigneur a été
+témoin entre toi et l’épouse de ta jeunesse, que
+tu as méprisée, bien qu’elle fût ta
+compagne et l’épouse de ton alliance. </ab>
+<ab n="15">N’est-elle
+pas l’ouvrage du même Dieu, et n’est-ce pas son
+souffle qui l’a animée ? Et que demande cet auteur
+unique, sinon une race d’enfants de Dieu ? Conservez donc votre
+esprit, et ne méprise pas la femme de ta jeunesse. </ab>
 <ab n="16">(Vous
-direz peut-&ecirc;tre :) Lorsque tu auras con&ccedil;u de la haine
-contre elle, dit le Seigneur, Dieu d&rsquo;Isra&euml;l, renvoie-la ;
-mais (or) l&rsquo;iniquit&eacute; couvrira son v&ecirc;tement, dit le
-Seigneur des arm&eacute;es. Gardez donc votre esprit, et ne m&eacute;prisez
+direz peut-être :) Lorsque tu auras conçu de la haine
+contre elle, dit le Seigneur, Dieu d’Israël, renvoie-la ;
+mais (or) l’iniquité couvrira son vêtement, dit le
+Seigneur des armées. Gardez donc votre esprit, et ne méprisez
 pas vos femmes. </ab>
 <ab n="17">Vous
 avez fait souffrir le Seigneur par vos discours, et vous avez dit :
-En quoi l&rsquo;avons-nous fait souffrir ? En ce que vous avez dit :
+En quoi l’avons-nous fait souffrir ? En ce que vous avez dit :
 Quiconque fait le mal est bon aux yeux du Seigneur, et ce sont de
-telles gens qui lui plaisent ; ou si cela n&rsquo;est pas (vertes,
-s&rsquo;il en est ainsi), o&ugrave; est le Dieu du jugement ?</ab></div>
+telles gens qui lui plaisent ; ou si cela n’est pas (vertes,
+s’il en est ainsi), où est le Dieu du jugement ?</ab></div>
 <div type="chapter" n="3">
 <ab n="1">Voici
-que j&rsquo;envoie
-mon ange, et il pr&eacute;parera la voie devant ma face ; et aussit&ocirc;t
-viendra dans son temple le Dominateur que vous cherchez, et l&rsquo;ange
-de l&rsquo;alliance que vous d&eacute;sirez. Voici qu&rsquo;il vient,
-dit le Seigneur des arm&eacute;es. </ab>
+que j’envoie
+mon ange, et il préparera la voie devant ma face ; et aussitôt
+viendra dans son temple le Dominateur que vous cherchez, et l’ange
+de l’alliance que vous désirez. Voici qu’il vient,
+dit le Seigneur des armées. </ab>
 <ab n="2">Qui
-pourra penser au jour de son av&egrave;nement, et qui pourra soutenir
-sa vue ? Car il sera comme le feu qui fond les m&eacute;taux, et
-comme l&rsquo;herbe des foulons. </ab>
+pourra penser au jour de son avènement, et qui pourra soutenir
+sa vue ? Car il sera comme le feu qui fond les métaux, et
+comme l’herbe des foulons. </ab>
 <ab n="3">Il
-s&rsquo;assoira
-(sera assis) comme celui qui fond et qui &eacute;pure l&rsquo;argent
-; il purifiera les fils de L&eacute;vi, et il les rendra purs
-(roulera) comme l&rsquo;or et comme l&rsquo;argent, et ils offriront
+s’assoira
+(sera assis) comme celui qui fond et qui épure l’argent
+; il purifiera les fils de Lévi, et il les rendra purs
+(roulera) comme l’or et comme l’argent, et ils offriront
 des sacrifices au Seigneur dans la justice. </ab>
 <ab n="4">Et
-le sacrifice de Juda et de J&eacute;rusalem sera agr&eacute;able au
-Seigneur, comme aux jours anciens et comme aux ann&eacute;es
-d&rsquo;autrefois. </ab>
+le sacrifice de Juda et de Jérusalem sera agréable au
+Seigneur, comme aux jours anciens et comme aux années
+d’autrefois. </ab>
 <ab n="5">Alors
-je m&rsquo;approcherai de vous pour le jugement, et je serai un
-prompt t&eacute;moin contre les enchanteurs (magiciens), les
-adult&egrave;res et les parjures, contre ceux qui retiennent par
+je m’approcherai de vous pour le jugement, et je serai un
+prompt témoin contre les enchanteurs (magiciens), les
+adultères et les parjures, contre ceux qui retiennent par
 violence (injustice) le salaire du mercenaire, et qui oppriment les
-veuves, les orphelins et les &eacute;trangers, et qui ne me craignent
-pas (ne m&rsquo;ont pas craint), dit le Seigneur des arm&eacute;es.
+veuves, les orphelins et les étrangers, et qui ne me craignent
+pas (ne m’ont pas craint), dit le Seigneur des armées.
 </ab>
 <ab n="6">Car
 je suis le Seigneur, et je ne change pas ; et vous, enfants de Jacob,
-vous n&rsquo;avez pas &eacute;t&eacute; consum&eacute;s. </ab>
-<ab n="7">D&egrave;s
-les jours de vos p&egrave;res vous vous &ecirc;tes &eacute;cart&eacute;s
-de mes ordonnances (lois), et vous ne les avez pas gard&eacute;es.
-Revenez &agrave; moi, et je reviendrai &agrave; vous, dit le Seigneur
-des arm&eacute;es. Et vous avez dit : En quoi (Comment)
+vous n’avez pas été consumés. </ab>
+<ab n="7">Dès
+les jours de vos pères vous vous êtes écartés
+de mes ordonnances (lois), et vous ne les avez pas gardées.
+Revenez à moi, et je reviendrai à vous, dit le Seigneur
+des armées. Et vous avez dit : En quoi (Comment)
 reviendrons-nous ? </ab>
 <ab n="8">Un
-homme peut-il outrager son Dieu comme vous m&rsquo;avez outrag&eacute;
-? Et vous (Un homme affligera-t-il Dieu&nbsp;? car vous m&rsquo;avez
-outrag&eacute; et vous) avez dit : En quoi
-vous avons-nous outrag&eacute; ? Par les d&icirc;mes et par les
-pr&eacute;mices. </ab>
+homme peut-il outrager son Dieu comme vous m’avez outragé
+? Et vous (Un homme affligera-t-il Dieu&#160;? car vous m’avez
+outragé et vous) avez dit : En quoi
+vous avons-nous outragé ? Par les dîmes et par les
+prémices. </ab>
 <ab n="9">Vous
-avez &eacute;t&eacute; maudits et appauvris (dans la p&eacute;nurie),
-parce que vous m&rsquo;outragez, toute la nation. </ab>
+avez été maudits et appauvris (dans la pénurie),
+parce que vous m’outragez, toute la nation. </ab>
 <ab n="10">Apportez
-toutes les d&icirc;mes dans mes greniers, et qu&rsquo;il y ait des
-aliments dans ma maison ; puis mettez-moi &agrave; l&rsquo;&eacute;preuve
-&agrave; ce sujet, dit le Seigneur, et vous verrez si je ne vous
-ouvre pas les cataractes du ciel, et si je ne r&eacute;pands pas sur
-vous ma b&eacute;n&eacute;diction en abondance. </ab>
+toutes les dîmes dans mes greniers, et qu’il y ait des
+aliments dans ma maison ; puis mettez-moi à l’épreuve
+à ce sujet, dit le Seigneur, et vous verrez si je ne vous
+ouvre pas les cataractes du ciel, et si je ne répands pas sur
+vous ma bénédiction en abondance. </ab>
 <ab n="11">Pour
-vous (En votre faveur), je r&eacute;primanderai celui qui d&eacute;vore
-(l&rsquo;insecte d&eacute;vorant), et il ne g&acirc;tera plus les
-fruits de votre terre, et il n&rsquo;y aura pas de vigne st&eacute;rile
-dans les champs, dit le Seigneur des arm&eacute;es. </ab>
+vous (En votre faveur), je réprimanderai celui qui dévore
+(l’insecte dévorant), et il ne gâtera plus les
+fruits de votre terre, et il n’y aura pas de vigne stérile
+dans les champs, dit le Seigneur des armées. </ab>
 <ab n="12">Alors
 toutes les nations vous diront bienheureux ; car vous serez un pays
-de d&eacute;lices, dit le Seigneur des arm&eacute;es. </ab>
+de délices, dit le Seigneur des armées. </ab>
 <ab n="13">Les
 paroles que vous dites contre moi se multiplient (ont pris de la
 force contre moi), dit le Seigneur. </ab>
 <ab n="14">Et
-vous dites (avez dit) : Qu&rsquo;avons-nous dit contre vous ? Vous
-avez dit : C&rsquo;est en vain que l&rsquo;on sert Dieu ;
-qu&rsquo;avons-nous gagn&eacute; &agrave; garder ses pr&eacute;ceptes,
-et &agrave; marcher avec tristesse devant le Seigneur des arm&eacute;es
+vous dites (avez dit) : Qu’avons-nous dit contre vous ? Vous
+avez dit : C’est en vain que l’on sert Dieu ;
+qu’avons-nous gagné à garder ses préceptes,
+et à marcher avec tristesse devant le Seigneur des armées
 ? </ab>
 <ab n="15">Maintenant
 donc nous dirons (disons) (bien)heureux les arrogants, car ils
-s&rsquo;&eacute;tablissent (se sont &eacute;tablis) en commettant
-l&rsquo;impi&eacute;t&eacute; ; ils ont tent&eacute; Dieu, et ils
-sont (ont &eacute;t&eacute;) sauv&eacute;s. </ab>
+s’établissent (se sont établis) en commettant
+l’impiété ; ils ont tenté Dieu, et ils
+sont (ont été) sauvés. </ab>
 <ab n="16">Alors
-ceux qui craignent le Seigneur se sont parl&eacute; l&rsquo;un &agrave;
-l&rsquo;autre (chacun avec son prochain, note) ; et le Seigneur a &eacute;t&eacute;
-attentif, il a &eacute;cout&eacute;, et un livre de souvenir a &eacute;t&eacute;
-&eacute;crit devant lui pour ceux qui craignent le Seigneur, et qui
-pensent &agrave; (m&eacute;ditent) son nom. </ab>
+ceux qui craignent le Seigneur se sont parlé l’un à
+l’autre (chacun avec son prochain, note) ; et le Seigneur a été
+attentif, il a écouté, et un livre de souvenir a été
+écrit devant lui pour ceux qui craignent le Seigneur, et qui
+pensent à (méditent) son nom. </ab>
 <ab n="17">Ils
-seront pour moi (mon bien particulier), dit le Seigneur des arm&eacute;es,
-au jour o&ugrave; j&rsquo;agirai, le peuple que je me r&eacute;serve
-; et je les &eacute;pargnerai, comme un p&egrave;re &eacute;pargne
+seront pour moi (mon bien particulier), dit le Seigneur des armées,
+au jour où j’agirai, le peuple que je me réserve
+; et je les épargnerai, comme un père épargne
 son fils qui le sert. </ab>
 <ab n="18">Et
 de nouveau (vous vous convertirez, et) vous verrez alors quelle
-diff&eacute;rence il y a entre le juste et l&rsquo;impie, entre celui
+différence il y a entre le juste et l’impie, entre celui
 qui sert Dieu et celui qui ne le sert pas.</ab></div>
 <div type="chapter" n="4">
 <ab n="1">Car
-voici, il viendra un jour embras&eacute; comme une fournaise ; tous
-les superbes et tous ceux qui commettent l&rsquo;impi&eacute;t&eacute;
+voici, il viendra un jour embrasé comme une fournaise ; tous
+les superbes et tous ceux qui commettent l’impiété
 seront de la paille, et ce jour qui vient les embrasera, dit le
-Seigneur des arm&eacute;es ; il ne leur laissera ni germe ni racine.
+Seigneur des armées ; il ne leur laissera ni germe ni racine.
 </ab>
 <ab n="2">Et le
-(un) soleil de justice se l&egrave;vera pour vous qui avez craint mon
-nom, et le salut (la gu&eacute;rison) sera sous ses ailes ; vous
-sortirez alors, et vous bondirez comme les veaux d&rsquo;un troupeau.
+(un) soleil de justice se lèvera pour vous qui avez craint mon
+nom, et le salut (la guérison) sera sous ses ailes ; vous
+sortirez alors, et vous bondirez comme les veaux d’un troupeau.
 </ab>
 <ab n="3">Et
-vous foulerez (aux pieds) les impies, lorsqu&rsquo;ils seront comme
-de la cendre sous la plante de vos pieds, en ce jour o&ugrave;
-j&rsquo;agirai, dit le Seigneur des arm&eacute;es. </ab>
+vous foulerez (aux pieds) les impies, lorsqu’ils seront comme
+de la cendre sous la plante de vos pieds, en ce jour où
+j’agirai, dit le Seigneur des armées. </ab>
 <ab n="4">Souvenez-vous
-de la loi de Mo&iuml;se, mon serviteur, que je lui ai donn&eacute;e
-sur l&rsquo;Horeb, pour tout Isra&euml;l, avec mes pr&eacute;ceptes
+de la loi de Moïse, mon serviteur, que je lui ai donnée
+sur l’Horeb, pour tout Israël, avec mes préceptes
 et mes ordonnances. </ab>
 <ab n="5">Voici,
-je vous enverrai Elie, le proph&egrave;te, avant que vienne le grand
-et l&rsquo;&eacute;pouvantable (terrible) jour du Seigneur. </ab>
+je vous enverrai Elie, le prophète, avant que vienne le grand
+et l’épouvantable (terrible) jour du Seigneur. </ab>
 <ab n="6">Et
-il ram&egrave;nera le c&oelig;ur des p&egrave;res &agrave; leur fils,
-et le c&oelig;ur des fils &agrave; leurs p&egrave;res, de peur que je
-ne vienne et ne frappe le pays d&rsquo;anath&egrave;me.</ab>
+il ramènera le cœur des pères à leur fils,
+et le cœur des fils à leurs pères, de peur que je
+ne vienne et ne frappe le pays d’anathème.</ab>
 </div>
 </div>

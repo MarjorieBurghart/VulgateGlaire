@@ -1,114 +1,92 @@
-<!DOCTYPE definition [
-<!ENTITY rsquo "&#8217;">
-<!ENTITY lsquo "‘">
-<!ENTITY eacute "é">
-<!ENTITY euml "ë">
-<!ENTITY acirc "â">
-<!ENTITY ecirc "ê">
-<!ENTITY agrave "à">
-<!ENTITY egrave "è">
-<!ENTITY ucirc "û">
-<!ENTITY ugrave "ù">
-<!ENTITY icirc "î">
-<!ENTITY ccedil "ç">
-<!ENTITY iuml "ï">
-<!ENTITY oelig "œ">
-<!ENTITY ocirc "ô">
-<!ENTITY uuml "ü">
-<!ENTITY Eacute "É">
-<!ENTITY nbsp "&#160;">
-<!ENTITY OElig "Œ">
-<!ENTITY aelig "æ">
 
-]>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="book" xml:id="VULGFR_Phlm">
 <div type="chapter" n="1">
 <ab n="1">Paul,
-prisonnier du Christ J&eacute;sus, et le fr&egrave;re Timoth&eacute;e,
-au bien-aim&eacute; Phil&eacute;mon, notre collaborateur, </ab>
+prisonnier du Christ Jésus, et le frère Timothée,
+au bien-aimé Philémon, notre collaborateur, </ab>
 <ab n="2">et
-&agrave; Appia, notre s&oelig;ur tr&egrave;s ch&egrave;re, et &agrave;
-Archippe, notre compagnon d&rsquo;armes, et &agrave; l&rsquo;Eglise
+à Appia, notre sœur très chère, et à
+Archippe, notre compagnon d’armes, et à l’Eglise
 qui est dans la (ta) maison. </ab>
 <ab n="3">Que
-la gr&acirc;ce et la paix vous soient donn&eacute;es par Dieu notre
-P&egrave;re et par le Seigneur J&eacute;sus-Christ. </ab>
+la grâce et la paix vous soient données par Dieu notre
+Père et par le Seigneur Jésus-Christ. </ab>
 <ab n="4">Je
-rends gr&acirc;ce &agrave; mon Dieu, faisant sans cesse mention de
-toi dans mes pri&egrave;res, </ab>
+rends grâce à mon Dieu, faisant sans cesse mention de
+toi dans mes prières, </ab>
 <ab n="5">parce
-que j&rsquo;apprends quelle est (ta charit&eacute;) et ta foi pour le
-Seigneur J&eacute;sus et (ta charit&eacute;) envers tous les saints.
+que j’apprends quelle est (ta charité) et ta foi pour le
+Seigneur Jésus et (ta charité) envers tous les saints.
 </ab>
 <ab n="6">Je
-demande que ta lib&eacute;ralit&eacute;, qui provient de la foi,
-devienne manifeste, se faisant conna&icirc;tre par toute sorte de
-bonnes &oelig;uvres qui se pratiquent chez vous dans le Christ J&eacute;sus.
+demande que ta libéralité, qui provient de la foi,
+devienne manifeste, se faisant connaître par toute sorte de
+bonnes œuvres qui se pratiquent chez vous dans le Christ Jésus.
 </ab>
 <ab n="7">Car
-j&rsquo;ai ressenti une grande joie et une grande consolation au
-sujet de ta charit&eacute;, parce que les c&oelig;urs des saints ont
-&eacute;t&eacute; soulag&eacute;s par toi, fr&egrave;re. </ab>
-<ab n="8">C&rsquo;est
-pourquoi, bien qu&rsquo;ayant en J&eacute;sus-Christ une enti&egrave;re
-libert&eacute; de t&rsquo;ordonner ce qui convient, </ab>
-<ab n="9">c&rsquo;est
-de pr&eacute;f&eacute;rence au nom de la charit&eacute; que je
-t&rsquo;adresse une pri&egrave;re, tel que je suis, moi, Paul,
-vieillard, et de plus maintenant prisonnier de J&eacute;sus-Christ.
+j’ai ressenti une grande joie et une grande consolation au
+sujet de ta charité, parce que les cœurs des saints ont
+été soulagés par toi, frère. </ab>
+<ab n="8">C’est
+pourquoi, bien qu’ayant en Jésus-Christ une entière
+liberté de t’ordonner ce qui convient, </ab>
+<ab n="9">c’est
+de préférence au nom de la charité que je
+t’adresse une prière, tel que je suis, moi, Paul,
+vieillard, et de plus maintenant prisonnier de Jésus-Christ.
 </ab>
 <ab n="10">Je
-te prie pour mon fils, que j&rsquo;ai engendr&eacute; dans les
-cha&icirc;nes, pour On&eacute;sime, </ab>
+te prie pour mon fils, que j’ai engendré dans les
+chaînes, pour Onésime, </ab>
 <ab n="11">qui
-t&rsquo;a &eacute;t&eacute; autrefois inutile, mais qui maintenant
-est utile et &agrave; moi, et &agrave; toi, </ab>
+t’a été autrefois inutile, mais qui maintenant
+est utile et à moi, et à toi, </ab>
 <ab n="12">et
-que je te renvoie. Accueille-le comme mon propre c&oelig;ur (mes
+que je te renvoie. Accueille-le comme mon propre cœur (mes
 entrailles). </ab>
 <ab n="13">Je
-voulais le retenir aupr&egrave;s de moi, pour qu&rsquo;il me serv&icirc;t
-&agrave; ta place dans les cha&icirc;nes que je porte pour l&rsquo;Evangile
+voulais le retenir auprès de moi, pour qu’il me servît
+à ta place dans les chaînes que je porte pour l’Evangile
 ; </ab>
 <ab n="14">mais
-je n&rsquo;ai rien voulu faire sans ton avis, afin que ton bienfait
-ne f&ucirc;t pas forc&eacute;, mais spontan&eacute; (volontaire).
+je n’ai rien voulu faire sans ton avis, afin que ton bienfait
+ne fût pas forcé, mais spontané (volontaire).
 </ab>
 <ab n="15">Car
-peut-&ecirc;tre n&rsquo;a-t-il &eacute;t&eacute; s&eacute;par&eacute;
-de toi pour un temps, afin que tu le recouvres pour l&rsquo;&eacute;ternit&eacute;,
+peut-être n’a-t-il été séparé
+de toi pour un temps, afin que tu le recouvres pour l’éternité,
 </ab>
 <ab n="16">non
-plus d&eacute;sormais comme un esclave, mais comme (celui qui
-d&rsquo;esclave est devenu) un fr&egrave;re bien-aim&eacute;, pour
-moi en particulier, &agrave; plus forte raison pour toi, soit dans la
+plus désormais comme un esclave, mais comme (celui qui
+d’esclave est devenu) un frère bien-aimé, pour
+moi en particulier, à plus forte raison pour toi, soit dans la
 chair, soit dans le Seigneur. </ab>
 <ab n="17">Si
-donc tu me regardes comme uni &agrave; toi, accueille-le comme
-moi-m&ecirc;me ; </ab>
+donc tu me regardes comme uni à toi, accueille-le comme
+moi-même ; </ab>
 <ab n="18">et
-s&rsquo;il t&rsquo;a fait quelque tort, ou s&rsquo;il te doit quelque
+s’il t’a fait quelque tort, ou s’il te doit quelque
 chose, mets-le sur mon compte. </ab>
 <ab n="19">Moi,
-Paul, je t&rsquo;&eacute;cris de ma propre main : je te le rendrai,
-pour ne pas te dire que tu te dois toi-m&ecirc;me &agrave; moi.
+Paul, je t’écris de ma propre main : je te le rendrai,
+pour ne pas te dire que tu te dois toi-même à moi.
 </ab>
 <ab n="20">Oui,
-fr&egrave;re, que je re&ccedil;oive de toi cette joie dans le
-Seigneur ; tranquillise mon c&oelig;ur dans le Seigneur. </ab>
-<ab n="21">C&rsquo;est
-en comptant sur ton ob&eacute;issance que je t&rsquo;&eacute;cris,
+frère, que je reçoive de toi cette joie dans le
+Seigneur ; tranquillise mon cœur dans le Seigneur. </ab>
+<ab n="21">C’est
+en comptant sur ton obéissance que je t’écris,
 sachant que tu feras encore plus que je ne dis. </ab>
 <ab n="22">En
-m&ecirc;me temps, pr&eacute;pare-moi un logement ; car j&rsquo;esp&egrave;re
-vous &ecirc;tre rendu, gr&acirc;ce &agrave; vos pri&egrave;res.
+même temps, prépare-moi un logement ; car j’espère
+vous être rendu, grâce à vos prières.
 </ab>
 <ab n="23">Epaphras,
-mon compagnon de captivit&eacute; dans le Christ J&eacute;sus, te
+mon compagnon de captivité dans le Christ Jésus, te
 salue, </ab>
 <ab n="24">ainsi
-que Marc, Aristarque, D&eacute;mas et Luc, mes collaborateurs. </ab>
+que Marc, Aristarque, Démas et Luc, mes collaborateurs. </ab>
 <ab n="25">Que
-la gr&acirc;ce de Notre Seigneur J&eacute;sus-Christ soit avec votre
+la grâce de Notre Seigneur Jésus-Christ soit avec votre
 esprit. Amen.</ab></div>
 </div>

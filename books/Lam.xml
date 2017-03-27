@@ -1,546 +1,527 @@
-<!DOCTYPE definition [
-<!ENTITY rsquo "&#8217;">
-<!ENTITY eacute "é">
-<!ENTITY euml "ë">
-<!ENTITY acirc "â">
-<!ENTITY ecirc "ê">
-<!ENTITY agrave "à">
-<!ENTITY egrave "è">
-<!ENTITY ucirc "û">
-<!ENTITY ugrave "ù">
-<!ENTITY icirc "î">
-<!ENTITY ccedil "ç">
-<!ENTITY iuml "ï">
-<!ENTITY oelig "œ">
-<!ENTITY ocirc "ô">
-<!ENTITY uuml "ü">
-<!ENTITY Eacute "É">
-<!ENTITY nbsp "&#160;">
 
-]>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="book" xml:id="VULGFR_Lam">
 <div type="chapter" n="1">
 <ab n="1"><hi rend="italics">Aleph</hi>. Comment
 est-elle assise solitaire, cette (la) ville pleine de peuple ? Elle
-est devenue comme veuve, la ma&icirc;tresse des nations ; la
+est devenue comme veuve, la maîtresse des nations ; la
 souveraine des provinces est devenue tributaire. 
 </ab>
 <ab n="2"><hi rend="italics">Beth</hi>. Elle
-n&rsquo;a pas cess&eacute; de pleurer (Pleurant elle a pleur&eacute;,
-note) pendant la nuit, et ses larmes coulent sur ses joues ; il n&rsquo;y
-a personne qui la console parmi tous ceux qui lui &eacute;taient
-chers ; tous ses amis l&rsquo;ont m&eacute;pris&eacute;e et sont
+n’a pas cessé de pleurer (Pleurant elle a pleuré,
+note) pendant la nuit, et ses larmes coulent sur ses joues ; il n’y
+a personne qui la console parmi tous ceux qui lui étaient
+chers ; tous ses amis l’ont méprisée et sont
 devenus ses ennemis. 
 </ab>
 <ab n="3"><hi rend="italics">Ghimel</hi>. Juda
-est all&eacute; en exil, &agrave; cause de (son) l&rsquo;affliction
-et de la grande servitude (grandeur de son esclavage) ; il a habit&eacute;
-parmi les nations, et il n&rsquo;a pas trouv&eacute; de repos ; tous
-ses pers&eacute;cuteurs l&rsquo;ont saisi dans ses angoisses. 
+est allé en exil, à cause de (son) l’affliction
+et de la grande servitude (grandeur de son esclavage) ; il a habité
+parmi les nations, et il n’a pas trouvé de repos ; tous
+ses persécuteurs l’ont saisi dans ses angoisses. 
 </ab>
 <ab n="4"><hi rend="italics">Daleth</hi>. Les
-chemins de Sion sont en deuil, parce qu&rsquo;il n&rsquo;y a plus
-personne qui vienne aux solennit&eacute;s ; toutes ses portes sont
-d&eacute;truites, ses pr&ecirc;tres g&eacute;missent ; ses vierges
-sont d&eacute;figur&eacute;es, et elle est elle-m&ecirc;me accabl&eacute;e
-d&rsquo;amertume. 
+chemins de Sion sont en deuil, parce qu’il n’y a plus
+personne qui vienne aux solennités ; toutes ses portes sont
+détruites, ses prêtres gémissent ; ses vierges
+sont défigurées, et elle est elle-même accablée
+d’amertume. 
 </ab>
-<ab n="5"><hi rend="italics">H&eacute;</hi>. Ses
-ennemis sont devenus (les) ma&icirc;tres, ses adversaires se sont
-enrichis, car le Seigneur a parl&eacute; contre elle, &agrave; cause
-de la multitude de ses iniquit&eacute;s ; ses petits enfants ont &eacute;t&eacute;
-conduits en captivit&eacute; devant l&rsquo;oppresseur. 
+<ab n="5"><hi rend="italics">Hé</hi>. Ses
+ennemis sont devenus (les) maîtres, ses adversaires se sont
+enrichis, car le Seigneur a parlé contre elle, à cause
+de la multitude de ses iniquités ; ses petits enfants ont été
+conduits en captivité devant l’oppresseur. 
 </ab>
 <ab n="6"><hi rend="italics">Vav</hi>. La
-fille de Sion a perdu toute sa beaut&eacute; : ses princes sont
-devenus comme des b&eacute;liers qui ne trouvent point de p&acirc;turages,
-et ils sont all&eacute;s sans force devant celui qui les poursuivait.
+fille de Sion a perdu toute sa beauté : ses princes sont
+devenus comme des béliers qui ne trouvent point de pâturages,
+et ils sont allés sans force devant celui qui les poursuivait.
 
 </ab>
-<ab n="7"><hi rend="italics">Za&iuml;n</hi>. J&eacute;rusalem
-s&rsquo;est souvenue des jours de son affliction et de sa
-pr&eacute;varication, de tous les objets d&eacute;sirables
-(pr&eacute;cieuses) qu&rsquo;elle avait eus depuis les jours anciens,
-lorsque son peuple tombait sous la (une) main de l&rsquo;ennemi
-(ennemie), sans qu&rsquo;il y e&ucirc;t personne pour le secourir.
-Ses ennemis l&rsquo;ont vue, et ils se sont moqu&eacute;s de ses
+<ab n="7"><hi rend="italics">Zaïn</hi>. Jérusalem
+s’est souvenue des jours de son affliction et de sa
+prévarication, de tous les objets désirables
+(précieuses) qu’elle avait eus depuis les jours anciens,
+lorsque son peuple tombait sous la (une) main de l’ennemi
+(ennemie), sans qu’il y eût personne pour le secourir.
+Ses ennemis l’ont vue, et ils se sont moqués de ses
 sabbats. 
 </ab>
-<ab n="8"><hi rend="italics">Heth</hi>. J&eacute;rusalem
-a grandement p&eacute;ch&eacute;, c&rsquo;est pourquoi elle est
-devenue chancelante (errante) ; tous ceux qui l&rsquo;honoraient
-l&rsquo;ont m&eacute;pris&eacute;e, parce qu&rsquo;ils ont vu son
-ignominie ; elle-m&ecirc;me, g&eacute;missante, s&rsquo;est tourn&eacute;e
-en arri&egrave;re. 
+<ab n="8"><hi rend="italics">Heth</hi>. Jérusalem
+a grandement péché, c’est pourquoi elle est
+devenue chancelante (errante) ; tous ceux qui l’honoraient
+l’ont méprisée, parce qu’ils ont vu son
+ignominie ; elle-même, gémissante, s’est tournée
+en arrière. 
 </ab>
 <ab n="9"><hi rend="italics">Teth</hi>. Ses
-souillures sont sur ses pieds, et elle ne s&rsquo;est pas souvenue de
-sa fin ; elle a &eacute;t&eacute; &eacute;tonnamment abaiss&eacute;e,
-et elle n&rsquo;a pas eu de consolateur. Voyez, Seigneur, mon
-affliction, parce que l&rsquo;ennemi s&rsquo;est &eacute;lev&eacute;
+souillures sont sur ses pieds, et elle ne s’est pas souvenue de
+sa fin ; elle a été étonnamment abaissée,
+et elle n’a pas eu de consolateur. Voyez, Seigneur, mon
+affliction, parce que l’ennemi s’est élevé
 avec orgueil.
 </ab>
-<ab n="10"><hi rend="italics">Jod</hi>. L&rsquo;ennemi
-a &eacute;tendu sa main sur tout ce qu&rsquo;elle avait de pr&eacute;cieux,
+<ab n="10"><hi rend="italics">Jod</hi>. L’ennemi
+a étendu sa main sur tout ce qu’elle avait de précieux,
 car elle a vu entrer dans son sanctuaire les nations, au sujet
-desquelles vous aviez ordonn&eacute; qu&rsquo;elles n&rsquo;entreraient
-pas dans votre assembl&eacute;e. 
+desquelles vous aviez ordonné qu’elles n’entreraient
+pas dans votre assemblée. 
 </ab>
 <ab n="11"><hi rend="italics">Caph</hi>. Tout
-son peuple g&eacute;mit et cherche du pain ; ils ont donn&eacute;
-toutes leurs choses pr&eacute;cieuses pour soutenir (une nourriture
-qui ranim&acirc;t) leur vie (&acirc;me, note). Voyez, Seigneur, et
-consid&eacute;rez comme je suis devenue vile. 
+son peuple gémit et cherche du pain ; ils ont donné
+toutes leurs choses précieuses pour soutenir (une nourriture
+qui ranimât) leur vie (âme, note). Voyez, Seigneur, et
+considérez comme je suis devenue vile. 
 </ab>
 <ab n="12"><hi rend="italics">Lamed</hi>. O
-vous tous qui passez par le chemin, regardez et voyez s&rsquo;il est
-une douleur comme ma douleur ; car le Seigneur m&rsquo;a vendang&eacute;e,
-comme il l&rsquo;avait dit, au jour de (la col&egrave;re de) sa
+vous tous qui passez par le chemin, regardez et voyez s’il est
+une douleur comme ma douleur ; car le Seigneur m’a vendangée,
+comme il l’avait dit, au jour de (la colère de) sa
 fureur. 
 </ab>
-<ab n="13"><hi rend="italics">Mem</hi>. D&rsquo;en
-haut il a envoy&eacute; un feu dans mes os, et il m&rsquo;a ch&acirc;ti&eacute;e
-; il a tendu un filet sous mes pieds, il m&rsquo;a fait tomber en
-arri&egrave;re ; il m&rsquo;a rendue d&eacute;sol&eacute;e, accabl&eacute;e
+<ab n="13"><hi rend="italics">Mem</hi>. D’en
+haut il a envoyé un feu dans mes os, et il m’a châtiée
+; il a tendu un filet sous mes pieds, il m’a fait tomber en
+arrière ; il m’a rendue désolée, accablée
 de tristesse tout le jour. 
 </ab>
 <ab n="14"><hi rend="italics">Nun</hi>. Le
-joug de mes iniquit&eacute;s m&rsquo;a accabl&eacute; soudain (s&rsquo;est
-&eacute;veill&eacute;) ; elles ont &eacute;t&eacute; enlac&eacute;es
-dans sa main, et il les a mises (impos&eacute;es) sur mon cou ; ma
-force a &eacute;t&eacute; affaiblie ; le Seigneur m&rsquo;a livr&eacute;
-&agrave; une main dont je ne pourrai pas sortir. 
+joug de mes iniquités m’a accablé soudain (s’est
+éveillé) ; elles ont été enlacées
+dans sa main, et il les a mises (imposées) sur mon cou ; ma
+force a été affaiblie ; le Seigneur m’a livré
+à une main dont je ne pourrai pas sortir. 
 </ab>
 <ab n="15"><hi rend="italics">Samech</hi>. Le
-Seigneur a enlev&eacute; du milieu de moi tous mes hommes de c&oelig;ur
-(illustres) ; il a appel&eacute; contre moi le temps o&ugrave; il
-devait d&eacute;truire mes soldats de choix (&eacute;lus, note). Le
-Seigneur a foul&eacute; le pressoir pour la vierge fille de Juda.
+Seigneur a enlevé du milieu de moi tous mes hommes de cœur
+(illustres) ; il a appelé contre moi le temps où il
+devait détruire mes soldats de choix (élus, note). Le
+Seigneur a foulé le pressoir pour la vierge fille de Juda.
 </ab>
-<ab n="16"><hi rend="italics">A&iuml;n</hi>. C&rsquo;est
+<ab n="16"><hi rend="italics">Aïn</hi>. C’est
 pour cela que je pleure et que mes yeux fondent en larmes, car le
-consolateur, qui devait me rendre la vie (me faire revenir mon &acirc;me),
-a &eacute;t&eacute; &eacute;loign&eacute; de moi. Mes enfants ont &eacute;t&eacute;
-d&eacute;truits (fils sont perdus), parce que l&rsquo;ennemi est
+consolateur, qui devait me rendre la vie (me faire revenir mon âme),
+a été éloigné de moi. Mes enfants ont été
+détruits (fils sont perdus), parce que l’ennemi est
 devenu le plus fort.
 </ab>
-<ab n="17"><hi rend="italics">Ph&eacute;</hi>. Sion
-a &eacute;tendu ses mains, il n&rsquo;y a personne qui la console. Le
-Seigneur a ordonn&eacute; aux ennemis de Jacob de l&rsquo;attaquer de
-tous c&ocirc;t&eacute;s ; J&eacute;rusalem est devenue parmi eux
-comme une femme souill&eacute;e de ses impuret&eacute;s (par ses
+<ab n="17"><hi rend="italics">Phé</hi>. Sion
+a étendu ses mains, il n’y a personne qui la console. Le
+Seigneur a ordonné aux ennemis de Jacob de l’attaquer de
+tous côtés ; Jérusalem est devenue parmi eux
+comme une femme souillée de ses impuretés (par ses
 mois). 
 </ab>
-<ab n="18"><hi rend="italics">Sad&eacute;</hi>. Le
-Seigneur est juste, car j&rsquo;ai provoqu&eacute; sa bouche &agrave;
-la col&egrave;re. Ecoutez, je vous prie, vous tous peuples, et voyez
-ma douleur ; mes vierges et mes jeunes gens (hommes) sont all&eacute;s
-en captivit&eacute;. 
+<ab n="18"><hi rend="italics">Sadé</hi>. Le
+Seigneur est juste, car j’ai provoqué sa bouche à
+la colère. Ecoutez, je vous prie, vous tous peuples, et voyez
+ma douleur ; mes vierges et mes jeunes gens (hommes) sont allés
+en captivité. 
 </ab>
-<ab n="19"><hi rend="italics">Coph</hi>. J&rsquo;ai
-appel&eacute; mes amis, et ils m&rsquo;ont tromp&eacute;e ; mes
-pr&ecirc;tres et mes vieillards ont p&eacute;ri dans la ville,
-lorsqu&rsquo;ils cherchaient de la nourriture pour soutenir (ranimer)
-leur vie (&acirc;me). 
+<ab n="19"><hi rend="italics">Coph</hi>. J’ai
+appelé mes amis, et ils m’ont trompée ; mes
+prêtres et mes vieillards ont péri dans la ville,
+lorsqu’ils cherchaient de la nourriture pour soutenir (ranimer)
+leur vie (âme). 
 </ab>
 <ab n="20"><hi rend="italics">Res</hi>. Seigneur,
-voyez que je suis dans l&rsquo;affliction ; mes entrailles sont
-&eacute;mues, mon c&oelig;ur est renvers&eacute; en moi-m&ecirc;me,
-car je suis remplie d&rsquo;amertume. Au-dehors le glaive tue, et
-au-dedans c&rsquo;est une mort semblable. 
+voyez que je suis dans l’affliction ; mes entrailles sont
+émues, mon cœur est renversé en moi-même,
+car je suis remplie d’amertume. Au-dehors le glaive tue, et
+au-dedans c’est une mort semblable. 
 </ab>
 <ab n="21"><hi rend="italics">Sin</hi>. Ils
-ont appris que je g&eacute;mis, et qu&rsquo;il n&rsquo;y a personne
+ont appris que je gémis, et qu’il n’y a personne
 qui me console ; tous mes ennemis ont appris mon malheur, et ils se
-sont r&eacute;jouis de ce que c&rsquo;est vous qui l&rsquo;avez caus&eacute;
-; vous am&egrave;nerez le jour de la (ma) consolation, et ils
-deviendront semblables &agrave; moi. 
+sont réjouis de ce que c’est vous qui l’avez causé
+; vous amènerez le jour de la (ma) consolation, et ils
+deviendront semblables à moi. 
 </ab>
 <ab n="22"><hi rend="italics">Thau</hi>. Que
-toute leur m&eacute;chancet&eacute; se pr&eacute;sente devant vous ;
-vendangez-les comme vous m&rsquo;avez vendang&eacute;e &agrave; cause
-de toutes mes iniquit&eacute;s, car mes g&eacute;missements sont
-nombreux, et mon c&oelig;ur est triste.
+toute leur méchanceté se présente devant vous ;
+vendangez-les comme vous m’avez vendangée à cause
+de toutes mes iniquités, car mes gémissements sont
+nombreux, et mon cœur est triste.
 </ab></div>
 <div type="chapter" n="2">
 <ab n="1"><hi rend="italics">Aleph</hi>. Comment
-le Seigneur a-t-il couvert de t&eacute;n&egrave;bres, dans sa fureur,
-la fille de Sion ? Comment a-t-il (Il a) pr&eacute;cipit&eacute; du
-ciel sur la terre la gloire (l&rsquo;illustre Isra&euml;l) d&rsquo;Isra&euml;l,
-et ne s&rsquo;est-il pas souvenu de l&rsquo;escabeau de ses pieds au
+le Seigneur a-t-il couvert de ténèbres, dans sa fureur,
+la fille de Sion ? Comment a-t-il (Il a) précipité du
+ciel sur la terre la gloire (l’illustre Israël) d’Israël,
+et ne s’est-il pas souvenu de l’escabeau de ses pieds au
 jour de sa fureur ? (.) 
 </ab>
 <ab n="2"><hi rend="italics">Beth</hi>. Le
-Seigneur a (tout) renvers&eacute;, sans rien &eacute;pargner, (tout)
-ce qu&rsquo;il y avait de beau dans Jacob ; il a d&eacute;truit dans
-sa fureur les forteresses de la vierge de Juda, et il les a jet&eacute;es
-&agrave; terre ; il a profan&eacute; son royaume et ses princes.
+Seigneur a (tout) renversé, sans rien épargner, (tout)
+ce qu’il y avait de beau dans Jacob ; il a détruit dans
+sa fureur les forteresses de la vierge de Juda, et il les a jetées
+à terre ; il a profané son royaume et ses princes.
 
 </ab>
 <ab n="3"><hi rend="italics">Ghimel</hi>. Il a
-bris&eacute; dans le transport (la col&egrave;re) de sa fureur toute
-la force d&rsquo;Isra&euml;l ; il a retir&eacute; sa main droite de
-devant l&rsquo;ennemi, et il a allum&eacute; dans Jacob comme un feu
-dont la flamme d&eacute;vore tout autour. 
+brisé dans le transport (la colère) de sa fureur toute
+la force d’Israël ; il a retiré sa main droite de
+devant l’ennemi, et il a allumé dans Jacob comme un feu
+dont la flamme dévore tout autour. 
 </ab>
 <ab n="4"><hi rend="italics">Daleth</hi>. Il a
 tendu son arc comme un ennemi, il a affermi sa main droite comme un
-assaillant, et il a tu&eacute; tout ce qu&rsquo;il y avait de beau &agrave;
-voir dans la tente (le tabernacle) de la fille de Sion ; il a r&eacute;pandu
+assaillant, et il a tué tout ce qu’il y avait de beau à
+voir dans la tente (le tabernacle) de la fille de Sion ; il a répandu
 son indignation comme un feu. 
 </ab>
-<ab n="5"><hi rend="italics">H&eacute;</hi>. Le
-Seigneur est devenu comme un ennemi ; il a renvers&eacute; Isra&euml;l,
-il a renvers&eacute; tous ses remparts, il a d&eacute;truit ses
-forteresses, et il a rempli la fille de Juda d&rsquo;hommes et de
-femmes humili&eacute;s. 
+<ab n="5"><hi rend="italics">Hé</hi>. Le
+Seigneur est devenu comme un ennemi ; il a renversé Israël,
+il a renversé tous ses remparts, il a détruit ses
+forteresses, et il a rempli la fille de Juda d’hommes et de
+femmes humiliés. 
 </ab>
 <ab n="6"><hi rend="italics">Vav</hi>. Il a
-d&eacute;vast&eacute; sa tente comme un jardin, il a d&eacute;truit
-son tabernacle (sa tente). Le Seigneur a livr&eacute; &agrave;
-l&rsquo;oubli dans Sion les f&ecirc;tes et le sabbat ; il a livr&eacute;
-&agrave; l&rsquo;opprobre et &agrave; l&rsquo;indignation de sa
-fureur le roi et le pr&ecirc;tre. 
+dévasté sa tente comme un jardin, il a détruit
+son tabernacle (sa tente). Le Seigneur a livré à
+l’oubli dans Sion les fêtes et le sabbat ; il a livré
+à l’opprobre et à l’indignation de sa
+fureur le roi et le prêtre. 
 </ab>
-<ab n="7"><hi rend="italics">Za&iuml;n</hi>. Le
-Seigneur a rejet&eacute; son autel, il a maudit son sanctuaire (sa
-sanctification) ; il a livr&eacute; aux mains de l&rsquo;ennemi les
-murs de ses tours ; ils ont pouss&eacute; des cris dans la maison du
-Seigneur, comme dans une f&ecirc;te (un jour) solennel(le). 
+<ab n="7"><hi rend="italics">Zaïn</hi>. Le
+Seigneur a rejeté son autel, il a maudit son sanctuaire (sa
+sanctification) ; il a livré aux mains de l’ennemi les
+murs de ses tours ; ils ont poussé des cris dans la maison du
+Seigneur, comme dans une fête (un jour) solennel(le). 
 </ab>
 <ab n="8"><hi rend="italics">Heth</hi>. Le
-Seigneur a r&eacute;solu de d&eacute;truire la muraille de la fille
-de Sion ; il a tendu son cordeau, et il n&rsquo;a pas retir&eacute;
-sa main que tout ne f&ucirc;t ruin&eacute; ; l&rsquo;avant-mur a &eacute;t&eacute;
-en deuil (g&eacute;mi, note), et le mur aussi a &eacute;t&eacute;
-d&eacute;truit.
+Seigneur a résolu de détruire la muraille de la fille
+de Sion ; il a tendu son cordeau, et il n’a pas retiré
+sa main que tout ne fût ruiné ; l’avant-mur a été
+en deuil (gémi, note), et le mur aussi a été
+détruit.
 </ab>
 <ab n="9"><hi rend="italics">Teth</hi>. Ses
-portes sont enfonc&eacute;es en terre, il en a ruin&eacute; et bris&eacute;
+portes sont enfoncées en terre, il en a ruiné et brisé
 les barres (ses verrous) ; son roi et ses princes sont (il les a
-dispers&eacute;s) parmi les nations ; il n&rsquo;y a plus de loi, et
-ses proph&egrave;tes n&rsquo;ont re&ccedil;u aucune vision du
+dispersés) parmi les nations ; il n’y a plus de loi, et
+ses prophètes n’ont reçu aucune vision du
 Seigneur. 
 </ab>
 <ab n="10"><hi rend="italics">Jod</hi>. Les
-vieillards de la fille de Sion se sont assis &agrave; terre, et ont
-gard&eacute; le silence ; ils ont couvert leur t&ecirc;te de cendre,
-ils se sont rev&ecirc;tus de cilices ; les vierges de J&eacute;rusalem
-tiennent leur t&ecirc;te pench&eacute;e vers la terre. 
+vieillards de la fille de Sion se sont assis à terre, et ont
+gardé le silence ; ils ont couvert leur tête de cendre,
+ils se sont revêtus de cilices ; les vierges de Jérusalem
+tiennent leur tête penchée vers la terre. 
 </ab>
 <ab n="11"><hi rend="italics">Caph</hi>. Mes
-yeux se sont consum&eacute;s dans les larmes, mes entrailles se sont
-&eacute;mues ; mon foie s&rsquo;est r&eacute;pandu sur la terre, &agrave;
+yeux se sont consumés dans les larmes, mes entrailles se sont
+émues ; mon foie s’est répandu sur la terre, à
 cause de la ruine de la fille de mon peuple, lorsque le petit enfant
-et le nourrisson (petit enfant &agrave; la mamelle) tombaient en
-d&eacute;faillance dans les places de la ville. 
+et le nourrisson (petit enfant à la mamelle) tombaient en
+défaillance dans les places de la ville. 
 </ab>
 <ab n="12"><hi rend="italics">Lamed</hi>. Ils
-disaient &agrave; leurs m&egrave;res : O&ugrave; est le bl&eacute; et
-le vin ? lorsqu&rsquo;ils tombaient comme des bless&eacute;es dans
-les places de la ville, et qu&rsquo;ils rendaient (exhalaient) leurs
-&acirc;mes sur le sein de leur m&egrave;re. 
+disaient à leurs mères : Où est le blé et
+le vin ? lorsqu’ils tombaient comme des blessées dans
+les places de la ville, et qu’ils rendaient (exhalaient) leurs
+âmes sur le sein de leur mère. 
 </ab>
 <ab n="13"><hi rend="italics">Mem</hi>. A
-qui te comparerai-je, et (ou) &agrave; qui t&rsquo;assimilerai-je,
-fille de J&eacute;rusalem ? A qui t&rsquo;&eacute;galerai-je, et
+qui te comparerai-je, et (ou) à qui t’assimilerai-je,
+fille de Jérusalem ? A qui t’égalerai-je, et
 comment te consolerai-je, vierge fille de Sion ? Ta ruine est grande
-comme la mer ; qui pourra te gu&eacute;rir ? 
+comme la mer ; qui pourra te guérir ? 
 </ab>
 <ab n="14"><hi rend="italics">Nun</hi>. Tes
-proph&egrave;tes ont vu pour toi des visions fausses et insens&eacute;es
-; ils ne te d&eacute;couvraient pas ton iniquit&eacute; pour
-t&rsquo;exciter &agrave; la p&eacute;nitence, mais ils ont vu pour
-toi des r&ecirc;veries mensong&egrave;res et des fuites (proph&eacute;ties
-de malheur fausses, et pour tes ennemis l&rsquo;expulsion de la
-Jud&eacute;e). 
+prophètes ont vu pour toi des visions fausses et insensées
+; ils ne te découvraient pas ton iniquité pour
+t’exciter à la pénitence, mais ils ont vu pour
+toi des rêveries mensongères et des fuites (prophéties
+de malheur fausses, et pour tes ennemis l’expulsion de la
+Judée). 
 </ab>
 <ab n="15"><hi rend="italics">Samech</hi>. Tous
 ceux qui passaient par le chemin ont battu des mains sur toi ; ils
-ont siffl&eacute; et branl&eacute; la t&ecirc;te sur la fille de
-J&eacute;rusalem : Est-ce l&agrave;, disaient-ils, cette ville d&rsquo;une
-beaut&eacute; parfaite, la joie de toute la terre ? 
+ont sifflé et branlé la tête sur la fille de
+Jérusalem : Est-ce là, disaient-ils, cette ville d’une
+beauté parfaite, la joie de toute la terre ? 
 </ab>
-<ab n="16"><hi rend="italics">Ph&eacute;</hi>. Tous
-tes ennemis ont ouvert la bouche sur toi ; ils ont siffl&eacute; et
-grinc&eacute; des dents, et ils ont dit : Nous la d&eacute;vorerons ;
-voici le jour que nous attendions ; nous l&rsquo;avons trouv&eacute;,
-nous l&rsquo;avons vu. 
+<ab n="16"><hi rend="italics">Phé</hi>. Tous
+tes ennemis ont ouvert la bouche sur toi ; ils ont sifflé et
+grincé des dents, et ils ont dit : Nous la dévorerons ;
+voici le jour que nous attendions ; nous l’avons trouvé,
+nous l’avons vu. 
 </ab>
-<ab n="17"><hi rend="italics">A&iuml;n</hi>. Le
-Seigneur a fait ce qu&rsquo;il avait r&eacute;solu ; il a accompli la
-parole qu&rsquo;il avait arr&ecirc;t&eacute;e depuis les jours
-(temps) anciens ; il a d&eacute;truit et il n&rsquo;a pas &eacute;pargn&eacute;
-; il a r&eacute;joui l&rsquo;ennemi &agrave; ton sujet, et il a
-relev&eacute; (exalt&eacute;) la force (corne) de tes adversaires.
+<ab n="17"><hi rend="italics">Aïn</hi>. Le
+Seigneur a fait ce qu’il avait résolu ; il a accompli la
+parole qu’il avait arrêtée depuis les jours
+(temps) anciens ; il a détruit et il n’a pas épargné
+; il a réjoui l’ennemi à ton sujet, et il a
+relevé (exalté) la force (corne) de tes adversaires.
 </ab>
-<ab n="18"><hi rend="italics">Sad&eacute;</hi>. Leur
-c&oelig;ur a cri&eacute; au Seigneur &agrave; cause des (sur les)
+<ab n="18"><hi rend="italics">Sadé</hi>. Leur
+cœur a crié au Seigneur à cause des (sur les)
 murs de la ville de Sion : Fais couler les larmes comme un torrent le
-jour et la nuit ; ne te donne pas de rel&acirc;che, et que la
-prunelle de ton &oelig;il ne se repose (taise) pas. 
+jour et la nuit ; ne te donne pas de relâche, et que la
+prunelle de ton œil ne se repose (taise) pas. 
 </ab>
-<ab n="19"><hi rend="italics">Coph</hi>. L&egrave;ve-toi,
+<ab n="19"><hi rend="italics">Coph</hi>. Lève-toi,
 loue Dieu (le Seigneur) pendant la nuit, au commencement des veilles
-; r&eacute;pands ton c&oelig;ur comme de l&rsquo;eau devant le
-Seigneur ; &eacute;l&egrave;ve vers lui tes mains pour l&rsquo;&acirc;me
-de tes petits enfants, qui sont morts de faim &agrave; l&rsquo;angle
+; répands ton cœur comme de l’eau devant le
+Seigneur ; élève vers lui tes mains pour l’âme
+de tes petits enfants, qui sont morts de faim à l’angle
 de toutes les rues. 
 </ab>
 <ab n="20"><hi rend="italics">Res</hi>. Voyez,
-Seigneur, et consid&eacute;rez quel est celui que vous avez ravag&eacute;
-ainsi. Les m&egrave;res devaient-elles (mangeront-elles) donc manger
+Seigneur, et considérez quel est celui que vous avez ravagé
+ainsi. Les mères devaient-elles (mangeront-elles) donc manger
 leur fruit, de(s) petits enfants qui ne sont pas plus grands que la
-main (de la hauteur d&rsquo;un palme) ? Est-il possible (Est-ce) que
-le pr&ecirc;tre et le proph&egrave;te soient (seront) tu&eacute;s
+main (de la hauteur d’un palme) ? Est-il possible (Est-ce) que
+le prêtre et le prophète soient (seront) tués
 dans le sanctuaire du Seigneur ? 
 </ab>
-<ab n="21"><hi rend="italics">Sin</hi>. L&rsquo;enfant
-et le vieillard ont &eacute;t&eacute; &eacute;tendus &agrave; terre
-dans les rues ; mes vierges et mes jeunes gens (hommes) sont tomb&eacute;s
-sous le glaive ; vous les avez tu&eacute;s au jour de votre fureur ;
-vous avez frapp&eacute;, vous n&rsquo;avez pas eu de piti&eacute;.
+<ab n="21"><hi rend="italics">Sin</hi>. L’enfant
+et le vieillard ont été étendus à terre
+dans les rues ; mes vierges et mes jeunes gens (hommes) sont tombés
+sous le glaive ; vous les avez tués au jour de votre fureur ;
+vous avez frappé, vous n’avez pas eu de pitié.
 </ab>
 <ab n="22"><hi rend="italics">Thau</hi>. Vous
-avez appel&eacute; comme &agrave; un jour de f&ecirc;te (solennel)
-ceux qui devaient m&rsquo;effrayer (&eacute;pouvanter) de toutes
-parts ; il n&rsquo;y a eu personne, au jour de la fureur du Seigneur,
-qui &eacute;chapp&acirc;t et qui f&ucirc;t &eacute;pargn&eacute; ;
-ceux que j&rsquo;ai nourris et &eacute;lev&eacute;s, mon ennemi les a
-consum&eacute;s.
+avez appelé comme à un jour de fête (solennel)
+ceux qui devaient m’effrayer (épouvanter) de toutes
+parts ; il n’y a eu personne, au jour de la fureur du Seigneur,
+qui échappât et qui fût épargné ;
+ceux que j’ai nourris et élevés, mon ennemi les a
+consumés.
 </ab></div>
 <div type="chapter" n="3">
 <ab n="1"><hi rend="italics">Aleph</hi>. Je
-suis (un) l&rsquo;homme qui vois ma mis&egrave;re sous la verge de
+suis (un) l’homme qui vois ma misère sous la verge de
 son indignation. 
 </ab>
 <ab n="2"><hi rend="italics">Aleph</hi>. Il
-m&rsquo;a conduit, et il m&rsquo;a men&eacute; dans les t&eacute;n&egrave;bres,
-et non dans la lumi&egrave;re. 
+m’a conduit, et il m’a mené dans les ténèbres,
+et non dans la lumière. 
 </ab>
 <ab n="3"><hi rend="italics">Aleph</hi>. Il
-n&rsquo;a fait que tourner et retourner sa main contre moi tout le
+n’a fait que tourner et retourner sa main contre moi tout le
 jour. 
 </ab>
 <ab n="4"><hi rend="italics">Beth</hi>. Il a
-fait vieillir ma peau et ma chair ; il a bris&eacute; mes os. 
+fait vieillir ma peau et ma chair ; il a brisé mes os. 
 </ab>
 <ab n="5"><hi rend="italics">Beth</hi>. Il a
-b&acirc;ti autour de moi, et il m&rsquo;a environn&eacute; de fiel et
+bâti autour de moi, et il m’a environné de fiel et
 de peine. 
 </ab>
 <ab n="6"><hi rend="italics">Beth</hi>. Il
-m&rsquo;a plac&eacute; dans des lieux t&eacute;n&eacute;breux, comme
-ceux qui sont morts &agrave; jamais (les morts &eacute;ternels,
+m’a placé dans des lieux ténébreux, comme
+ceux qui sont morts à jamais (les morts éternels,
 note). 
 </ab>
 <ab n="7"><hi rend="italics">Ghimel</hi>. Il a
-b&acirc;ti tout autour de moi pour m&rsquo;emp&ecirc;cher de sortir ;
+bâti tout autour de moi pour m’empêcher de sortir ;
 il a appesanti mes fers (aux pieds). 
 </ab>
 <ab n="8"><hi rend="italics">Ghimel</hi>. (Lors)
-M&ecirc;me si (que) je crie(rai) vers lui, et si (que) je le
-prie(rai), il (a) rejette(&eacute;) ma pri&egrave;re. 
+Même si (que) je crie(rai) vers lui, et si (que) je le
+prie(rai), il (a) rejette(é) ma prière. 
 </ab>
 <ab n="9"><hi rend="italics">Ghimel</hi>. Il a
-ferm&eacute; mon chemin avec des pierres de taille, il a renvers&eacute;
+fermé mon chemin avec des pierres de taille, il a renversé
 mes sentiers. 
 </ab>
 <ab n="10"><hi rend="italics">Daleth</hi>. Il a
-&eacute;t&eacute; pour moi comme un ours en embuscade, comme un lion
-dans un lieu cach&eacute;. 
+été pour moi comme un ours en embuscade, comme un lion
+dans un lieu caché. 
 </ab>
 <ab n="11"><hi rend="italics">Daleth</hi>. Il a
-renvers&eacute; mes sentiers, et il m&rsquo;a bris&eacute; ; il m&rsquo;a
-mis dans la d&eacute;solation. 
+renversé mes sentiers, et il m’a brisé ; il m’a
+mis dans la désolation. 
 </ab>
 <ab n="12"><hi rend="italics">Daleth</hi>. Il a
 tendu son arc, et il a fait de moi comme un (le) but pour ses
-fl&egrave;ches. 
+flèches. 
 </ab>
-<ab n="13"><hi rend="italics">H&eacute;</hi>. Il a
-lanc&eacute; dans mes reins les filles de son carquois. 
+<ab n="13"><hi rend="italics">Hé</hi>. Il a
+lancé dans mes reins les filles de son carquois. 
 </ab>
-<ab n="14"><hi rend="italics">H&eacute;</hi>. Je
-suis devenu la ris&eacute;e de tout mon peuple, le sujet de leurs
+<ab n="14"><hi rend="italics">Hé</hi>. Je
+suis devenu la risée de tout mon peuple, le sujet de leurs
 chansons tout le jour. 
 </ab>
-<ab n="15"><hi rend="italics">H&eacute;</hi>. Il
-m&rsquo;a rempli d&rsquo;amertumes, il m&rsquo;a enivr&eacute;
-d&rsquo;absinthe. 
+<ab n="15"><hi rend="italics">Hé</hi>. Il
+m’a rempli d’amertumes, il m’a enivré
+d’absinthe. 
 </ab>
 <ab n="16"><hi rend="italics">Vav</hi>. Il a
-bris&eacute; mes dents sans m&rsquo;en laisser une seule, il m&rsquo;a
+brisé mes dents sans m’en laisser une seule, il m’a
 nourri de cendre. 
 </ab>
 <ab n="17"><hi rend="italics">Vav</hi>. La
-paix a &eacute;t&eacute; bannie de mon &acirc;me ; j&rsquo;ai oubli&eacute;
+paix a été bannie de mon âme ; j’ai oublié
 le bonheur. 
 </ab>
 <ab n="18"><hi rend="italics">Vav</hi>. Et
-j&rsquo;ai dit : C&rsquo;en est fait de ma vie (Elle a p&eacute;ri,
-note), et de mon esp&eacute;rance dans le Seigneur. 
+j’ai dit : C’en est fait de ma vie (Elle a péri,
+note), et de mon espérance dans le Seigneur. 
 </ab>
-<ab n="19"><hi rend="italics">Za&iuml;n</hi>. Souvenez-vous
-de ma pauvret&eacute; et de ma transgression (l&rsquo;exc&egrave;s
-contre moi), de l&rsquo;absinthe et du fiel. 
+<ab n="19"><hi rend="italics">Zaïn</hi>. Souvenez-vous
+de ma pauvreté et de ma transgression (l’excès
+contre moi), de l’absinthe et du fiel. 
 </ab>
-<ab n="20"><hi rend="italics">Za&iuml;n</hi>. Je
-me souviendrai dans ma m&eacute;moire, et mon &acirc;me (se
-des)s&eacute;chera en moi (de douleur). 
+<ab n="20"><hi rend="italics">Zaïn</hi>. Je
+me souviendrai dans ma mémoire, et mon âme (se
+des)séchera en moi (de douleur). 
 </ab>
-<ab n="21"><hi rend="italics">Za&iuml;n</hi>. Je
-repasserai ces choses dans mon c&oelig;ur, c&rsquo;est pourquoi
-j&rsquo;esp&eacute;rerai. 
+<ab n="21"><hi rend="italics">Zaïn</hi>. Je
+repasserai ces choses dans mon cœur, c’est pourquoi
+j’espérerai. 
 </ab>
-<ab n="22"><hi rend="italics">Heth</hi>. C&rsquo;est
-gr&acirc;ce aux mis&eacute;ricordes du Seigneur que nous n&rsquo;avons
-pas &eacute;t&eacute; perdus enti&egrave;rement, parce que ses
-compassions ne sont pas &eacute;puis&eacute;es. 
+<ab n="22"><hi rend="italics">Heth</hi>. C’est
+grâce aux miséricordes du Seigneur que nous n’avons
+pas été perdus entièrement, parce que ses
+compassions ne sont pas épuisées. 
 </ab>
 <ab n="23"><hi rend="italics">Heth</hi>. Elles
-se renouvellent chaque matin ; votre fid&eacute;lit&eacute; est
+se renouvellent chaque matin ; votre fidélité est
 grande. 
 </ab>
 <ab n="24"><hi rend="italics">Heth</hi>. Le
-Seigneur est mon partage, a dit mon &acirc;me ; c&rsquo;est pour cela
-que je l&rsquo;attendrai. 
+Seigneur est mon partage, a dit mon âme ; c’est pour cela
+que je l’attendrai. 
 </ab>
 <ab n="25"><hi rend="italics">Teth</hi>. Le
-Seigneur est bon pour ceux qui esp&egrave;rent en lui, pour l&rsquo;&acirc;me
+Seigneur est bon pour ceux qui espèrent en lui, pour l’âme
 qui le cherche. 
 </ab>
 <ab n="26"><hi rend="italics">Teth</hi>. Il
-est bon d&rsquo;attendre en silence le salut de Dieu. 
+est bon d’attendre en silence le salut de Dieu. 
 </ab>
 <ab n="27"><hi rend="italics">Teth</hi>. Il
-est bon &agrave; l&rsquo;homme de porter le (un) joug d&egrave;s sa
+est bon à l’homme de porter le (un) joug dès sa
 jeunesse. 
 </ab>
 <ab n="28"><hi rend="italics">Jod</hi>. Il
-s&rsquo;assi&eacute;ra
+s’assiéra
 solitaire, et il se taira, parce que Dieu a mis ce joug sur lui. 
 </ab>
 <ab n="29"><hi rend="italics">Jod</hi>. Il
-mettra sa bouche dans la poussi&egrave;re, pour voir (par hasard)
-s&rsquo;il y a quelque esp&eacute;rance. 
+mettra sa bouche dans la poussière, pour voir (par hasard)
+s’il y a quelque espérance. 
 </ab>
 <ab n="30"><hi rend="italics">Jod</hi>. Il
-tendra la joue &agrave; celui qui le frappera, il se rassasiera
-d&rsquo;opprobres. 
+tendra la joue à celui qui le frappera, il se rassasiera
+d’opprobres. 
 </ab>
 <ab n="31"><hi rend="italics">Caph</hi>. Car
-le Seigneur ne rejettera pas &agrave; jamais. 
+le Seigneur ne rejettera pas à jamais. 
 </ab>
 <ab n="32"><hi rend="italics">Caph</hi>. Car
-s&rsquo;il a rejet&eacute;, il aura aussi compassion, selon la
-multitude de ses mis&eacute;ricordes. 
+s’il a rejeté, il aura aussi compassion, selon la
+multitude de ses miséricordes. 
 </ab>
 <ab n="33"><hi rend="italics">Caph</hi>. Car
-ce n&rsquo;est pas volontiers (d&rsquo;apr&egrave;s son c&oelig;ur,
-note) qu&rsquo;il a humili&eacute; et rejet&eacute; les enfants des
+ce n’est pas volontiers (d’après son cœur,
+note) qu’il a humilié et rejeté les enfants des
 hommes. 
 </ab>
 <ab n="34"><hi rend="italics">Lamed</hi>. (Afin
 de) Fouler sous ses pieds tous les captifs de la terre ; 
 </ab>
 <ab n="35"><hi rend="italics">Lamed</hi>. refuser
-la justice &agrave; un (afin de faire incliner le droit de l&rsquo;)
-homme sous les regards (devant la face) du Tr&egrave;s-Haut ;
+la justice à un (afin de faire incliner le droit de l’)
+homme sous les regards (devant la face) du Très-Haut ;
 </ab>
 <ab n="36"><hi rend="italics">Lamed</hi>. faire
-tort &agrave; un homme dans sa cause : le Seigneur ignore tout cela
+tort à un homme dans sa cause : le Seigneur ignore tout cela
 (ne le sait pas). 
 </ab>
 <ab n="37"><hi rend="italics">Mem</hi>. Quel
-est celui qui a dit qu&rsquo;une chose aurait lieu, sans que le
-Seigneur l&rsquo;ait command&eacute; ? 
+est celui qui a dit qu’une chose aurait lieu, sans que le
+Seigneur l’ait commandé ? 
 </ab>
 <ab n="38"><hi rend="italics">Mem</hi>. Est-ce
-que les maux et les biens ne sortent pas de la bouche du Tr&egrave;s-Haut
+que les maux et les biens ne sortent pas de la bouche du Très-Haut
 ? 
 </ab>
 <ab n="39"><hi rend="italics">Mem</hi>. Pourquoi
-l&rsquo;homme vivant murmure-t-il, l&rsquo;homme qui souffre pour (de
-la punition de, note) ses p&eacute;ch&eacute;s ? 
+l’homme vivant murmure-t-il, l’homme qui souffre pour (de
+la punition de, note) ses péchés ? 
 </ab>
 <ab n="40"><hi rend="italics">Nun</hi>. Examinons
 nos voies, et cherchons (interrogeons-les), et revenons au Seigneur.
 
 </ab>
 <ab n="41"><hi rend="italics">Nun</hi>. Elevons
-nos c&oelig;urs avec nos mains vers le Seigneur, (qui est) dans le
+nos cœurs avec nos mains vers le Seigneur, (qui est) dans le
 ciel. 
 </ab>
 <ab n="42"><hi rend="italics">Nun</hi>. Nous
-avons agi injustement, nous avons excit&eacute; votre col&egrave;re ;
-c&rsquo;est pourquoi vous &ecirc;tes inexorable. 
+avons agi injustement, nous avons excité votre colère ;
+c’est pourquoi vous êtes inexorable. 
 </ab>
 <ab n="43"><hi rend="italics">Samech</hi>. Vous
-vous &ecirc;tes cach&eacute; dans votre fureur, et vous nous avez
-frapp&eacute;s ; vous avez tu&eacute; sans &eacute;pargner. 
+vous êtes caché dans votre fureur, et vous nous avez
+frappés ; vous avez tué sans épargner. 
 </ab>
 <ab n="44"><hi rend="italics">Samech</hi>. Vous
-avez mis un nuage devant vous, afin que la pri&egrave;re ne passe
+avez mis un nuage devant vous, afin que la prière ne passe
 point. 
 </ab>
 <ab n="45"><hi rend="italics">Samech</hi>. Vous
-m&rsquo;avez plac&eacute; au milieu des peuples comme une plante
-arrach&eacute;e et de rebut.
+m’avez placé au milieu des peuples comme une plante
+arrachée et de rebut.
 </ab>
-<ab n="46"><hi rend="italics">Ph&eacute;</hi>. Tous
+<ab n="46"><hi rend="italics">Phé</hi>. Tous
 nos ennemis ont ouvert la bouche contre nous. 
 </ab>
-<ab n="47"><hi rend="italics">Ph&eacute;</hi>. La
-proph&eacute;tie est devenue pour nous un effroi, un filet, et une
+<ab n="47"><hi rend="italics">Phé</hi>. La
+prophétie est devenue pour nous un effroi, un filet, et une
 ruine. 
 </ab>
-<ab n="48"><hi rend="italics">Ph&eacute;</hi>. Mon
-&oelig;il a r&eacute;pandu des ruisseaux de larmes, &agrave; cause de
+<ab n="48"><hi rend="italics">Phé</hi>. Mon
+œil a répandu des ruisseaux de larmes, à cause de
 la ruine de la fille de mon peuple. 
 </ab>
-<ab n="49"><hi rend="italics">A&iuml;n</hi>. Mon
-&oelig;il s&rsquo;est afflig&eacute; et ne s&rsquo;est pas tu, parce
-qu&rsquo;il n&rsquo;y avait point de repos 
+<ab n="49"><hi rend="italics">Aïn</hi>. Mon
+œil s’est affligé et ne s’est pas tu, parce
+qu’il n’y avait point de repos 
 </ab>
-<ab n="50"><hi rend="italics">A&iuml;n</hi>. jusqu&rsquo;&agrave;
-ce que le Seigneur jet&acirc;t les yeux et regard&acirc;t du ciel.
+<ab n="50"><hi rend="italics">Aïn</hi>. jusqu’à
+ce que le Seigneur jetât les yeux et regardât du ciel.
 
 </ab>
-<ab n="51"><hi rend="italics">A&iuml;n</hi>. Mon
-&oelig;il a ravag&eacute; (tourment&eacute;) mon &acirc;me, &agrave;
+<ab n="51"><hi rend="italics">Aïn</hi>. Mon
+œil a ravagé (tourmenté) mon âme, à
 cause de toutes les filles de ma ville. 
 </ab>
-<ab n="52"><hi rend="italics">Sad&eacute;</hi>. Ceux
-qui me ha&iuml;ssent sans sujet m&rsquo;ont pris &agrave; la chasse
+<ab n="52"><hi rend="italics">Sadé</hi>. Ceux
+qui me haïssent sans sujet m’ont pris à la chasse
 comme un oiseau. 
 </ab>
-<ab n="53"><hi rend="italics">Sad&eacute;</hi>. Mon
-&acirc;me est tomb&eacute;e dans la fosse, et ils ont mis une pierre
+<ab n="53"><hi rend="italics">Sadé</hi>. Mon
+âme est tombée dans la fosse, et ils ont mis une pierre
 sur moi. 
 </ab>
-<ab n="54"><hi rend="italics">Sad&eacute;</hi>. Les
-(Des) eaux ont d&eacute;bord&eacute; sur ma t&ecirc;te ; j&rsquo;ai
+<ab n="54"><hi rend="italics">Sadé</hi>. Les
+(Des) eaux ont débordé sur ma tête ; j’ai
 dit : Je suis perdu. 
 </ab>
-<ab n="55"><hi rend="italics">Coph</hi>. J&rsquo;ai
-invoqu&eacute; votre nom, Seigneur, du plus profond de la fosse (du
+<ab n="55"><hi rend="italics">Coph</hi>. J’ai
+invoqué votre nom, Seigneur, du plus profond de la fosse (du
 lac). 
 </ab>
 <ab n="56"><hi rend="italics">Coph</hi>. Vous
-avez entendu ma voix ; ne d&eacute;tournez pas votre oreille de mes
-g&eacute;missements (sanglots) et de mes cris. 
+avez entendu ma voix ; ne détournez pas votre oreille de mes
+gémissements (sanglots) et de mes cris. 
 </ab>
 <ab n="57"><hi rend="italics">Coph</hi>. Vous
-vous &ecirc;tes approch&eacute; au (un) jour o&ugrave; je vous ai
-invoqu&eacute; ; vous avez dit : Ne crains pas. 
+vous êtes approché au (un) jour où je vous ai
+invoqué ; vous avez dit : Ne crains pas. 
 </ab>
 <ab n="58"><hi rend="italics">Res</hi>. Seigneur,
-vous avez jug&eacute; la cause de mon &acirc;me, vous qui &ecirc;tes
-le r&eacute;dempteur de ma vie. 
+vous avez jugé la cause de mon âme, vous qui êtes
+le rédempteur de ma vie. 
 </ab>
 <ab n="59"><hi rend="italics">Res</hi>. Vous
-avez vu, Seigneur, leur iniquit&eacute; contre moi ; rendez-moi
+avez vu, Seigneur, leur iniquité contre moi ; rendez-moi
 justice. 
 </ab>
 <ab n="60"><hi rend="italics">Res</hi>. Vous
@@ -551,7 +532,7 @@ avez entendu leurs outrages, Seigneur, tous leurs desseins contre
 moi. <hi rend="italics">Sin</hi>.
 </ab>
 <ab n="62"><hi rend="italics">Sin</hi>. Les
-l&egrave;vres de ceux qui m&rsquo;assaillent et leurs projets sont
+lèvres de ceux qui m’assaillent et leurs projets sont
 contre moi tout le jour. 
 </ab>
 <ab n="63"><hi rend="italics">Thau</hi>. Voyez-les,
@@ -559,11 +540,11 @@ quand ils sont assis et quand ils sont debout ; je suis le sujet de
 leurs chansons. 
 </ab>
 <ab n="64"><hi rend="italics">Thau</hi>. Vous
-leur rendrez ce qu&rsquo;ils m&eacute;ritent, Seigneur, selon les
-&oelig;uvres de leurs mains. 
+leur rendrez ce qu’ils méritent, Seigneur, selon les
+œuvres de leurs mains. 
 </ab>
 <ab n="65"><hi rend="italics">Thau</hi>. Vous
-leur mettrez (comme) un bouclier sur le c&oelig;ur, votre ch&acirc;timent
+leur mettrez (comme) un bouclier sur le cœur, votre châtiment
 (la peine dont vous les accablerez). 
 </ab>
 <ab n="66">Vous
@@ -572,54 +553,54 @@ dessous les cieux, Seigneur.
 </ab></div>
 <div type="chapter" n="4">
 <ab n="1"><hi rend="italics">Aleph</hi>. Comment
-l&rsquo;or s&rsquo;est-il obscurci ? comment sa belle couleur
-(&eacute;clatante) a-t-elle &eacute;t&eacute; chang&eacute;e ?
-comment les pierres du sanctuaire ont-elles &eacute;t&eacute;
-dispers&eacute;es aux coins de toutes les rues ? 
+l’or s’est-il obscurci ? comment sa belle couleur
+(éclatante) a-t-elle été changée ?
+comment les pierres du sanctuaire ont-elles été
+dispersées aux coins de toutes les rues ? 
 </ab>
 <ab n="2"><hi rend="italics">Beth</hi>. Comment
-les nobles fils de Sion (illustres), couverts de l&rsquo;or le plus
-pur, ont-ils &eacute;t&eacute; regard&eacute;s (trait&eacute;s) comme
-des vases de terre, ouvrage des mains du (d&rsquo;un) potier ?
+les nobles fils de Sion (illustres), couverts de l’or le plus
+pur, ont-ils été regardés (traités) comme
+des vases de terre, ouvrage des mains du (d’un) potier ?
 </ab>
 <ab n="3"><hi rend="italics">Ghimel</hi>. Les
-lamies elles-m&ecirc;mes ont d&eacute;couvert leur mamelle, et
-allait&eacute; leurs petits ; la fille de mon peuple est cruelle
-comme (une) l&rsquo;autruche du d&eacute;sert. 
+lamies elles-mêmes ont découvert leur mamelle, et
+allaité leurs petits ; la fille de mon peuple est cruelle
+comme (une) l’autruche du désert. 
 </ab>
 <ab n="4"><hi rend="italics">Daleth</hi>. La
-langue du nourrisson (de l&rsquo;enfant &agrave; la mamelle) s&rsquo;est
-attach&eacute;e &agrave; son palais dans sa soif ; les petits enfants
-ont demand&eacute; du pain, et il n&rsquo;y avait personne pour leur
+langue du nourrisson (de l’enfant à la mamelle) s’est
+attachée à son palais dans sa soif ; les petits enfants
+ont demandé du pain, et il n’y avait personne pour leur
 en donner. 
 </ab>
-<ab n="5"><hi rend="italics">H&eacute;</hi>. Ceux
-qui se nourrissaient d&eacute;licatement sont morts dans les rues
-; ceux qui &eacute;taient &eacute;lev&eacute;s dans la pourpre ont
-embrass&eacute; les fumiers (des immondices). 
+<ab n="5"><hi rend="italics">Hé</hi>. Ceux
+qui se nourrissaient délicatement sont morts dans les rues
+; ceux qui étaient élevés dans la pourpre ont
+embrassé les fumiers (des immondices). 
 </ab>
-<ab n="6"><hi rend="italics">Vav</hi>. L&rsquo;iniquit&eacute;
-de la fille de mon peuple est devenue plus grande que le p&eacute;ch&eacute;
-de Sodome, qui fut renvers&eacute; en un moment, sans que les hommes
-aient port&eacute; la main sur elle (n&rsquo;y ont pas mis les
+<ab n="6"><hi rend="italics">Vav</hi>. L’iniquité
+de la fille de mon peuple est devenue plus grande que le péché
+de Sodome, qui fut renversé en un moment, sans que les hommes
+aient porté la main sur elle (n’y ont pas mis les
 mains). 
 </ab>
-<ab n="7"><hi rend="italics">Za&iuml;n</hi>. Ses
-Nazar&eacute;ens
-&eacute;taient plus blancs que la neige, plus purs (&eacute;clatants)
-que le lait, plus rouges (vermeils) que l&rsquo;ivoire antique, plus
+<ab n="7"><hi rend="italics">Zaïn</hi>. Ses
+Nazaréens
+étaient plus blancs que la neige, plus purs (éclatants)
+que le lait, plus rouges (vermeils) que l’ivoire antique, plus
 beaux que le saphir. 
 </ab>
 <ab n="8"><hi rend="italics">Heth</hi>. Leur
 visage est (devenu) plus noir que les charbons, et on ne les a pas
-reconnus dans les rues ; leur peau (s&rsquo;)est coll&eacute;e sur
-leurs os, elle s&rsquo;est dess&eacute;ch&eacute;e, et elle est
+reconnus dans les rues ; leur peau (s’)est collée sur
+leurs os, elle s’est desséchée, et elle est
 devenue comme du bois. 
 </ab>
 <ab n="9"><hi rend="italics">Teth</hi>. Ceux
-qui ont &eacute;t&eacute; tu&eacute;s par le glaive ont &eacute;t&eacute;
-plus heureux que ceux qui sont morts de faim, car ceux-ci ont &eacute;t&eacute;
-consum&eacute;s (lentement) par la st&eacute;rilit&eacute; de la
+qui ont été tués par le glaive ont été
+plus heureux que ceux qui sont morts de faim, car ceux-ci ont été
+consumés (lentement) par la stérilité de la
 terre. 
 </ab>
 <ab n="10"><hi rend="italics">Jod</hi>. De
@@ -628,146 +609,146 @@ enfants ; ils sont devenus leur nourriture dans la ruine de la fille
 de mon peuple. 
 </ab>
 <ab n="11"><hi rend="italics">Caph</hi>. Le
-Seigneur a &eacute;puis&eacute; sa fureur, il a r&eacute;pandu sa
-(la) col&egrave;re et (de) son indignation, il a allum&eacute; dans
-Sion un feu qui a d&eacute;vor&eacute; ses fondements. 
+Seigneur a épuisé sa fureur, il a répandu sa
+(la) colère et (de) son indignation, il a allumé dans
+Sion un feu qui a dévoré ses fondements. 
 </ab>
 <ab n="12"><hi rend="italics">Lamed</hi>. Les
-rois de la terre et tous les habitants du monde (de l&rsquo;univers)
-n&rsquo;auraient jamais cru que l&rsquo;ennemi et l&rsquo;adversaire
-entreraient par les portes de J&eacute;rusalem. 
+rois de la terre et tous les habitants du monde (de l’univers)
+n’auraient jamais cru que l’ennemi et l’adversaire
+entreraient par les portes de Jérusalem. 
 </ab>
 <ab n="13"><hi rend="italics">Mem</hi>. Cela
-est arriv&eacute; &agrave; cause des p&eacute;ch&eacute;s de ses
-proph&egrave;tes et des iniquit&eacute;s de ses pr&ecirc;tres, qui
-ont r&eacute;pandu au milieu d&rsquo;elle le sang des justes. 
+est arrivé à cause des péchés de ses
+prophètes et des iniquités de ses prêtres, qui
+ont répandu au milieu d’elle le sang des justes. 
 </ab>
 <ab n="14"><hi rend="italics">Nun</hi>. Ils
-ont err&eacute; dans les rues comme des (en) aveugles, ils se sont
-souill&eacute;s de sang, et ne pouvant faire autrement, ils
-relevaient (relev&egrave;rent) leurs robes. 
+ont erré dans les rues comme des (en) aveugles, ils se sont
+souillés de sang, et ne pouvant faire autrement, ils
+relevaient (relevèrent) leurs robes. 
 </ab>
 <ab n="15"><hi rend="italics">Samech</hi>. Retirez-vous,
 impurs, leur criait-on ; retirez-vous, allez-vous-en, ne nous touchez
-pas ; car ils se sont querell&eacute;s et troubl&eacute;s ; ils ont
-dit parmi les nations : Il (Le Seigneur) ne continuera plus d&rsquo;habiter
+pas ; car ils se sont querellés et troublés ; ils ont
+dit parmi les nations : Il (Le Seigneur) ne continuera plus d’habiter
 parmi eux. 
 </ab>
-<ab n="16"><hi rend="italics">Ph&eacute;</hi>. Le
-visage (irrit&eacute;) du Seigneur les a dispers&eacute;s, il ne les
-regardera plus ; ils n&rsquo;ont pas eu de respect pour les pr&ecirc;tres,
+<ab n="16"><hi rend="italics">Phé</hi>. Le
+visage (irrité) du Seigneur les a dispersés, il ne les
+regardera plus ; ils n’ont pas eu de respect pour les prêtres,
 ni de compassion pour les vieillards. 
 </ab>
-<ab n="17"><hi rend="italics">A&iuml;n</hi>. Lorsque
-nous subsistions encore, nos yeux se sont lass&eacute;s dans
-l&rsquo;attente d&rsquo;un (de notre) vain secours, tandis que nous
-tenions nos regards attach&eacute;s sur une nation qui ne pouvait pas
+<ab n="17"><hi rend="italics">Aïn</hi>. Lorsque
+nous subsistions encore, nos yeux se sont lassés dans
+l’attente d’un (de notre) vain secours, tandis que nous
+tenions nos regards attachés sur une nation qui ne pouvait pas
 nous sauver. 
 </ab>
-<ab n="18"><hi rend="italics">Sad&eacute;</hi>. Nos
-pas ont gliss&eacute; lorsque nous marchions dans nos rues (places
-publiques) ; notre fin s&rsquo;est approch&eacute;e, nos jours se
-sont accomplis, (car) notre fin est arriv&eacute;e. 
+<ab n="18"><hi rend="italics">Sadé</hi>. Nos
+pas ont glissé lorsque nous marchions dans nos rues (places
+publiques) ; notre fin s’est approchée, nos jours se
+sont accomplis, (car) notre fin est arrivée. 
 </ab>
 <ab n="19"><hi rend="italics">Coph</hi>. Nos
-pers&eacute;cuteurs ont &eacute;t&eacute; plus agiles que les aigles
+persécuteurs ont été plus agiles que les aigles
 du ciel ; ils nous ont poursuivis sur les montagnes, ils nous ont
-tendu des pi&egrave;ges dans le d&eacute;sert. 
+tendu des pièges dans le désert. 
 </ab>
 <ab n="20"><hi rend="italics">Res</hi>. Le
-souffle (L&rsquo;esprit, note) de notre bouche, l&rsquo;oint (le
+souffle (L’esprit, note) de notre bouche, l’oint (le
 Christ), le Seigneur,
-a &eacute;t&eacute; pris &agrave; cause de nos p&eacute;ch&eacute;s,
-lui &agrave; qui nous avions dit : Nous vivrons sous ton (votre)
+a été pris à cause de nos péchés,
+lui à qui nous avions dit : Nous vivrons sous ton (votre)
 ombre parmi les nations. 
 </ab>
-<ab n="21"><hi rend="italics">Sin</hi>. R&eacute;jouis-toi
-et sois dans la joie, fille d&rsquo;Edom, toi qui habites dans le
-pays de Hus ; la coupe (le calice) viendra aussi jusqu&rsquo;&agrave;
-toi, tu t&rsquo;enivreras (seras enivr&eacute;e) et (tu seras) mise &agrave;
+<ab n="21"><hi rend="italics">Sin</hi>. Réjouis-toi
+et sois dans la joie, fille d’Edom, toi qui habites dans le
+pays de Hus ; la coupe (le calice) viendra aussi jusqu’à
+toi, tu t’enivreras (seras enivrée) et (tu seras) mise à
 nu. 
 </ab>
 <ab n="22"><hi rend="italics">Thau</hi>. (La
-peine de) Ton iniquit&eacute; est expi&eacute;e, fille de Sion ; il
-(le Seigneur) ne te fera plus d&eacute;porter. Il a visit&eacute; ton
-iniquit&eacute;, fille d&rsquo;Edom, il a mis ton p&eacute;ch&eacute;
-&agrave; d&eacute;couvert.
+peine de) Ton iniquité est expiée, fille de Sion ; il
+(le Seigneur) ne te fera plus déporter. Il a visité ton
+iniquité, fille d’Edom, il a mis ton péché
+à découvert.
 </ab></div>
 <div type="chapter" n="5">
 <ab n="1">Souvenez-vous,
-Seigneur, de ce qui nous est arriv&eacute; ; regardez et voyez notre
+Seigneur, de ce qui nous est arrivé ; regardez et voyez notre
 opprobre. </ab>
 <ab n="2">Notre
-h&eacute;ritage a (est) pass&eacute; &agrave; des &eacute;trangers
-(ennemis), nos maisons &agrave; des gens du dehors (des &eacute;trangers).
+héritage a (est) passé à des étrangers
+(ennemis), nos maisons à des gens du dehors (des étrangers).
 </ab>
 <ab n="3">Nous
-sommes (devenus comme) des orphelins qui n&rsquo;ont plus de p&egrave;re
-(sans p&egrave;res) ; nos m&egrave;res sont comme des veuves. </ab>
+sommes (devenus comme) des orphelins qui n’ont plus de père
+(sans pères) ; nos mères sont comme des veuves. </ab>
 <ab n="4">Nous
-avons bu notre eau &agrave; prix d&rsquo;argent, nous avons achet&eacute;
-ch&egrave;rement notre bois. </ab>
+avons bu notre eau à prix d’argent, nous avons acheté
+chèrement notre bois. </ab>
 <ab n="5">On
-nous a entra&icirc;n&eacute;s la corde (par des cha&icirc;nes
-attach&eacute;es) au cou, on ne donnait aucun repos &agrave; ceux qui
-&eacute;taient las. </ab>
+nous a entraînés la corde (par des chaînes
+attachées) au cou, on ne donnait aucun repos à ceux qui
+étaient las. </ab>
 <ab n="6">Nous
-avons tendu la main &agrave; l&rsquo;Egypte et aux Assyriens, pour
+avons tendu la main à l’Egypte et aux Assyriens, pour
 nous rassasier de pain. </ab>
 <ab n="7">Nos
-p&egrave;res ont p&eacute;ch&eacute;, et ils ne sont plus, et nous
-avons port&eacute; leurs iniquit&eacute;s. </ab>
+pères ont péché, et ils ne sont plus, et nous
+avons porté leurs iniquités. </ab>
 <ab n="8">Des
-esclaves ont domin&eacute; sur nous, personne ne nous a d&eacute;livr&eacute;s
+esclaves ont dominé sur nous, personne ne nous a délivrés
 de leurs mains. </ab>
 <ab n="9">Nous
-allions chercher du pain, au p&eacute;ril de notre vie (nos &acirc;mes),
-devant le glaive du d&eacute;sert. </ab>
+allions chercher du pain, au péril de notre vie (nos âmes),
+devant le glaive du désert. </ab>
 <ab n="10">Notre
-peau a &eacute;t&eacute; br&ucirc;l&eacute;e comme un four, &agrave;
-cause des temp&ecirc;tes (par les ardeurs) de la faim. </ab>
+peau a été brûlée comme un four, à
+cause des tempêtes (par les ardeurs) de la faim. </ab>
 <ab n="11">Ils
-ont d&eacute;shonor&eacute; les (humili&eacute; des) femmes dans
+ont déshonoré les (humilié des) femmes dans
 Sion, et les (des) vierges dans les villes de Juda. </ab>
 <ab n="12">Ils
-ont pendu les princes de leur propre (par la) main, ils n&rsquo;ont
-pas respect&eacute; le visage des vieillards. </ab>
+ont pendu les princes de leur propre (par la) main, ils n’ont
+pas respecté le visage des vieillards. </ab>
 <ab n="13">Ils
-ont abus&eacute; impudiquement (indignement) des jeunes gens, et les
-enfants sont tomb&eacute;s sous des fardeaux de (le, note) bois.
+ont abusé impudiquement (indignement) des jeunes gens, et les
+enfants sont tombés sous des fardeaux de (le, note) bois.
 </ab>
 <ab n="14">Les
 (Des) vieillards ont disparu des portes, les (des) jeunes gens des
-ch&oelig;urs de musique (des joueurs de psalt&eacute;rion). </ab>
+chœurs de musique (des joueurs de psaltérion). </ab>
 <ab n="15">La
-joie de notre c&oelig;ur (&acirc;me) a cess&eacute;, nos concerts
-sont chang&eacute;s en deuil. </ab>
+joie de notre cœur (âme) a cessé, nos concerts
+sont changés en deuil. </ab>
 <ab n="16">La
-couronne de notre t&ecirc;te est tomb&eacute;e ; malheur &agrave;
-nous, parce que nous avons p&eacute;ch&eacute; ! </ab>
-<ab n="17">C&rsquo;est
-pourquoi notre c&oelig;ur est devenu triste, c&rsquo;est pourquoi nos
-yeux ont &eacute;t&eacute; obscurcis (couverts de t&eacute;n&egrave;bres),
+couronne de notre tête est tombée ; malheur à
+nous, parce que nous avons péché ! </ab>
+<ab n="17">C’est
+pourquoi notre cœur est devenu triste, c’est pourquoi nos
+yeux ont été obscurcis (couverts de ténèbres),
 </ab>
-<ab n="18">&agrave;
-cause du mont Sion qui a &eacute;t&eacute; d&eacute;truit, et o&ugrave;
-les renards se prom&egrave;nent (s&rsquo;y sont promen&eacute;s).
+<ab n="18">à
+cause du mont Sion qui a été détruit, et où
+les renards se promènent (s’y sont promenés).
 </ab>
 <ab n="19">Mais
-vous, Seigneur, vous demeurerez &eacute;ternellement ; votre tr&ocirc;ne
-subsistera de g&eacute;n&eacute;ration en g&eacute;n&eacute;ration.
+vous, Seigneur, vous demeurerez éternellement ; votre trône
+subsistera de génération en génération.
 </ab>
 <ab n="20">Pourquoi
-nous oublier(i)ez-vous &agrave; jamais ? pourquoi nous
+nous oublier(i)ez-vous à jamais ? pourquoi nous
 abandonner(i)ez-vous pour toujours (dans la longueur des jours, note)
 ? </ab>
 <ab n="21">Convertissez-nous
-&agrave; vous, Seigneur, et nous nous convertirons (serons convertis)
-; renouvelez nos jours, comme (ils &eacute;taient) au commencement.
+à vous, Seigneur, et nous nous convertirons (serons convertis)
+; renouvelez nos jours, comme (ils étaient) au commencement.
 </ab>
 <ab n="22">Mais
-vous nous avez rejet&eacute;s et (nous rejetant, vous nous avez,
-note) repouss&eacute;s ; vous vous &ecirc;tes violemment
-(extr&ecirc;mement) irrit&eacute; contre nous.</ab>
+vous nous avez rejetés et (nous rejetant, vous nous avez,
+note) repoussés ; vous vous êtes violemment
+(extrêmement) irrité contre nous.</ab>
 </div>
 </div>

@@ -1,204 +1,182 @@
-<!DOCTYPE definition [
-<!ENTITY rsquo "&#8217;">
-<!ENTITY lsquo "‘">
-<!ENTITY eacute "é">
-<!ENTITY euml "ë">
-<!ENTITY acirc "â">
-<!ENTITY ecirc "ê">
-<!ENTITY agrave "à">
-<!ENTITY egrave "è">
-<!ENTITY ucirc "û">
-<!ENTITY ugrave "ù">
-<!ENTITY icirc "î">
-<!ENTITY ccedil "ç">
-<!ENTITY iuml "ï">
-<!ENTITY oelig "œ">
-<!ENTITY ocirc "ô">
-<!ENTITY uuml "ü">
-<!ENTITY Eacute "É">
-<!ENTITY nbsp "&#160;">
-<!ENTITY OElig "Œ">
-<!ENTITY aelig "æ">
 
-]>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="book" xml:id="VULGFR_Soph">
     <div type="chapter" n="1">
-        <ab n="1">Parole du Seigneur, qui fut adress&eacute;e &agrave; Sophonie, fils de Chusi,
-            fils de Godolias, fils d&rsquo;Amarias, fils d&rsquo;Ez&eacute;chias (Ez&eacute;cias),
-            aux jours de Josias, fils d&rsquo;Amon, roi de Juda. </ab>
-        <ab n="2">Je d&eacute;truirai (Rassemblant, je rassemblerai, note) tout sur la face de
+        <ab n="1">Parole du Seigneur, qui fut adressée à Sophonie, fils de Chusi,
+            fils de Godolias, fils d’Amarias, fils d’Ezéchias (Ezécias),
+            aux jours de Josias, fils d’Amon, roi de Juda. </ab>
+        <ab n="2">Je détruirai (Rassemblant, je rassemblerai, note) tout sur la face de
             la terre, dit le Seigneur ; </ab>
-        <ab n="3">je d&eacute;truirai (rassemblant) les hommes et les b&ecirc;tes, je
-            d&eacute;truirai (rassemblant) les oiseaux du ciel et les poissons de la mer ; je
-            ruinerai les impies, et j&rsquo;exterminerai les hommes de la face de la terre, dit le
+        <ab n="3">je détruirai (rassemblant) les hommes et les bêtes, je
+            détruirai (rassemblant) les oiseaux du ciel et les poissons de la mer ; je
+            ruinerai les impies, et j’exterminerai les hommes de la face de la terre, dit le
             Seigneur. </ab>
-        <ab n="4">J&rsquo;&eacute;tendrai ma main sur Juda et sur tous les habitants de
-            J&eacute;rusalem, et j&rsquo;exterminerai de ce lieu les restes de Baal, et les noms de
-            ses ministres (gardiens du temple) avec les pr&ecirc;tres ; </ab>
-        <ab n="5">ceux qui adorent sur les toits l&rsquo;arm&eacute;e (la milice) du ciel, ceux
+        <ab n="4">J’étendrai ma main sur Juda et sur tous les habitants de
+            Jérusalem, et j’exterminerai de ce lieu les restes de Baal, et les noms de
+            ses ministres (gardiens du temple) avec les prêtres ; </ab>
+        <ab n="5">ceux qui adorent sur les toits l’armée (la milice) du ciel, ceux
             qui adorent le Seigneur et jurent en son nom, et qui jurent au nom de Melchom ; </ab>
-        <ab n="6">ceux qui se d&eacute;tournent (en arri&egrave;re) du Seigneur, et qui ne
-            cherchent pas le Seigneur, et n&rsquo;essayent pas de le trouver. </ab>
+        <ab n="6">ceux qui se détournent (en arrière) du Seigneur, et qui ne
+            cherchent pas le Seigneur, et n’essayent pas de le trouver. </ab>
         <ab n="7">Demeurez en silence devant le Seigneur Dieu, car le jour du Seigneur est
-            proche ; car le Seigneur a pr&eacute;par&eacute; la victime, il a invit&eacute;
-            (sanctifi&eacute;) ses convi&eacute;s (convives), </ab>
+            proche ; car le Seigneur a préparé la victime, il a invité
+            (sanctifié) ses conviés (convives), </ab>
         <ab n="8">et voici, au jour de la victime du Seigneur, je visiterai les princes, et les
-            fils du roi, et tous ceux qui portent des v&ecirc;tements &eacute;trangers ; </ab>
-        <ab n="9">je ch&acirc;tierai (visiterai) en ce jour-l&agrave; tous ceux qui franchissent
-            insolemment le seuil, et qui remplissent d&rsquo;iniquit&eacute; et de tromperie la
+            fils du roi, et tous ceux qui portent des vêtements étrangers ; </ab>
+        <ab n="9">je châtierai (visiterai) en ce jour-là tous ceux qui franchissent
+            insolemment le seuil, et qui remplissent d’iniquité et de tromperie la
             maison du Seigneur leur Dieu. </ab>
-        <ab n="10">En ce jour-l&agrave;, dit le Seigneur, on entendra de la porte des Poissons
+        <ab n="10">En ce jour-là, dit le Seigneur, on entendra de la porte des Poissons
             un grand cri, et de la seconde porte des hurlements, et un (bruit de) grand
-            d&eacute;sastre du haut des collines. </ab>
+            désastre du haut des collines. </ab>
         <ab n="11">Hurlez, habitants du mortier (de Pila, note) ; tout le peuple de Chanaan a
-            &eacute;t&eacute; r&eacute;duit au silence (s&rsquo;est tu), tous les hommes couverts
-            d&rsquo;argent ont &eacute;t&eacute; extermin&eacute;s. </ab>
-        <ab n="12">En ce temps-l&agrave;, je fouillerai J&eacute;rusalem avec des lampes, et je
-            ch&acirc;tierai (visiterai) ceux qui sont enfonc&eacute;s dans leur lie ; qui disent en
-            leur c&oelig;ur : Le Seigneur ne fera ni bien ni mal. </ab>
-        <ab n="13">Leurs richesses seront pill&eacute;es, et leurs maisons deviendront un
-            d&eacute;sert ; ils b&acirc;tiront des maisons, et ils n&rsquo;y habiteront pas ; ils
-            planteront des vignes, et ils n&rsquo;en boiront pas le vin. </ab>
-        <ab n="14">Le grand jour du Seigneur est proche ; il est proche et il s&rsquo;avance
-            rapidement (est extr&ecirc;mement prompt) ; le bruit (voix) du jour du Seigneur est
-            amer(&egrave;re) ; l&agrave; le vaillant sera accabl&eacute; de maux (le fort sera dans
+            été réduit au silence (s’est tu), tous les hommes couverts
+            d’argent ont été exterminés. </ab>
+        <ab n="12">En ce temps-là, je fouillerai Jérusalem avec des lampes, et je
+            châtierai (visiterai) ceux qui sont enfoncés dans leur lie ; qui disent en
+            leur cœur : Le Seigneur ne fera ni bien ni mal. </ab>
+        <ab n="13">Leurs richesses seront pillées, et leurs maisons deviendront un
+            désert ; ils bâtiront des maisons, et ils n’y habiteront pas ; ils
+            planteront des vignes, et ils n’en boiront pas le vin. </ab>
+        <ab n="14">Le grand jour du Seigneur est proche ; il est proche et il s’avance
+            rapidement (est extrêmement prompt) ; le bruit (voix) du jour du Seigneur est
+            amer(ère) ; là le vaillant sera accablé de maux (le fort sera dans
             la tribulation). </ab>
-        <ab n="15">Ce jour sera un jour de col&egrave;re, un jour d&rsquo;affliction et
-            d&rsquo;angoisse, un jour de calamit&eacute; et de mis&egrave;re, un jour de
-            t&eacute;n&egrave;bres et d&rsquo;obscurit&eacute;, un jour de nuage et de
-            temp&ecirc;te, </ab>
+        <ab n="15">Ce jour sera un jour de colère, un jour d’affliction et
+            d’angoisse, un jour de calamité et de misère, un jour de
+            ténèbres et d’obscurité, un jour de nuage et de
+            tempête, </ab>
         <ab n="16">un jour de trompette et de cris de guerre (bruit retentissant) contre les
-            villes fortes et les tours (angles) &eacute;lev&eacute;es. </ab>
-        <ab n="17">J&rsquo;affligerai les hommes, et ils marcheront comme des aveugles, parce
-            qu&rsquo;ils ont p&eacute;ch&eacute; contre le Seigneur ; leur sang sera r&eacute;pandu
-            comme la poussi&egrave;re, et leurs cadavres seront comme du fumier. </ab>
-        <ab n="18">Leur or m&ecirc;me et leur argent ne pourront pas les d&eacute;livrer au jour
-            de la col&egrave;re du Seigneur ; le feu de son indignation (z&egrave;le)
-            d&eacute;vorera toute la terre, car il se h&acirc;tera d&rsquo;exterminer tous les
+            villes fortes et les tours (angles) élevées. </ab>
+        <ab n="17">J’affligerai les hommes, et ils marcheront comme des aveugles, parce
+            qu’ils ont péché contre le Seigneur ; leur sang sera répandu
+            comme la poussière, et leurs cadavres seront comme du fumier. </ab>
+        <ab n="18">Leur or même et leur argent ne pourront pas les délivrer au jour
+            de la colère du Seigneur ; le feu de son indignation (zèle)
+            dévorera toute la terre, car il se hâtera d’exterminer tous les
             habitants de la terre.</ab>
     </div>
     <div type="chapter" n="2">
-        <ab n="1">Venez, rassemblez-vous, nation indigne d&rsquo;&ecirc;tre aim&eacute;e, </ab>
-        <ab n="2">avant que le (qu&rsquo;un) d&eacute;cret n&rsquo;enfante ce (un) jour qui
-            passera comme un tourbillon de poussi&egrave;re, avant que la fureur de la col&egrave;re
-            (de la fureur) du Seigneur fonde sur vous, avant que le jour de l&rsquo;indignation du
+        <ab n="1">Venez, rassemblez-vous, nation indigne d’être aimée, </ab>
+        <ab n="2">avant que le (qu’un) décret n’enfante ce (un) jour qui
+            passera comme un tourbillon de poussière, avant que la fureur de la colère
+            (de la fureur) du Seigneur fonde sur vous, avant que le jour de l’indignation du
             Seigneur fonde sur vous. </ab>
-        <ab n="3">Cherchez le Seigneur, vous tous qui &ecirc;tes doux (humbles) sur la terre,
-            qui avez agi selon ses pr&eacute;ceptes ; cherchez celui qui est juste (la justice),
-            cherchez celui qui est doux (la douceur), afin d&rsquo;essayer de trouver un abri au
-            jour de la col&egrave;re du Seigneur. </ab>
-        <ab n="4">Car Gaza sera (a &eacute;t&eacute;) d&eacute;truite et Ascalon deviendra
-            (r&eacute;duite en) un d&eacute;sert ; on chassera Azot en plein midi, et Accaron sera
-            d&eacute;racin&eacute;e. </ab>
-        <ab n="5">Malheur &agrave; vous qui habitez sur la c&ocirc;te de la mer, peuple de
-            (d&rsquo;hommes) perdus ! La parole du Seigneur va tomber sur (a &eacute;t&eacute;
-            prononc&eacute;e contre) vous, Chanaan, terre des Philistins ; je t&rsquo;exterminerai,
-            de sorte que tu n&rsquo;auras plus d&rsquo;habitants. </ab>
-        <ab n="6">La c&ocirc;te de la mer sera alors un lieu de repos pour les pasteurs, et un
-            parc pour les brebis (de troupeaux de menu b&eacute;tail) ; </ab>
-        <ab n="7">elle sera l&rsquo;h&eacute;ritage de ceux qui seront demeur&eacute;s de la
-            maison de Juda : ils trouveront l&agrave; des p&acirc;turages (ils pa&icirc;tront les
-            troupeaux), ils se reposeront le soir dans les maisons d&rsquo;Ascalon, car le Seigneur
-            leur Dieu les visitera, et il ram&egrave;nera leurs captifs. </ab>
-        <ab n="8">J&rsquo;ai entendu les insultes de Moab et les blasph&egrave;mes des enfants
-            d&rsquo;Ammon, qui (quand ils) ont outrag&eacute; mon peuple, et qui se sont
-            &eacute;lev&eacute;s arrogamment (l&rsquo;ont brav&eacute;, note) contre ses
-            fronti&egrave;res. </ab>
-        <ab n="9">C&rsquo;est pourquoi, par ma vie (je vis, moi), dit le Seigneur des
-            arm&eacute;es, le Dieu d&rsquo;Isra&euml;l, Moab sera comme Sodome, et les enfants
-            (fils) d&rsquo;Ammon comme Gomorrhe, (ils auront) un amas d&rsquo;&eacute;pines
-            s&egrave;ches, des monceaux (morceaux) de sel et un d&eacute;sert &eacute;ternel ; le
-            reste de mon peuple les pillera, et ceux de ma nation qui auront surv&eacute;cu en
-            seront les ma&icirc;tres. </ab>
-        <ab n="10">Cela leur arrivera &agrave; cause de leur orgueil, parce qu&rsquo;ils ont
-            blasph&eacute;m&eacute; et trait&eacute; avec arrogance le peuple du Seigneur des
-            arm&eacute;es. </ab>
-        <ab n="11">Le Seigneur sera terrible &agrave; leur &eacute;gard, et il an&eacute;antira
-            tous les dieux de la terre ; et chacun l&rsquo;adorera dans son pays, (ainsi que dans)
-            dans toutes les &icirc;les des nations. </ab>
+        <ab n="3">Cherchez le Seigneur, vous tous qui êtes doux (humbles) sur la terre,
+            qui avez agi selon ses préceptes ; cherchez celui qui est juste (la justice),
+            cherchez celui qui est doux (la douceur), afin d’essayer de trouver un abri au
+            jour de la colère du Seigneur. </ab>
+        <ab n="4">Car Gaza sera (a été) détruite et Ascalon deviendra
+            (réduite en) un désert ; on chassera Azot en plein midi, et Accaron sera
+            déracinée. </ab>
+        <ab n="5">Malheur à vous qui habitez sur la côte de la mer, peuple de
+            (d’hommes) perdus ! La parole du Seigneur va tomber sur (a été
+            prononcée contre) vous, Chanaan, terre des Philistins ; je t’exterminerai,
+            de sorte que tu n’auras plus d’habitants. </ab>
+        <ab n="6">La côte de la mer sera alors un lieu de repos pour les pasteurs, et un
+            parc pour les brebis (de troupeaux de menu bétail) ; </ab>
+        <ab n="7">elle sera l’héritage de ceux qui seront demeurés de la
+            maison de Juda : ils trouveront là des pâturages (ils paîtront les
+            troupeaux), ils se reposeront le soir dans les maisons d’Ascalon, car le Seigneur
+            leur Dieu les visitera, et il ramènera leurs captifs. </ab>
+        <ab n="8">J’ai entendu les insultes de Moab et les blasphèmes des enfants
+            d’Ammon, qui (quand ils) ont outragé mon peuple, et qui se sont
+            élevés arrogamment (l’ont bravé, note) contre ses
+            frontières. </ab>
+        <ab n="9">C’est pourquoi, par ma vie (je vis, moi), dit le Seigneur des
+            armées, le Dieu d’Israël, Moab sera comme Sodome, et les enfants
+            (fils) d’Ammon comme Gomorrhe, (ils auront) un amas d’épines
+            sèches, des monceaux (morceaux) de sel et un désert éternel ; le
+            reste de mon peuple les pillera, et ceux de ma nation qui auront survécu en
+            seront les maîtres. </ab>
+        <ab n="10">Cela leur arrivera à cause de leur orgueil, parce qu’ils ont
+            blasphémé et traité avec arrogance le peuple du Seigneur des
+            armées. </ab>
+        <ab n="11">Le Seigneur sera terrible à leur égard, et il anéantira
+            tous les dieux de la terre ; et chacun l’adorera dans son pays, (ainsi que dans)
+            dans toutes les îles des nations. </ab>
         <ab n="12">Mais vous aussi, Ethiopiens, vous tomberez morts sous mon glaive. </ab>
-        <ab n="13">Il &eacute;tendra sa main contre l&rsquo;aquilon, et il d&eacute;truira Assur
-            ; il fera de leur (la) ville si belle une solitude, un lieu inhabit&eacute; et comme un
-            d&eacute;sert. </ab>
-        <ab n="14">Les troupeaux se reposeront au milieu d&rsquo;elle, et toutes les b&ecirc;tes
-            des nations ; le butor (l&rsquo;onocrotale) et le h&eacute;risson habiteront dans ses
-            portiques (linteaux), les oiseaux crieront sur les fen&ecirc;tres, et le corbeau sur les
-            portes (le linteau), car j&rsquo;an&eacute;antirai sa puissance (force). </ab>
-        <ab n="15">Voil&agrave; la ville orgueilleuse qui se tenait si assur&eacute;e, qui
-            disait en son c&oelig;ur : Je suis, et en dehors de moi il n&rsquo;y en a pas
-            d&rsquo;autre. Comment a-t-elle &eacute;t&eacute; chang&eacute;e en un d&eacute;sert, en
-            un repaire de b&ecirc;tes sauvages ? Tous ceux qui passeront par elle siffleront et
+        <ab n="13">Il étendra sa main contre l’aquilon, et il détruira Assur
+            ; il fera de leur (la) ville si belle une solitude, un lieu inhabité et comme un
+            désert. </ab>
+        <ab n="14">Les troupeaux se reposeront au milieu d’elle, et toutes les bêtes
+            des nations ; le butor (l’onocrotale) et le hérisson habiteront dans ses
+            portiques (linteaux), les oiseaux crieront sur les fenêtres, et le corbeau sur les
+            portes (le linteau), car j’anéantirai sa puissance (force). </ab>
+        <ab n="15">Voilà la ville orgueilleuse qui se tenait si assurée, qui
+            disait en son cœur : Je suis, et en dehors de moi il n’y en a pas
+            d’autre. Comment a-t-elle été changée en un désert, en
+            un repaire de bêtes sauvages ? Tous ceux qui passeront par elle siffleront et
             agiteront la main. </ab>
     </div>
     <div type="chapter" n="3">
-        <ab n="1">Malheur, ville provocatrice, qui, apr&egrave;s avoir &eacute;t&eacute; (et)
-            rachet&eacute;e, (demeure comme une) colombe ! </ab>
-        <ab n="2">Elle n&rsquo;a pas &eacute;cout&eacute; la voix, et elle n&rsquo;a pas
-            re&ccedil;u l&rsquo;avertissement (les instructions) ; elle ne s&rsquo;est pas
-            confi&eacute;e au Seigneur, et elle ne s&rsquo;est pas approch&eacute;e de son Dieu. </ab>
-        <ab n="3">Ses princes sont au milieu d&rsquo;elle comme des lions rugissants ; ses juges
+        <ab n="1">Malheur, ville provocatrice, qui, après avoir été (et)
+            rachetée, (demeure comme une) colombe ! </ab>
+        <ab n="2">Elle n’a pas écouté la voix, et elle n’a pas
+            reçu l’avertissement (les instructions) ; elle ne s’est pas
+            confiée au Seigneur, et elle ne s’est pas approchée de son Dieu. </ab>
+        <ab n="3">Ses princes sont au milieu d’elle comme des lions rugissants ; ses juges
             sont comme des loups du soir, qui ne laissent rien pour le lendemain. </ab>
-        <ab n="4">Ses proph&egrave;tes sont des insens&eacute;s, des hommes infid&egrave;les
-            (sans foi) ; ses pr&ecirc;tres ont souill&eacute; les choses saintes, ils ont agi
+        <ab n="4">Ses prophètes sont des insensés, des hommes infidèles
+            (sans foi) ; ses prêtres ont souillé les choses saintes, ils ont agi
             injustement contre la loi. </ab>
-        <ab n="5">Le Seigneur, qui est juste, est au milieu d&rsquo;elle, il ne commet(tra) pas
-            l&rsquo;iniquit&eacute; ; le matin, d&egrave;s le point du jour il produira son jugement
-            &agrave; la lumi&egrave;re, et il ne se cachera pas ; mais le m&eacute;chant ne
-            conna&icirc;t pas la (le peuple inique n&rsquo;a pas connu sa) honte. </ab>
-        <ab n="6">J&rsquo;ai extermin&eacute; les nations et leurs tours (angles) ont
-            &eacute;t&eacute; abattues (d&eacute;truits) ; j&rsquo;ai rendu leurs chemins
-            d&eacute;serts, au point que personne n&rsquo;y passe ; leurs villes (s)ont
-            (&eacute;t&eacute;) d&eacute;sol&eacute;es, au point qu&rsquo;il n&rsquo;y reste(ait)
+        <ab n="5">Le Seigneur, qui est juste, est au milieu d’elle, il ne commet(tra) pas
+            l’iniquité ; le matin, dès le point du jour il produira son jugement
+            à la lumière, et il ne se cachera pas ; mais le méchant ne
+            connaît pas la (le peuple inique n’a pas connu sa) honte. </ab>
+        <ab n="6">J’ai exterminé les nations et leurs tours (angles) ont
+            été abattues (détruits) ; j’ai rendu leurs chemins
+            déserts, au point que personne n’y passe ; leurs villes (s)ont
+            (été) désolées, au point qu’il n’y reste(ait)
             aucun homme, aucun habitant. </ab>
-        <ab n="7">J&rsquo;ai dit : Au moins tu me craindras, tu recevras l&rsquo;avertissement
-            (l&rsquo;instruction) ; et sa demeure ne sera pas ruin&eacute;e &agrave; cause de tous
-            les crimes (choses) pour lesquels je l&rsquo;ai punie (visit&eacute;e) ; mais ils se
-            sont lev&eacute;s de grand matin pour corrompre toutes leurs pens&eacute;es. </ab>
-        <ab n="8">C&rsquo;est pourquoi attends-moi, dit le Seigneur, au jour futur o&ugrave; je
-            me l&egrave;verai (de ma r&eacute;surrection &agrave; venir) ; car j&rsquo;ai
-            r&eacute;solu de rassembler les nations et de r&eacute;unir les royaumes, et de
-            r&eacute;pandre sur eux mon indignation, toute la fureur de ma col&egrave;re (de ma
-            fureur) ; car toute la terre sera d&eacute;vor&eacute;e par le feu de ma jalousie
-            (col&egrave;re). </ab>
-        <ab n="9">(Parce que) Alors je rendrai aux peuples des l&egrave;vres pures, afin que
-            tous invoquent le nom du Seigneur, et qu&rsquo;ils le servent (tous) d&rsquo;un
-            m&ecirc;me accord. </ab>
-        <ab n="10">D&rsquo;au-del&agrave; des fleuves d&rsquo;Ethiopie viendront mes adorateurs
-            (suppliants) ; les fils de ceux que j&rsquo;avais dispers&eacute;s m&rsquo;apporteront
-            des pr&eacute;sents. </ab>
-        <ab n="11">En ce jour-l&agrave; tu ne seras plus dans la confusion pour toutes les
-            &oelig;uvres criminelles (inventions, note) par lesquelles tu m&rsquo;as offens&eacute;,
-            car alors j&rsquo;enl&egrave;verai du milieu de toi ceux qui par leurs paroles (les
-            flatteurs) fastueuses(x) excitaient ton orgueil, et tu ne t&rsquo;enorgueilliras plus
-            d&eacute;sormais sur ma montagne sainte. </ab>
+        <ab n="7">J’ai dit : Au moins tu me craindras, tu recevras l’avertissement
+            (l’instruction) ; et sa demeure ne sera pas ruinée à cause de tous
+            les crimes (choses) pour lesquels je l’ai punie (visitée) ; mais ils se
+            sont levés de grand matin pour corrompre toutes leurs pensées. </ab>
+        <ab n="8">C’est pourquoi attends-moi, dit le Seigneur, au jour futur où je
+            me lèverai (de ma résurrection à venir) ; car j’ai
+            résolu de rassembler les nations et de réunir les royaumes, et de
+            répandre sur eux mon indignation, toute la fureur de ma colère (de ma
+            fureur) ; car toute la terre sera dévorée par le feu de ma jalousie
+            (colère). </ab>
+        <ab n="9">(Parce que) Alors je rendrai aux peuples des lèvres pures, afin que
+            tous invoquent le nom du Seigneur, et qu’ils le servent (tous) d’un
+            même accord. </ab>
+        <ab n="10">D’au-delà des fleuves d’Ethiopie viendront mes adorateurs
+            (suppliants) ; les fils de ceux que j’avais dispersés m’apporteront
+            des présents. </ab>
+        <ab n="11">En ce jour-là tu ne seras plus dans la confusion pour toutes les
+            œuvres criminelles (inventions, note) par lesquelles tu m’as offensé,
+            car alors j’enlèverai du milieu de toi ceux qui par leurs paroles (les
+            flatteurs) fastueuses(x) excitaient ton orgueil, et tu ne t’enorgueilliras plus
+            désormais sur ma montagne sainte. </ab>
         <ab n="12">Je laisserai au milieu de toi un peuple pauvre et petit (indigent) ; et ils
-            esp&egrave;reront au nom du Seigneur. </ab>
-        <ab n="13">Les restes d&rsquo;Isra&euml;l ne commettront point d&rsquo;iniquit&eacute;
+            espèreront au nom du Seigneur. </ab>
+        <ab n="13">Les restes d’Israël ne commettront point d’iniquité
             et ne diront pas de mensonge ; on ne trouvera pas dans leur bouche de langue trompeuse ;
-            mais ils pa&icirc;tront et se reposeront, sans que personne les &eacute;pouvante. </ab>
-        <ab n="14">Loue (Dieu), fille de Sion ; pousse des cris d&rsquo;all&eacute;gresse,
-            Isra&euml;l ; r&eacute;jouis-toi et tressaille de tout ton c&oelig;ur, fille de
-            J&eacute;rusalem. </ab>
-        <ab n="15">Le Seigneur a effac&eacute; ton arr&ecirc;t, il a &eacute;loign&eacute; tes
-            ennemis ; le roi d&rsquo;Isra&euml;l, le Seigneur, est au milieu de toi, tu ne craindras
-            plus le malheur (d&eacute;sormais). </ab>
-        <ab n="16">En ce jour-l&agrave; on dira &agrave; J&eacute;rusalem : Ne crains point,
-            Sion ; que tes mains ne d&eacute;faillent pas ! </ab>
-        <ab n="17">Le Seigneur ton Dieu est au milieu de toi comme un h&eacute;ros (le Dieu fort
-            sera au milieu de toi) ; c&rsquo;est lui qui te sauvera ; il mettra son plaisir et sa
+            mais ils paîtront et se reposeront, sans que personne les épouvante. </ab>
+        <ab n="14">Loue (Dieu), fille de Sion ; pousse des cris d’allégresse,
+            Israël ; réjouis-toi et tressaille de tout ton cœur, fille de
+            Jérusalem. </ab>
+        <ab n="15">Le Seigneur a effacé ton arrêt, il a éloigné tes
+            ennemis ; le roi d’Israël, le Seigneur, est au milieu de toi, tu ne craindras
+            plus le malheur (désormais). </ab>
+        <ab n="16">En ce jour-là on dira à Jérusalem : Ne crains point,
+            Sion ; que tes mains ne défaillent pas ! </ab>
+        <ab n="17">Le Seigneur ton Dieu est au milieu de toi comme un héros (le Dieu fort
+            sera au milieu de toi) ; c’est lui qui te sauvera ; il mettra son plaisir et sa
             joie en toi, il gardera le silence dans son amour, il tressaillira
-            d&rsquo;all&eacute;gresse en te louant (au milieu des louanges). </ab>
-        <ab n="18">Ces hommes vains qui s&rsquo;&eacute;taient &eacute;loign&eacute;s de la loi,
-            je les rassemblerai, car ils t&rsquo;appartenaient ; tu n&rsquo;&eacute;prouveras (afin
-            que tu n&rsquo;&eacute;prouves) plus de honte &agrave; leur sujet. </ab>
-        <ab n="19">Voici, en ce temps-l&agrave; je ferai p&eacute;rir tous ceux qui
-            t&rsquo;auront afflig&eacute;e ; je sauverai celle qui boitait, et je ferai revenir
-            celle qui avait &eacute;t&eacute; chass&eacute;e, et je ferai d&rsquo;eux un sujet de
-            louange et de gloire dans tous les pays o&ugrave; ils ont &eacute;t&eacute; en opprobre, </ab>
-        <ab n="20">au temps o&ugrave; (en ce temps-l&agrave;) je vous ferai venir &agrave; moi,
-            et au temps o&ugrave; (en ce temps-l&agrave;) je vous rassemblerai ; car je ferai de
+            d’allégresse en te louant (au milieu des louanges). </ab>
+        <ab n="18">Ces hommes vains qui s’étaient éloignés de la loi,
+            je les rassemblerai, car ils t’appartenaient ; tu n’éprouveras (afin
+            que tu n’éprouves) plus de honte à leur sujet. </ab>
+        <ab n="19">Voici, en ce temps-là je ferai périr tous ceux qui
+            t’auront affligée ; je sauverai celle qui boitait, et je ferai revenir
+            celle qui avait été chassée, et je ferai d’eux un sujet de
+            louange et de gloire dans tous les pays où ils ont été en opprobre, </ab>
+        <ab n="20">au temps où (en ce temps-là) je vous ferai venir à moi,
+            et au temps où (en ce temps-là) je vous rassemblerai ; car je ferai de
             vous un sujet de gloire et de louange devant tous les peuples de la terre, lorsque
-            j&rsquo;aurai fait revenir vos captifs (chang&eacute; votre captivit&eacute;) sous vos
+            j’aurai fait revenir vos captifs (changé votre captivité) sous vos
             yeux, dit le Seigneur.</ab>
     </div>
 </div>

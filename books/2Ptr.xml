@@ -1,300 +1,281 @@
-<!DOCTYPE definition [
-<!ENTITY rsquo "&#8217;">
-<!ENTITY eacute "é">
-<!ENTITY euml "ë">
-<!ENTITY acirc "â">
-<!ENTITY ecirc "ê">
-<!ENTITY agrave "à">
-<!ENTITY egrave "è">
-<!ENTITY ucirc "û">
-<!ENTITY ugrave "ù">
-<!ENTITY icirc "î">
-<!ENTITY ccedil "ç">
-<!ENTITY iuml "ï">
-<!ENTITY oelig "œ">
-<!ENTITY ocirc "ô">
-<!ENTITY uuml "ü">
-<!ENTITY Eacute "É">
-<!ENTITY nbsp "&#160;">
 
-]>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="book" xml:id="VULGFR_2Ptr">
 <div type="chapter" n="1">
 <ab n="1">Simon
-Pierre, serviteur et ap&ocirc;tre de J&eacute;sus-Christ, &agrave;
-ceux qui ont re&ccedil;u avec nous une foi du m&ecirc;me prix, par la
-justice de notre Dieu et Sauveur J&eacute;sus-Christ. </ab>
+Pierre, serviteur et apôtre de Jésus-Christ, à
+ceux qui ont reçu avec nous une foi du même prix, par la
+justice de notre Dieu et Sauveur Jésus-Christ. </ab>
 <ab n="2">Que
-la gr&acirc;ce et la paix vous soient multipli&eacute;es par la
-connaissance de Dieu et du Christ J&eacute;sus Notre Seigneur.
+la grâce et la paix vous soient multipliées par la
+connaissance de Dieu et du Christ Jésus Notre Seigneur.
 </ab>
 <ab n="3">Puisque
-sa divine puissance nous a donn&eacute; tout ce qui contribue &agrave;
-la vie et &agrave; la pi&eacute;t&eacute;, en nous faisant conna&icirc;tre
-celui qui nous a appel&eacute;s par sa propre gloire et par sa vertu,
+sa divine puissance nous a donné tout ce qui contribue à
+la vie et à la piété, en nous faisant connaître
+celui qui nous a appelés par sa propre gloire et par sa vertu,
 </ab>
 <ab n="4">et
-qu&rsquo;il nous a donn&eacute; les (plus) grandes et les (plus)
-pr&eacute;cieuses promesses, afin que par elles vous deveniez
+qu’il nous a donné les (plus) grandes et les (plus)
+précieuses promesses, afin que par elles vous deveniez
 participants de la nature divine, en fuyant la corruption de la
 concupiscence qui existe dans le monde, </ab>
 <ab n="5">vous
-aussi, (vous) apportez tous vos soins pour joindre &agrave; votre foi
-la vertu, &agrave; la vertu la science, </ab>
-<ab n="6">&agrave;
-la science la temp&eacute;rance, &agrave; la temp&eacute;rance la
-patience, &agrave; la patience la pi&eacute;t&eacute; ; </ab>
-<ab n="7">&agrave;
-la pi&eacute;t&eacute; l&rsquo;amour de vos fr&egrave;res, &agrave;
-l&rsquo;amour de vos fr&egrave;res la charit&eacute;. </ab>
+aussi, (vous) apportez tous vos soins pour joindre à votre foi
+la vertu, à la vertu la science, </ab>
+<ab n="6">à
+la science la tempérance, à la tempérance la
+patience, à la patience la piété ; </ab>
+<ab n="7">à
+la piété l’amour de vos frères, à
+l’amour de vos frères la charité. </ab>
 <ab n="8">Car
-si ces choses sont en vous, et qu&rsquo;elles y croissent (dominent),
-elles ne vous laisseront ni st&eacute;riles ni infructueux dans la
-connaissance de Notre Seigneur J&eacute;sus-Christ ; </ab>
+si ces choses sont en vous, et qu’elles y croissent (dominent),
+elles ne vous laisseront ni stériles ni infructueux dans la
+connaissance de Notre Seigneur Jésus-Christ ; </ab>
 <ab n="9">car
 celui en qui elles ne sont pas
-est aveugle et marche &agrave; t&acirc;tons, ayant oubli&eacute; la
-purification de ses anciens p&eacute;ch&eacute;s. </ab>
-<ab n="10">C&rsquo;est
-pourquoi, mes fr&egrave;res, appliquez-vous davantage &agrave;
-affermir (rendre certaines) par les (vos) bonnes &oelig;uvres votre
-vocation et votre &eacute;lection ; car, en faisant cela, vous ne
-p&eacute;cherez jamais, </ab>
+est aveugle et marche à tâtons, ayant oublié la
+purification de ses anciens péchés. </ab>
+<ab n="10">C’est
+pourquoi, mes frères, appliquez-vous davantage à
+affermir (rendre certaines) par les (vos) bonnes œuvres votre
+vocation et votre élection ; car, en faisant cela, vous ne
+pécherez jamais, </ab>
 <ab n="11">et
-ainsi vous sera pleinement accord&eacute;e l&rsquo;entr&eacute;e dans
-le royaume &eacute;ternel de Notre Seigneur et Sauveur J&eacute;sus-Christ.
+ainsi vous sera pleinement accordée l’entrée dans
+le royaume éternel de Notre Seigneur et Sauveur Jésus-Christ.
 </ab>
-<ab n="12">Voil&agrave;
-pourquoi j&rsquo;aurai soin de vous rappeler constamment ces choses,
+<ab n="12">Voilà
+pourquoi j’aurai soin de vous rappeler constamment ces choses,
 quoique vous les connaissiez et que vous soyez affermis dans la
-v&eacute;rit&eacute; pr&eacute;sente. </ab>
-<ab n="13">J&rsquo;estime
-qu&rsquo;il est juste, aussi longtemps que je suis dans cette tente,
-de vous tenir en &eacute;veil en vous les rappelant ; </ab>
+vérité présente. </ab>
+<ab n="13">J’estime
+qu’il est juste, aussi longtemps que je suis dans cette tente,
+de vous tenir en éveil en vous les rappelant ; </ab>
 <ab n="14">car
-je sais que je quitterai bient&ocirc;t ma tente, comme Notre Seigneur
-J&eacute;sus-Christ me l&rsquo;a fait conna&icirc;tre. </ab>
+je sais que je quitterai bientôt ma tente, comme Notre Seigneur
+Jésus-Christ me l’a fait connaître. </ab>
 <ab n="15">Mais
-j&rsquo;aurai soin que, m&ecirc;me apr&egrave;s mon d&eacute;part,
+j’aurai soin que, même après mon départ,
 vous puissiez toujours conserver le souvenir de ces choses. </ab>
 <ab n="16">Ce
-n&rsquo;est pas, en effet, en suivant des fables ing&eacute;nieuses
-que nous vous avons fait conna&icirc;tre la puissance et l&rsquo;av&egrave;nement
-de Notre Seigneur J&eacute;sus-Christ ; mais c&rsquo;est apr&egrave;s
-avoir &eacute;t&eacute; les t&eacute;moins oculaires (spectateurs) de
-sa majest&eacute;. </ab>
+n’est pas, en effet, en suivant des fables ingénieuses
+que nous vous avons fait connaître la puissance et l’avènement
+de Notre Seigneur Jésus-Christ ; mais c’est après
+avoir été les témoins oculaires (spectateurs) de
+sa majesté. </ab>
 <ab n="17">Car
-il re&ccedil;ut de Dieu le P&egrave;re honneur et gloire, lorsque
+il reçut de Dieu le Père honneur et gloire, lorsque
 (descendant de) la gloire magnifique lui fit entendre une voix qui
-disait : Celui-ci est mon Fils bien-aim&eacute;, en qui je me suis
-complu ; &eacute;coutez-le. </ab>
+disait : Celui-ci est mon Fils bien-aimé, en qui je me suis
+complu ; écoutez-le. </ab>
 <ab n="18">Et
-nous avons entendu nous-m&ecirc;mes cette voix qui venait du ciel,
-lorsque nous &eacute;tions avec lui sur la sainte montagne. </ab>
+nous avons entendu nous-mêmes cette voix qui venait du ciel,
+lorsque nous étions avec lui sur la sainte montagne. </ab>
 <ab n="19">Nous
-avons aussi la parole des proph&egrave;tes, d&rsquo;autant plus
-certaine, &agrave; laquelle vous faites bien de pr&ecirc;ter
-attention comme &agrave; une lampe qui luit dans un lieu obscur,
-jusqu&rsquo;&agrave; ce que le jour vienne &agrave; para&icirc;tre,
-et que l&rsquo;&eacute;toile du matin se l&egrave;ve dans vos c&oelig;urs
+avons aussi la parole des prophètes, d’autant plus
+certaine, à laquelle vous faites bien de prêter
+attention comme à une lampe qui luit dans un lieu obscur,
+jusqu’à ce que le jour vienne à paraître,
+et que l’étoile du matin se lève dans vos cœurs
 ; </ab>
-<ab n="20">&eacute;tant
-persuad&eacute;s avant tout qu&rsquo;aucune proph&eacute;tie de
-l&rsquo;Ecriture ne s&rsquo;explique par une interpr&eacute;tation
-particuli&egrave;re. </ab>
+<ab n="20">étant
+persuadés avant tout qu’aucune prophétie de
+l’Ecriture ne s’explique par une interprétation
+particulière. </ab>
 <ab n="21">Car
-ce n&rsquo;est pas
-par une volont&eacute; humaine que la proph&eacute;tie a &eacute;t&eacute;
-autrefois apport&eacute;e ; mais c&rsquo;est inspir&eacute;s par
-l&rsquo;Esprit-Saint que les saints hommes de Dieu ont parl&eacute;.
+ce n’est pas
+par une volonté humaine que la prophétie a été
+autrefois apportée ; mais c’est inspirés par
+l’Esprit-Saint que les saints hommes de Dieu ont parlé.
 </ab></div>
 <div type="chapter" n="2">
 <ab n="1">Il
-y eut cependant aussi de faux proph&egrave;tes parmi le peuple, et il
-y aura de m&ecirc;me parmi vous des docteurs de mensonge, qui
-introduiront des h&eacute;r&eacute;sies pernicieuses (sectes de
-perdition), et qui, reniant le Ma&icirc;tre qui les (nous) a
-rachet&eacute;s, attireront sur eux une ruine soudaine. </ab>
+y eut cependant aussi de faux prophètes parmi le peuple, et il
+y aura de même parmi vous des docteurs de mensonge, qui
+introduiront des hérésies pernicieuses (sectes de
+perdition), et qui, reniant le Maître qui les (nous) a
+rachetés, attireront sur eux une ruine soudaine. </ab>
 <ab n="2">Beaucoup
-les suivront dans leurs d&eacute;bauches, et la voie de la v&eacute;rit&eacute;
-sera calomni&eacute;e &agrave; cause d&rsquo;eux ; </ab>
+les suivront dans leurs débauches, et la voie de la vérité
+sera calomniée à cause d’eux ; </ab>
 <ab n="3">et,
-par cupidit&eacute;, ils trafiqueront de vous au moyen de paroles
+par cupidité, ils trafiqueront de vous au moyen de paroles
 artificieuses, eux que la condamnation menace depuis longtemps, et
 dont la ruine ne sommeille pas. </ab>
 <ab n="4">Car
-si Dieu n&rsquo;a pas &eacute;pargn&eacute; les anges qui avaient
-p&eacute;ch&eacute;, mais les a pr&eacute;cipit&eacute;s dans le
-tartare (l&rsquo;ab&icirc;me, note) et les a livr&eacute;s aux liens
-des t&eacute;n&egrave;bres, pour &ecirc;tre tourment&eacute;s et
-r&eacute;serv&eacute;s jusqu&rsquo;au jugement ; </ab>
+si Dieu n’a pas épargné les anges qui avaient
+péché, mais les a précipités dans le
+tartare (l’abîme, note) et les a livrés aux liens
+des ténèbres, pour être tourmentés et
+réservés jusqu’au jugement ; </ab>
 <ab n="5">et
-s&rsquo;il n&rsquo;a pas
-&eacute;pargn&eacute; l&rsquo;ancien monde, mais n&rsquo;a sauv&eacute;
-que No&eacute;, lui huiti&egrave;me (que sept personnes avec No&eacute;),
-ce pr&eacute;dicateur de la justice, lorsqu&rsquo;il fit venir le
-d&eacute;luge sur le monde impie, </ab>
+s’il n’a pas
+épargné l’ancien monde, mais n’a sauvé
+que Noé, lui huitième (que sept personnes avec Noé),
+ce prédicateur de la justice, lorsqu’il fit venir le
+déluge sur le monde impie, </ab>
 <ab n="6">et
-si, r&eacute;duisant en cendres les villes de Sodome et de Gomorrhe,
-il les a condamn&eacute;es &agrave; la destruction, pour les faire
-servir d&rsquo;exemple &agrave; ceux qui vivaient (vivraient) dans
-l&rsquo;impi&eacute;t&eacute;, </ab>
+si, réduisant en cendres les villes de Sodome et de Gomorrhe,
+il les a condamnées à la destruction, pour les faire
+servir d’exemple à ceux qui vivaient (vivraient) dans
+l’impiété, </ab>
 <ab n="7">et
-s&rsquo;il a d&eacute;livr&eacute; le juste Lot, vivement attrist&eacute;
-par les outrages et la conduite d&eacute;r&eacute;gl&eacute;e de ces
+s’il a délivré le juste Lot, vivement attristé
+par les outrages et la conduite déréglée de ces
 hommes abominables </ab>
 <ab n="8">[car,
-(il &eacute;tait pur de ses yeux et de ses oreilles) par ce qu&rsquo;il
+(il était pur de ses yeux et de ses oreilles) par ce qu’il
 voyait et entendait, ce juste, qui demeurait parmi eux, avait chaque
-jour son &acirc;me juste tourment&eacute;e par leurs actions
+jour son âme juste tourmentée par leurs actions
 criminelles],
 </ab>
-<ab n="9">c&rsquo;est
-que le Seigneur sait d&eacute;livrer de l&rsquo;&eacute;preuve les
-hommes pieux (justes), et r&eacute;server les impies pour &ecirc;tre
-ch&acirc;ti&eacute;s au jour du jugement ; </ab>
+<ab n="9">c’est
+que le Seigneur sait délivrer de l’épreuve les
+hommes pieux (justes), et réserver les impies pour être
+châtiés au jour du jugement ; </ab>
 <ab n="10">mais
-surtout ceux qui vont apr&egrave;s la chair, dans d&rsquo;impures
-convoitises, et qui m&eacute;prisent la souverainet&eacute; (les
-puissances). Audacieux, se plaisant &agrave; eux-m&ecirc;mes, ils ne
-craignent pas d&rsquo;introduire des sectes, en blasph&eacute;mant,
+surtout ceux qui vont après la chair, dans d’impures
+convoitises, et qui méprisent la souveraineté (les
+puissances). Audacieux, se plaisant à eux-mêmes, ils ne
+craignent pas d’introduire des sectes, en blasphémant,
 </ab>
 <ab n="11">tandis
-que les anges, quoique sup&eacute;rieurs en forme et en puissance, ne
-portent pas les uns contre les autres un jugement de mal&eacute;diction.
+que les anges, quoique supérieurs en forme et en puissance, ne
+portent pas les uns contre les autres un jugement de malédiction.
 </ab>
 <ab n="12">Mais
 eux, comme des animaux sans raison, qui ne suivent que la nature et
-sont n&eacute;s pour &ecirc;tre pris et d&eacute;truits, blasph&eacute;mant
-ce qu&rsquo;ils ignorent, ils p&eacute;riront par leur propre
+sont nés pour être pris et détruits, blasphémant
+ce qu’ils ignorent, ils périront par leur propre
 corruption, </ab>
 <ab n="13">recevant
-le salaire de leur iniquit&eacute;. Ils trouvent leur plaisir dans
-les d&eacute;lices du (d&rsquo;un) jour ; ils sont une souillure, une
-tache ; ils se gorgent de d&eacute;lices dans les festins o&ugrave;
-ils font bonne ch&egrave;re avec vous. </ab>
+le salaire de leur iniquité. Ils trouvent leur plaisir dans
+les délices du (d’un) jour ; ils sont une souillure, une
+tache ; ils se gorgent de délices dans les festins où
+ils font bonne chère avec vous. </ab>
 <ab n="14">Ils
-ont les yeux pleins d&rsquo;adult&egrave;re et d&rsquo;un p&eacute;ch&eacute;
-qui ne cesse jamais ; ils s&eacute;duisent les &acirc;mes mal
-affermies ; ils ont le c&oelig;ur exerc&eacute; &agrave; la cupidit&eacute;
-(l&rsquo;avarice) ; ce sont des enfants de mal&eacute;diction.
+ont les yeux pleins d’adultère et d’un péché
+qui ne cesse jamais ; ils séduisent les âmes mal
+affermies ; ils ont le cœur exercé à la cupidité
+(l’avarice) ; ce sont des enfants de malédiction.
 </ab>
-<ab n="15">Apr&egrave;s
-avoir quitt&eacute; le droit chemin, ils se sont &eacute;gar&eacute;s
+<ab n="15">Après
+avoir quitté le droit chemin, ils se sont égarés
 en suivant la voie de Balaam, fils de Bosor, qui aima le salaire de
-l&rsquo;iniquit&eacute;, </ab>
+l’iniquité, </ab>
 <ab n="16">mais
-qui fut repris de sa folie : une &acirc;nesse (b&ecirc;te de somme,
-note) muette, parlant d&rsquo;une voix humaine, arr&ecirc;ta la
-d&eacute;mence du proph&egrave;te. </ab>
+qui fut repris de sa folie : une ânesse (bête de somme,
+note) muette, parlant d’une voix humaine, arrêta la
+démence du prophète. </ab>
 <ab n="17">Ce
-sont des fontaines sans eau, des nu&eacute;es agit&eacute;es par des
-tourbillons ; l&rsquo;obscurit&eacute; des t&eacute;n&egrave;bres
-leur est r&eacute;serv&eacute;e. </ab>
+sont des fontaines sans eau, des nuées agitées par des
+tourbillons ; l’obscurité des ténèbres
+leur est réservée. </ab>
 <ab n="18">Car
-tenant des discours enfl&eacute;s de vanit&eacute;, ils s&eacute;duisent,
+tenant des discours enflés de vanité, ils séduisent,
 par les convoitises de la chair, par les dissolutions, ceux qui
-s&rsquo;&eacute;taient retir&eacute;s quelque peu des hommes qui
-vivent dans l&rsquo;erreur. </ab>
+s’étaient retirés quelque peu des hommes qui
+vivent dans l’erreur. </ab>
 <ab n="19">Ils
-leur promettent la libert&eacute;, quand ils sont eux-m&ecirc;mes
+leur promettent la liberté, quand ils sont eux-mêmes
 esclaves de la corruption ; car on est esclave de celui par qui on a
-&eacute;t&eacute; vaincu. </ab>
+été vaincu. </ab>
 <ab n="20">En
-effet, si apr&egrave;s s&rsquo;&ecirc;tre retir&eacute;s des (apr&egrave;s
-avoir cherch&eacute; un refuge contre les) souillures du monde par la
-connaissance de Notre Seigneur et Sauveur J&eacute;sus-Christ, ils
-sont vaincus en s&rsquo;y engageant de nouveau, leur derni&egrave;re
-condition devient pire que la premi&egrave;re. </ab>
+effet, si après s’être retirés des (après
+avoir cherché un refuge contre les) souillures du monde par la
+connaissance de Notre Seigneur et Sauveur Jésus-Christ, ils
+sont vaincus en s’y engageant de nouveau, leur dernière
+condition devient pire que la première. </ab>
 <ab n="21">Car
-il e&ucirc;t &eacute;t&eacute; meilleur pour eux de n&rsquo;avoir pas
-connu la voie de la justice, que de se d&eacute;tourner, apr&egrave;s
-l&rsquo;avoir connue, du saint commandement qui leur avait &eacute;t&eacute;
+il eût été meilleur pour eux de n’avoir pas
+connu la voie de la justice, que de se détourner, après
+l’avoir connue, du saint commandement qui leur avait été
 transmis. </ab>
 <ab n="22">Mais
-il leur est arriv&eacute; ce que dit un proverbe tr&egrave;s vrai :
-Le chien est retourn&eacute; &agrave; ce qu&rsquo;il avait vomi ; et
-: La truie (Le pourceau), apr&egrave;s avoir &eacute;t&eacute; lav&eacute;e,
-s&rsquo;est vautr&eacute;e (de nouveau) dans la boue.
+il leur est arrivé ce que dit un proverbe très vrai :
+Le chien est retourné à ce qu’il avait vomi ; et
+: La truie (Le pourceau), après avoir été lavée,
+s’est vautrée (de nouveau) dans la boue.
 </ab></div>
 <div type="chapter" n="3">
 <ab n="1">Voici,
-mes bien-aim&eacute;s, la seconde lettre que je vous &eacute;cris ;
-dans toutes les deux, je t&acirc;che de r&eacute;veiller vos bons
-sentiments (&acirc;mes sinc&egrave;res) en faisant appel &agrave;
-votre m&eacute;moire (par mes avertissements), </ab>
+mes bien-aimés, la seconde lettre que je vous écris ;
+dans toutes les deux, je tâche de réveiller vos bons
+sentiments (âmes sincères) en faisant appel à
+votre mémoire (par mes avertissements), </ab>
 <ab n="2">afin
-que vous vous souveniez des paroles des saints proph&egrave;tes, dont
-j&rsquo;ai d&eacute;j&agrave; parl&eacute;, et des pr&eacute;ceptes
-du Seigneur et Sauveur, transmis par vos ap&ocirc;tres. </ab>
+que vous vous souveniez des paroles des saints prophètes, dont
+j’ai déjà parlé, et des préceptes
+du Seigneur et Sauveur, transmis par vos apôtres. </ab>
 <ab n="3">Sachez,
-avant toutes choses, qu&rsquo;aux derniers jours il viendra des
+avant toutes choses, qu’aux derniers jours il viendra des
 imposteurs et des moqueurs, marchant selon leurs propres convoitises,
 </ab>
 <ab n="4">qui
-diront : O&ugrave; est la promesse de (ou) son av&egrave;nement ? Car
-depuis que nos p&egrave;res sont morts, toutes choses demeurent comme
-depuis le commencement de la cr&eacute;ation. </ab>
+diront : Où est la promesse de (ou) son avènement ? Car
+depuis que nos pères sont morts, toutes choses demeurent comme
+depuis le commencement de la création. </ab>
 <ab n="5">Car
-ils affectent d&rsquo;ignorer qu&rsquo;il y eut autrefois des cieux
-et une terre sortie de l&rsquo;eau et form&eacute;e au moyen de
-l&rsquo;eau, par la parole de Dieu, </ab>
+ils affectent d’ignorer qu’il y eut autrefois des cieux
+et une terre sortie de l’eau et formée au moyen de
+l’eau, par la parole de Dieu, </ab>
 <ab n="6">et
-que ce fut par ces choses m&ecirc;mes que le monde d&rsquo;alors
-p&eacute;rit, submerg&eacute; dans l&rsquo;eau. </ab>
+que ce fut par ces choses mêmes que le monde d’alors
+périt, submergé dans l’eau. </ab>
 <ab n="7">Quant
-aux cieux et &agrave; la terre d&rsquo;&agrave; pr&eacute;sent, ils
-sont gard&eacute;s par cette m&ecirc;me parole, et r&eacute;serv&eacute;s
+aux cieux et à la terre d’à présent, ils
+sont gardés par cette même parole, et réservés
 pour le feu, au jour du jugement et de la ruine des impies. </ab>
 <ab n="8">Mais
-il est une chose que vous ne devez pas ignorer, mes bien-aim&eacute;s
-: c&rsquo;est que, devant le Seigneur, un jour est comme mille ans,
+il est une chose que vous ne devez pas ignorer, mes bien-aimés
+: c’est que, devant le Seigneur, un jour est comme mille ans,
 et mille ans comme un jour. </ab>
 <ab n="9">(Ainsi)
-Le Seigneur ne retarde pas l&rsquo;ex&eacute;cution de sa promesse,
+Le Seigneur ne retarde pas l’exécution de sa promesse,
 comme quelques-uns le supposent ; mais il use de patience envers
-vous, ne voulant pas qu&rsquo;aucun p&eacute;risse, mais que tous
-viennent &agrave; la p&eacute;nitence. </ab>
+vous, ne voulant pas qu’aucun périsse, mais que tous
+viennent à la pénitence. </ab>
 <ab n="10">(Car)
 Le jour du Seigneur viendra comme un voleur ; alors les cieux
-passeront avec un grand fracas, les &eacute;l&eacute;ments embras&eacute;s
-se dissoudront, et la terre sera consum&eacute;e avec tout ce qu&rsquo;elle
+passeront avec un grand fracas, les éléments embrasés
+se dissoudront, et la terre sera consumée avec tout ce qu’elle
 renferme. </ab>
 <ab n="11">Puis
-donc que toutes ces choses doivent se dissoudre (&ecirc;tre
-d&eacute;truites), quels ne devez-vous pas &ecirc;tre par la saintet&eacute;
-de votre conduite et par la pi&eacute;t&eacute;, </ab>
+donc que toutes ces choses doivent se dissoudre (être
+détruites), quels ne devez-vous pas être par la sainteté
+de votre conduite et par la piété, </ab>
 <ab n="12">attendant
-et h&acirc;tant l&rsquo;av&egrave;nement du jour du Seigneur, jour &agrave;
-cause duquel les cieux enflamm&eacute;s seront dissous, et les
-&eacute;l&eacute;ments embras&eacute;s se fondront (fondus par
-l&rsquo;ardeur du feu&nbsp;?). </ab>
+et hâtant l’avènement du jour du Seigneur, jour à
+cause duquel les cieux enflammés seront dissous, et les
+éléments embrasés se fondront (fondus par
+l’ardeur du feu&#160;?). </ab>
 <ab n="13">Mais
 (Car) nous attendons, selon ses promesses, de nouveaux cieux et une
 nouvelle terre, dans lesquels la justice habitera. </ab>
-<ab n="14">C&rsquo;est
-pourquoi, bien-aim&eacute;s, en attendant ces choses, faites des
-efforts pour que Dieu vous trouve purs et irr&eacute;prochables dans
+<ab n="14">C’est
+pourquoi, bien-aimés, en attendant ces choses, faites des
+efforts pour que Dieu vous trouve purs et irréprochables dans
 la paix (en paix, purs et sans aucune tache). </ab>
 <ab n="15">Et
 dans la longue patience de Notre Seigneur, reconnaissez votre salut,
-ainsi que notre bien-aim&eacute; fr&egrave;re Paul vous l&rsquo;a
-&eacute;crit, selon la sagesse qui lui a &eacute;t&eacute; donn&eacute;e.
+ainsi que notre bien-aimé frère Paul vous l’a
+écrit, selon la sagesse qui lui a été donnée.
 </ab>
-<ab n="16">C&rsquo;est
-ce qu&rsquo;il fait dans toutes les lettres, o&ugrave; il parle de
+<ab n="16">C’est
+ce qu’il fait dans toutes les lettres, où il parle de
 ces choses ; lettres dans lesquelles il y a certains passages
-difficiles &agrave; comprendre, dont les hommes ignorants et mal
-affermis (l&eacute;gers) tordent le sens (aussi bien que les autres
+difficiles à comprendre, dont les hommes ignorants et mal
+affermis (légers) tordent le sens (aussi bien que les autres
 Ecritures), pour leur propre ruine. </ab>
 <ab n="17">Vous
-donc, fr&egrave;res, &eacute;tant pr&eacute;venus, soyez sur vos
-gardes, de peur qu&rsquo;entra&icirc;n&eacute;s par l&rsquo;erreur de
-ces insens&eacute;s, vous ne veniez &agrave; d&eacute;choir de votre
-fermet&eacute;. </ab>
+donc, frères, étant prévenus, soyez sur vos
+gardes, de peur qu’entraînés par l’erreur de
+ces insensés, vous ne veniez à déchoir de votre
+fermeté. </ab>
 <ab n="18">Mais
-croissez dans la gr&acirc;ce (et) dans la connaissance de Notre
-Seigneur et Sauveur J&eacute;sus-Christ. A lui la gloire, et
-maintenant, et jusqu&rsquo;au jour de l&rsquo;&eacute;ternit&eacute;.
+croissez dans la grâce (et) dans la connaissance de Notre
+Seigneur et Sauveur Jésus-Christ. A lui la gloire, et
+maintenant, et jusqu’au jour de l’éternité.
 Amen.</ab></div>
 </div>

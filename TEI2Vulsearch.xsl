@@ -41,7 +41,7 @@
         <xsl:value-of select="../@n"/>:<xsl:value-of select="@n"/><xsl:text> </xsl:text><xsl:apply-templates/><br/>
     </xsl:template>
     
-    <xsl:template match="tei:hi[@rend='italics']">
+    <xsl:template match="tei:label">
         &lt;<xsl:apply-templates/>&gt; 
     </xsl:template>
 </xsl:stylesheet>
