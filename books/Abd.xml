@@ -1,105 +1,25 @@
-<div xmlns="http://www.tei-c.org/ns/1.0" type="book" xml:id="VULGFR_Abd"> 
-<div type="chapter" n="1">
-<ab n="1">Vision
-d’Abdias. Voici ce que dit le Seigneur Dieu à Edom :
-[Nous avons entendu une nouvelle (venant) de la part du Seigneur ;
-(et) il a envoyé un message aux nations : Levez-vous,
-levons-nous ensemble contre lui pour le combattre (pour le combat)].
-</ab>
-<ab n="2">Voici,
-je t’ai rendu (placé très) petit parmi les
-nations ; tu es tout à fait méprisable. </ab>
-<ab n="3">L’orgueil
-de ton cœur t’a élevé, toi qui habites dans
-les fentes des rochers, qui as dressé (exaltant) ton trône
-dans les lieux élevés, toi qui dis en ton cœur :
-Qui me fera tomber à terre ? </ab>
-<ab n="4">Quand
-tu t’élèverais comme l’aigle, et que tu
-placerais ton nid parmi les astres, je t’arracherai de là,
-dit le Seigneur. </ab>
-<ab n="5">Si
-des voleurs, si des brigands étaient entrés chez toi
-pendant la nuit, comme(nt) tu aurais été réduit
-au (aurais-tu gardé le) silence ! (?) Ne se seraient-ils pas
-contentés de prendre ce qui leur aurait convenu (suffisait) ?
-Si des vendangeurs étaient entrés chez toi, ne
-t’auraient-ils pas laissé au moins une grappe de raisin
-? </ab>
-<ab n="6">Comme
-ils ont(-ils) fouillé Esaü ! (?) Ils ont cherché
-dans ses endroits (les plus) cachés. </ab>
-<ab n="7">Ils
-t’ont chassé jusqu’à la frontière,
-tous tes alliés se sont joués de toi, tes amis (les
-hommes qui vivaient en paix avec toi) se sont élevés
-contre toi ; ceux qui mangent avec toi t’ont dressé des
-embûches (sous tes pas) ; il n’y a pas de prudence en
-lui. </ab>
-<ab n="8">Est-ce
-que, en ce jour-là, dit le Seigneur, je ne ferai pas
-disparaître les sages de l’Idumée, et (bannirai)
-la prudence de la montagne d’Esaü ? </ab>
-<ab n="9">Tes
-braves du midi craindront que les hommes périssent jusqu’au
-dernier sur la montagne d’Esaü. </ab>
-<ab n="10">A
-cause des (de tes) meurtres et de l’injustice (l’iniquité)
-commis contre ton frère Jacob, la honte (confusion) te
-couvrira, et tu périras pour toujours. </ab>
-<ab n="11">Le
-jour où tu te tenais contre lui, lorsque des étrangers
-(ennemis) faisaient son armée captive, et que des étrangers
-entraient dans ses portes, et qu’ils jetaient le sort sur
-Jérusalem, toi aussi tu étais comme l’un
-(d’entre) d’eux. </ab>
-<ab n="12">Ne
-te moque pas, au jour de (Et tu ne mépriseras pas) ton frère,
-au jour de sa déportation, et ne (tu) te réjoui(ra)s
-pas au sujet des enfants de Juda au jour de leur perte, et n’ouvre
-(tu n’ouvriras) pas une grande bouche au jour de leur angoisse.
-</ab>
-<ab n="13">N’entre
-(Et tu n’entreras) point par les portes de mon peuple au jour
-de sa ruine ; (et tu) ne le méprise(ras) pas, toi non plus, au
-jour de sa dévastation, et (tu) ne t’élance(ras)
-pas contre son armée au jour de sa dévastation. </ab>
-<ab n="14">(Et
-tu) Ne te tien(dra)s pas sur les chemins pour tuer ceux qui fuiront,
-et (tu) n’enveloppe(ras) pas ses restes au jour de la
-tribulation. </ab>
-<ab n="15">Car
-le jour du Seigneur est proche (d’éclater) pour toutes
-les nations : comme tu as fait on te fera ; Dieu fera retomber tes
-œuvres (ce que tu leur as fait) sur ta tête. </ab>
-<ab n="16">Car,
-comme vous avez bu sur ma montagne sainte, ainsi toutes les nations
-boiront sans cesse ; elles boiront et elles avaleront, et elles
-seront comme si elles n’avaient jamais été.
-</ab>
-<ab n="17">Mais
-sur la montagne de Sion sera le salut, et elle sera sainte ; et la
-maison de Jacob possédera ceux qui l’avaient possédée.
-</ab>
-<ab n="18">La
-maison de Jacob sera un feu, la maison de Joseph une flamme, et la
-maison d’Esaü une paille sèche ; et elle sera
-embrasée par elles, et elles la dévoreront, et il ne
-restera rien de la maison d’Esaü, car le Seigneur a parlé.
-</ab>
-<ab n="19">Ceux
-du midi hériteront de la montagne d’Esaü, et ceux
-de la plaine, (assujettiront) (le pays) des (les) Philistins ; et ils
-posséderont le pays d’Ephraïm, et le pays de
-Samarie, et Benjamin possédera Galaad. </ab>
-<ab n="20">Et
-les captifs de cette armée des fils d’Israël
-posséderont toutes les terres des Chananéens jusqu’à
-Sarepta, et les déportés de Jérusalem, qui sont
-dans le Bosphore, posséderont les villes du midi. </ab>
-<ab n="21">Des
-(Et les) sauveurs monteront sur la montagne de Sion pour juger la
-montagne d’Esaü, et le règne appartiendra au
-Seigneur.</ab>
-</div>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="book" xml:id="VULGFR_Abd">
+	<div type="chapter" n="1">
+		<ab n="1">Vision d’Abdias. Voici ce que dit le Seigneur Dieu à Edom : [Nous avons entendu une nouvelle (venant) de la part du Seigneur ; (et) il a envoyé un message aux nations : Levez-vous, levons-nous ensemble contre lui pour le combattre (pour le combat)].</ab>
+		<ab n="2">Voici, je t’ai rendu (placé très) petit parmi les nations ; tu es tout à fait méprisable. </ab>
+		<ab n="3">L’orgueil de ton cœur t’a élevé, toi qui habites dans les fentes des rochers, qui as dressé (exaltant) ton trône dans les lieux élevés, toi qui dis en ton cœur : Qui me fera tomber à terre ? </ab>
+		<ab n="4">Quand tu t’élèverais comme l’aigle, et que tu placerais ton nid parmi les astres, je t’arracherai de là, dit le Seigneur. </ab>
+		<ab n="5">Si des voleurs, si des brigands étaient entrés chez toi pendant la nuit, comme(nt) tu aurais été réduit au (aurais-tu gardé le) silence ! (?) Ne se seraient-ils pas contentés de prendre ce qui leur aurait convenu (suffisait) ? Si des vendangeurs étaient entrés chez toi, ne t’auraient-ils pas laissé au moins une grappe de raisin ? </ab>
+		<ab n="6">Comme ils ont(-ils) fouillé Esaü ! (?) Ils ont cherché dans ses endroits (les plus) cachés. </ab>
+		<ab n="7">Ils t’ont chassé jusqu’à la frontière, tous tes alliés se sont joués de toi, tes amis (les hommes qui vivaient en paix avec toi) se sont élevés contre toi ; ceux qui mangent avec toi t’ont dressé des embûches (sous tes pas) ; il n’y a pas de prudence en lui. </ab>
+		<ab n="8">Est-ce que, en ce jour-là, dit le Seigneur, je ne ferai pas disparaître les sages de l’Idumée, et (bannirai) la prudence de la montagne d’Esaü ? </ab>
+		<ab n="9">Tes braves du midi craindront que les hommes périssent jusqu’au dernier sur la montagne d’Esaü. </ab>
+		<ab n="10">A cause des (de tes) meurtres et de l’injustice (l’iniquité) commis contre ton frère Jacob, la honte (confusion) te couvrira, et tu périras pour toujours. </ab>
+		<ab n="11">Le jour où tu te tenais contre lui, lorsque des étrangers (ennemis) faisaient son armée captive, et que des étrangers entraient dans ses portes, et qu’ils jetaient le sort sur Jérusalem, toi aussi tu étais comme l’un (d’entre) d’eux. </ab>
+		<ab n="12">Ne te moque pas, au jour de (Et tu ne mépriseras pas) ton frère, au jour de sa déportation, et ne (tu) te réjoui(ra)s pas au sujet des enfants de Juda au jour de leur perte, et n’ouvre (tu n’ouvriras) pas une grande bouche au jour de leur angoisse.</ab>
+		<ab n="13">N’entre (Et tu n’entreras) point par les portes de mon peuple au jour de sa ruine ; (et tu) ne le méprise(ras) pas, toi non plus, au jour de sa dévastation, et (tu) ne t’élance(ras) pas contre son armée au jour de sa dévastation. </ab>
+		<ab n="14">(Et tu) Ne te tien(dra)s pas sur les chemins pour tuer ceux qui fuiront, et (tu) n’enveloppe(ras) pas ses restes au jour de la tribulation. </ab>
+		<ab n="15">Car le jour du Seigneur est proche (d’éclater) pour toutes les nations : comme tu as fait on te fera ; Dieu fera retomber tes œuvres (ce que tu leur as fait) sur ta tête. </ab>
+		<ab n="16">Car, comme vous avez bu sur ma montagne sainte, ainsi toutes les nations boiront sans cesse ; elles boiront et elles avaleront, et elles seront comme si elles n’avaient jamais été.</ab>
+		<ab n="17">Mais sur la montagne de Sion sera le salut, et elle sera sainte ; et la maison de Jacob possédera ceux qui l’avaient possédée.</ab>
+		<ab n="18">La maison de Jacob sera un feu, la maison de Joseph une flamme, et la maison d’Esaü une paille sèche ; et elle sera embrasée par elles, et elles la dévoreront, et il ne restera rien de la maison d’Esaü, car le Seigneur a parlé.</ab>
+		<ab n="19">Ceux du midi hériteront de la montagne d’Esaü, et ceux de la plaine, (assujettiront) (le pays) des (les) Philistins ; et ils posséderont le pays d’Ephraïm, et le pays de Samarie, et Benjamin possédera Galaad. </ab>
+		<ab n="20">Et les captifs de cette armée des fils d’Israël posséderont toutes les terres des Chananéens jusqu’à Sarepta, et les déportés de Jérusalem, qui sont dans le Bosphore, posséderont les villes du midi. </ab>
+		<ab n="21">Des (Et les) sauveurs monteront sur la montagne de Sion pour juger la montagne d’Esaü, et le règne appartiendra au Seigneur.</ab>
+	</div>
 </div>
