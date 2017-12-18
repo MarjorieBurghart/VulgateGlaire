@@ -1,92 +1,29 @@
-
 <div xmlns="http://www.tei-c.org/ns/1.0" type="book" xml:id="VULGFR_Phlm">
-<div type="chapter" n="1">
-<ab n="1">Paul,
-prisonnier du Christ Jésus, et le frère Timothée,
-au bien-aimé Philémon, notre collaborateur, </ab>
-<ab n="2">et
-à Appia, notre sœur très chère, et à
-Archippe, notre compagnon d’armes, et à l’Eglise
-qui est dans la (ta) maison. </ab>
-<ab n="3">Que
-la grâce et la paix vous soient données par Dieu notre
-Père et par le Seigneur Jésus-Christ. </ab>
-<ab n="4">Je
-rends grâce à mon Dieu, faisant sans cesse mention de
-toi dans mes prières, </ab>
-<ab n="5">parce
-que j’apprends quelle est (ta charité) et ta foi pour le
-Seigneur Jésus et (ta charité) envers tous les saints.
-</ab>
-<ab n="6">Je
-demande que ta libéralité, qui provient de la foi,
-devienne manifeste, se faisant connaître par toute sorte de
-bonnes œuvres qui se pratiquent chez vous dans le Christ Jésus.
-</ab>
-<ab n="7">Car
-j’ai ressenti une grande joie et une grande consolation au
-sujet de ta charité, parce que les cœurs des saints ont
-été soulagés par toi, frère. </ab>
-<ab n="8">C’est
-pourquoi, bien qu’ayant en Jésus-Christ une entière
-liberté de t’ordonner ce qui convient, </ab>
-<ab n="9">c’est
-de préférence au nom de la charité que je
-t’adresse une prière, tel que je suis, moi, Paul,
-vieillard, et de plus maintenant prisonnier de Jésus-Christ.
-</ab>
-<ab n="10">Je
-te prie pour mon fils, que j’ai engendré dans les
-chaînes, pour Onésime, </ab>
-<ab n="11">qui
-t’a été autrefois inutile, mais qui maintenant
-est utile et à moi, et à toi, </ab>
-<ab n="12">et
-que je te renvoie. Accueille-le comme mon propre cœur (mes
-entrailles). </ab>
-<ab n="13">Je
-voulais le retenir auprès de moi, pour qu’il me servît
-à ta place dans les chaînes que je porte pour l’Evangile
-; </ab>
-<ab n="14">mais
-je n’ai rien voulu faire sans ton avis, afin que ton bienfait
-ne fût pas forcé, mais spontané (volontaire).
-</ab>
-<ab n="15">Car
-peut-être n’a-t-il été séparé
-de toi pour un temps, afin que tu le recouvres pour l’éternité,
-</ab>
-<ab n="16">non
-plus désormais comme un esclave, mais comme (celui qui
-d’esclave est devenu) un frère bien-aimé, pour
-moi en particulier, à plus forte raison pour toi, soit dans la
-chair, soit dans le Seigneur. </ab>
-<ab n="17">Si
-donc tu me regardes comme uni à toi, accueille-le comme
-moi-même ; </ab>
-<ab n="18">et
-s’il t’a fait quelque tort, ou s’il te doit quelque
-chose, mets-le sur mon compte. </ab>
-<ab n="19">Moi,
-Paul, je t’écris de ma propre main : je te le rendrai,
-pour ne pas te dire que tu te dois toi-même à moi.
-</ab>
-<ab n="20">Oui,
-frère, que je reçoive de toi cette joie dans le
-Seigneur ; tranquillise mon cœur dans le Seigneur. </ab>
-<ab n="21">C’est
-en comptant sur ton obéissance que je t’écris,
-sachant que tu feras encore plus que je ne dis. </ab>
-<ab n="22">En
-même temps, prépare-moi un logement ; car j’espère
-vous être rendu, grâce à vos prières.
-</ab>
-<ab n="23">Epaphras,
-mon compagnon de captivité dans le Christ Jésus, te
-salue, </ab>
-<ab n="24">ainsi
-que Marc, Aristarque, Démas et Luc, mes collaborateurs. </ab>
-<ab n="25">Que
-la grâce de Notre Seigneur Jésus-Christ soit avec votre
-esprit. Amen.</ab></div>
+	<div type="chapter" n="1">
+		<ab n="1">Paul, prisonnier du Christ Jésus, et le frère Timothée, au bien-aimé Philémon, notre collaborateur, </ab>
+		<ab n="2">et à Appia, notre sœur très chère, et à Archippe, notre compagnon d’armes, et à l’Eglise qui est dans la (ta) maison. </ab>
+		<ab n="3">Que la grâce et la paix vous soient données par Dieu notre Père et par le Seigneur Jésus-Christ. </ab>
+		<ab n="4">Je rends grâce à mon Dieu, faisant sans cesse mention de toi dans mes prières, </ab>
+		<ab n="5">parce que j’apprends quelle est (ta charité) et ta foi pour le Seigneur Jésus et (ta charité) envers tous les saints.</ab>
+		<ab n="6">Je demande que ta libéralité, qui provient de la foi, devienne manifeste, se faisant connaître par toute sorte de bonnes œuvres qui se pratiquent chez vous dans le Christ Jésus.</ab>
+		<ab n="7">Car j’ai ressenti une grande joie et une grande consolation au sujet de ta charité, parce que les cœurs des saints ont été soulagés par toi, frère. </ab>
+		<ab n="8">C’est pourquoi, bien qu’ayant en Jésus-Christ une entière liberté de t’ordonner ce qui convient, </ab>
+		<ab n="9">c’est de préférence au nom de la charité que je t’adresse une prière, tel que je suis, moi, Paul, vieillard, et de plus maintenant prisonnier de Jésus-Christ.</ab>
+		<ab n="10">Je te prie pour mon fils, que j’ai engendré dans les chaînes, pour Onésime, </ab>
+		<ab n="11">qui t’a été autrefois inutile, mais qui maintenant est utile et à moi, et à toi, </ab>
+		<ab n="12">et que je te renvoie. Accueille-le comme mon propre cœur (mes entrailles). </ab>
+		<ab n="13">Je voulais le retenir auprès de moi, pour qu’il me servît à ta place dans les chaînes que je porte pour l’Evangile ; </ab>
+		<ab n="14">mais je n’ai rien voulu faire sans ton avis, afin que ton bienfait ne fût pas forcé, mais spontané (volontaire).</ab>
+		<ab n="15">Car peut-être n’a-t-il été séparé de toi pour un temps, afin que tu le recouvres pour l’éternité,</ab>
+		<ab n="16">non plus désormais comme un esclave, mais comme (celui qui d’esclave est devenu) un frère bien-aimé, pour moi en particulier, à plus forte raison pour toi, soit dans la chair, soit dans le Seigneur. </ab>
+		<ab n="17">Si donc tu me regardes comme uni à toi, accueille-le comme moi-même ; </ab>
+		<ab n="18">et s’il t’a fait quelque tort, ou s’il te doit quelque chose, mets-le sur mon compte. </ab>
+		<ab n="19">Moi, Paul, je t’écris de ma propre main : je te le rendrai, pour ne pas te dire que tu te dois toi-même à moi.</ab>
+		<ab n="20">Oui, frère, que je reçoive de toi cette joie dans le Seigneur ; tranquillise mon cœur dans le Seigneur. </ab>
+		<ab n="21">C’est en comptant sur ton obéissance que je t’écris, sachant que tu feras encore plus que je ne dis. </ab>
+		<ab n="22">En même temps, prépare-moi un logement ; car j’espère vous être rendu, grâce à vos prières.</ab>
+		<ab n="23">Epaphras, mon compagnon de captivité dans le Christ Jésus, te salue, </ab>
+		<ab n="24">ainsi que Marc, Aristarque, Démas et Luc, mes collaborateurs. </ab>
+		<ab n="25">Que la grâce de Notre Seigneur Jésus-Christ soit avec votre esprit. Amen.</ab>
+	</div>
 </div>
